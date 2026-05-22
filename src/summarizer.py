@@ -1,0 +1,750 @@
+from __future__ import annotations
+
+import json
+import re
+import time
+from functools import lru_cache
+from itertools import islice
+
+from openai import OpenAI
+
+from .categorizer import categorize_summary
+from .config import Settings
+from .models import Article, ArticleSummary
+
+HIGH_RISK_MARKERS = {
+    "recession",
+    "crash",
+    "plunge",
+    "暴跌",
+    "崩盘",
+    "default",
+    "债务违约",
+    "bank run",
+    "挤兑",
+    "hyperinflation",
+    "恶性通胀",
+    "bear market",
+    "熊市",
+}
+MEDIUM_RISK_MARKERS = {
+    "slowdown",
+    "downturn",
+    "放缓",
+    "下滑",
+    "correction",
+    "回调",
+    "volatility",
+    "波动",
+    "layoff",
+    "裁员",
+    "紧缩",
+    "tightening",
+    "制裁",
+    "sanction",
+    "tariff",
+    "关税",
+    "trade war",
+    "贸易战",
+}
+
+
+def summarize_articles(
+    articles: list[Article],
+    settings: Settings,
+) -> list[ArticleSummary]:
+    if not articles:
+        return []
+
+    if not settings.llm_enabled:
+        return [_build_fallback_summary(article, settings) for article in articles]
+
+    summaries: list[ArticleSummary] = []
+    batch_size = max(1, settings.llm_batch_size)
+    total_batches = (len(articles) + batch_size - 1) // batch_size
+
+    for batch_index, batch in enumerate(_chunked(articles, batch_size), start=1):
+        print(
+            f"Running LLM batch {batch_index}/{total_batches} "
+            f"for {len(batch)} articles..."
+        )
+        summaries.extend(_summarize_batch_with_resilience(batch, settings))
+
+    return summaries
+
+
+def summarize_article(article: Article, settings: Settings) -> ArticleSummary:
+    summaries = summarize_articles([article], settings)
+    if not summaries:
+        raise RuntimeError(f"Failed to summarize article: {article.link}")
+    return summaries[0]
+
+
+def backfill_title_fields(items: list[dict], settings: Settings) -> list[dict]:
+    if not items or not settings.llm_enabled:
+        return items
+
+    pending_items = [
+        (str(index), item)
+        for index, item in enumerate(items, start=1)
+        if _needs_title_backfill(item)
+    ]
+    if not pending_items:
+        return items
+
+    print(f"[llm] Backfilling Chinese titles for {len(pending_items)} existing items.")
+
+    for batch in _chunked(pending_items, max(1, settings.llm_batch_size)):
+        client = _get_client(settings.llm_api_key or "", settings.llm_base_url, tuple(sorted(settings.llm_default_headers.items())))
+        payload_items = [
+            {
+                "id": item_id,
+                "title": str(item.get("title") or ""),
+                "summary": str(item.get("summary") or ""),
+                "important_points": item.get("important_points") or [],
+                "source": str(item.get("source") or ""),
+            }
+            for item_id, item in batch
+        ]
+        try:
+            response = _chat_complete(
+                client,
+                settings,
+                [
+                    {
+                    "role": "system",
+                    "content": (
+                        "You translate financial news headlines into concise Simplified Chinese. "
+                        'Return one JSON object only with schema: {"items": [{"id": string, "title_zh": string}]}.'
+                    ),
+                    },
+                    {
+                    "role": "user",
+                    "content": (
+                        "请根据下面每条资讯的原标题、摘要和要点，为每条生成简洁自然的中文标题。"
+                        "必须返回每个 id 对应的 title_zh。"
+                        "公司、机构、产品名称可以保留英文。\n\n"
+                            f"{json.dumps(payload_items, ensure_ascii=False)}"
+                        ),
+                    },
+                ],
+                temperature=0.1,
+            )
+            batch_payload = _parse_json_payload(response.choices[0].message.content or "")
+            raw_items = batch_payload.get("items")
+            if not isinstance(raw_items, list):
+                for _, item in batch:
+                    if not item.get("title_zh"):
+                        item["title_zh"] = _fallback_title_from_existing_item(item)
+                continue
+        except Exception as exc:
+            print(f"[llm] Backfill batch failed: {exc}")
+            for _, item in batch:
+                if not item.get("title_zh"):
+                    item["title_zh"] = _fallback_title_from_existing_item(item)
+            continue
+
+        translated_map: dict[str, str] = {}
+        for raw_item in raw_items:
+            if not isinstance(raw_item, dict):
+                continue
+            item_id = str(raw_item.get("id") or "").strip()
+            title_zh = _prefer_chinese_title(
+                _normalize_title_zh(raw_item.get("title_zh")),
+                "",
+            )
+            if item_id and title_zh:
+                translated_map[item_id] = title_zh
+
+        for item_id, item in batch:
+            translated_title = translated_map.get(item_id)
+            if translated_title:
+                item["title_zh"] = translated_title
+            elif not item.get("title_zh"):
+                item["title_zh"] = _fallback_title_from_existing_item(item)
+
+    return items
+
+
+def _summarize_batch_with_resilience(
+    articles: list[Article],
+    settings: Settings,
+) -> list[ArticleSummary]:
+    llm_results: dict[str, ArticleSummary] = {}
+
+    try:
+        llm_results = _summarize_batch_with_llm(articles, settings)
+    except Exception as exc:
+        print(f"Batch LLM summary failed for {len(articles)} articles | {exc}")
+
+    summaries: list[ArticleSummary] = []
+    for article in articles:
+        summary = llm_results.get(article.canonical_link)
+        if summary is None:
+            summary = _summarize_single_with_resilience(article, settings)
+        summaries.append(summary)
+
+    batch_llm_count = sum(1 for summary in summaries if not summary.used_fallback)
+    print(
+        f"Completed batch: {batch_llm_count}/{len(summaries)} via LLM, "
+        f"{len(summaries) - batch_llm_count} via fallback."
+    )
+
+    return summaries
+
+
+def _summarize_single_with_resilience(
+    article: Article,
+    settings: Settings,
+) -> ArticleSummary:
+    if settings.llm_enabled:
+        try:
+            return _summarize_with_llm(article, settings)
+        except Exception as exc:
+            print(f"Single article LLM summary failed: {article.link} | {exc}")
+            if not settings.allow_fallback_summary:
+                raise RuntimeError(
+                    f"LLM summary failed for {article.link}: {exc}"
+                ) from exc
+
+    if not settings.allow_fallback_summary:
+        raise RuntimeError("LLM credentials are missing and fallback summary is disabled.")
+    return _build_fallback_summary(article, settings)
+
+
+@lru_cache(maxsize=1)
+def _get_client(api_key: str, base_url: str, default_headers_items: tuple[tuple[str, str], ...] = ()) -> OpenAI:
+    return OpenAI(
+        api_key=api_key,
+        base_url=base_url,
+        default_headers=dict(default_headers_items) or None,
+    )
+
+
+def _summarize_batch_with_llm(
+    articles: list[Article],
+    settings: Settings,
+) -> dict[str, ArticleSummary]:
+    client = _get_client(settings.llm_api_key or "", settings.llm_base_url, tuple(sorted(settings.llm_default_headers.items())))
+    article_lookup = {
+        str(index): article
+        for index, article in enumerate(articles, start=1)
+    }
+
+    print(f"[llm] Sending batch request for {len(articles)} articles.")
+    response = _chat_complete(
+        client,
+        settings,
+        [
+            {
+                "role": "system",
+                "content": (
+                    "You are a financial analyst. "
+                    "Return one JSON object only. "
+                    'Schema: {"items": [{"id": string, "title_zh": string, "summary": string, '
+                    '"risk_level": "高|中|低", "keywords": string[], '
+                    '"important_points": string[]}]}. '
+                    "Use Simplified Chinese for all explanatory text. "
+                    "If the source article is in English, translate key facts first and then summarize in Chinese. "
+                    "Always produce a concise Chinese headline in title_zh. "
+                    "Return exactly one item for each input article id. "
+                    "Do not wrap JSON in markdown."
+                ),
+            },
+            {
+                "role": "user",
+                "content": _build_batch_prompt(article_lookup, settings),
+            },
+        ],
+        temperature=0.2,
+        is_batch=True,
+    )
+    print(f"[llm] Batch response received for {len(articles)} articles.")
+    payload = _parse_json_payload(response.choices[0].message.content or "")
+    raw_items = payload.get("items")
+    if not isinstance(raw_items, list):
+        raise ValueError("Batch LLM payload missing items array.")
+
+    results: dict[str, ArticleSummary] = {}
+    for raw_item in raw_items:
+        if not isinstance(raw_item, dict):
+            continue
+
+        article_id = str(raw_item.get("id") or "").strip()
+        article = article_lookup.get(article_id)
+        if article is None:
+            continue
+
+        normalized_payload = _normalize_payload(raw_item)
+        normalized_payload = _ensure_chinese_payload(client, settings, normalized_payload)
+        results[article.canonical_link] = _build_article_summary(article, normalized_payload, used_fallback=False)
+
+    return results
+
+
+def _summarize_with_llm(article: Article, settings: Settings) -> ArticleSummary:
+    client = _get_client(settings.llm_api_key or "", settings.llm_base_url, tuple(sorted(settings.llm_default_headers.items())))
+    print(f"[llm] Sending single-article retry for: {article.title}")
+    response = _chat_complete(
+        client,
+        settings,
+        [
+            {
+                "role": "system",
+                "content": (
+                    "You are a financial analyst. "
+                    "Return one JSON object only. "
+                    'Schema: {"title_zh": string, "summary": string, "risk_level": "高|中|低", '
+                    '"keywords": string[], "important_points": string[]}. '
+                    "Use Simplified Chinese for all explanatory text. "
+                    "If the source article is in English, translate the key facts first and then summarize in Chinese. "
+                    "Always produce a concise Chinese headline in title_zh. "
+                    "Keep company names and standard financial terms in English when appropriate. "
+                    "Do not wrap JSON in markdown."
+                ),
+            },
+            {
+                "role": "user",
+                "content": _build_single_prompt(article, settings),
+            },
+        ],
+        temperature=0.2,
+        is_batch=False,
+    )
+    print(f"[llm] Single-article response received for: {article.title}")
+    payload = _parse_json_payload(response.choices[0].message.content or "")
+    normalized_payload = _normalize_payload(payload)
+    normalized_payload = _ensure_chinese_payload(client, settings, normalized_payload)
+    return _build_article_summary(article, normalized_payload, used_fallback=False)
+
+
+def _build_batch_prompt(
+    article_lookup: dict[str, Article],
+    settings: Settings,
+) -> str:
+    items = []
+    for article_id, article in article_lookup.items():
+        items.append(
+            {
+                "id": article_id,
+                "title": article.title,
+                "source": article.source,
+                "published_at": article.published_at or "Unknown",
+                "focus_keywords": article.matched_focus_keywords,
+                "content_excerpt": _compact_article_text(article, settings),
+            }
+        )
+
+    return (
+        "请批量处理下面这些金融财经资讯，输出严格 JSON，不要输出其他说明。\n\n"
+        "要求：\n"
+        "1. items 中每个对象必须对应一个输入 id，不能遗漏。\n"
+        "2. title_zh 必须是简洁自然的中文标题。\n"
+        "3. summary 为 2-4 句中文摘要，突出市场影响、数据变化和趋势判断。\n"
+        "4. 如果原文是英文，先翻译关键信息，再输出简体中文。\n"
+        "5. keywords 输出 3-5 个关键词，尽量中文化。\n"
+        "6. important_points 输出 2-3 条中文要点，包含关键数据。\n"
+        "7. 不要编造信息，不确定就写信息有限。\n\n"
+        f"{json.dumps(items, ensure_ascii=False)}"
+    )
+
+
+def _build_single_prompt(article: Article, settings: Settings) -> str:
+    return f"""
+请为下面这篇金融财经资讯生成中文摘要，输出严格 JSON，不要输出其他说明。
+
+要求：
+1. title_zh 必须是简洁自然的中文标题。
+2. summary 为 3-5 句中文摘要，突出市场影响、数据变化和趋势判断。
+3. risk_level 只能是 高 / 中 / 低。
+4. 如果原文是英文，先理解并翻译关键信息，再输出中文摘要。
+5. keywords 输出 3-5 个关键词，尽量使用中文；公司、机构名称可以保留英文。
+6. important_points 输出 2-4 条要点，每条一句话，尽量使用中文，包含关键数据。
+7. 如出现英文句子或英文要点，需要先转成简体中文再输出。
+8. 不要编造文章中没有出现的事实；信息不足时明确说明信息有限。
+
+文章元数据：
+标题: {article.title}
+来源: {article.source}
+发布时间: {article.published_at or "Unknown"}
+命中关注词: {", ".join(article.matched_focus_keywords) or "无"}
+链接: {article.link}
+
+文章内容：
+{_compact_article_text(article, settings)}
+""".strip()
+
+
+def _compact_article_text(article: Article, settings: Settings) -> str:
+    text = article.content or article.summary_hint or article.title
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[: settings.max_llm_input_chars_per_article]
+
+
+def _parse_json_payload(raw_text: str) -> dict:
+    cleaned = raw_text.strip()
+    fenced_match = re.search(r"```(?:json)?\s*(\{.*\})\s*```", cleaned, re.DOTALL)
+    if fenced_match:
+        cleaned = fenced_match.group(1)
+
+    object_match = re.search(r"\{.*\}", cleaned, re.DOTALL)
+    if object_match:
+        cleaned = object_match.group(0)
+
+    payload = json.loads(cleaned)
+    if not isinstance(payload, dict):
+        raise ValueError("LLM payload is not a JSON object.")
+    return payload
+
+
+def _normalize_payload(payload: dict) -> dict:
+    return {
+        "title_zh": _normalize_title_zh(payload.get("title_zh")),
+        "summary": _normalize_summary(payload.get("summary")),
+        "risk_level": _normalize_risk_level(payload.get("risk_level")),
+        "keywords": _normalize_keywords(payload.get("keywords")),
+        "important_points": _normalize_points(payload.get("important_points")),
+    }
+
+
+def _normalize_risk_level(value: object) -> str:
+    text = str(value or "").strip()
+    if text in {"高", "中", "低"}:
+        return text
+    return "中"
+
+
+def _normalize_keywords(value: object) -> list[str]:
+    if not isinstance(value, list):
+        return []
+
+    keywords: list[str] = []
+    for item in value:
+        keyword = str(item).strip()
+        if keyword and keyword not in keywords:
+            keywords.append(keyword)
+    return keywords[:5]
+
+
+def _normalize_title_zh(value: object) -> str:
+    return str(value or "").strip()
+
+
+def _normalize_summary(value: object) -> str:
+    summary = str(value or "").strip()
+    if not summary:
+        return "摘要生成失败。"
+    return summary
+
+
+def _normalize_points(value: object) -> list[str]:
+    if not isinstance(value, list):
+        return []
+
+    points: list[str] = []
+    for item in value:
+        point = str(item).strip()
+        if point and point not in points:
+            points.append(point)
+    return points[:4]
+
+
+def _build_article_summary(
+    article: Article,
+    payload: dict,
+    used_fallback: bool,
+) -> ArticleSummary:
+    summary = ArticleSummary(
+        source=article.source,
+        title=article.title,
+        title_zh=_prefer_chinese_title(
+            _normalize_title_zh(payload.get("title_zh")),
+            article.title,
+        ),
+        link=article.link,
+        canonical_link=article.canonical_link,
+        published_at=article.published_at,
+        category="",
+        risk_level=_normalize_risk_level(payload.get("risk_level")),
+        keywords=_normalize_keywords(payload.get("keywords")),
+        summary=_normalize_summary(payload.get("summary")),
+        important_points=_normalize_points(payload.get("important_points")),
+        used_fallback=used_fallback,
+        matched_focus_keywords=article.matched_focus_keywords,
+    )
+    summary.category = categorize_summary(summary)
+    return summary
+
+
+def _build_fallback_summary(article: Article, settings: Settings) -> ArticleSummary:
+    text = article.content or article.summary_hint or article.title
+    points = _extract_points(text)
+    summary = (
+        "未调用大模型，以下为原文关键信息摘录："
+        + ("；".join(points[:3]) or "未能从原文中提取足够内容，请检查源站是否可访问。")
+    )
+
+    return _build_article_summary(
+        article,
+        {
+            "title_zh": _fallback_title_zh(article, settings),
+            "risk_level": _infer_risk_level(text),
+            "keywords": _guess_keywords(article),
+            "summary": summary,
+            "important_points": points[:3] or [article.title],
+        },
+        used_fallback=True,
+    )
+
+
+def _ensure_chinese_payload(
+    client: OpenAI,
+    settings: Settings,
+    payload: dict,
+) -> dict:
+    if _payload_is_mostly_chinese(payload):
+        return payload
+
+    print("[llm] Rewriting payload to Simplified Chinese.")
+    rewrite_response = _chat_complete(
+        client,
+        settings,
+        [
+            {
+                "role": "system",
+                "content": (
+                    "You rewrite financial news summaries into Simplified Chinese. "
+                    "Return one JSON object only and keep the same schema."
+                ),
+            },
+            {
+                "role": "user",
+                "content": (
+                    "把下面 JSON 中所有说明性文本改写为简体中文。"
+                    "title_zh 也必须是中文标题。"
+                    "公司、机构、产品名称可以保留英文。"
+                    "keywords 和 important_points 也要尽量中文化。\n\n"
+                    f"{json.dumps(payload, ensure_ascii=False)}"
+                ),
+            },
+        ],
+        temperature=0.1,
+    )
+    print("[llm] Chinese rewrite response received.")
+    rewrite_message = rewrite_response.choices[0].message.content or ""
+    rewritten_payload = _normalize_payload(_parse_json_payload(rewrite_message))
+    if _payload_is_mostly_chinese(rewritten_payload):
+        return rewritten_payload
+    return payload
+
+
+def _payload_is_mostly_chinese(payload: dict) -> bool:
+    parts = [
+        str(payload.get("title_zh") or ""),
+        str(payload.get("summary") or ""),
+        *[str(item) for item in payload.get("important_points") or []],
+        *[str(item) for item in payload.get("keywords") or []],
+    ]
+    combined = " ".join(part for part in parts if part.strip())
+    if not combined:
+        return False
+
+    chinese_chars = len(re.findall(r"[\u4e00-\u9fff]", combined))
+    english_chars = len(re.findall(r"[A-Za-z]", combined))
+    return chinese_chars > 0 and chinese_chars >= max(12, english_chars // 2)
+
+
+def _extract_points(text: str) -> list[str]:
+    normalized = re.sub(r"\s+", " ", text).strip()
+    chunks = re.split(r"(?<=[。！？.!?])\s+", normalized)
+    points = [chunk.strip(" -") for chunk in chunks if chunk.strip()]
+    return points[:4]
+
+
+def _infer_risk_level(text: str) -> str:
+    lowered = text.lower()
+    if any(marker in lowered for marker in HIGH_RISK_MARKERS):
+        return "高"
+    if any(marker in lowered for marker in MEDIUM_RISK_MARKERS):
+        return "中"
+    return "低"
+
+
+def _guess_keywords(article: Article) -> list[str]:
+    keywords = list(article.matched_focus_keywords)
+    candidates = re.findall(r"[A-Za-z0-9][A-Za-z0-9._-]{2,}", article.title)
+    for candidate in candidates:
+        if candidate not in keywords:
+            keywords.append(candidate)
+    if article.source not in keywords:
+        keywords.append(article.source)
+    return keywords[:5]
+
+
+def _prefer_chinese_title(title_zh: str, original_title: str) -> str:
+    if _looks_mostly_chinese(title_zh):
+        return title_zh
+    if _looks_mostly_chinese(original_title):
+        return original_title.strip()
+    return title_zh or original_title
+
+
+def _looks_mostly_chinese(text: str) -> bool:
+    candidate = str(text or "").strip()
+    if not candidate:
+        return False
+    chinese_chars = len(re.findall(r"[\u4e00-\u9fff]", candidate))
+    english_chars = len(re.findall(r"[A-Za-z]", candidate))
+    return chinese_chars > 0 and chinese_chars >= max(2, english_chars // 2)
+
+
+def _fallback_title_zh(article: Article, settings: Settings) -> str:
+    if _looks_mostly_chinese(article.title):
+        return article.title
+    if not settings.llm_enabled:
+        return article.title
+
+    try:
+        client = _get_client(settings.llm_api_key or "", settings.llm_base_url, tuple(sorted(settings.llm_default_headers.items())))
+        print(f"[llm] Translating fallback title: {article.title}")
+        response = _chat_complete(
+            client,
+            settings,
+            [
+                {
+                    "role": "system",
+                    "content": (
+                        "You translate financial news headlines into concise Simplified Chinese. "
+                        'Return one JSON object only with schema: {"title_zh": string}.'
+                    ),
+                },
+                {
+                    "role": "user",
+                    "content": (
+                        "把这个财经资讯标题翻译成简洁自然的简体中文。"
+                        "公司、机构、产品名称可以保留英文。\n\n"
+                        f"{article.title}"
+                    ),
+                },
+            ],
+            temperature=0.1,
+        )
+        payload = _parse_json_payload(response.choices[0].message.content or "")
+        translated_title = _normalize_title_zh(payload.get("title_zh"))
+        if translated_title:
+            return translated_title
+    except Exception as exc:
+        print(f"[llm] Fallback title translation failed: {article.title} | {exc}")
+
+    return article.title
+
+
+def _needs_title_backfill(item: dict) -> bool:
+    current_title_zh = str(item.get("title_zh") or "").strip()
+    if _looks_mostly_chinese(current_title_zh):
+        return False
+
+    original_title = str(item.get("title") or "").strip()
+    return bool(original_title) and not _looks_mostly_chinese(original_title)
+
+
+def _fallback_title_from_existing_item(item: dict) -> str:
+    title_zh = str(item.get("title_zh") or "").strip()
+    if _looks_mostly_chinese(title_zh):
+        return title_zh
+
+    original_title = str(item.get("title") or "").strip()
+    if _looks_mostly_chinese(original_title):
+        return original_title
+
+    summary = str(item.get("summary") or "").strip()
+    if _looks_mostly_chinese(summary):
+        sentence = re.split(r"[。！？!?；;\n]", summary)[0].strip(" ：:-")
+        if 6 <= len(sentence) <= 28:
+            return sentence
+
+    important_points = item.get("important_points") or []
+    for point in important_points:
+        text = str(point).strip()
+        if _looks_mostly_chinese(text):
+            snippet = re.split(r"[。！？!?；;\n]", text)[0].strip(" ：:-")
+            if 6 <= len(snippet) <= 28:
+                return snippet
+
+    return original_title
+
+
+def _chunked(items: list[Article], size: int) -> list[list[Article]]:
+    iterator = iter(items)
+    chunks: list[list[Article]] = []
+    while True:
+        chunk = list(islice(iterator, size))
+        if not chunk:
+            break
+        chunks.append(chunk)
+    return chunks
+
+
+def _chat_complete(
+    client: OpenAI,
+    settings: Settings,
+    messages: list[dict[str, str]],
+    temperature: float,
+    is_batch: bool = False,
+):
+    import random
+    from openai import APITimeoutError, APIConnectionError, RateLimitError, APIStatusError
+
+    # Calculate timeout: batch requests need more time
+    base_timeout = max(60, settings.request_timeout_seconds * 3)
+    if is_batch:
+        timeout = base_timeout * settings.llm_batch_timeout_multiplier
+    else:
+        timeout = base_timeout
+
+    attempts = max(1, settings.llm_retry_count + 1)
+    last_error: Exception | None = None
+
+    for attempt in range(1, attempts + 1):
+        try:
+            print(f"[llm] Request attempt {attempt}/{attempts} (timeout={timeout:.0f}s)")
+            return client.chat.completions.create(
+                model=settings.llm_model,
+                temperature=temperature,
+                messages=messages,
+                timeout=timeout,
+            )
+        except (APITimeoutError, APIConnectionError) as exc:
+            last_error = exc
+            print(f"[llm] Request attempt {attempt} failed (timeout/connection): {exc}")
+            if attempt >= attempts:
+                break
+            # Exponential backoff with jitter for timeout/connection errors
+            delay = (2 ** attempt) + random.uniform(0, 1)
+            time.sleep(delay)
+        except RateLimitError as exc:
+            last_error = exc
+            print(f"[llm] Request attempt {attempt} failed (rate limit): {exc}")
+            if attempt >= attempts:
+                break
+            # Longer backoff for rate limits
+            time.sleep(5 * attempt)
+        except APIStatusError as exc:
+            last_error = exc
+            if exc.status_code >= 500:
+                print(f"[llm] Request attempt {attempt} failed (server error {exc.status_code}): {exc}")
+                if attempt >= attempts:
+                    break
+                time.sleep(min(2 * attempt, 6))
+            else:
+                # 4xx errors should not retry
+                print(f"[llm] Request attempt {attempt} failed (client error {exc.status_code}): {exc}")
+                break
+        except Exception as exc:
+            last_error = exc
+            print(f"[llm] Request attempt {attempt} failed (unknown): {exc}")
+            if attempt >= attempts:
+                break
+            time.sleep(min(2 * attempt, 6))
+
+    raise RuntimeError(f"LLM request failed after {attempts} attempts: {last_error}")
