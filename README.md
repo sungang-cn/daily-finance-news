@@ -77,7 +77,7 @@ Daily Financial News
 - `LLM_BASE_URL`：`https://openrouter.ai/api/v1`
 - `LLM_MODEL`：例如 `google/gemini-2.0-flash-exp:free`、`mistralai/mistral-7b-instruct:free`
 - `OPENROUTER_REFERER`：你的 GitHub 仓库 URL（可选但推荐）
-- `OPENROUTER_TITLE`：`Daily Security News`（可选但推荐）
+- `OPENROUTER_TITLE`：`Daily Financial News`（可选但推荐）
 
 ## 工作流说明
 
@@ -152,14 +152,14 @@ python -m src.main
   "count": 2,
   "items": [
     {
-      "source": "The Hacker News",
+      "source": "CNBC",
       "title": "Example title",
       "link": "https://example.com/article",
       "canonical_link": "https://example.com/article",
       "published_at": "2026-03-27T00:01:00+00:00",
-      "category": "终端安全与EDR/XDR",
+      "category": "宏观经济",
       "risk_level": "高",
-      "keywords": ["勒索软件", "漏洞利用", "补丁"],
+      "keywords": ["利率", "通胀", "GDP"],
       "summary": "中文摘要",
       "important_points": ["要点 1", "要点 2"],
       "used_fallback": false,

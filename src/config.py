@@ -62,18 +62,6 @@ DEFAULT_FOCUS_KEYWORDS = [
     "recession",
     "衰退",
 ]
-DEFAULT_BLACKLIST_KEYWORDS = [
-    "cve",
-    "cve-",
-    "ransomware",
-    "malware",
-    "vulnerability",
-    "0day",
-    "zero-day",
-    "botnet",
-    "apt",
-]
-
 
 def _read_bool(name: str, default: bool) -> bool:
     raw_value = os.getenv(name)

@@ -1,2 +1,2 @@
-"""Daily Security News package."""
+"""Daily Financial News package."""
 
