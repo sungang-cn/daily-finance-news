@@ -1,8 +1,220 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T11:28:53+08:00",
-  "count": 50,
+  "generated_at": "2026-05-25T13:21:11+08:00",
+  "count": 100,
   "items": [
+    {
+      "source": "Seeking Alpha",
+      "title": "EROAD Limited (ERDLF) Q4 2026 Earnings Call Transcript",
+      "title_zh": "EROAD Limited (ERDLF) Q4 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4908432-eroad-limited-erdlf-q4-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908432-eroad-limited-erdlf-q4-2026-earnings-call-transcript",
+      "published_at": "2026-05-25T04:27:28+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "EROAD",
+        "Limited",
+        "ERDLF",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：EROAD Limited (ERDLF) Q4 2026 Earnings Call Transcript",
+      "important_points": [
+        "EROAD Limited (ERDLF) Q4 2026 Earnings Call Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "SaltLight Capital Q1 2026 Co-Investor Letter",
+      "title_zh": "SaltLight Capital Q1 2026 Co-Investor Letter",
+      "link": "https://seekingalpha.com/article/4908430-saltlight-capital-q1-2026-co-investor-letter?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908430-saltlight-capital-q1-2026-co-investor-letter",
+      "published_at": "2026-05-25T04:25:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "SaltLight",
+        "Capital",
+        "2026",
+        "Co-Investor",
+        "Letter"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：SaltLight Capital Q1 2026 Co-Investor Letter",
+      "important_points": [
+        "SaltLight Capital Q1 2026 Co-Investor Letter"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Long Cast Advisers Q1 2026 Letter",
+      "title_zh": "Long Cast Advisers Q1 2026 Letter",
+      "link": "https://seekingalpha.com/article/4908427-long-cast-advisers-q1-2026-letter?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908427-long-cast-advisers-q1-2026-letter",
+      "published_at": "2026-05-25T03:50:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Long",
+        "Cast",
+        "Advisers",
+        "2026",
+        "Letter"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Long Cast Advisers Q1 2026 Letter",
+      "important_points": [
+        "Long Cast Advisers Q1 2026 Letter"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "EIC Seeking Higher Rates To Support Floating-Rate Debt Investments",
+      "title_zh": "EIC Seeking Higher Rates To Support Floating-Rate Debt Investments",
+      "link": "https://seekingalpha.com/article/4908421-eic-seeking-higher-rates-to-support-floating-rate-debt-investments-maintain-hold?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908421-eic-seeking-higher-rates-to-support-floating-rate-debt-investments-maintain-hold",
+      "published_at": "2026-05-25T03:11:31+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "EIC",
+        "Seeking",
+        "Higher",
+        "Rates",
+        "Support"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：EIC Seeking Higher Rates To Support Floating-Rate Debt Investments",
+      "important_points": [
+        "EIC Seeking Higher Rates To Support Floating-Rate Debt Investments"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there’s no rush",
+      "title_zh": "油价跌跳，伊朗战争和海峡协议进展近期",
+      "link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+      "published_at": "2026-05-25T03:05:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "中",
+      "keywords": [
+        "公司",
+        "机构",
+        "市场",
+        "数据",
+        "趋势"
+      ],
+      "summary": "市场反应强烈，油价大幅下跌，显示投资者对伊朗冲突解决及霍尔木兹海峡影响。数据显示交易量有明显变化。分析表明风险等级为中。关键趋势是机构关注协议进展。",
+      "important_points": [
+        "交易量大幅波动，反映市场信心变化。",
+        "数据显示油价下跌幅显著，影响投资决策。",
+        "分析认为风险等级中，需关注协议细节。",
+        "机构关注霍尔木兹海峡通道的战略意义。"
+      ],
+      "used_fallback": false,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Occidental Petroleum: Preferred Stock Time",
+      "title_zh": "Occidental Petroleum: Preferred Stock Time",
+      "link": "https://seekingalpha.com/article/4908417-occidental-petroleum-preferred-stock-time?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908417-occidental-petroleum-preferred-stock-time",
+      "published_at": "2026-05-25T02:45:00+00:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "Occidental",
+        "Petroleum",
+        "Preferred",
+        "Stock",
+        "Time"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Occidental Petroleum: Preferred Stock Time",
+      "important_points": [
+        "Occidental Petroleum: Preferred Stock Time"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Figma: Expansion Trends Boost My Confidence (Rating Upgrade)",
+      "title_zh": "Figma: Expansion Trends Boost My Confidence (Rating Upgrade)",
+      "link": "https://seekingalpha.com/article/4908416-figma-expansion-trends-boost-my-confidence-upgrade?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908416-figma-expansion-trends-boost-my-confidence-upgrade",
+      "published_at": "2026-05-25T02:44:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Figma",
+        "Expansion",
+        "Trends",
+        "Boost",
+        "Confidence"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Figma: Expansion Trends Boost My Confidence (Rating Upgrade)",
+      "important_points": [
+        "Figma: Expansion Trends Boost My Confidence (Rating Upgrade)"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Hyster-Yale Offers Opportunity, But Challenges Remain",
+      "title_zh": "Hyster-Yale Offers Opportunity, But Challenges Remain",
+      "link": "https://seekingalpha.com/article/4908414-hyster-yale-offers-opportunity-but-challenges-remain?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908414-hyster-yale-offers-opportunity-but-challenges-remain",
+      "published_at": "2026-05-25T02:30:20+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Hyster-Yale",
+        "Offers",
+        "Opportunity",
+        "But",
+        "Challenges"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Hyster-Yale Offers Opportunity, But Challenges Remain",
+      "important_points": [
+        "Hyster-Yale Offers Opportunity, But Challenges Remain"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "GREK: Stealthy YTD Gains Likely To Continue, Eyes On Banks",
+      "title_zh": "GREK: Stealthy YTD Gains Likely To Continue, Eyes On Banks",
+      "link": "https://seekingalpha.com/article/4908412-grek-stealthy-ytd-gains-likely-to-continue-eyes-on-banks?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908412-grek-stealthy-ytd-gains-likely-to-continue-eyes-on-banks",
+      "published_at": "2026-05-25T02:29:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "GREK",
+        "Stealthy",
+        "YTD",
+        "Gains",
+        "Likely"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：GREK: Stealthy YTD Gains Likely To Continue, Eyes On Banks",
+      "important_points": [
+        "GREK: Stealthy YTD Gains Likely To Continue, Eyes On Banks"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
     {
       "source": "Seeking Alpha",
       "title": "Aida Engineering, Ltd. 2026 Q4 - Results - Earnings Call Presentation",
@@ -82,6 +294,244 @@
       "matched_focus_keywords": [
         "earnings"
       ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Argosy Investors Q1 2026 Letter",
+      "title_zh": "Argosy Investors Q1 2026 Letter",
+      "link": "https://seekingalpha.com/article/4908433-argosy-investors-q1-2026-letter?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908433-argosy-investors-q1-2026-letter",
+      "published_at": "2026-05-25T00:30:00-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "stock market",
+        "earnings",
+        "Argosy",
+        "Investors",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Dear Investors, AI is certainly changing the investment landscape, and I'm increasingly bullish on its uses in financial research and white collar work more generally.；There is a huge amount of interest in anything AI-related and the portfolio has been frustratingly devoid of any notable beneficiaries, and recent purchases have felt more like catching a falling knife with no end in sight.；There is so much capital chasing the AI capex boom that it feels like otherwise strong companies are being sold to fund the grand ambitions of the AI supercycle.",
+      "important_points": [
+        "Dear Investors, AI is certainly changing the investment landscape, and I'm increasingly bullish on its uses in financial research and white collar work more generally.",
+        "There is a huge amount of interest in anything AI-related and the portfolio has been frustratingly devoid of any notable beneficiaries, and recent purchases have felt more like catching a falling knife with no end in sight.",
+        "There is so much capital chasing the AI capex boom that it feels like otherwise strong companies are being sold to fund the grand ambitions of the AI supercycle."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "stock market",
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Navios Maritime: Trading Far Below NAV While Also Growing Organically (NYSE:NMM)",
+      "title_zh": "Navios Maritime: Trading Far Below NAV While Also Growing Organically (NYSE:NMM)",
+      "link": "https://seekingalpha.com/article/4908426-navios-maritime-trading-q1-far-below-nav-whilst-also-growing-organically?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908426-navios-maritime-trading-q1-far-below-nav-whilst-also-growing-organically",
+      "published_at": "2026-05-25T00:28:34-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "Navios",
+        "Maritime",
+        "Trading",
+        "Far",
+        "Below"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Investment Thesis Anyone whoâs followed me knows that I am long-term bullish on the shipping industry.；With the main reasons being that there is a structural uptrend here for charter rates, which all really stems from a Anyone whoâs followed me knows that I am long-term bullish on the shipping industry.；With the main reasons being that there is a structural uptrend here for charter rates, which all really stems from a Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.",
+      "important_points": [
+        "Investment Thesis Anyone whoâs followed me knows that I am long-term bullish on the shipping industry.",
+        "With the main reasons being that there is a structural uptrend here for charter rates, which all really stems from a Anyone whoâs followed me knows that I am long-term bullish on the shipping industry.",
+        "With the main reasons being that there is a structural uptrend here for charter rates, which all really stems from a Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Politics And The Markets 05/25/26",
+      "title_zh": "Politics And The Markets 05/25/26",
+      "link": "https://seekingalpha.com/article/4896378-politics-and-the-markets-052526?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4896378-politics-and-the-markets-052526",
+      "published_at": "2026-05-25T00:00:00-04:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Politics",
+        "And",
+        "The",
+        "Markets",
+        "Seeking Alpha"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：This is the forum for daily political discussion on Seeking Alpha.；A new version is published every market day.；Please don't leave political comments on other articles or posts on the site.",
+      "important_points": [
+        "This is the forum for daily political discussion on Seeking Alpha.",
+        "A new version is published every market day.",
+        "Please don't leave political comments on other articles or posts on the site."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "第一财经",
+      "title": "WTI原油期货跌6%",
+      "title_zh": "WTI原油期货跌6%",
+      "link": "https://www.yicai.com/news/103198932.html",
+      "canonical_link": "https://www.yicai.com/news/103198932.html",
+      "published_at": "2026-05-25",
+      "category": "大宗商品",
+      "risk_level": "低",
+      "keywords": [
+        "原油",
+        "WTI",
+        "第一财经"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 中长期美债收益率回落。；美国目前属于10个“第一类拖欠”成员之一。；WTO正准备削减约10%的支出，相关措施包括冻结招聘及裁减短期工作人员。",
+      "important_points": [
+        "{{aisd}} AI生成 免责声明 中长期美债收益率回落。",
+        "美国目前属于10个“第一类拖欠”成员之一。",
+        "WTO正准备削减约10%的支出，相关措施包括冻结招聘及裁减短期工作人员。"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "原油"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Japan’s Nikkei 225 tops 65,000 for first time as oil falls on Hormuz reopening hopes",
+      "title_zh": "Japan’s Nikkei 225 tops 65,000 for first time as oil falls on Hormuz reopening hopes",
+      "link": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+      "published_at": "2026-05-24T23:49:55+0000",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "s&p 500",
+        "nasdaq",
+        "dow jones",
+        "Japan",
+        "Nikkei"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Japan's Nikkei 225 breached 65,000 for the first time Monday, hitting a record high in holiday-thinned Asia trading after reports that the crucial Strait of Hormuz may reopen soon pushed oil prices down and lifted investor sentiment.；President Donald Trump said in a Truth Social post that negotiations with Iran were \"proceeding in an orderly and constructive manner,\" adding that he had told his representatives \"not to rush into a deal in that time is on [their] side.\" Oil prices fell more than 5% after Trump's comments, easing pressure on investors.；Prices had climbed sharply after the Trump administration imposed a blockade on Iranian ports and Tehran effectively closed the Strait of Hormuz, one of the world's most important energy waterways.",
+      "important_points": [
+        "Japan's Nikkei 225 breached 65,000 for the first time Monday, hitting a record high in holiday-thinned Asia trading after reports that the crucial Strait of Hormuz may reopen soon pushed oil prices down and lifted investor sentiment.",
+        "President Donald Trump said in a Truth Social post that negotiations with Iran were \"proceeding in an orderly and constructive manner,\" adding that he had told his representatives \"not to rush into a deal in that time is on [their] side.\" Oil prices fell more than 5% after Trump's comments, easing pressure on investors.",
+        "Prices had climbed sharply after the Trump administration imposed a blockade on Iranian ports and Tehran effectively closed the Strait of Hormuz, one of the world's most important energy waterways."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "s&p 500",
+        "nasdaq",
+        "dow jones"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Figma Stock: 46% Growth At A Discount Amidst Software Apocalypse (NYSE:FIG)",
+      "title_zh": "Figma Stock: 46% Growth At A Discount Amidst Software Apocalypse (NYSE:FIG)",
+      "link": "https://seekingalpha.com/article/4908425-figma-46-percent-growth-at-a-discount-amidst-software-apocalypse?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908425-figma-46-percent-growth-at-a-discount-amidst-software-apocalypse",
+      "published_at": "2026-05-24T23:48:00-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "ipo",
+        "Figma",
+        "Stock",
+        "Growth",
+        "Discount"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Figma (FIG) apparently chose the wrong time to IPO.；The stock has been brutally punished amidst a dramatic re-rating lower in the software sector.；The market appears to be fearful of long-term disruption risk from Summary - Figma has defied AI disruption fears, posting 46% YoY revenue growth and accelerating net dollar retention to 139%.",
+      "important_points": [
+        "Figma (FIG) apparently chose the wrong time to IPO.",
+        "The stock has been brutally punished amidst a dramatic re-rating lower in the software sector.",
+        "The market appears to be fearful of long-term disruption risk from Summary - Figma has defied AI disruption fears, posting 46% YoY revenue growth and accelerating net dollar retention to 139%."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "ipo"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Coherent Stock: Wait For Earnings To Catch Up To Valuations (NYSE:COHR)",
+      "title_zh": "Coherent Stock: Wait For Earnings To Catch Up To Valuations (NYSE:COHR)",
+      "link": "https://seekingalpha.com/article/4908424-coherent-wait-for-earnings-to-catch-up-to-valuations?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908424-coherent-wait-for-earnings-to-catch-up-to-valuations",
+      "published_at": "2026-05-24T23:35:00-04:00",
+      "category": "股市",
+      "risk_level": "中",
+      "keywords": [
+        "earnings",
+        "Coherent",
+        "Stock",
+        "Wait",
+        "For"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Coherent is rated a 'Sell' due to overvaluation despite strong AI data center demand and a unique vertically integrated photonics model.；COHR's symbiotic relationship with Nvidia drives premium pricing and robust revenue growth, but current multiples (60x FY26 PE) are unsustainable.；Gross margin and EBITDA expansion are expected from scale and higher-value transceivers, yet the asset-heavy structure and high R&D spend temper margin optimism.",
+      "important_points": [
+        "Summary - Coherent is rated a 'Sell' due to overvaluation despite strong AI data center demand and a unique vertically integrated photonics model.",
+        "COHR's symbiotic relationship with Nvidia drives premium pricing and robust revenue growth, but current multiples (60x FY26 PE) are unsustainable.",
+        "Gross margin and EBITDA expansion are expected from scale and higher-value transceivers, yet the asset-heavy structure and high R&D spend temper margin optimism."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "T. Rowe Price Stock: The 5% Yield Is Attractive, But Challenges Exist (NASDAQ:TROW)",
+      "title_zh": "T. Rowe Price Stock: The 5% Yield Is Attractive, But Challenges Exist (NASDAQ:TROW)",
+      "link": "https://seekingalpha.com/article/4908423-t-rowe-price-the-5-percent-yield-is-attractive-but-challenges-exist?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908423-t-rowe-price-the-5-percent-yield-is-attractive-but-challenges-exist",
+      "published_at": "2026-05-24T23:25:00-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "Rowe",
+        "Price",
+        "Stock",
+        "The"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - T.；Rowe Price is a Dividend Aristocrat with a 39-year streak, strong balance sheet, and a ~5% yield but faces persistent net outflows and fee compression.；I view TROW as a long-term 'hold' due to structural AUM headwinds, recent equity fund underperformance, and ongoing fee pressure despite attractive valuation.",
+      "important_points": [
+        "Summary - T.",
+        "Rowe Price is a Dividend Aristocrat with a 39-year streak, strong balance sheet, and a ~5% yield but faces persistent net outflows and fee compression.",
+        "I view TROW as a long-term 'hold' due to structural AUM headwinds, recent equity fund underperformance, and ongoing fee pressure despite attractive valuation."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "NZF: Aggressive Leverage Limits Appeal (NYSE:NZF)",
+      "title_zh": "NZF: Aggressive Leverage Limits Appeal (NYSE:NZF)",
+      "link": "https://seekingalpha.com/article/4908422-nzf-aggressive-leverage-limits-appeal?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908422-nzf-aggressive-leverage-limits-appeal",
+      "published_at": "2026-05-24T23:14:00-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "NZF",
+        "Aggressive",
+        "Leverage",
+        "Limits",
+        "Appeal"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Overview The Nuveen Municipal Credit Income Fund (NZF) is a closed-end fund that has been designed for investors seeking a high current income, while being protected against federal income taxes.；The fund has a The Nuveen Municipal Credit Income Fund (NZF) is a closed-end fund that has been designed for investors seeking a high current income, while being protected against federal income taxes.；The fund has a Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.",
+      "important_points": [
+        "Overview The Nuveen Municipal Credit Income Fund (NZF) is a closed-end fund that has been designed for investors seeking a high current income, while being protected against federal income taxes.",
+        "The fund has a The Nuveen Municipal Credit Income Fund (NZF) is a closed-end fund that has been designed for investors seeking a high current income, while being protected against federal income taxes.",
+        "The fund has a Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
@@ -193,6 +643,83 @@
       ]
     },
     {
+      "source": "Seeking Alpha",
+      "title": "Innovative Industrial Properties: Dual Beats And Fat Yield From Most Undervalued REIT",
+      "title_zh": "Innovative Industrial Properties: Dual Beats And Fat Yield From Most Undervalued REIT",
+      "link": "https://seekingalpha.com/article/4908419-innovative-industrial-properties-dual-beats-fat-dividend-yield-from-most-undervalued-reit?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908419-innovative-industrial-properties-dual-beats-fat-dividend-yield-from-most-undervalued-reit",
+      "published_at": "2026-05-24T22:59:00-04:00",
+      "category": "综合资讯",
+      "risk_level": "高",
+      "keywords": [
+        "Innovative",
+        "Industrial",
+        "Properties",
+        "Dual",
+        "Beats"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Innovative Industrial Properties (IIPR) is undervalued against a U.S.；landscape for cannabis that's set to support partially enhanced multi-state operator (\"MSO\") profitability following the rescheduling of cannabis from Schedule 1 to 3.；While the broad impact will be Summary - Innovative Industrial Properties is undervalued, trading at 8x 2026 annualized first-quarter NFFO versus peers at 14.37x.",
+      "important_points": [
+        "Innovative Industrial Properties (IIPR) is undervalued against a U.S.",
+        "landscape for cannabis that's set to support partially enhanced multi-state operator (\"MSO\") profitability following the rescheduling of cannabis from Schedule 1 to 3.",
+        "While the broad impact will be Summary - Innovative Industrial Properties is undervalued, trading at 8x 2026 annualized first-quarter NFFO versus peers at 14.37x."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Oil prices fall 5% after Trump says Iran talks proceeding in a 'constructive manner'",
+      "title_zh": "油价下跌5%，伊朗谈判进展",
+      "link": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/oil-price-iran-war-strait-hormuz-trump-peace-talks.html",
+      "published_at": "2026-05-24T22:47:34+0000",
+      "category": "大宗商品",
+      "risk_level": "中",
+      "keywords": [
+        "原油",
+        "市场预期",
+        "石油价格"
+      ],
+      "summary": "原油价格下跌超过4%，反映市场对谈判的乐观态度。美国原油期货下跌5%，国际布伦特指数也下降。",
+      "important_points": [
+        "油价下跌超过4%",
+        "谈判进展顺利",
+        "美国不急于达成协议"
+      ],
+      "used_fallback": false,
+      "matched_focus_keywords": [
+        "crude oil"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Intuitive Machines: A Growth Story That Still Needs To Prove Itself (NASDAQ:LUNR)",
+      "title_zh": "Intuitive Machines: A Growth Story That Still Needs To Prove Itself (NASDAQ:LUNR)",
+      "link": "https://seekingalpha.com/article/4908415-intuitive-machines-q1-growth-story-that-still-needs-to-prove-itself?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908415-intuitive-machines-q1-growth-story-that-still-needs-to-prove-itself",
+      "published_at": "2026-05-24T22:31:11-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "Intuitive",
+        "Machines",
+        "Growth",
+        "Story"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Thesis I consider Intuitive Machines (LUNR) to be a Hold.；The company is undertaking a bold transition from a niche lunar lander business into a broader space infrastructure platform, and its revenues look very attractive.；I consider Intuitive Machines (LUNR) to be a Hold.",
+      "important_points": [
+        "Thesis I consider Intuitive Machines (LUNR) to be a Hold.",
+        "The company is undertaking a bold transition from a niche lunar lander business into a broader space infrastructure platform, and its revenues look very attractive.",
+        "I consider Intuitive Machines (LUNR) to be a Hold."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq"
+      ]
+    },
+    {
       "source": "MarketWatch",
       "title": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
       "title_zh": "Stocks are riding an earnings hot streak — but investors are facing a summer that’s rife with risks",
@@ -222,6 +749,172 @@
     },
     {
       "source": "Seeking Alpha",
+      "title": "Feel Stocks Are Impossibly High? Me Too, Here",
+      "title_zh": "Feel Stocks Are Impossibly High? Me Too, Here",
+      "link": "https://seekingalpha.com/article/4908413-feel-stocks-are-impossibly-high-me-too-heres-what-im-doing?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908413-feel-stocks-are-impossibly-high-me-too-heres-what-im-doing",
+      "published_at": "2026-05-24T22:22:49-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "s&p 500",
+        "earnings",
+        "Feel",
+        "Stocks",
+        "Are"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：My last 3 articles were not terribly popular.；Partly because they were not my best, but partly because Iâm just not my usual upbeat and bullish self.；Sometimes you just have to acknowledge that you My last 3 articles were not terribly popular.",
+      "important_points": [
+        "My last 3 articles were not terribly popular.",
+        "Partly because they were not my best, but partly because Iâm just not my usual upbeat and bullish self.",
+        "Sometimes you just have to acknowledge that you My last 3 articles were not terribly popular."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "s&p 500",
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "C3.ai: Even Near All-Time Lows, There",
+      "title_zh": "C3.ai: Even Near All-Time Lows, There",
+      "link": "https://seekingalpha.com/article/4908411-c3ai-even-near-all-time-lows-theres-still-more-downside-ahead?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908411-c3ai-even-near-all-time-lows-theres-still-more-downside-ahead",
+      "published_at": "2026-05-24T22:15:31-04:00",
+      "category": "科技与创新",
+      "risk_level": "低",
+      "keywords": [
+        "C3.ai",
+        "Even",
+        "Near",
+        "All-Time",
+        "Lows"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - C3.ai's revenues have gone into freefall while operating losses have worsened.；The company's business model failed to tap into the broader excitement around generative AI.；Despite Siebel's return as CEO, persistent massive operating losses and shrinking revenues leave me skeptical of the company's turnaround effort.",
+      "important_points": [
+        "Summary - C3.ai's revenues have gone into freefall while operating losses have worsened.",
+        "The company's business model failed to tap into the broader excitement around generative AI.",
+        "Despite Siebel's return as CEO, persistent massive operating losses and shrinking revenues leave me skeptical of the company's turnaround effort."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "BIBL: Notable Strategy With Biblical Values, Unlikely To Beat IVV (NYSEARCA:BIBL)",
+      "title_zh": "BIBL: Notable Strategy With Biblical Values, Unlikely To Beat IVV (NYSEARCA:BIBL)",
+      "link": "https://seekingalpha.com/article/4908409-bibl-notable-strategy-with-biblical-values-at-its-core-unlikely-to-beat-ivv-a-hold?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908409-bibl-notable-strategy-with-biblical-values-at-its-core-unlikely-to-beat-ivv-a-hold",
+      "published_at": "2026-05-24T22:12:32-04:00",
+      "category": "基金与理财",
+      "risk_level": "低",
+      "keywords": [
+        "BIBL",
+        "Notable",
+        "Strategy",
+        "With",
+        "Biblical"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Today I would like to offer an update on the Inspire 100 ETF (BIBL), which I initiated coverage of in February with a Hold rating.；I remain constructive on BIBL given its sensible, biblical values-guided strategy Summary - Inspire 100 ETF offers exposure to U.S.；large caps that demonstrate alignment with biblical values.",
+      "important_points": [
+        "Today I would like to offer an update on the Inspire 100 ETF (BIBL), which I initiated coverage of in February with a Hold rating.",
+        "I remain constructive on BIBL given its sensible, biblical values-guided strategy Summary - Inspire 100 ETF offers exposure to U.S.",
+        "large caps that demonstrate alignment with biblical values."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Wall Street Brunch: The Last Core PCE Hurrah?",
+      "title_zh": "华尔街午餐：核心PCE回升吗？",
+      "link": "https://seekingalpha.com/article/4908401-wall-street-brunch-the-last-core-pce-hurrah?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908401-wall-street-brunch-the-last-core-pce-hurrah",
+      "published_at": "2026-05-24T20:36:43+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [],
+      "summary": "分析市场对核心PCE的看法，显示投资者对通胀和数据变化的敏感。",
+      "important_points": [
+        "核心PCE上升",
+        "通胀关注点",
+        "投资者信心变化"
+      ],
+      "used_fallback": false,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Why Are Global Investors Looking To Asia As An Investment Destination?",
+      "title_zh": "全球投资者为何转向亚洲",
+      "link": "https://seekingalpha.com/article/4908402-why-are-global-investors-looking-to-asia-as-investment-destination?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908402-why-are-global-investors-looking-to-asia-as-investment-destination",
+      "published_at": "2026-05-24T20:20:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "中",
+      "keywords": [
+        "亚洲投资",
+        "全球趋势",
+        "经济转移"
+      ],
+      "summary": "探讨国际投资者选择亚洲市场的原因，强调区域经济潜力。",
+      "important_points": [
+        "亚洲成为投资热点",
+        "区域经济影响",
+        "市场分流"
+      ],
+      "used_fallback": false,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘My husband is leery of my plan’: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
+      "title_zh": "‘My husband is leery of my plan’: We are both 60 and have $5 million. Is now a good time to dip into our savings?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/my-husband-is-leery-of-my-plan-we-are-both-60-and-have-5-million-is-now-a-good-time-to-dip-into-our-savings-4c609266?mod=mw_rss_topstories",
+      "published_at": "2026-05-24T20:03:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "husband",
+        "leery",
+        "plan",
+        "are",
+        "both"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：“We have been scrimping for a long time.”",
+      "important_points": [
+        "“We have been scrimping for a long time.”"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘He didn’t really pay attention’: I told my friend he left millions on the table in retirement. Did I do the right thing?",
+      "title_zh": "‘He didn’t really pay attention’: I told my friend he left millions on the table in retirement. Did I do the right thing?",
+      "link": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/he-didnt-really-pay-attention-i-told-my-friend-he-left-millions-of-dollars-on-the-table-in-retirement-was-i-right-099bf5bb?mod=mw_rss_topstories",
+      "published_at": "2026-05-24T19:17:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "didn",
+        "really",
+        "pay",
+        "attention",
+        "told"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：“He lived very frugally and maxed out his 401(k)s.”",
+      "important_points": [
+        "“He lived very frugally and maxed out his 401(k)s.”"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
       "title": "Allspring High Yield Municipal Bond Fund Q1 2026 Commentary",
       "title_zh": "Allspring高收益市政债券基金Q1 2026评析",
       "link": "https://seekingalpha.com/article/4908398-allspring-high-yield-municipal-bond-fund-q1-2026-commentary?source=feed_all_articles",
@@ -245,6 +938,79 @@
       "used_fallback": false,
       "matched_focus_keywords": [
         "bond"
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "title": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+      "title_zh": "‘We have longevity in the family’: My sister is turning 67. Should she wait until 70 to claim Social Security?",
+      "link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/we-have-longevity-in-the-family-my-sister-is-turning-67-should-she-wait-until-70-to-claim-social-security-812087a4?mod=mw_rss_topstories",
+      "published_at": "2026-05-24T18:16:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "have",
+        "longevity",
+        "the",
+        "family",
+        "sister"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：“Others say she should start at full retirement age.”",
+      "important_points": [
+        "“Others say she should start at full retirement age.”"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
+      "title_zh": "I’m 67. Our family trust earns $300,000 annually for my kids. How do I ensure they won’t get killed on taxes?",
+      "link": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/im-67-our-family-trust-earns-300-000-annually-for-my-kids-how-do-i-ensure-they-wont-get-killed-on-taxes-ee0c35d6?mod=mw_rss_topstories",
+      "published_at": "2026-05-24T18:09:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "67.",
+        "Our",
+        "family",
+        "trust",
+        "earns"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax.”",
+      "important_points": [
+        "“My thought is to distribute all of the income to my children each year so that the trust itself pays little to no tax.”"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
+      "title_zh": "'I never heard of the Strait of Hormuz before this': How one medical supply CEO is navigating the oil price shock",
+      "link": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/gentell-ceo-iran-war-oil-prices.html",
+      "published_at": "2026-05-24T17:21:19+0000",
+      "category": "国际财经",
+      "risk_level": "中",
+      "keywords": [
+        "tariff",
+        "never",
+        "heard",
+        "the",
+        "Strait"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：A few months ago David Navazio, founder and CEO of medical supply company Gentell, had never heard of the Strait of Hormuz.；But now, the narrow waterway thousands of miles away from the company's headquarters in Yardley, Pennsylvania, is impacting the company's operations in more ways than one.；Chief among them is price, with Gentell under pressure from multiple angles.",
+      "important_points": [
+        "A few months ago David Navazio, founder and CEO of medical supply company Gentell, had never heard of the Strait of Hormuz.",
+        "But now, the narrow waterway thousands of miles away from the company's headquarters in Yardley, Pennsylvania, is impacting the company's operations in more ways than one.",
+        "Chief among them is price, with Gentell under pressure from multiple angles."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "tariff"
       ]
     },
     {
@@ -277,6 +1043,83 @@
     },
     {
       "source": "CNBC Top News",
+      "title": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening",
+      "title_zh": "'The Mandalorian and Grogu' is Disney's lowest-ever Star Wars film opening",
+      "link": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/the-mandalorian-and-grogu-is-disneys-lowest-star-wars-film-opening.html",
+      "published_at": "2026-05-24T16:04:57+0000",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "The",
+        "Mandalorian",
+        "and",
+        "Grogu",
+        "Disney"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Walt Disney's \"The Mandalorian and Grogu\" jettisoned into theaters Friday, marking the first time in seven years that a new Star Wars film has launched on the big screen.；Sunday estimates indicated that the film, based on the hit Disney+ show \"The Mandalorian,\" surpassed initial box office projections, tallying $82 million in domestic ticket sales through its first three days in theaters.；Official numbers will be released on Monday.",
+      "important_points": [
+        "Walt Disney's \"The Mandalorian and Grogu\" jettisoned into theaters Friday, marking the first time in seven years that a new Star Wars film has launched on the big screen.",
+        "Sunday estimates indicated that the film, based on the hit Disney+ show \"The Mandalorian,\" surpassed initial box office projections, tallying $82 million in domestic ticket sales through its first three days in theaters.",
+        "Official numbers will be released on Monday."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "John Hancock Alternative Asset Allocation Fund Q1 2026 Commentary",
+      "title_zh": "John Hancock Alternative Asset Allocation Fund Q1 2026 Commentary",
+      "link": "https://seekingalpha.com/article/4908400-john-hancock-alternative-asset-allocation-fund-q1-2026-commentary?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908400-john-hancock-alternative-asset-allocation-fund-q1-2026-commentary",
+      "published_at": "2026-05-24T15:28:00-04:00",
+      "category": "宏观经济",
+      "risk_level": "低",
+      "keywords": [
+        "inflation",
+        "John",
+        "Hancock",
+        "Alternative",
+        "Asset"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：A company of Manulife Investment Management, John Hancock Investment Management serves investors through a unique multimanager approach, complementing our extensive in-house capabilities with an unrivaled network of specialized asset managers, backed by some of the most rigorous investment oversight in the industry.；The result is a diverse lineup of time-tested investments from a premier asset manager with a heritage of financial stewardship.；Note: This account is not managed or monitored by John Hancock Investment Management, and any messages sent via Seeking Alpha will not receive a response.",
+      "important_points": [
+        "A company of Manulife Investment Management, John Hancock Investment Management serves investors through a unique multimanager approach, complementing our extensive in-house capabilities with an unrivaled network of specialized asset managers, backed by some of the most rigorous investment oversight in the industry.",
+        "The result is a diverse lineup of time-tested investments from a premier asset manager with a heritage of financial stewardship.",
+        "Note: This account is not managed or monitored by John Hancock Investment Management, and any messages sent via Seeking Alpha will not receive a response."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "inflation"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Janus Mortgage-Backed Securities ETF Q1 2026 Commentary (NYSEARCA:JMBS)",
+      "title_zh": "Janus Mortgage-Backed Securities ETF Q1 2026 Commentary (NYSEARCA:JMBS)",
+      "link": "https://seekingalpha.com/article/4908399-janus-mortgage-backed-securities-etf-q1-2026-commentary?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4908399-janus-mortgage-backed-securities-etf-q1-2026-commentary",
+      "published_at": "2026-05-24T15:21:00-04:00",
+      "category": "楼市与房地产",
+      "risk_level": "低",
+      "keywords": [
+        "Janus",
+        "Mortgage-Backed",
+        "Securities",
+        "ETF",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：At a glance Performance The Fund returned 0.26% and the Bloomberg U.S.；Mortgage Backed Securities (MBS) Index returned 0.40%.；Contributors/detractors The overweight allocation and security selection in agency MBS detracted, as did yield-curve positioning.",
+      "important_points": [
+        "At a glance Performance The Fund returned 0.26% and the Bloomberg U.S.",
+        "Mortgage Backed Securities (MBS) Index returned 0.40%.",
+        "Contributors/detractors The overweight allocation and security selection in agency MBS detracted, as did yield-curve positioning."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
       "title": "Americans are 'entrenched' in financial stress amid debt and price pressures",
       "title_zh": "美国人在债务和价格压力下，财务压力依然严重",
       "link": "https://www.cnbc.com/2026/05/24/americans-struggling-with-debt-inflation.html",
@@ -302,6 +1145,168 @@
         "inflation",
         "interest rate"
       ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Barriers grow for international students seeking U.S. jobs: The 'American dream ... is collapsing'",
+      "title_zh": "Barriers grow for international students seeking U.S. jobs: The 'American dream ... is collapsing'",
+      "link": "https://www.cnbc.com/2026/05/24/for-international-students-seeking-us-jobs-the-american-dream-is-collapsing.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/for-international-students-seeking-us-jobs-the-american-dream-is-collapsing.html",
+      "published_at": "2026-05-24T14:15:01+0000",
+      "category": "央行与货币政策",
+      "risk_level": "中",
+      "keywords": [
+        "fed",
+        "Barriers",
+        "grow",
+        "for",
+        "international"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Sakshi Patel has known since she was little that she wanted to study in the U.S.；She says she pictured herself landing a job in New York City, the financial capital of the world, and living out her version of the American dream far from home.；Patel, who earned her master's degree in financial management from Boston University in May 2025, says she has about two months left on her current work authorization and is job hunting full force.",
+      "important_points": [
+        "Sakshi Patel has known since she was little that she wanted to study in the U.S.",
+        "She says she pictured herself landing a job in New York City, the financial capital of the world, and living out her version of the American dream far from home.",
+        "Patel, who earned her master's degree in financial management from Boston University in May 2025, says she has about two months left on her current work authorization and is job hunting full force."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "fed"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "I’ve worked with over 1,000 kids—the ones with the best people skills use these 6 phrases",
+      "title_zh": "I’ve worked with over 1,000 kids—the ones with the best people skills use these 6 phrases",
+      "link": "https://www.cnbc.com/2026/05/24/kids-with-the-best-people-skills-use-these-6-phrases-therapist.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/kids-with-the-best-people-skills-use-these-6-phrases-therapist.html",
+      "published_at": "2026-05-24T13:34:01+0000",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "worked",
+        "with",
+        "over",
+        "000",
+        "kids"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：No one is born with perfect people skills.；Kids learn people skills — including communication, emotional intelligence, boundary setting, and empathy — by watching their trusted adults and practicing in real-life scenarios in safe environments.；As a certified child life specialist and licensed therapist who has supported thousands of kids and families, I've seen these skills help kids build confidence, navigate relationships and handle stress and challenges.",
+      "important_points": [
+        "No one is born with perfect people skills.",
+        "Kids learn people skills — including communication, emotional intelligence, boundary setting, and empathy — by watching their trusted adults and practicing in real-life scenarios in safe environments.",
+        "As a certified child life specialist and licensed therapist who has supported thousands of kids and families, I've seen these skills help kids build confidence, navigate relationships and handle stress and challenges."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Boosting retirement savings has a less-appreciated benefit",
+      "title_zh": "Boosting retirement savings has a less-appreciated benefit",
+      "link": "https://www.cnbc.com/2026/05/24/retirement-savings-contributions.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/retirement-savings-contributions.html",
+      "published_at": "2026-05-24T13:30:01+0000",
+      "category": "楼市与房地产",
+      "risk_level": "低",
+      "keywords": [
+        "inflation",
+        "housing",
+        "Boosting",
+        "retirement",
+        "savings"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：At risk of stating the obvious: Boosting one's savings rate is among the best ways to improve a household's retirement prospects.；Doing so increases the size of the financial war chest one can deploy in old age.；But there's another, somewhat hidden benefit to saving a larger share of income, according to financial advisors — it simultaneously pushes households to live on less money, thereby reducing the amount of money they'll ultimately need to fund their lifestyle in retirement.",
+      "important_points": [
+        "At risk of stating the obvious: Boosting one's savings rate is among the best ways to improve a household's retirement prospects.",
+        "Doing so increases the size of the financial war chest one can deploy in old age.",
+        "But there's another, somewhat hidden benefit to saving a larger share of income, according to financial advisors — it simultaneously pushes households to live on less money, thereby reducing the amount of money they'll ultimately need to fund their lifestyle in retirement."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "inflation",
+        "housing"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Top Wall Street analysts like these dividend stocks for steady income",
+      "title_zh": "Top Wall Street analysts like these dividend stocks for steady income",
+      "link": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/top-wall-street-analysts-like-these-dividend-stocks-for-steady-income.html",
+      "published_at": "2026-05-24T12:52:28+0000",
+      "category": "股市",
+      "risk_level": "中",
+      "keywords": [
+        "stock market",
+        "commodity",
+        "treasury",
+        "earnings",
+        "Top"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：The stock market has been volatile due to rising Treasury yields and high oil prices amid tensions in the Middle East.；Amid this uncertainty, dividend stocks can help investors secure consistent portfolio income.；Top Wall Street analysts can inform investors on their search for attractive dividend stocks that have the ability to generate solid cash flows and pay dividends consistently.",
+      "important_points": [
+        "The stock market has been volatile due to rising Treasury yields and high oil prices amid tensions in the Middle East.",
+        "Amid this uncertainty, dividend stocks can help investors secure consistent portfolio income.",
+        "Top Wall Street analysts can inform investors on their search for attractive dividend stocks that have the ability to generate solid cash flows and pay dividends consistently."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "stock market",
+        "commodity",
+        "treasury",
+        "earnings"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Move over, seltzer. Non-carbonated drinks are taking the spotlight",
+      "title_zh": "Move over, seltzer. Non-carbonated drinks are taking the spotlight",
+      "link": "https://www.cnbc.com/2026/05/24/move-over-seltzer-non-carbonated-drinks-are-taking-the-spotlight.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/move-over-seltzer-non-carbonated-drinks-are-taking-the-spotlight.html",
+      "published_at": "2026-05-24T12:00:01+0000",
+      "category": "公司财报与IPO",
+      "risk_level": "高",
+      "keywords": [
+        "earnings",
+        "Move",
+        "over",
+        "seltzer.",
+        "Non-carbonated"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：About a decade ago, sales of LaCroix began to skyrocket.；Soon, flavored seltzers were everywhere, from grocery store refrigerators to liquor store shelves.；But the era of bubbles looks like it is winding down, thanks to seltzer fatigue.",
+      "important_points": [
+        "About a decade ago, sales of LaCroix began to skyrocket.",
+        "Soon, flavored seltzers were everywhere, from grocery store refrigerators to liquor store shelves.",
+        "But the era of bubbles looks like it is winding down, thanks to seltzer fatigue."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
+      "title_zh": "The Middle East war is testing the Gulf's ambitions to become an AI hub",
+      "link": "https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/24/middle-east-war-testing-gulfs-ambitions-to-become-ai-hub.html",
+      "published_at": "2026-05-24T09:12:22+0000",
+      "category": "科技与创新",
+      "risk_level": "中",
+      "keywords": [
+        "The",
+        "Middle",
+        "East",
+        "war",
+        "testing"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：The Gulf's ambition to become a global hub for artificial intelligence is being tested, as the potential for a prolonged conflict in the Middle East raises questions over energy security, infrastructure resilience and investor confidence.；Before the war began in February, the United Arab Emirates, Saudi Arabia and Qatar were racing to position themselves at the center of the AI boom, leveraging abundant, low-cost energy and strategic geography to encourage hyperscalers to build out vast data center networks there.；But two Amazon data centers in the UAE were targeted early in the war and, nearly three months later, oil prices remain around $100 a barrel and the Strait of Hormuz remains closed.",
+      "important_points": [
+        "The Gulf's ambition to become a global hub for artificial intelligence is being tested, as the potential for a prolonged conflict in the Middle East raises questions over energy security, infrastructure resilience and investor confidence.",
+        "Before the war began in February, the United Arab Emirates, Saudi Arabia and Qatar were racing to position themselves at the center of the AI boom, leveraging abundant, low-cost energy and strategic geography to encourage hyperscalers to build out vast data center networks there.",
+        "But two Amazon data centers in the UAE were targeted early in the war and, nearly three months later, oil prices remain around $100 a barrel and the Strait of Hormuz remains closed."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
     },
     {
       "source": "第一财经",
@@ -427,6 +1432,29 @@
     },
     {
       "source": "MarketWatch",
+      "title": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+      "title_zh": "Nvidia can deliver chips — but it can’t buy Big Tech out of its credit and power-grid crisis",
+      "link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+      "published_at": "2026-05-23T18:17:00+00:00",
+      "category": "国际财经",
+      "risk_level": "中",
+      "keywords": [
+        "Nvidia",
+        "can",
+        "deliver",
+        "chips",
+        "but"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits.",
+      "important_points": [
+        "Corporate profits can’t fix a chaotic trade war with China, climbing credit premiums and AI infrastructure limits."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
       "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
       "title_zh": "福特·沃什进入陷阱，美联储无法降息",
       "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
@@ -452,6 +1480,31 @@
         "fed",
         "federal reserve"
       ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Stephen Colbert returns to TV in appearance on local Michigan station",
+      "title_zh": "Stephen Colbert returns to TV in appearance on local Michigan station",
+      "link": "https://www.cnbc.com/2026/05/23/stephen-colbert-returns-to-tv-on-local-michigan-station.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/23/stephen-colbert-returns-to-tv-on-local-michigan-station.html",
+      "published_at": "2026-05-23T17:38:07+0000",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Stephen",
+        "Colbert",
+        "returns",
+        "appearance",
+        "local"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Stephen Colbert's final appearance on \"The Late Show\" on Thursday marked the end of his 11-year run in his staple late night television slot.；But one day later, he found a way back on TV: a Michigan public access station.；Colbert was a surprise guest host Friday evening on Monroe Community Media's \"Only in Monroe.\" The station services Monroe, Michigan — a town south of Detroit, near the state's border with Ohio — and the surrounding county of the same name.",
+      "important_points": [
+        "Stephen Colbert's final appearance on \"The Late Show\" on Thursday marked the end of his 11-year run in his staple late night television slot.",
+        "But one day later, he found a way back on TV: a Michigan public access station.",
+        "Colbert was a surprise guest host Friday evening on Monroe Community Media's \"Only in Monroe.\" The station services Monroe, Michigan — a town south of Detroit, near the state's border with Ohio — and the surrounding county of the same name."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
     },
     {
       "source": "CNBC Top News",
@@ -512,6 +1565,59 @@
     },
     {
       "source": "CNBC Top News",
+      "title": "Microsoft’s new responsible tech lead on how to humanize high-speed AI development",
+      "title_zh": "Microsoft’s new responsible tech lead on how to humanize high-speed AI development",
+      "link": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/23/microsofts-new-responsible-tech-lead-on-high-speed-ai-development.html",
+      "published_at": "2026-05-23T13:00:01+0000",
+      "category": "科技与创新",
+      "risk_level": "中",
+      "keywords": [
+        "Microsoft",
+        "new",
+        "responsible",
+        "tech",
+        "lead"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Fully responsible, trustworthy technology is an almost impossible mandate in a tech landscape that prioritizes speed — but that doesn't mean some companies aren't trying.；On the heels of the Trump administration's national AI legislative framework on March 20, in which \"winning the AI race\" remains paramount, tech developers face tension between the common ethos of moving fast and breaking things versus strategically implementing responsible tech frameworks from the start.；Getting ahead has, in many instances, taken the driver's seat, the cost of which has become clear.",
+      "important_points": [
+        "Fully responsible, trustworthy technology is an almost impossible mandate in a tech landscape that prioritizes speed — but that doesn't mean some companies aren't trying.",
+        "On the heels of the Trump administration's national AI legislative framework on March 20, in which \"winning the AI race\" remains paramount, tech developers face tension between the common ethos of moving fast and breaking things versus strategically implementing responsible tech frameworks from the start.",
+        "Getting ahead has, in many instances, taken the driver's seat, the cost of which has become clear."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Lingering mysteries from Berkshire's portfolio update",
+      "title_zh": "Lingering mysteries from Berkshire's portfolio update",
+      "link": "https://www.cnbc.com/2026/05/23/lingering-mysteries-from-berkshires-portfolio-update.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/23/lingering-mysteries-from-berkshires-portfolio-update.html",
+      "published_at": "2026-05-23T12:59:47+0000",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "real estate",
+        "earnings",
+        "Lingering",
+        "mysteries",
+        "from"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway.；You can sign up here to receive it every Friday evening in your inbox.) The large reduction in the number of stocks in Berkshire Hathaway's equity portfolio that was revealed in last Friday's first quarter 13F SEC filing was perhaps bigger than expected but it wasn't a total surprise.；The Wall Street Journal had reported new CEO Greg Abel would be selling many or all of the stocks formerly managed by Todd Combs, who left for a job at JPMorgan late last year.",
+      "important_points": [
+        "(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway.",
+        "You can sign up here to receive it every Friday evening in your inbox.) The large reduction in the number of stocks in Berkshire Hathaway's equity portfolio that was revealed in last Friday's first quarter 13F SEC filing was perhaps bigger than expected but it wasn't a total surprise.",
+        "The Wall Street Journal had reported new CEO Greg Abel would be selling many or all of the stocks formerly managed by Todd Combs, who left for a job at JPMorgan late last year."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "real estate",
+        "earnings"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
       "title": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
       "title_zh": "Americans are feeling inflation's pinch into the holiday weekend. Here's where prices are rising the most",
       "link": "https://www.cnbc.com/2026/05/23/memorial-day-weekend-prices-inflation-war.html",
@@ -536,6 +1642,84 @@
       "matched_focus_keywords": [
         "inflation"
       ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
+      "title_zh": "‘Blue dot fever’? What's really behind a tricky summer dynamic for live music",
+      "link": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/23/concert-ticket-prices-live-music-demand.html",
+      "published_at": "2026-05-23T12:00:01+0000",
+      "category": "宏观经济",
+      "risk_level": "高",
+      "keywords": [
+        "inflation",
+        "recession",
+        "Blue",
+        "dot",
+        "fever"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：This summer, mega artist Harry Styles will take the stage at Madison Square Garden in New York City for an exclusive 30-show residency – his only planned stop in the country and a show that's garnered intense attention since its announcement.；Despite her best efforts, Shira Elfassy won't be there.；\"His tickets were absurd,\" Elfassy, 29, told CNBC.",
+      "important_points": [
+        "This summer, mega artist Harry Styles will take the stage at Madison Square Garden in New York City for an exclusive 30-show residency – his only planned stop in the country and a show that's garnered intense attention since its announcement.",
+        "Despite her best efforts, Shira Elfassy won't be there.",
+        "\"His tickets were absurd,\" Elfassy, 29, told CNBC."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "inflation",
+        "recession"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Spirit's collapse, high fuel prices test limits of summer vacation spending",
+      "title_zh": "Spirit's collapse, high fuel prices test limits of summer vacation spending",
+      "link": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/23/summer-travel-gas-airfare.html",
+      "published_at": "2026-05-23T12:00:01+0000",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Spirit",
+        "collapse",
+        "high",
+        "fuel",
+        "prices"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Higher fuel prices are testing how badly consumers want to travel this summer, whether flying or driving.；Airfare hasn't been this high since May 2022, when airlines stumbled out of the pandemic with aircraft and employee shortages to face hordes of consumers ready for \"revenge travel.\" Gasoline is above $4 a gallon and could get closer to $5 a gallon this summer, AAA warned this week.；Jet fuel prices doubled in the span of less than three months this year after the U.S.",
+      "important_points": [
+        "Higher fuel prices are testing how badly consumers want to travel this summer, whether flying or driving.",
+        "Airfare hasn't been this high since May 2022, when airlines stumbled out of the pandemic with aircraft and employee shortages to face hordes of consumers ready for \"revenge travel.\" Gasoline is above $4 a gallon and could get closer to $5 a gallon this summer, AAA warned this week.",
+        "Jet fuel prices doubled in the span of less than three months this year after the U.S."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+      "title_zh": "Three signs from APEC that the U.S. and China remain far apart on trade",
+      "link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+      "published_at": "2026-05-23T11:19:52+0000",
+      "category": "综合资讯",
+      "risk_level": "中",
+      "keywords": [
+        "Three",
+        "signs",
+        "from",
+        "APEC",
+        "that"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：SUZHOU, China — Just over a week after the U.S.；and Chinese presidents met in Beijing, the world's two largest economies are sending different messages about their priorities for Asia.；First is tariffs.",
+      "important_points": [
+        "SUZHOU, China — Just over a week after the U.S.",
+        "and Chinese presidents met in Beijing, the world's two largest economies are sending different messages about their priorities for Asia.",
+        "First is tariffs."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
     },
     {
       "source": "第一财经",
@@ -597,6 +1781,60 @@
         "加息",
         "降息",
         "央行"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "SpaceX launches Starship test flight on second try",
+      "title_zh": "SpaceX launches Starship test flight on second try",
+      "link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/22/spacex-prepares-another-attempt-at-starship-launch-after-prior-scrub.html",
+      "published_at": "2026-05-22T21:52:11+0000",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "ipo",
+        "SpaceX",
+        "launches",
+        "Starship",
+        "test"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：SpaceX launched its massive Starship rocket on Friday after a first try was scrubbed due to technical issues a day earlier.；A 90-minute launch window opened at 6:30 p.m.；ET, and the flight took off at that time from SpaceX's facility in Starbase, Texas.",
+      "important_points": [
+        "SpaceX launched its massive Starship rocket on Friday after a first try was scrubbed due to technical issues a day earlier.",
+        "A 90-minute launch window opened at 6:30 p.m.",
+        "ET, and the flight took off at that time from SpaceX's facility in Starbase, Texas."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "ipo"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Two top Walmart executives leave company under new CEO John Furner",
+      "title_zh": "Two top Walmart executives leave company under new CEO John Furner",
+      "link": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
+      "canonical_link": "https://www.cnbc.com/2026/05/22/walmart-executives-depart-under-ceo-john-furner.html",
+      "published_at": "2026-05-22T20:33:19+0000",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Two",
+        "top",
+        "Walmart",
+        "executives"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Two top Walmart executives are departing the company, nearly four months after CEO John Furner took over, according to internal memos viewed by CNBC on Friday.；Tom Ward, the chief operating officer of Walmart's warehouse chain Sam's Club, is retiring, and Cedric Clark, Walmart's executive vice president of U.S.；store operations, is leaving the business, the memos show.",
+      "important_points": [
+        "Two top Walmart executives are departing the company, nearly four months after CEO John Furner took over, according to internal memos viewed by CNBC on Friday.",
+        "Tom Ward, the chief operating officer of Walmart's warehouse chain Sam's Club, is retiring, and Cedric Clark, Walmart's executive vice president of U.S.",
+        "store operations, is leaving the business, the memos show."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
       ]
     },
     {
@@ -1409,6 +2647,33 @@
       "used_fallback": true,
       "matched_focus_keywords": [
         "earnings"
+      ]
+    },
+    {
+      "source": "第一财经",
+      "title": "第四范式财报放盈利前景 定位AI时代Salesforce",
+      "title_zh": "第四范式财报放盈利前景 定位AI时代Salesforce",
+      "link": "https://www.yicai.com/news/102038339.html",
+      "canonical_link": "https://www.yicai.com/news/102038339.html",
+      "published_at": "2024-03-22",
+      "category": "外汇市场",
+      "risk_level": "低",
+      "keywords": [
+        "财报",
+        "人民币",
+        "Salesforce",
+        "第一财经"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 企业软件赛道每个时代都会诞生巨头企业，信息化时代的Oracle、SAP，互联网时代的Salesforce，大数据时代的Palantir。而如今，伴随大模型的热潮，人工智能再次席卷而来，第四范式要做的就是当下时代新的代表。；3月20日，人工智能企业第四范式（06682.HK）公布上市后首份年度业绩，公司营收继续保持稳定增长，2023营收人民币42.0亿元，同比增长36.4%。自2019年以来，公司年收入复合增长率高达73.9%。毛利人民币19.8亿元，同比增长33.2%，毛利率为47.1%。；财报电话会上，第四范式董事会主席兼CEO戴文渊表示，第四范式的定位是一家用人工智能改造的企业软件公司，目标是要用AI赋能千行万业。企业软件公司恰恰是致力于把一代代新的技术带给企业，赋能企业的定位。",
+      "important_points": [
+        "{{aisd}} AI生成 免责声明 企业软件赛道每个时代都会诞生巨头企业，信息化时代的Oracle、SAP，互联网时代的Salesforce，大数据时代的Palantir。而如今，伴随大模型的热潮，人工智能再次席卷而来，第四范式要做的就是当下时代新的代表。",
+        "3月20日，人工智能企业第四范式（06682.HK）公布上市后首份年度业绩，公司营收继续保持稳定增长，2023营收人民币42.0亿元，同比增长36.4%。自2019年以来，公司年收入复合增长率高达73.9%。毛利人民币19.8亿元，同比增长33.2%，毛利率为47.1%。",
+        "财报电话会上，第四范式董事会主席兼CEO戴文渊表示，第四范式的定位是一家用人工智能改造的企业软件公司，目标是要用AI赋能千行万业。企业软件公司恰恰是致力于把一代代新的技术带给企业，赋能企业的定位。"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "财报",
+        "人民币"
       ]
     }
   ]
