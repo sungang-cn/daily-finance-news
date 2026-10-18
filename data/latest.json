@@ -1,15 +1,15 @@
 {
-  "date": "2026-10-17",
-  "generated_at": "2026-10-17T12:20:05+08:00",
+  "date": "2026-10-18",
+  "generated_at": "2026-10-18T12:25:47+08:00",
   "count": 50,
   "items": [
     {
       "source": "Seeking Alpha",
-      "title": "Politics And The Markets 10/17/26",
-      "title_zh": "Politics And The Markets 10/17/26",
-      "link": "https://seekingalpha.com/article/4950157-politics-and-the-markets-101726?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4950157-politics-and-the-markets-101726",
-      "published_at": "2026-10-17T04:00:00+00:00",
+      "title": "Politics And The Markets 10/18/26",
+      "title_zh": "Politics And The Markets 10/18/26",
+      "link": "https://seekingalpha.com/article/4950158-politics-and-the-markets-101826?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4950158-politics-and-the-markets-101826",
+      "published_at": "2026-10-18T04:00:00+00:00",
       "category": "综合资讯",
       "risk_level": "低",
       "keywords": [
@@ -19,187 +19,123 @@
         "Markets",
         "Seeking Alpha"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Politics And The Markets 10/17/26",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Politics And The Markets 10/18/26",
       "important_points": [
-        "Politics And The Markets 10/17/26"
+        "Politics And The Markets 10/18/26"
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
-      "title": "Badger Meter: Upcoming Quarterly Report Needs To Break The Precedent Set By Recent Reports",
-      "title_zh": "Badger Meter: Upcoming Quarterly Report Needs To Break The Precedent Set By Recent Reports",
-      "link": "https://seekingalpha.com/article/4954923-badger-meter-upcoming-quarterly-report-to-break-precedent-set-by-recent-reports?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954923-badger-meter-upcoming-quarterly-report-to-break-precedent-set-by-recent-reports",
-      "published_at": "2026-10-17T03:43:25+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "Badger",
-        "Meter",
-        "Upcoming",
-        "Quarterly",
-        "Report"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Badger Meter: Upcoming Quarterly Report Needs To Break The Precedent Set By Recent Reports",
-      "important_points": [
-        "Badger Meter: Upcoming Quarterly Report Needs To Break The Precedent Set By Recent Reports"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "UnitedHealth: Q3 Confirms The Bull Case",
-      "title_zh": "UnitedHealth: Q3 Confirms The Bull Case",
-      "link": "https://seekingalpha.com/article/4954919-unitedhealth-q3-confirms-the-bull-case?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954919-unitedhealth-q3-confirms-the-bull-case",
-      "published_at": "2026-10-17T02:05:01+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "UnitedHealth",
-        "Confirms",
-        "The",
-        "Bull",
-        "Case"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：UnitedHealth: Q3 Confirms The Bull Case",
-      "important_points": [
-        "UnitedHealth: Q3 Confirms The Bull Case"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "第一财经",
-      "title": "美联储进入静默期前夕，沃什在曼谷的发言吐露“鸽心”？",
-      "title_zh": "美联储进入静默期前夕，沃什在曼谷的发言吐露“鸽心”？",
-      "link": "https://www.yicai.com/news/103397477.html",
-      "canonical_link": "https://www.yicai.com/news/103397477.html",
-      "published_at": "2026-10-17",
-      "category": "宏观经济",
-      "risk_level": "中",
-      "keywords": [
-        "美联储",
-        "加息",
-        "cpi",
-        "关税",
-        "第一财经"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 10月17日，美联储进入沟通“静默期”。；此前，美联储主席沃什在曼谷出席国际货币基金组织（IMF）年会并发表讲话，不过市场普遍认为，其摆在明面上的话比那些没说出口的更耐人寻味。；实际上，这是10月27日—28日美联储议息会议前，沃什公开为加息问题进行说明的最后机会。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 10月17日，美联储进入沟通“静默期”。",
-        "此前，美联储主席沃什在曼谷出席国际货币基金组织（IMF）年会并发表讲话，不过市场普遍认为，其摆在明面上的话比那些没说出口的更耐人寻味。",
-        "实际上，这是10月27日—28日美联储议息会议前，沃什公开为加息问题进行说明的最后机会。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "美联储",
-        "加息",
-        "cpi",
-        "关税"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "今年1.3万亿元超长期特别国债发行完毕",
-      "title_zh": "今年1.3万亿元超长期特别国债发行完毕",
-      "link": "https://www.yicai.com/news/103397507.html",
-      "canonical_link": "https://www.yicai.com/news/103397507.html",
-      "published_at": "2026-10-17",
-      "category": "债市",
-      "risk_level": "低",
-      "keywords": [
-        "国债",
-        "1.3",
-        "第一财经"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 据央视新闻，从财政部了解到，2026年超长期特别国债（五期）第三次续发行昨天已完成招标工作，实际续发行面值金额200亿元，票面利率为2.24%，按半年付息。本次超长期特别国债成功发行，标志着今年1.3万亿元超长期特别国债发行完毕。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 据央视新闻，从财政部了解到，2026年超长期特别国债（五期）第三次续发行昨天已完成招标工作，实际续发行面值金额200亿元，票面利率为2.24%，按半年付息。本次超长期特别国债成功发行，标志着今年1.3万亿元超长期特别国债发行完毕。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "国债"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Eagle Point Credit Stock: A New Strategy Has Not Changed The Market",
-      "title_zh": "Eagle Point Credit Stock: A New Strategy Has Not Changed The Market",
-      "link": "https://seekingalpha.com/article/4954922-eagle-point-credit-a-new-strategy-has-not-changed-the-markets-opinion?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954922-eagle-point-credit-a-new-strategy-has-not-changed-the-markets-opinion",
-      "published_at": "2026-10-16T23:32:17-04:00",
-      "category": "股市",
-      "risk_level": "中",
-      "keywords": [
-        "earnings",
-        "Eagle",
-        "Point",
-        "Credit",
-        "Stock"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：In the post-pandemic era, collateralized loan obligations took the spotlight as some of the highest-performing investments.；Supported by tailwinds like ample liquidity and tightening spreads, the CLO renaissance was short, sweet, and left many investors holding a heavy Summary - Eagle Point Credit remains under pressure, with shares trading at a 33% discount to NAV and near all-time lows.；ECC's distribution yield is historically high at 25.3%, but sustainability is questionable after a significant cut and ongoing realized losses.",
-      "important_points": [
-        "In the post-pandemic era, collateralized loan obligations took the spotlight as some of the highest-performing investments.",
-        "Supported by tailwinds like ample liquidity and tightening spreads, the CLO renaissance was short, sweet, and left many investors holding a heavy Summary - Eagle Point Credit remains under pressure, with shares trading at a 33% discount to NAV and near all-time lows.",
-        "ECC's distribution yield is historically high at 25.3%, but sustainability is questionable after a significant cut and ongoing realized losses."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Surprise! Bonds As Safe Havens, Again",
-      "title_zh": "Surprise! Bonds As Safe Havens, Again",
-      "link": "https://seekingalpha.com/article/4954924-surprise-bonds-as-safe-havens-again?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954924-surprise-bonds-as-safe-havens-again",
-      "published_at": "2026-10-16T23:20:00-04:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "cpi",
-        "stock market",
-        "treasury",
-        "Surprise",
-        "Bonds"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Well, this was one of those weeks.；We had the idea of digging into the good and the bad of Chinaâs economy for our commentary this week, giving our readers a break from All Bonds All The Time, but Summary - As the week got underway, yields on US Treasuries were close to their recent decades-long highs.；Like the CPI report, the PPI number was well ahead of economistsâ expectations.",
-      "important_points": [
-        "Well, this was one of those weeks.",
-        "We had the idea of digging into the good and the bad of Chinaâs economy for our commentary this week, giving our readers a break from All Bonds All The Time, but Summary - As the week got underway, yields on US Treasuries were close to their recent decades-long highs.",
-        "Like the CPI report, the PPI number was well ahead of economistsâ expectations."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "cpi",
-        "stock market",
-        "treasury"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "iOCO Limited 2026 Q4 - Results - Earnings Call Presentation",
-      "title_zh": "iOCO Limited 2026 Q4 - Results - Earnings Call Presentation",
-      "link": "https://seekingalpha.com/article/4954915-ioco-limited-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954915-ioco-limited-2026-q4-results-earnings-call-presentation",
-      "published_at": "2026-10-16T23:04:58+00:00",
+      "title": "Tennant: An Overvalued Dividend King Facing Margin Pressures (NYSE:TNC)",
+      "title_zh": "Tennant: An Overvalued Dividend King Facing Margin Pressures (NYSE:TNC)",
+      "link": "https://seekingalpha.com/article/4955018-tennant-stock-overvalued-dividend-king-facing-margin-pressures?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955018-tennant-stock-overvalued-dividend-king-facing-margin-pressures",
+      "published_at": "2026-10-18T00:04:01-04:00",
       "category": "公司财报与IPO",
       "risk_level": "低",
       "keywords": [
         "earnings",
-        "iOCO",
-        "Limited",
-        "2026",
-        "Results"
+        "Tennant",
+        "Overvalued",
+        "Dividend",
+        "King"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：iOCO Limited 2026 Q4 - Results - Earnings Call Presentation",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Tennant (TNC) is a niche industrial company focusing on manual and robotic professional cleaning equipment.；The firm is a market leader in the United States with a smaller international presence.；It has recently hit a bump Summary - Tennant Company is a market leader in professional cleaning equipment, but recent ERP issues and macro headwinds have pressured margins and earnings.",
       "important_points": [
-        "iOCO Limited 2026 Q4 - Results - Earnings Call Presentation"
+        "Tennant (TNC) is a niche industrial company focusing on manual and robotic professional cleaning equipment.",
+        "The firm is a market leader in the United States with a smaller international presence.",
+        "It has recently hit a bump Summary - Tennant Company is a market leader in professional cleaning equipment, but recent ERP issues and macro headwinds have pressured margins and earnings."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "第一财经",
+      "title": "下周外盘看点丨欧美PMI或搅动加息格局，Meta特斯拉最新财报亮相",
+      "title_zh": "下周外盘看点丨欧美PMI或搅动加息格局，Meta特斯拉最新财报亮相",
+      "link": "https://www.yicai.com/news/103397818.html",
+      "canonical_link": "https://www.yicai.com/news/103397818.html",
+      "published_at": "2026-10-18",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "加息",
+        "财报",
+        "美联储",
+        "cpi",
+        "原油"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 本周国际市场风云变幻，美国9月消费者价格指数（CPI）预期引发加息担忧。；市场方面，美股全线下挫，道指周跌0.67%，纳指周跌4.48%，标普500指数周跌1.95%，欧洲三大股指集体反弹，英国富时100指数周涨3.13%，德国DAX 30指数周涨2.13%，法国CAC 40指数周涨1.97%。；下周看点颇多，美国和欧洲的采购经理人指数（PMI）将提供对商业情绪的洞察，并为未来加息的可能时间和速度提供进一步的线索。加拿大和英国将公布通胀数据。韩国、印度尼西亚和菲律宾的央行将举行会议，当前汇率变动和能源价格上涨令决策变得更加复杂。外界继续关注中东局势和油价走向，财报季进入第二周，Meta、特斯拉等明星股业绩或掀起波澜。",
+      "important_points": [
+        "{{aisd}} AI生成 免责声明 本周国际市场风云变幻，美国9月消费者价格指数（CPI）预期引发加息担忧。",
+        "市场方面，美股全线下挫，道指周跌0.67%，纳指周跌4.48%，标普500指数周跌1.95%，欧洲三大股指集体反弹，英国富时100指数周涨3.13%，德国DAX 30指数周涨2.13%，法国CAC 40指数周涨1.97%。",
+        "下周看点颇多，美国和欧洲的采购经理人指数（PMI）将提供对商业情绪的洞察，并为未来加息的可能时间和速度提供进一步的线索。加拿大和英国将公布通胀数据。韩国、印度尼西亚和菲律宾的央行将举行会议，当前汇率变动和能源价格上涨令决策变得更加复杂。外界继续关注中东局势和油价走向，财报季进入第二周，Meta、特斯拉等明星股业绩或掀起波澜。"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "加息",
+        "财报",
+        "美联储",
+        "cpi",
+        "原油",
+        "黄金",
+        "国债",
+        "央行"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "CoreWeave Stock Can Survive But Shareholders Could Still Lose (NASDAQ:CRWV)",
+      "title_zh": "CoreWeave Stock Can Survive But Shareholders Could Still Lose (NASDAQ:CRWV)",
+      "link": "https://seekingalpha.com/article/4955017-coreweave-can-survive-but-shareholders-could-still-lose?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955017-coreweave-can-survive-but-shareholders-could-still-lose",
+      "published_at": "2026-10-17T23:59:00-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "bond",
+        "CoreWeave",
+        "Stock",
+        "Can"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - CoreWeaveâs five-year CDS exceeded 1,100 basis points, while its 2031 bond yielded roughly 15.8%, signaling severe credit stress.；Interest expense could reach $860â940 million in Q3, making financing economics increasingly important despite continued extraordinary AI demand.；CoreWeave secured $8.5 billion of A3-rated GPU-backed financing, showing strong projects can remain financeable despite stressed parent-level credit.",
+      "important_points": [
+        "Summary - CoreWeaveâs five-year CDS exceeded 1,100 basis points, while its 2031 bond yielded roughly 15.8%, signaling severe credit stress.",
+        "Interest expense could reach $860â940 million in Q3, making financing economics increasingly important despite continued extraordinary AI demand.",
+        "CoreWeave secured $8.5 billion of A3-rated GPU-backed financing, showing strong projects can remain financeable despite stressed parent-level credit."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq",
+        "bond"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Parker-Hannifin Stock: Wall Street Is Paying Too Much For Quality (NYSE:PH)",
+      "title_zh": "Parker-Hannifin Stock: Wall Street Is Paying Too Much For Quality (NYSE:PH)",
+      "link": "https://seekingalpha.com/article/4955016-parker-hannifin-wall-street-is-paying-too-much-for-quality?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955016-parker-hannifin-wall-street-is-paying-too-much-for-quality",
+      "published_at": "2026-10-17T23:42:27-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Parker-Hannifin",
+        "Stock",
+        "Wall",
+        "Street"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Parker-Hannifin (PH) has delivered on the aerospace and defense growth that supported my previous Buy rating, while its industrial businesses are now contributing more meaningfully as well.；In October 2025, I set an $878.30 price Summary - Parker-Hannifin is downgraded from Buy to Hold as valuation now outpaces healthy upside, despite robust operational execution.；PH's aerospace and industrial segments drive strong growth, with FY26 adjusted EPS up 18% and margins expanding to 27.3%.",
+      "important_points": [
+        "Parker-Hannifin (PH) has delivered on the aerospace and defense growth that supported my previous Buy rating, while its industrial businesses are now contributing more meaningfully as well.",
+        "In October 2025, I set an $878.30 price Summary - Parker-Hannifin is downgraded from Buy to Hold as valuation now outpaces healthy upside, despite robust operational execution.",
+        "PH's aerospace and industrial segments drive strong growth, with FY26 adjusted EPS up 18% and margins expanding to 27.3%."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
@@ -208,371 +144,487 @@
     },
     {
       "source": "Seeking Alpha",
-      "title": "Rocket Lab Stock: Neutron Delayed, Strong Buy Intact (NASDAQ:RKLB)",
-      "title_zh": "Rocket Lab Stock: Neutron Delayed, Strong Buy Intact (NASDAQ:RKLB)",
-      "link": "https://seekingalpha.com/article/4954921-rocket-lab-neutron-delayed-strong-buy-intact?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954921-rocket-lab-neutron-delayed-strong-buy-intact",
-      "published_at": "2026-10-16T22:59:03-04:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "nasdaq",
-        "Rocket",
-        "Lab",
-        "Stock",
-        "Neutron"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Shares of Rocket Lab (RKLB) have tumbled following the news that the first flight of Neutron has been delayed.；The decline in the share price is not fully surprising given that investors continue to treat Rocket Lab Summary - Rocket Lab faces a Neutron rocket delay, now targeting a 2027 launch, but maintains a strong buy rating with >100% upside.；Neutronâs manufacturing setback is a processânot designâissue; RKLBâs disciplined, risk-averse approach prioritizes long-term reliability over rushed timelines.",
-      "important_points": [
-        "Shares of Rocket Lab (RKLB) have tumbled following the news that the first flight of Neutron has been delayed.",
-        "The decline in the share price is not fully surprising given that investors continue to treat Rocket Lab Summary - Rocket Lab faces a Neutron rocket delay, now targeting a 2027 launch, but maintains a strong buy rating with >100% upside.",
-        "Neutronâs manufacturing setback is a processânot designâissue; RKLBâs disciplined, risk-averse approach prioritizes long-term reliability over rushed timelines."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "nasdaq"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "NB Bancorp: Not Expecting Much",
-      "title_zh": "NB Bancorp: Not Expecting Much",
-      "link": "https://seekingalpha.com/article/4954909-nb-bancorp-not-expecting-much?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954909-nb-bancorp-not-expecting-much",
-      "published_at": "2026-10-16T22:24:13+00:00",
+      "title": "DexCom: The 15-Day Sensor Lowered The Cost Curve Before The Type 2 Wave Arrives",
+      "title_zh": "DexCom: The 15-Day Sensor Lowered The Cost Curve Before The Type 2 Wave Arrives",
+      "link": "https://seekingalpha.com/article/4955015-dexcom-stock-15-day-sensor-lowered-cost-curve-before-type-2-wave-arrives?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955015-dexcom-stock-15-day-sensor-lowered-cost-curve-before-type-2-wave-arrives",
+      "published_at": "2026-10-17T23:41:28-04:00",
       "category": "综合资讯",
       "risk_level": "低",
       "keywords": [
-        "Bancorp",
-        "Not",
-        "Expecting",
-        "Much",
-        "Seeking Alpha"
+        "DexCom",
+        "The",
+        "15-Day",
+        "Sensor",
+        "Lowered"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：NB Bancorp: Not Expecting Much",
+      "summary": "未调用大模型，以下为原文关键信息摘录：For approximately two years now, the majority of the discussion surrounding DexCom (DXCM) has centered on the defense of the company.；In my view, this way of thinking omits what has truly shifted during 2026.；By Summary - DexCom is transforming into the premium CGM provider with the lowest cost per patient-day and robust clinical evidence, especially for non-insulin Type 2 diabetes.",
       "important_points": [
-        "NB Bancorp: Not Expecting Much"
+        "For approximately two years now, the majority of the discussion surrounding DexCom (DXCM) has centered on the defense of the company.",
+        "In my view, this way of thinking omits what has truly shifted during 2026.",
+        "By Summary - DexCom is transforming into the premium CGM provider with the lowest cost per patient-day and robust clinical evidence, especially for non-insulin Type 2 diabetes."
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
-      "title": "Dividend Champion, Contender, And Challenger Highlights: Week Of October 18",
-      "title_zh": "Dividend Champion, Contender, And Challenger Highlights: Week Of October 18",
-      "link": "https://seekingalpha.com/article/4954906-dividend-champion-contender-and-challenger-highlights-week-october-18?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954906-dividend-champion-contender-and-challenger-highlights-week-october-18",
-      "published_at": "2026-10-16T22:01:19+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "Dividend",
-        "Champion",
-        "Contender",
-        "And",
-        "Challenger"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Dividend Champion, Contender, And Challenger Highlights: Week Of October 18",
-      "important_points": [
-        "Dividend Champion, Contender, And Challenger Highlights: Week Of October 18"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-      "title_zh": "Nowhere to hide: Tech selloff hits software and chip stocks alike",
-      "link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks-alike-6d96773c?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T21:59:00+00:00",
+      "title": "The 1-Minute Market Report, October 17, 2026 (NYSEARCA:VOO)",
+      "title_zh": "The 1-Minute Market Report, October 17, 2026 (NYSEARCA:VOO)",
+      "link": "https://seekingalpha.com/article/4955014-the-1-minute-market-report-october-17-2026?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955014-the-1-minute-market-report-october-17-2026",
+      "published_at": "2026-10-17T23:27:46-04:00",
       "category": "科技与创新",
       "risk_level": "低",
       "keywords": [
-        "Nowhere",
-        "hide",
-        "Tech",
-        "selloff",
-        "hits"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market.",
-      "important_points": [
-        "The software and semiconductor sectors haven’t been trading in tandem much this year, but they collectively fell Friday as AI and interest-rate fears hit the market."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "V.F. Corporation: Why I Think Active Should Be Divested",
-      "title_zh": "V.F. Corporation: Why I Think Active Should Be Divested",
-      "link": "https://seekingalpha.com/article/4954905-vf-corporation-why-i-think-active-should-be-divested?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954905-vf-corporation-why-i-think-active-should-be-divested",
-      "published_at": "2026-10-16T21:54:39+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "V.F.",
-        "Corporation",
-        "Why",
-        "Think",
-        "Active"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：V.F.；Corporation: Why I Think Active Should Be Divested",
-      "important_points": [
-        "V.F.",
-        "Corporation: Why I Think Active Should Be Divested"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "RELX: The Risk Segment Makes This Buy Less Risky",
-      "title_zh": "RELX: The Risk Segment Makes This Buy Less Risky",
-      "link": "https://seekingalpha.com/article/4954904-relx-risk-segment-makes-this-buy-less-risky?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954904-relx-risk-segment-makes-this-buy-less-risky",
-      "published_at": "2026-10-16T21:46:04+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "RELX",
         "The",
-        "Risk",
-        "Segment",
-        "Makes"
+        "1-Minute",
+        "Market",
+        "Report",
+        "October"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：RELX: The Risk Segment Makes This Buy Less Risky",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Over the last few weeks, investors have been trimming exposure to the AI trade and looking for bargains in the market segments that have been lagging behind.；In other words, selling growth and buying value.；Last week the pace Summary - Recent market action reflects a rotation from AI and growth stocks into value, defensive sectors, and beaten-down areas like consumer staples.",
       "important_points": [
-        "RELX: The Risk Segment Makes This Buy Less Risky"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "MarketWatch",
-      "title": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
-      "title_zh": "This Senate race where data centers are a crucial issue has more spending than any other midterm clash",
-      "link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/this-senate-race-where-data-centers-are-a-crucial-issue-has-more-spending-than-any-other-midterm-clash-5152b43d?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T21:43:00+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "This",
-        "Senate",
-        "race",
-        "where",
-        "data"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”",
-      "important_points": [
-        "Money is pouring in and funding intense, negative ads: “It’s everywhere, and you can’t escape it.”"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "title_zh": "Could an Anthropic IPO put your 401(k) at risk? The AI safety debate hits a new dimension.",
-      "link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/could-an-anthropic-ipo-put-your-401-k-at-risk-the-ai-safety-debate-hits-a-new-dimension-db3f09f7?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T21:35:00.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "ipo",
-        "Could",
-        "Anthropic",
-        "IPO",
-        "put"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Tech Stocks Could an Anthropic IPO put your 401(k) at risk?；The AI safety debate hits a new dimension.；Anthropic and NYC Comptroller Mark Levine have opened a line of communication to discuss ‘existential risks’ posed by AI and what that could mean for the company’s future stock As Anthropic prepares to go public, Wall Street is grappling with the unprecedented question of how to price the risks associated with artificial-intelligence calamity.",
-      "important_points": [
-        "Tech Stocks Could an Anthropic IPO put your 401(k) at risk?",
-        "The AI safety debate hits a new dimension.",
-        "Anthropic and NYC Comptroller Mark Levine have opened a line of communication to discuss ‘existential risks’ posed by AI and what that could mean for the company’s future stock As Anthropic prepares to go public, Wall Street is grappling with the unprecedented question of how to price the risks associated with artificial-intelligence calamity."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "ipo"
-      ]
-    },
-    {
-      "source": "MarketWatch",
-      "title": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-      "title_zh": "The bond market shrugged off two inflation shocks. Why stock investors should pay attention.",
-      "link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/the-bond-market-shrugged-off-two-inflation-shocks-why-stock-investors-should-pay-attention-5da4f771?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T21:30:00+00:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "inflation",
-        "cpi",
-        "bond",
-        "treasury",
-        "The"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Hot CPI and PPI data should have pushed Treasury yields higher.；Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors.",
-      "important_points": [
-        "Hot CPI and PPI data should have pushed Treasury yields higher.",
-        "Instead, bond buyers stepped in to suggest yields have risen high enough to become attractive for investors."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "inflation",
-        "cpi",
-        "bond",
-        "treasury"
-      ]
-    },
-    {
-      "source": "MarketWatch",
-      "title": "New SEC rules would fleece everyday investors to enrich Wall Street",
-      "title_zh": "New SEC rules would fleece everyday investors to enrich Wall Street",
-      "link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/new-sec-rules-would-fleece-everyday-investors-to-enrich-wall-street-0a00fe03?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T21:21:00+00:00",
-      "category": "监管与合规",
-      "risk_level": "低",
-      "keywords": [
-        "New",
-        "SEC",
-        "rules",
-        "would",
-        "fleece"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors.",
-      "important_points": [
-        "New proposals from the Securities and Exchange Commission will tilt the scales in favor of Wall Street and against a huge group of retail investors."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "MarketWatch",
-      "title": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "title_zh": "I’m 63 and diagnosed with lymphoma. Should I take my Social Security next year?",
-      "link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/its-a-wait-and-see-situation-im-63-and-diagnosed-with-lymphoma-should-i-take-my-social-security-next-year-ea88b419?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T21:15:00+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "and",
-        "diagnosed",
-        "with",
-        "lymphoma.",
-        "Should"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”",
-      "important_points": [
-        "“My plan is to continue working as long as I’m able to do so and invest my Social Security benefits while I’m still earning a paycheck.”"
+        "Over the last few weeks, investors have been trimming exposure to the AI trade and looking for bargains in the market segments that have been lagging behind.",
+        "In other words, selling growth and buying value.",
+        "Last week the pace Summary - Recent market action reflects a rotation from AI and growth stocks into value, defensive sectors, and beaten-down areas like consumer staples."
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
-      "title": "AI Bubble Just Became The Fed's Inflation Problem",
-      "title_zh": "AI Bubble Just Became The Fed's Inflation Problem",
-      "link": "https://seekingalpha.com/article/4954900-ai-bubble-just-became-feds-inflation-problem?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954900-ai-bubble-just-became-feds-inflation-problem",
-      "published_at": "2026-10-16T21:11:29+00:00",
+      "title": "Grab Holdings Stock: Strong Multiple-Year Growth Ahead (NASDAQ:GRAB)",
+      "title_zh": "Grab Holdings Stock: Strong Multiple-Year Growth Ahead (NASDAQ:GRAB)",
+      "link": "https://seekingalpha.com/article/4955013-grab-holdings-strong-multiple-year-growth-ahead?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955013-grab-holdings-strong-multiple-year-growth-ahead",
+      "published_at": "2026-10-17T23:12:27-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "earnings",
+        "Grab",
+        "Holdings",
+        "Stock"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Grab Holdings is positioned for multi-year revenue and earnings growth across Southeast Asia's ride-hailing, delivery, and fintech sectors.；GRAB's recent share price pullback may be bottoming, presenting a potential buying opportunity for investors seeking long-term growth.；The pending $1.49 billion acquisition of a majority stake in Atome Financial is expected to accelerate GRAB's financial services expansion and credit capabilities.",
+      "important_points": [
+        "Summary - Grab Holdings is positioned for multi-year revenue and earnings growth across Southeast Asia's ride-hailing, delivery, and fintech sectors.",
+        "GRAB's recent share price pullback may be bottoming, presenting a potential buying opportunity for investors seeking long-term growth.",
+        "The pending $1.49 billion acquisition of a majority stake in Atome Financial is expected to accelerate GRAB's financial services expansion and credit capabilities."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq",
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Ladder Capital Stock: The Case For An Upside Revaluation (NYSE:LADR)",
+      "title_zh": "Ladder Capital Stock: The Case For An Upside Revaluation (NYSE:LADR)",
+      "link": "https://seekingalpha.com/article/4955011-ladder-capital-the-case-for-an-upside-revaluation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955011-ladder-capital-the-case-for-an-upside-revaluation",
+      "published_at": "2026-10-17T22:51:18-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "real estate",
+        "earnings",
+        "Ladder",
+        "Capital",
+        "Stock"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Improving asset quality, a strong distributable earnings trajectory, and a growing commercial real estate loan portfolio were all defining characteristics for Ladder Capital (LADR) in the third fiscal quarter.；The CRE finance REIT benefited from a Summary - Ladder Capital delivered robust Q3 results on Friday, featuring improving asset quality, strong distributable earnings growth, and a $400M Q/Q expansion in its portfolio.；LADR's dividend coverage ratio improved to 152% in Q3, marking the third consecutive quarter of rising coverage.",
+      "important_points": [
+        "Improving asset quality, a strong distributable earnings trajectory, and a growing commercial real estate loan portfolio were all defining characteristics for Ladder Capital (LADR) in the third fiscal quarter.",
+        "The CRE finance REIT benefited from a Summary - Ladder Capital delivered robust Q3 results on Friday, featuring improving asset quality, strong distributable earnings growth, and a $400M Q/Q expansion in its portfolio.",
+        "LADR's dividend coverage ratio improved to 152% in Q3, marking the third consecutive quarter of rising coverage."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "real estate",
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "TSMC Stock: The AI Boom Is Bigger And Longer Than Expected (NYSE:TSM)",
+      "title_zh": "TSMC Stock: The AI Boom Is Bigger And Longer Than Expected (NYSE:TSM)",
+      "link": "https://seekingalpha.com/article/4955010-tsmc-the-ai-boom-is-bigger-and-longer-than-expected?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955010-tsmc-the-ai-boom-is-bigger-and-longer-than-expected",
+      "published_at": "2026-10-17T22:26:53-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "TSMC",
+        "Stock",
+        "The",
+        "Boom",
+        "Bigger"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Introduction I initially recommended holding Taiwan Semiconductor Manufacturing Company (TSM) back in April, primarily because of its stretched valuation.；However, in July, I upgraded it to Buy in July, arguing that the ongoing AI buildout could I initially recommended holding Taiwan Semiconductor Manufacturing Company (TSM) back in April, primarily because of its stretched valuation.；However, in July, I upgraded it to Buy in July, arguing that the ongoing AI buildout could This article was written by Analystâs Disclosure: I/we have a beneficial long position in the shares of TSM either through stock ownership, options, or other derivatives.",
+      "important_points": [
+        "Introduction I initially recommended holding Taiwan Semiconductor Manufacturing Company (TSM) back in April, primarily because of its stretched valuation.",
+        "However, in July, I upgraded it to Buy in July, arguing that the ongoing AI buildout could I initially recommended holding Taiwan Semiconductor Manufacturing Company (TSM) back in April, primarily because of its stretched valuation.",
+        "However, in July, I upgraded it to Buy in July, arguing that the ongoing AI buildout could This article was written by Analystâs Disclosure: I/we have a beneficial long position in the shares of TSM either through stock ownership, options, or other derivatives."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Starwood Property Stock: Why I Got This Wrong (NYSE:STWD)",
+      "title_zh": "Starwood Property Stock: Why I Got This Wrong (NYSE:STWD)",
+      "link": "https://seekingalpha.com/article/4955009-starwood-property-why-i-got-this-wrong?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955009-starwood-property-why-i-got-this-wrong",
+      "published_at": "2026-10-17T22:15:08-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "Starwood",
+        "Property",
+        "Stock",
+        "Why",
+        "Got"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Performance Assessment My bullish view on Starwood Property Trust, Inc.；(STWD) has not fared well: Elevator Pitch I believe the main reason for the STWD's weakness is its sensitivity to increasingly unfavorable rates-related macroeconomic My bullish view on Starwood Property Trust, Inc.；(STWD) has not fared well: I believe the main reason for the STWD's weakness is its sensitivity to increasingly unfavorable rates-related macroeconomic This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.",
+      "important_points": [
+        "Performance Assessment My bullish view on Starwood Property Trust, Inc.",
+        "(STWD) has not fared well: Elevator Pitch I believe the main reason for the STWD's weakness is its sensitivity to increasingly unfavorable rates-related macroeconomic My bullish view on Starwood Property Trust, Inc.",
+        "(STWD) has not fared well: I believe the main reason for the STWD's weakness is its sensitivity to increasingly unfavorable rates-related macroeconomic This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "T-Mobile Stock: A Major Profit Boost May Be Coming (NASDAQ:TMUS)",
+      "title_zh": "T-Mobile Stock: A Major Profit Boost May Be Coming (NASDAQ:TMUS)",
+      "link": "https://seekingalpha.com/article/4955008-t-mobile-a-major-profit-boost-may-be-coming?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955008-t-mobile-a-major-profit-boost-may-be-coming",
+      "published_at": "2026-10-17T21:51:40-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "T-Mobile",
+        "Stock",
+        "Major",
+        "Profit"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：There is a particular T-Mobile (TMUS) issue I've been wanting to write an article about for a few weeks now.；I have continually delayed its publication because T-Mobile has repeatedly delayed the official announcement of Summary - T-Mobile is implementing back-to-back price hikes via its new T-Mix plans, signaling pricing power in a stable triopoly.；TMUS's T-Mix integrates perks and handset subsidies, sharply reducing effective benefits and likely cutting annual handset subsidy costs by up to $3.5â$4 billion.",
+      "important_points": [
+        "There is a particular T-Mobile (TMUS) issue I've been wanting to write an article about for a few weeks now.",
+        "I have continually delayed its publication because T-Mobile has repeatedly delayed the official announcement of Summary - T-Mobile is implementing back-to-back price hikes via its new T-Mix plans, signaling pricing power in a stable triopoly.",
+        "TMUS's T-Mix integrates perks and handset subsidies, sharply reducing effective benefits and likely cutting annual handset subsidy costs by up to $3.5â$4 billion."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "FDIG: Two Funds In One, And The Miner Half Faces A Funding Squeeze (NASDAQ:FDIG)",
+      "title_zh": "FDIG: Two Funds In One, And The Miner Half Faces A Funding Squeeze (NASDAQ:FDIG)",
+      "link": "https://seekingalpha.com/article/4955007-fdig-two-funds-in-one-and-the-miner-half-faces-a-funding-squeeze?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955007-fdig-two-funds-in-one-and-the-miner-half-faces-a-funding-squeeze",
+      "published_at": "2026-10-17T21:17:44-04:00",
+      "category": "股市",
+      "risk_level": "中",
+      "keywords": [
+        "fed",
+        "nasdaq",
+        "FDIG",
+        "Two",
+        "Funds"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - I rate the Fidelity Crypto Industry and Digital Payments ETF a Hold: it combines a ~66% crypto sleeve led by bitcoin miners with a ~32% payments sleeve.；Miners with AI contracts make up ~24% of FDIG and trade at premium multiples, but they face a ~$50B funding gap as the Fed raises rates.；The fund behaves like a leveraged crypto bet, with high beta (~3.0) and performance closely tracking Bitcoinâs volatility.",
+      "important_points": [
+        "Summary - I rate the Fidelity Crypto Industry and Digital Payments ETF a Hold: it combines a ~66% crypto sleeve led by bitcoin miners with a ~32% payments sleeve.",
+        "Miners with AI contracts make up ~24% of FDIG and trade at premium multiples, but they face a ~$50B funding gap as the Fed raises rates.",
+        "The fund behaves like a leveraged crypto bet, with high beta (~3.0) and performance closely tracking Bitcoinâs volatility."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "fed",
+        "nasdaq"
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "title_zh": "Can a $55,000 robot load the dishwasher? Inside my afternoon with two humanoid housekeepers.",
+      "link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/can-a-55-000-plus-robot-load-the-dishwasher-inside-my-afternoon-with-two-humanoid-housekeepers-0a9569ab?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T20:53:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Can",
+        "000",
+        "robot",
+        "load",
+        "the"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes.",
+      "important_points": [
+        "Tau Robotics’ humanoids vacuumed my floors and wiped my counters — with some help from humans behind the scenes."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "HDFC Bank Limited 2027 Q2 - Results - Earnings Call Presentation",
+      "title_zh": "HDFC Bank Limited 2027 Q2 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4955004-hdfc-bank-limited-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955004-hdfc-bank-limited-2027-q2-results-earnings-call-presentation",
+      "published_at": "2026-10-17T20:30:48+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "HDFC",
+        "Bank",
+        "Limited",
+        "2027"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：HDFC Bank Limited 2027 Q2 - Results - Earnings Call Presentation",
+      "important_points": [
+        "HDFC Bank Limited 2027 Q2 - Results - Earnings Call Presentation"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "PDS Biotechnology Corporation (PDSB) Discusses PDS-0301 Immunocytokine and Its Role in Treating Metastatic Colorectal Cancer - Slideshow (NASDAQ:PDSB) 2026-10-17",
+      "title_zh": "PDS Biotechnology Corporation (PDSB) Discusses PDS-0301 Immunocytokine and Its Role in Treating Metastatic Colorectal Cancer - Slideshow (NASDAQ:PDSB) 2026-10-17",
+      "link": "https://seekingalpha.com/article/4955005-pds-biotechnology-corporation-pdsb-discusses-pdsminus-0301-immunocytokine-and-its-role-in?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955005-pds-biotechnology-corporation-pdsb-discusses-pdsminus-0301-immunocytokine-and-its-role-in",
+      "published_at": "2026-10-17T19:04:51-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "earnings",
+        "PDS",
+        "Biotechnology",
+        "Corporation"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：The following slide deck was published by PDS Biotechnology Corporation in conjunction with this event.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.；We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.",
+      "important_points": [
+        "The following slide deck was published by PDS Biotechnology Corporation in conjunction with this event.",
+        "This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.",
+        "We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq",
+        "earnings"
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+      "title_zh": "Fake shopping sprees and ‘happiness insurance’: The latest fintech apps reveal our financial anxieties",
+      "link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/fake-shopping-sprees-and-happiness-insurance-the-latest-fintech-apps-reveal-our-financial-anxieties-77770a46?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T18:52:00+00:00",
+      "category": "科技与创新",
+      "risk_level": "低",
+      "keywords": [
+        "Fake",
+        "shopping",
+        "sprees",
+        "and",
+        "happiness"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment.",
+      "important_points": [
+        "Fintech companies are catching on to how Americans are altering their financial habits, and they’ve created new products to try to meet the moment."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "title_zh": "Is Apple’s foldable iPhone Duo worth $2,000? See how it stacks up against other foldable phones.",
+      "link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/is-apples-foldable-iphone-duo-worth-2-000-see-how-it-stacks-up-against-other-foldable-phones-c9066b13?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T18:40:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Apple",
+        "foldable",
+        "iPhone",
+        "Duo",
+        "worth"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google.",
+      "important_points": [
+        "Preorders for the iPhone Duo began Friday, marking Apple’s debut in a foldable phone market largely dominated by Samsung and Google."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "title_zh": "Investing, not homeownership, is the No. 1 milestone that makes Gen Z renters feel successful",
+      "link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/gen-z-renters-are-the-only-group-more-likely-to-feel-successful-by-investing-than-buying-a-house-30ac5344?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T18:40:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Investing",
+        "not",
+        "homeownership",
+        "the",
+        "No."
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”",
+      "important_points": [
+        "“Instead of focusing on homeownership, many are prioritizing financial freedom and debt-free living.”"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "HDFC Bank Limited (HDB) Q2 2027 Earnings Call Transcript",
+      "title_zh": "HDFC Bank Limited (HDB) Q2 2027 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4954993-hdfc-bank-limited-hdb-q2-2027-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954993-hdfc-bank-limited-hdb-q2-2027-earnings-call-transcript",
+      "published_at": "2026-10-17T16:34:39-04:00",
       "category": "宏观经济",
       "risk_level": "低",
       "keywords": [
-        "fed",
-        "inflation",
-        "Bubble",
-        "Just",
-        "Became"
+        "earnings",
+        "gdp",
+        "HDFC",
+        "Bank",
+        "Limited"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：AI Bubble Just Became The Fed's Inflation Problem",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Srinivasan Vaidyanathan - Chief Financial Officer Sashidhar Jagdishan - MD, CEO & Director Anup Bagchi Kaizad Bharucha - Deputy MD & Director Conference Call Participants Mahrukh Adajania Kunal Shah - Citigroup Inc., Research Division Rikin Shah - IIFL Research Parag Thakkar - Fort Capital Investment Advisory Private Limited Piran Engineer - CLSA Limited, Research Division Chintan Joshi Nitin Aggarwal - Motilal Oswal Securities Limited, Research Division Ankit Bihani - Nomura Securities Co.；Ltd., Research Division Presentation Operator Ladies and gentlemen, good day, and welcome to HDFC Bank Limited Q2 FY '27 Earnings Conference Call on the financial results presented by the management of HDFC Bank.；[Operator Instructions] Please note that this conference is being recorded.",
       "important_points": [
-        "AI Bubble Just Became The Fed's Inflation Problem"
+        "Company Participants Srinivasan Vaidyanathan - Chief Financial Officer Sashidhar Jagdishan - MD, CEO & Director Anup Bagchi Kaizad Bharucha - Deputy MD & Director Conference Call Participants Mahrukh Adajania Kunal Shah - Citigroup Inc., Research Division Rikin Shah - IIFL Research Parag Thakkar - Fort Capital Investment Advisory Private Limited Piran Engineer - CLSA Limited, Research Division Chintan Joshi Nitin Aggarwal - Motilal Oswal Securities Limited, Research Division Ankit Bihani - Nomura Securities Co.",
+        "Ltd., Research Division Presentation Operator Ladies and gentlemen, good day, and welcome to HDFC Bank Limited Q2 FY '27 Earnings Conference Call on the financial results presented by the management of HDFC Bank.",
+        "[Operator Instructions] Please note that this conference is being recorded."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "fed",
-        "inflation"
+        "earnings",
+        "gdp"
       ]
     },
     {
-      "source": "MarketWatch",
-      "title": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
-      "title_zh": "Don’t buy this dip: Several signs suggest there’s more pain ahead for tech stocks",
-      "link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/dont-buy-this-dip-several-signs-suggest-theres-more-pain-ahead-for-tech-stocks-83f971d7?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T20:58:00+00:00",
+      "source": "CNBC Top News",
+      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+      "title_zh": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+      "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+      "published_at": "2026-10-17T16:31:29+0000",
       "category": "股市",
-      "risk_level": "低",
+      "risk_level": "中",
       "keywords": [
-        "nasdaq",
-        "Don",
-        "buy",
-        "this",
-        "dip"
+        "interest rate",
+        "stock market",
+        "Semiconductor",
+        "market",
+        "remain"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Thinking of buying the dip in technology stocks?；The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：The semiconductor boom will last at least through 2027, South Korean finance minister Lee Hyoung-Il said on Saturday.；\"For now, our view is that we can sustain this growth at least through next year,\" Lee told CNBC on the sidelines of the IMF-World Bank annual meetings in Bangkok.；\"That's because the gap between demand and supply for semiconductors is still very wide, and supply is still being expanded.\" His comments come after semiconductor stocks fell sharply this week, hurt by investor concerns about interest rate hikes and rising competition from Chinese companies.",
       "important_points": [
-        "Thinking of buying the dip in technology stocks?",
-        "The Nasdaq Composite’s technical outlook suggests don’t do it — at least not yet."
+        "The semiconductor boom will last at least through 2027, South Korean finance minister Lee Hyoung-Il said on Saturday.",
+        "\"For now, our view is that we can sustain this growth at least through next year,\" Lee told CNBC on the sidelines of the IMF-World Bank annual meetings in Bangkok.",
+        "\"That's because the gap between demand and supply for semiconductors is still very wide, and supply is still being expanded.\" His comments come after semiconductor stocks fell sharply this week, hurt by investor concerns about interest rate hikes and rising competition from Chinese companies."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "nasdaq"
+        "interest rate",
+        "stock market"
       ]
     },
     {
       "source": "Seeking Alpha",
-      "title": "S&P 500 Snapshot: Stocks Slide Nearly 2% For The Week",
-      "title_zh": "S&P 500 Snapshot: Stocks Slide Nearly 2% For The Week",
-      "link": "https://seekingalpha.com/article/4954917-s-p-500-snapshot-stocks-slide-nearly-2-percent-for-week?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954917-s-p-500-snapshot-stocks-slide-nearly-2-percent-for-week",
-      "published_at": "2026-10-16T20:45:00-04:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "s&p 500",
-        "500",
-        "Snapshot",
-        "Stocks",
-        "Slide"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - The S&P 500 fell nearly 2% for the week, its worst since the week of June 26.；The index is currently sitting roughly 2% below its record close.；The S&P 500 is currently up 11.89% year-to-date, while the S&P Equal Weight is up 11.72% year-to-date.",
-      "important_points": [
-        "Summary - The S&P 500 fell nearly 2% for the week, its worst since the week of June 26.",
-        "The index is currently sitting roughly 2% below its record close.",
-        "The S&P 500 is currently up 11.89% year-to-date, while the S&P Equal Weight is up 11.72% year-to-date."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "s&p 500"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "F.N.B. Corporation Doesn't Need A Downgrade As Earnings Near",
-      "title_zh": "F.N.B. Corporation Doesn't Need A Downgrade As Earnings Near",
-      "link": "https://seekingalpha.com/article/4954895-fnb-corporation-doesnt-need-a-downgrade-as-earnings-near?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954895-fnb-corporation-doesnt-need-a-downgrade-as-earnings-near",
-      "published_at": "2026-10-16T20:33:30+00:00",
+      "title": "Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut",
+      "title_zh": "Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut",
+      "link": "https://seekingalpha.com/article/4955001-collegium-pharmaceutical-under-3x-cash-earnings-after-a-narrow-guidance-cut?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955001-collegium-pharmaceutical-under-3x-cash-earnings-after-a-narrow-guidance-cut",
+      "published_at": "2026-10-17T16:18:21+00:00",
       "category": "公司财报与IPO",
       "risk_level": "低",
       "keywords": [
         "earnings",
-        "F.N.B.",
-        "Corporation",
-        "Doesn",
-        "Need"
+        "Collegium",
+        "Pharmaceutical",
+        "Under",
+        "Cash"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：F.N.B.；Corporation Doesn't Need A Downgrade As Earnings Near",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut",
       "important_points": [
-        "F.N.B.",
-        "Corporation Doesn't Need A Downgrade As Earnings Near"
+        "Collegium Pharmaceutical: Under 3x Cash Earnings After A Narrow Guidance Cut"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Axis Bank Limited (AXBKY) Q2 2027 Earnings Call Transcript",
+      "title_zh": "Axis Bank Limited (AXBKY) Q2 2027 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4954999-axis-bank-limited-axbky-q2-2027-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954999-axis-bank-limited-axbky-q2-2027-earnings-call-transcript",
+      "published_at": "2026-10-17T16:14:40-04:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Axis",
+        "Bank",
+        "Limited",
+        "AXBKY"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Amitabh Chaudhry - MD, CEO & Executive Director Rajeev Mantri - Chief Financial Officer Subrat Mohanty - Executive Director of Banking Operations & Transformation and Director Vijay Mulbagal - Group Head of Wholesale Banking Coverage, Corporate Salary, Sustainability & CSR Arnika Dixit - Group Head of Wealth Management, Affluent Banking, Cards & Payments Business Neeraj Gambhir - Executive Director Munish Sharda - Executive Director Conference Call Participants Chintan Joshi Mahrukh Adajania Rikin Shah - IIFL Research Abhishek Murarka - HSBC Global Investment Research Kunal Shah - Citigroup Inc., Research Division Piran Engineer Jai Prakash Mundhra - ICICI Securities Limited, Research Division Presentation Operator Ladies and gentlemen, good day, and welcome to the Axis Bank conference call to discuss the bank's financial results for the quarter ended as on 30th September 2026.；Participation in the conference call is by invitation only.；Axis Bank reserves the right to block access to any person to whom an invitation has not been sent.",
+      "important_points": [
+        "Company Participants Amitabh Chaudhry - MD, CEO & Executive Director Rajeev Mantri - Chief Financial Officer Subrat Mohanty - Executive Director of Banking Operations & Transformation and Director Vijay Mulbagal - Group Head of Wholesale Banking Coverage, Corporate Salary, Sustainability & CSR Arnika Dixit - Group Head of Wealth Management, Affluent Banking, Cards & Payments Business Neeraj Gambhir - Executive Director Munish Sharda - Executive Director Conference Call Participants Chintan Joshi Mahrukh Adajania Rikin Shah - IIFL Research Abhishek Murarka - HSBC Global Investment Research Kunal Shah - Citigroup Inc., Research Division Piran Engineer Jai Prakash Mundhra - ICICI Securities Limited, Research Division Presentation Operator Ladies and gentlemen, good day, and welcome to the Axis Bank conference call to discuss the bank's financial results for the quarter ended as on 30th September 2026.",
+        "Participation in the conference call is by invitation only.",
+        "Axis Bank reserves the right to block access to any person to whom an invitation has not been sent."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "ICICI Bank Limited (IBN) Q2 2027 Earnings Call Transcript",
+      "title_zh": "ICICI Bank Limited (IBN) Q2 2027 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4954995-icici-bank-limited-ibn-q2-2027-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954995-icici-bank-limited-ibn-q2-2027-earnings-call-transcript",
+      "published_at": "2026-10-17T15:54:40+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "ICICI",
+        "Bank",
+        "Limited",
+        "IBN"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：ICICI Bank Limited (IBN) Q2 2027 Earnings Call Transcript",
+      "important_points": [
+        "ICICI Bank Limited (IBN) Q2 2027 Earnings Call Transcript"
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
@@ -581,284 +633,127 @@
     },
     {
       "source": "CNBC Top News",
-      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
-      "title_zh": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues",
-      "link": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
-      "canonical_link": "https://www.cnbc.com/investingclub/2026/10/16/coreweave-credit-default-swaps.html",
-      "published_at": "2026-10-16T20:29:29+0000",
+      "title": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+      "title_zh": "AI stocks plunge. Inflation heats up. Where we're still finding opportunities",
+      "link": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+      "canonical_link": "https://www.cnbc.com/investingclub/2026/10/17/ai-stocks-plunge-inflation-heats-up-where-were-still-finding-opportunities.html",
+      "published_at": "2026-10-17T15:42:34+0000",
       "category": "股市",
       "risk_level": "高",
       "keywords": [
-        "bond",
-        "interest rate",
         "inflation",
-        "nasdaq",
-        "treasury"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Mounting fears that CoreWeave's debt stress may signal a broader problem with the insatiable borrowing-driven artificial intelligence infrastructure build-out slammed tech stocks this week.；The Nasdaq logged a weekly loss of 4.5%.；CoreWeave stock plunged nearly 12% on Friday.",
-      "important_points": [
-        "Mounting fears that CoreWeave's debt stress may signal a broader problem with the insatiable borrowing-driven artificial intelligence infrastructure build-out slammed tech stocks this week.",
-        "The Nasdaq logged a weekly loss of 4.5%.",
-        "CoreWeave stock plunged nearly 12% on Friday."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "bond",
-        "interest rate",
-        "inflation",
-        "nasdaq",
-        "treasury",
-        "housing"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Tough Trading Leaves Indices In The Red",
-      "title_zh": "Tough Trading Leaves Indices In The Red",
-      "link": "https://seekingalpha.com/article/4954916-tough-trading-leaves-indices-in-red?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954916-tough-trading-leaves-indices-in-red",
-      "published_at": "2026-10-16T20:20:00-04:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "inflation",
-        "nasdaq",
-        "Tough",
-        "Trading",
-        "Leaves"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：By JJ Kinahan What a week!；Wall Street appeared to get a blunt reality check with a three-prong attack that pressured all three major indices, pushing the technology-heavy indices to the downside for the week.；What happened?",
-      "important_points": [
-        "By JJ Kinahan What a week!",
-        "Wall Street appeared to get a blunt reality check with a three-prong attack that pressured all three major indices, pushing the technology-heavy indices to the downside for the week.",
-        "What happened?"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "inflation",
+        "earnings",
+        "federal reserve",
+        "stock market",
         "nasdaq"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：The sinking AI trade and hotter-than-expected inflation data rattled last week's stock market.；But solid bank earnings and a rotation beyond tech gave us reasons for optimism.；The Nasdaq's 4.5% weekly decline broke a four-week winning streak and marked the worst weekly decline for the tech-heavy index since June.",
+      "important_points": [
+        "The sinking AI trade and hotter-than-expected inflation data rattled last week's stock market.",
+        "But solid bank earnings and a rotation beyond tech gave us reasons for optimism.",
+        "The Nasdaq's 4.5% weekly decline broke a four-week winning streak and marked the worst weekly decline for the tech-heavy index since June."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "inflation",
+        "earnings",
+        "federal reserve",
+        "stock market",
+        "nasdaq",
+        "dow jones",
+        "bond"
       ]
     },
     {
       "source": "Seeking Alpha",
-      "title": "Invesco E&P ETF Has Relatively High Non-E&P Positioning",
-      "title_zh": "Invesco E&P ETF Has Relatively High Non-E&P Positioning",
-      "link": "https://seekingalpha.com/article/4954891-invesco-e-and-p-etf-has-relatively-high-non-e-and-p-positioning?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954891-invesco-e-and-p-etf-has-relatively-high-non-e-and-p-positioning",
-      "published_at": "2026-10-16T20:09:00+00:00",
-      "category": "基金与理财",
-      "risk_level": "低",
-      "keywords": [
-        "Invesco",
-        "ETF",
-        "Has",
-        "Relatively",
-        "High"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Invesco E&P ETF Has Relatively High Non-E&P Positioning",
-      "important_points": [
-        "Invesco E&P ETF Has Relatively High Non-E&P Positioning"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "MarketWatch",
-      "title": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "title_zh": "EchoStar’s stock looks like a stealthy way to ride the SpaceX wave, J.P. Morgan says",
-      "link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/echostars-stock-looks-like-a-stealthy-way-to-ride-the-spacex-wave-j-p-morgan-says-c4effa5d?mod=mw_rss_topstories",
-      "published_at": "2026-10-16T20:05:00+00:00",
+      "title": "RenaissanceRe: I'm Taking Advantage Of 7.38% Yielding Preferred Stock",
+      "title_zh": "RenaissanceRe: I'm Taking Advantage Of 7.38% Yielding Preferred Stock",
+      "link": "https://seekingalpha.com/article/4954618-renaissancere-taking-advantage-7-percent-yielding-preferred-stock?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954618-renaissancere-taking-advantage-7-percent-yielding-preferred-stock",
+      "published_at": "2026-10-17T15:40:00+00:00",
       "category": "股市",
       "risk_level": "低",
       "keywords": [
-        "EchoStar",
-        "stock",
-        "looks",
-        "like",
-        "stealthy"
+        "RenaissanceRe",
+        "Taking",
+        "Advantage",
+        "7.38",
+        "Yielding"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Investors aren’t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：RenaissanceRe: I'm Taking Advantage Of 7.38% Yielding Preferred Stock",
       "important_points": [
-        "Investors aren’t giving EchoStar enough credit for the value of its future SpaceX stake or its potential to strike more spectrum deals, an analyst argues."
+        "RenaissanceRe: I'm Taking Advantage Of 7.38% Yielding Preferred Stock"
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
-      "title": "SITE Centers: Prudence Dictates Exiting Shares",
-      "title_zh": "SITE Centers: Prudence Dictates Exiting Shares",
-      "link": "https://seekingalpha.com/article/4954889-site-centers-prudence-dictates-exiting-shares?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954889-site-centers-prudence-dictates-exiting-shares",
-      "published_at": "2026-10-16T20:00:18+00:00",
-      "category": "股市",
+      "title": "EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can't Be Ignored",
+      "title_zh": "EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can't Be Ignored",
+      "link": "https://seekingalpha.com/article/4954997-eido-indonesia-like-pakistan-in-2008-with-a-delisting-risk-that-cant-be-ignored?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954997-eido-indonesia-like-pakistan-in-2008-with-a-delisting-risk-that-cant-be-ignored",
+      "published_at": "2026-10-17T15:31:09+00:00",
+      "category": "综合资讯",
       "risk_level": "低",
       "keywords": [
-        "SITE",
-        "Centers",
-        "Prudence",
-        "Dictates",
-        "Exiting"
+        "EIDO",
+        "Indonesia",
+        "Like",
+        "Pakistan",
+        "2008"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：SITE Centers: Prudence Dictates Exiting Shares",
+      "summary": "未调用大模型，以下为原文关键信息摘录：EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can't Be Ignored",
       "important_points": [
-        "SITE Centers: Prudence Dictates Exiting Shares"
+        "EIDO: Indonesia Like Pakistan In 2008, With A Delisting Risk That Can't Be Ignored"
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
-      "title": "Buy VCV, Short VPV - Arbitrage Opportunity With Municipal Funds (NYSE:VCV)",
-      "title_zh": "Buy VCV, Short VPV - Arbitrage Opportunity With Municipal Funds (NYSE:VCV)",
-      "link": "https://seekingalpha.com/article/4954914-buy-vcv-short-vpv-arbitrage-opportunity-with-municipal-funds?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954914-buy-vcv-short-vpv-arbitrage-opportunity-with-municipal-funds",
-      "published_at": "2026-10-16T19:12:31-04:00",
-      "category": "基金与理财",
+      "title": "M&T Bank: Upside Case Remains Intact After Q3",
+      "title_zh": "M&T Bank: Upside Case Remains Intact After Q3",
+      "link": "https://seekingalpha.com/article/4954996-m-and-t-bank-upside-case-remains-intact-after-q3?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954996-m-and-t-bank-upside-case-remains-intact-after-q3",
+      "published_at": "2026-10-17T15:14:52+00:00",
+      "category": "综合资讯",
       "risk_level": "低",
       "keywords": [
-        "Buy",
-        "VCV",
-        "Short",
-        "VPV",
-        "Arbitrage"
+        "Bank",
+        "Upside",
+        "Case",
+        "Remains",
+        "Intact"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Invesco California Value Municipal Income Trust (VCV) is analyzed with a focus on its portfolio, expenses, and valuation metrics.；VCV's current discount to NAV and historical z-scores are highlighted as key factors for assessing entry points.；The fund's top holdings and expense structure are examined to evaluate yield sustainability and risk.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：M&T Bank: Upside Case Remains Intact After Q3",
       "important_points": [
-        "Summary - Invesco California Value Municipal Income Trust (VCV) is analyzed with a focus on its portfolio, expenses, and valuation metrics.",
-        "VCV's current discount to NAV and historical z-scores are highlighted as key factors for assessing entry points.",
-        "The fund's top holdings and expense structure are examined to evaluate yield sustainability and risk."
+        "M&T Bank: Upside Case Remains Intact After Q3"
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "CNBC Top News",
-      "title": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-      "title_zh": "Apple’s $1,999 iPhone Duo puts the company's status-symbol power to the test",
-      "link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/apple-iphone-duo-demand-price.html",
-      "published_at": "2026-10-16T18:52:02+0000",
-      "category": "大宗商品",
-      "risk_level": "低",
-      "keywords": [
-        "gold",
-        "earnings",
-        "Apple",
-        "999",
-        "iPhone"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Apple's iPhone Duo, its most expensive iPhone ever, went up for preorder Friday, with launch-day pickup inventory selling out and some online delivery estimates already slipping into late January.；The company said in a statement that the preorder demand was \"nothing short of extraordinary.\" \"We are working hard to get this revolutionary new product into customers' hands as quickly as possible, and we will continue accepting orders online,\" Apple said.；Apple's first foldable phone starts at $1,999 and passes $3,000 at the 2TB storage tier.",
-      "important_points": [
-        "Apple's iPhone Duo, its most expensive iPhone ever, went up for preorder Friday, with launch-day pickup inventory selling out and some online delivery estimates already slipping into late January.",
-        "The company said in a statement that the preorder demand was \"nothing short of extraordinary.\" \"We are working hard to get this revolutionary new product into customers' hands as quickly as possible, and we will continue accepting orders online,\" Apple said.",
-        "Apple's first foldable phone starts at $1,999 and passes $3,000 at the 2TB storage tier."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "gold",
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "I'm Not Able To Upgrade Washington Trust Bancorp Just Yet",
-      "title_zh": "I'm Not Able To Upgrade Washington Trust Bancorp Just Yet",
-      "link": "https://seekingalpha.com/article/4954911-im-not-able-to-upgrade-washington-trust-bancorp-just-yet?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954911-im-not-able-to-upgrade-washington-trust-bancorp-just-yet",
-      "published_at": "2026-10-16T18:31:15-04:00",
-      "category": "公司财报与IPO",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Not",
-        "Able",
-        "Upgrade",
-        "Washington"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Washington Trust Bancorp, Inc.；remains rated Hold as an asset and credit quality, while improved, still present concerns.；WASH's net interest margin increased to 2.73%, and wealth management revenue rose, driving net income up year-over-year.",
-      "important_points": [
-        "Summary - Washington Trust Bancorp, Inc.",
-        "remains rated Hold as an asset and credit quality, while improved, still present concerns.",
-        "WASH's net interest margin increased to 2.73%, and wealth management revenue rose, driving net income up year-over-year."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
-      "title_zh": "Trump says White House didn't order Starlink restrictions in Ukraine",
-      "link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
-      "published_at": "2026-10-16T18:27:02+0000",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "Trump",
-        "says",
-        "White",
-        "House",
-        "didn"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：President Donald Trump on Friday denied that the White House had ordered restrictions this week on Starlink satellite internet services provided to Ukraine's armed forces.；Ukrainian officials on Tuesday and Wednesday said SpaceX had restricted use of Starshield, a military-grade version of Starlink, without warning, impeding some military operations and its ability to defend civilians against intensifying attacks by Russia.；SpaceX CEO Elon Musk pinned responsibility for any restrictions on the U.S.",
-      "important_points": [
-        "President Donald Trump on Friday denied that the White House had ordered restrictions this week on Starlink satellite internet services provided to Ukraine's armed forces.",
-        "Ukrainian officials on Tuesday and Wednesday said SpaceX had restricted use of Starshield, a military-grade version of Starlink, without warning, impeding some military operations and its ability to defend civilians against intensifying attacks by Russia.",
-        "SpaceX CEO Elon Musk pinned responsibility for any restrictions on the U.S."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Taylor Devices, Inc. (TAYD) Shareholder/Analyst Call Transcript",
-      "title_zh": "Taylor Devices, Inc. (TAYD) Shareholder/Analyst Call Transcript",
-      "link": "https://seekingalpha.com/article/4954913-taylor-devices-inc-tayd-shareholder-analyst-call-transcript?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954913-taylor-devices-inc-tayd-shareholder-analyst-call-transcript",
-      "published_at": "2026-10-16T18:24:40-04:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "Taylor",
-        "Devices",
-        "Inc.",
-        "TAYD",
-        "Shareholder"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Timothy Sopko - CEO & Director John Burgess Stuart Buckley Brian Lowicki Todd Avery Jim Talty Robert Conrad - Vice President of Operations Paul Heary - Chief Financial Officer Courtney Smiley Presentation Timothy Sopko CEO & Director As well as report elaborating on the 2026 annual report to share.；[indiscernible] [Audio Gap] Meeting [indiscernible] This meeting on all matters to come before the meeting.；The polls are now open.",
-      "important_points": [
-        "Company Participants Timothy Sopko - CEO & Director John Burgess Stuart Buckley Brian Lowicki Todd Avery Jim Talty Robert Conrad - Vice President of Operations Paul Heary - Chief Financial Officer Courtney Smiley Presentation Timothy Sopko CEO & Director As well as report elaborating on the 2026 annual report to share.",
-        "[indiscernible] [Audio Gap] Meeting [indiscernible] This meeting on all matters to come before the meeting.",
-        "The polls are now open."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "CoreWeave: Why The Bond Crash Doesn",
-      "title_zh": "CoreWeave: Why The Bond Crash Doesn",
-      "link": "https://seekingalpha.com/article/4954908-coreweave-why-the-bond-crash-doesnt-change-the-bullish-case?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954908-coreweave-why-the-bond-crash-doesnt-change-the-bullish-case",
-      "published_at": "2026-10-16T18:24:08-04:00",
+      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "title_zh": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+      "published_at": "2026-10-17T15:00:01+0000",
       "category": "债市",
-      "risk_level": "低",
+      "risk_level": "中",
       "keywords": [
         "bond",
-        "CoreWeave",
-        "Why",
-        "The",
-        "Bond"
+        "Dead",
+        "money",
+        "for",
+        "decade"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：CoreWeave (CRWV) and other neoclouds, as well as AI infrastructure companies, have been subjected to a severe valuation drawdown in recent days amid renewed fears about the sustainability and profitability of their often debt-financed business models.；Summary - CoreWeave has experienced a massive valuation drop this week amid heightened concerns over its debt-financed AI infrastructure buildout.；Despite rising CDS spreads and bond yields, CRWV maintains over $100 billion in revenue backlog and strong demand for GPU capacity.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Investors may want to rethink their bond allocation and opt for managed futures exposure.；DBi's Andrew Beer suggests the popular hedge fund strategy could deliver a modern twist to traditional 60/40 portfolios.；\"[Bonds have] been dead money for the entire decade,\" the firm's co-founder and managing member told CNBC's \"ETF Edge\" this week.",
       "important_points": [
-        "CoreWeave (CRWV) and other neoclouds, as well as AI infrastructure companies, have been subjected to a severe valuation drawdown in recent days amid renewed fears about the sustainability and profitability of their often debt-financed business models.",
-        "Summary - CoreWeave has experienced a massive valuation drop this week amid heightened concerns over its debt-financed AI infrastructure buildout.",
-        "Despite rising CDS spreads and bond yields, CRWV maintains over $100 billion in revenue backlog and strong demand for GPU capacity."
+        "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+        "DBi's Andrew Beer suggests the popular hedge fund strategy could deliver a modern twist to traditional 60/40 portfolios.",
+        "\"[Bonds have] been dead money for the entire decade,\" the firm's co-founder and managing member told CNBC's \"ETF Edge\" this week."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
@@ -866,108 +761,467 @@
       ]
     },
     {
-      "source": "CNBC Top News",
-      "title": "Debt is eating up a bigger chunk of your raise, research shows",
-      "title_zh": "Debt is eating up a bigger chunk of your raise, research shows",
-      "link": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/debt-payments-rise-more-than-income.html",
-      "published_at": "2026-10-16T18:07:51+0000",
-      "category": "宏观经济",
-      "risk_level": "低",
-      "keywords": [
-        "fed",
-        "federal reserve",
-        "inflation",
-        "Debt",
-        "eating"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：A version of this article first appeared in ″CNBC's Money 101 Newsletter with Sharon Epperson,″ an eight-week series with monthly updates to help improve your financial well-being.；Subscribe now to receive the series in your inbox.；It is also available in Spanish.",
-      "important_points": [
-        "A version of this article first appeared in ″CNBC's Money 101 Newsletter with Sharon Epperson,″ an eight-week series with monthly updates to help improve your financial well-being.",
-        "Subscribe now to receive the series in your inbox.",
-        "It is also available in Spanish."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "fed",
-        "federal reserve",
-        "inflation"
-      ]
-    },
-    {
       "source": "Seeking Alpha",
-      "title": "Fractyl Health, Inc. (GUTS) Discusses Positive Top Line 6-Month Results From REMAIN-1 Study of Revita in Post GLP-1 Weight Maintenance Transcript",
-      "title_zh": "Fractyl Health, Inc. (GUTS) Discusses Positive Top Line 6-Month Results From REMAIN-1 Study of Revita in Post GLP-1 Weight Maintenance Transcript",
-      "link": "https://seekingalpha.com/article/4954836-fractyl-health-inc-guts-discusses-positive-top-line-6-month-results-from-remainminus-1-study?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954836-fractyl-health-inc-guts-discusses-positive-top-line-6-month-results-from-remainminus-1-study",
-      "published_at": "2026-10-16T17:24:40-04:00",
+      "title": "BOK Financial Corporation",
+      "title_zh": "BOK Financial Corporation",
+      "link": "https://seekingalpha.com/article/4955000-bok-financial-corporations-drop-opens-a-door-to-an-upgrade?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955000-bok-financial-corporations-drop-opens-a-door-to-an-upgrade",
+      "published_at": "2026-10-17T14:47:14-04:00",
       "category": "综合资讯",
       "risk_level": "低",
       "keywords": [
-        "Fractyl",
-        "Health",
-        "Inc.",
-        "GUTS",
-        "Discusses"
+        "BOK",
+        "Financial",
+        "Corporation",
+        "Seeking Alpha"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Fractyl Health, Inc.；(GUTS) Discusses Positive Top Line 6-Month Results From REMAIN-1 Study of Revita in Post GLP-1 Weight Maintenance October 16, 2026 8:00 AM EDT Company Participants Brian Luque - Head of Investor Relations & Corporate Development Harith Rajagopalan - Co-Founder, CEO, Director & Principal Executive Officer Conference Call Participants Adrian Dan Michael DiFiore - Evercore ISI Institutional Equities, Research Division Whitney Ijem - Canaccord Genuity Corp., Research Division Nicholas Mattiacci Chi Meng Fong - BofA Securities, Research Division Jeffrey Cohen - Ladenburg Thalmann & Co.；Inc., Research Division Joseph Pantginis - H.C.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - BOK Financial Corporation (BOKF) is upgraded to a very soft âbuyâ due to improved metrics and analyst optimism.；BOKFâs net interest margin and profitability have increased, with net profits rising from $140 million to $176.5 million.；Uninsured deposit exposure remains high at 53.2%, but asset quality is strong with only 0.23% non-performing loans.",
       "important_points": [
-        "Fractyl Health, Inc.",
-        "(GUTS) Discusses Positive Top Line 6-Month Results From REMAIN-1 Study of Revita in Post GLP-1 Weight Maintenance October 16, 2026 8:00 AM EDT Company Participants Brian Luque - Head of Investor Relations & Corporate Development Harith Rajagopalan - Co-Founder, CEO, Director & Principal Executive Officer Conference Call Participants Adrian Dan Michael DiFiore - Evercore ISI Institutional Equities, Research Division Whitney Ijem - Canaccord Genuity Corp., Research Division Nicholas Mattiacci Chi Meng Fong - BofA Securities, Research Division Jeffrey Cohen - Ladenburg Thalmann & Co.",
-        "Inc., Research Division Joseph Pantginis - H.C."
+        "Summary - BOK Financial Corporation (BOKF) is upgraded to a very soft âbuyâ due to improved metrics and analyst optimism.",
+        "BOKFâs net interest margin and profitability have increased, with net profits rising from $140 million to $176.5 million.",
+        "Uninsured deposit exposure remains high at 53.2%, but asset quality is strong with only 0.23% non-performing loans."
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
-      "title": "Meta: What You Need To Know Before Earnings (NASDAQ:META)",
-      "title_zh": "Meta: What You Need To Know Before Earnings (NASDAQ:META)",
-      "link": "https://seekingalpha.com/article/4954901-meta-what-you-need-to-know-before-earnings?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954901-meta-what-you-need-to-know-before-earnings",
-      "published_at": "2026-10-16T17:15:59-04:00",
-      "category": "股市",
+      "title": "It's Y2K Again: Why Income Investments Win As The Fed Repeats A Dot-Com Error",
+      "title_zh": "It's Y2K Again: Why Income Investments Win As The Fed Repeats A Dot-Com Error",
+      "link": "https://seekingalpha.com/article/4954817-its-y2k-again-why-income-investments-win-as-the-fed-repeats-a-dot-com-error?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954817-its-y2k-again-why-income-investments-win-as-the-fed-repeats-a-dot-com-error",
+      "published_at": "2026-10-17T14:30:00+00:00",
+      "category": "央行与货币政策",
       "risk_level": "低",
       "keywords": [
-        "earnings",
-        "nasdaq",
-        "Meta",
-        "What",
-        "You"
+        "fed",
+        "Y2K",
+        "Again",
+        "Why",
+        "Income"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Article Thesis Meta Platforms, Inc.；(META) will report its next earnings results next Wednesday.；Strong business growth can be expected, but investors will have to deal with free cash generation looking slim due to META's hefty investment spending.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：It's Y2K Again: Why Income Investments Win As The Fed Repeats A Dot-Com Error",
       "important_points": [
-        "Article Thesis Meta Platforms, Inc.",
-        "(META) will report its next earnings results next Wednesday.",
-        "Strong business growth can be expected, but investors will have to deal with free cash generation looking slim due to META's hefty investment spending."
+        "It's Y2K Again: Why Income Investments Win As The Fed Repeats A Dot-Com Error"
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "earnings",
-        "nasdaq"
+        "fed"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "FDIS: Consumer Discretionary Sector Dashboard For October",
+      "title_zh": "FDIS: Consumer Discretionary Sector Dashboard For October",
+      "link": "https://seekingalpha.com/article/4954831-fdis-consumer-discretionary-sector-dashboard-for-october?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954831-fdis-consumer-discretionary-sector-dashboard-for-october",
+      "published_at": "2026-10-17T14:10:00+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "FDIS",
+        "Consumer",
+        "Discretionary",
+        "Sector",
+        "Dashboard"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：FDIS: Consumer Discretionary Sector Dashboard For October",
+      "important_points": [
+        "FDIS: Consumer Discretionary Sector Dashboard For October"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "TQQQ: The Tech Selloff Is Not Yet A Bear Market, But Leverage Requires Discipline",
+      "title_zh": "TQQQ: The Tech Selloff Is Not Yet A Bear Market, But Leverage Requires Discipline",
+      "link": "https://seekingalpha.com/article/4954992-tqqq-the-tech-selloff-is-not-yet-a-bear-market-but-leverage-requires-discipline?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954992-tqqq-the-tech-selloff-is-not-yet-a-bear-market-but-leverage-requires-discipline",
+      "published_at": "2026-10-17T14:04:47+00:00",
+      "category": "综合资讯",
+      "risk_level": "高",
+      "keywords": [
+        "TQQQ",
+        "The",
+        "Tech",
+        "Selloff",
+        "Not"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：TQQQ: The Tech Selloff Is Not Yet A Bear Market, But Leverage Requires Discipline",
+      "important_points": [
+        "TQQQ: The Tech Selloff Is Not Yet A Bear Market, But Leverage Requires Discipline"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "title_zh": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "link": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+      "published_at": "2026-10-17T13:47:00+0000",
+      "category": "大宗商品",
+      "risk_level": "高",
+      "keywords": [
+        "inflation",
+        "gold",
+        "real estate",
+        "housing",
+        "recession"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：When the economy and the market look shaky, gold and government bonds are the traditional places to park money.；Lately, some investors have also been looking at something more rooted: timber.；The pitch is easy to like: a back-to-basics, natural asset that grows on its own, matures into a harvest and can be cashed in all while you use it to hunt, pitch a tent, or forage.",
+      "important_points": [
+        "When the economy and the market look shaky, gold and government bonds are the traditional places to park money.",
+        "Lately, some investors have also been looking at something more rooted: timber.",
+        "The pitch is easy to like: a back-to-basics, natural asset that grows on its own, matures into a harvest and can be cashed in all while you use it to hunt, pitch a tent, or forage."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "inflation",
+        "gold",
+        "real estate",
+        "housing",
+        "recession"
       ]
     },
     {
       "source": "CNBC Top News",
-      "title": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "title_zh": "Brent oil touches $110 as Iran escalates Hormuz attacks, Ukraine vows to hit Russian refineries",
-      "link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/oil-price-today-iran-strait-hormuz-ukraine-russia.html",
-      "published_at": "2026-10-16T17:15:44+0000",
+      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+      "title_zh": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+      "link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "published_at": "2026-10-17T13:30:01+0000",
+      "category": "央行与货币政策",
+      "risk_level": "低",
+      "keywords": [
+        "interest rate",
+        "Trump",
+        "student",
+        "loan",
+        "overhaul"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：In Judge Sarah Sharer Curley's nearly three decades presiding over bankruptcy cases, some were especially painful to witness, she said — such as the 73-year-old woman who stood before her in 2012 with a student loan balance of more than $584,000.；The debt dated back to the 1970s and had grown throughout the woman's public sector career, Curley writes in her new book, \"The Price of Forgiveness: Debt, Bankruptcy, and the Future of Fairness in America.\" She had \"never made a lot of money,\" Curley said, and by the time she sought debt relief, the woman was living in poverty, with Social Security as her only income.；Even so, strict bankruptcy laws can make it nearly impossible to discharge student loans.",
+      "important_points": [
+        "In Judge Sarah Sharer Curley's nearly three decades presiding over bankruptcy cases, some were especially painful to witness, she said — such as the 73-year-old woman who stood before her in 2012 with a student loan balance of more than $584,000.",
+        "The debt dated back to the 1970s and had grown throughout the woman's public sector career, Curley writes in her new book, \"The Price of Forgiveness: Debt, Bankruptcy, and the Future of Fairness in America.\" She had \"never made a lot of money,\" Curley said, and by the time she sought debt relief, the woman was living in poverty, with Social Security as her only income.",
+        "Even so, strict bankruptcy laws can make it nearly impossible to discharge student loans."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "interest rate"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "title_zh": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
+      "link": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+      "canonical_link": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
+      "published_at": "2026-10-17T13:00:01+0000",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Everyone",
+        "laughed",
+        "when",
+        "started",
+        "pumpkin"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Three decades ago, when Kelly Schultz announced his intention to start a pumpkin farm, \"everybody laughed at me,\" he says.；Schultz, a second-generation antique seller, had no prior experience with farming when he bought a small farm in Clarence, New York, in 1993.；Nobody thinks he's out of his gourd now.",
+      "important_points": [
+        "Three decades ago, when Kelly Schultz announced his intention to start a pumpkin farm, \"everybody laughed at me,\" he says.",
+        "Schultz, a second-generation antique seller, had no prior experience with farming when he bought a small farm in Clarence, New York, in 1993.",
+        "Nobody thinks he's out of his gourd now."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "title_zh": "Meet the home buyers totally unfazed by 7% mortgage rates",
+      "link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/meet-the-home-buyers-totally-unfazed-by-7-mortgage-rates-7a9b1cc7?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T13:00:00+00:00",
+      "category": "楼市与房地产",
+      "risk_level": "低",
+      "keywords": [
+        "Meet",
+        "the",
+        "home",
+        "buyers",
+        "totally"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year.",
+      "important_points": [
+        "Individual investors and second-home buyers accounted for 1 in 5 home purchases in September — the highest share in a little over a year."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "title_zh": "Berkshire shares buck market sell-off, rally to highest since Buffett said he would step down as CEO",
+      "link": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+      "published_at": "2026-10-17T12:46:21+0000",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "s&p 500",
+        "nasdaq",
+        "ipo",
+        "earnings",
+        "Berkshire"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway.；You can sign up here to receive it every Friday evening in your inbox.) Berkshire Hathaway shares closed Friday at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.；The day before that Saturday surprise, both the Class A and Class B shares had closed at all-time highs.",
+      "important_points": [
+        "(This is the Warren Buffett Watch newsletter, news and analysis on all things Warren Buffett and Berkshire Hathaway.",
+        "You can sign up here to receive it every Friday evening in your inbox.) Berkshire Hathaway shares closed Friday at their highest level since Warren Buffett told shareholders at the May 2025 annual meeting he planned to step down as CEO at the end of that year.",
+        "The day before that Saturday surprise, both the Class A and Class B shares had closed at all-time highs."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "s&p 500",
+        "nasdaq",
+        "ipo",
+        "earnings"
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+      "title_zh": "Silver’s recent 50% drop from a record high hints that an economic slowdown looms",
+      "link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/silvers-recent-50-drop-from-a-record-high-hints-that-an-economic-slowdown-looms-e9fdfaf1?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T12:30:00+00:00",
       "category": "大宗商品",
       "risk_level": "低",
       "keywords": [
-        "crude oil",
-        "Brent",
-        "oil",
-        "touches",
-        "110"
+        "commodity",
+        "Silver",
+        "recent",
+        "drop",
+        "from"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz, Houthi militants fired missiles at Saudi Arabia and Ukraine vowed to keep striking Russian refineries.；Brent futures hit a session high of $110 per barrel for the first time since May before easing slightly to close at $109.86, a gain of 3.7%.；U.S.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year.",
       "important_points": [
-        "Crude oil prices rose sharply Friday as Iran escalated attacks in the Strait of Hormuz, Houthi militants fired missiles at Saudi Arabia and Ukraine vowed to keep striking Russian refineries.",
-        "Brent futures hit a session high of $110 per barrel for the first time since May before easing slightly to close at $109.86, a gain of 3.7%.",
-        "U.S."
+        "There’s a relatively off-the-radar commodity that can provide hints on where the economy is headed — and it’s seen its value drop more than 50% from a record high earlier this year."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "commodity"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Blue Bird: The Profit Test Behind Its Next Growth Cycle (NASDAQ:BLBD)",
+      "title_zh": "Blue Bird: The Profit Test Behind Its Next Growth Cycle (NASDAQ:BLBD)",
+      "link": "https://seekingalpha.com/article/4955002-blue-bird-the-profit-test-behind-its-next-growth-cycle?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4955002-blue-bird-the-profit-test-behind-its-next-growth-cycle",
+      "published_at": "2026-10-17T12:28:36-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "Blue",
+        "Bird",
+        "The",
+        "Profit"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Investment Thesis Blue Bird Corporation (BLBD) reported almost 30% revenue growth in its fiscal third quarter of 2026.；However, the more revealing number here is not the $517.2 million in revenue.；It is the $122.9 million Blue Bird Corporation (BLBD) reported almost 30% revenue growth in its fiscal third quarter of 2026.",
+      "important_points": [
+        "Investment Thesis Blue Bird Corporation (BLBD) reported almost 30% revenue growth in its fiscal third quarter of 2026.",
+        "However, the more revealing number here is not the $517.2 million in revenue.",
+        "It is the $122.9 million Blue Bird Corporation (BLBD) reported almost 30% revenue growth in its fiscal third quarter of 2026."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq"
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+      "title_zh": "Microsoft, Shopify and 3 more AI stocks that are favorite Wall Street earnings plays",
+      "link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite-wall-street-earnings-plays-0bb61e81?mod=mw_rss_topstories",
+      "published_at": "2026-10-17T12:01:00+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Microsoft",
+        "Shopify",
+        "and",
+        "more"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors.",
+      "important_points": [
+        "As earnings season kicks off, select tech companies have the opportunity to deliver big positive surprises for investors."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "title_zh": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "published_at": "2026-10-17T12:00:01+0000",
+      "category": "股市",
+      "risk_level": "中",
+      "keywords": [
+        "nasdaq",
+        "ipo",
+        "earnings",
+        "Software",
+        "new"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：At the time of its Nasdaq debut in July, Bending Spoons was a little-known holding company out of Italy that owned older internet names like AOL, Vimeo, Eventbrite and Evernote.；Less than four months later, the Milan-based firm has emerged as a surprising home for former high-flying software startups that have been thrust aside by the artificial intelligence boom.；Its M&A plan got a major boost this week from the most famous holding company on the planet: Berkshire Hathaway.",
+      "important_points": [
+        "At the time of its Nasdaq debut in July, Bending Spoons was a little-known holding company out of Italy that owned older internet names like AOL, Vimeo, Eventbrite and Evernote.",
+        "Less than four months later, the Milan-based firm has emerged as a surprising home for former high-flying software startups that have been thrust aside by the artificial intelligence boom.",
+        "Its M&A plan got a major boost this week from the most famous holding company on the planet: Berkshire Hathaway."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq",
+        "ipo",
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "AeroVironment: The Crash Made It Fair, Not Cheap (NASDAQ:AVAV)",
+      "title_zh": "AeroVironment: The Crash Made It Fair, Not Cheap (NASDAQ:AVAV)",
+      "link": "https://seekingalpha.com/article/4954998-aerovironment-the-crash-made-it-fair-not-cheap?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954998-aerovironment-the-crash-made-it-fair-not-cheap",
+      "published_at": "2026-10-17T11:38:08-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "AeroVironment",
+        "The",
+        "Crash",
+        "Made"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Investment Thesis Although AeroVironment (AVAV) has been beaten down and may look like it's trading at a cheap price relative to their 52-week range, I view this stock as a Hold.；This collapse from ~$418 to ~$123 Although AeroVironment (AVAV) has been beaten down and may look like it's trading at a cheap price relative to their 52-week range, I view this stock as a Hold.；This collapse from ~$418 to ~$123 This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.",
+      "important_points": [
+        "Investment Thesis Although AeroVironment (AVAV) has been beaten down and may look like it's trading at a cheap price relative to their 52-week range, I view this stock as a Hold.",
+        "This collapse from ~$418 to ~$123 Although AeroVironment (AVAV) has been beaten down and may look like it's trading at a cheap price relative to their 52-week range, I view this stock as a Hold.",
+        "This collapse from ~$418 to ~$123 This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Meta, Tesla Headline Earnings In Busy Week For Markets",
+      "title_zh": "Meta, Tesla Headline Earnings In Busy Week For Markets",
+      "link": "https://seekingalpha.com/article/4954881-meta-tesla-headline-earnings-in-busy-week-for-markets?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954881-meta-tesla-headline-earnings-in-busy-week-for-markets",
+      "published_at": "2026-10-17T11:00:00-04:00",
+      "category": "公司财报与IPO",
+      "risk_level": "中",
+      "keywords": [
+        "earnings",
+        "Meta",
+        "Tesla",
+        "Headline",
+        "Earnings"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Get ahead of the market by subscribing to Seeking Alpha's Wall Street Week Ahead, a preview of key events scheduled for the coming week.；The newsletter keeps you informed of the biggest stories set to make headlines, including upcoming IPOs, investor days, earnings reports, and conference presentations.；Wall Streetâs major market averages were lower on Friday as technology stocks came under further pressure amid an already challenging trading week.",
+      "important_points": [
+        "Get ahead of the market by subscribing to Seeking Alpha's Wall Street Week Ahead, a preview of key events scheduled for the coming week.",
+        "The newsletter keeps you informed of the biggest stories set to make headlines, including upcoming IPOs, investor days, earnings reports, and conference presentations.",
+        "Wall Streetâs major market averages were lower on Friday as technology stocks came under further pressure amid an already challenging trading week."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "SailPoint: The Identity Layer For AI Agents (NASDAQ:SAIL)",
+      "title_zh": "SailPoint: The Identity Layer For AI Agents (NASDAQ:SAIL)",
+      "link": "https://seekingalpha.com/article/4954994-sailpoint-the-identity-layer-for-ai-agents?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954994-sailpoint-the-identity-layer-for-ai-agents",
+      "published_at": "2026-10-17T10:26:54-04:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "SailPoint",
+        "The",
+        "Identity",
+        "Layer"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：SailPoint, Inc.；(SAIL) provides the software that decides who can access what inside a large company.；This has historically meant employees, maybe scripts or service accounts.",
+      "important_points": [
+        "SailPoint, Inc.",
+        "(SAIL) provides the software that decides who can access what inside a large company.",
+        "This has historically meant employees, maybe scripts or service accounts."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Income-Covered Closed-End Fund Report, October 2026",
+      "title_zh": "Income-Covered Closed-End Fund Report, October 2026",
+      "link": "https://seekingalpha.com/article/4954991-income-covered-closed-end-fund-report-october-2026?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4954991-income-covered-closed-end-fund-report-october-2026",
+      "published_at": "2026-10-17T10:04:37-04:00",
+      "category": "基金与理财",
+      "risk_level": "低",
+      "keywords": [
+        "Income-Covered",
+        "Closed-End",
+        "Fund",
+        "Report",
+        "October"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Income-Covered Closed-End Fund Report (This was formerly the \"Quality\" CEF Report, now renamed to better reflect the focus on distribution coverage) Quantitative screens help to rapidly narrow down attractive candidates from the database of ~400 closed-end",
+      "important_points": [
+        "Income-Covered Closed-End Fund Report (This was formerly the \"Quality\" CEF Report, now renamed to better reflect the focus on distribution coverage) Quantitative screens help to rapidly narrow down attractive candidates from the database of ~400 closed-end"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "title_zh": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "published_at": "2026-10-17T06:16:20+0000",
+      "category": "大宗商品",
+      "risk_level": "中",
+      "keywords": [
+        "crude oil",
+        "Trump",
+        "waives",
+        "broad",
+        "new"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Ukrainian President Volodymyr Zelenskyy on Saturday condemned the White House's waiver of key provisions of a recently enacted package of sanctions aimed at curbing Russia's ability to prosecute its war against Ukraine.；\"...；The decision to undo all of this, to block all of it, seems wrong to me,\" Zelenskyy said in a post on X.",
+      "important_points": [
+        "Ukrainian President Volodymyr Zelenskyy on Saturday condemned the White House's waiver of key provisions of a recently enacted package of sanctions aimed at curbing Russia's ability to prosecute its war against Ukraine.",
+        "\"...",
+        "The decision to undo all of this, to block all of it, seems wrong to me,\" Zelenskyy said in a post on X."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
@@ -976,333 +1230,81 @@
     },
     {
       "source": "CNBC Top News",
-      "title": "Katie Zacharia out as Trump's White House press secretary",
-      "title_zh": "Katie Zacharia out as Trump's White House press secretary",
-      "link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/trump-katie-zacharia-white-house.html",
-      "published_at": "2026-10-16T17:15:35+0000",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "Katie",
-        "Zacharia",
-        "out",
-        "Trump",
-        "White"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：New White House press secretary Katie Zacharia is leaving her job after just five days in the face of criticism over her performance, a White House official confirmed to CNBC on Friday.；Earlier Friday afternoon, President Donald Trump told reporters that he had just suggested to Zacharia that she quit.；\"I just spoke to her about it.",
-      "important_points": [
-        "New White House press secretary Katie Zacharia is leaving her job after just five days in the face of criticism over her performance, a White House official confirmed to CNBC on Friday.",
-        "Earlier Friday afternoon, President Donald Trump told reporters that he had just suggested to Zacharia that she quit.",
-        "\"I just spoke to her about it."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "JPMorgan Chase: The Place To Be When Storm Clouds Gather (NYSE:JPM)",
-      "title_zh": "JPMorgan Chase: The Place To Be When Storm Clouds Gather (NYSE:JPM)",
-      "link": "https://seekingalpha.com/article/4954899-jpmorgan-chase-place-to-be-when-storm-clouds-gather?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954899-jpmorgan-chase-place-to-be-when-storm-clouds-gather",
-      "published_at": "2026-10-16T17:03:14-04:00",
-      "category": "综合资讯",
+      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "title_zh": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
+      "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "canonical_link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
+      "published_at": "2026-10-16T18:00:15+0000",
+      "category": "债市",
       "risk_level": "中",
       "keywords": [
-        "JPMorgan",
-        "Chase",
-        "The",
-        "Place",
-        "When"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The last article I wrote on JPMorgan Chase & Co.；(JPM) continued a series of articles about how this company is probably a consideration despite the macroeconomic storm clouds gathering.；Since I began my rather cautious investing stance, the consumer Summary - JPMorgan Chase remains a strong buy despite worsening macroeconomic indicators and potential cyclical downturns.",
-      "important_points": [
-        "The last article I wrote on JPMorgan Chase & Co.",
-        "(JPM) continued a series of articles about how this company is probably a consideration despite the macroeconomic storm clouds gathering.",
-        "Since I began my rather cautious investing stance, the consumer Summary - JPMorgan Chase remains a strong buy despite worsening macroeconomic indicators and potential cyclical downturns."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "EIDO Crashes On MSCI Index Reclassification News,",
-      "title_zh": "EIDO Crashes On MSCI Index Reclassification News,",
-      "link": "https://seekingalpha.com/article/4954896-eido-crashes-on-msci-index-reclassification-news-buy-the-indonesia-washout-upgrade?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954896-eido-crashes-on-msci-index-reclassification-news-buy-the-indonesia-washout-upgrade",
-      "published_at": "2026-10-16T16:45:25-04:00",
-      "category": "公司财报与IPO",
-      "risk_level": "高",
-      "keywords": [
-        "earnings",
-        "EIDO",
-        "Crashes",
-        "MSCI",
-        "Index"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Indonesia stocks crashed on Friday, October 16.；That's not hyperbole, as the iShares MSCI Indonesia ETF (EIDO) plunged 15% on news of a warning from MSCI that the country's market could be dropped from major indices.；It comes after a years-long Summary - I am upgrading iShares MSCI Indonesia ETF to a \"Buy\" after a 15% crash driven by MSCI index exclusion fears.",
-      "important_points": [
-        "Indonesia stocks crashed on Friday, October 16.",
-        "That's not hyperbole, as the iShares MSCI Indonesia ETF (EIDO) plunged 15% on news of a warning from MSCI that the country's market could be dropped from major indices.",
-        "It comes after a years-long Summary - I am upgrading iShares MSCI Indonesia ETF to a \"Buy\" after a 15% crash driven by MSCI index exclusion fears."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "LyondellBasell: The 40% YTD Rally Doesn",
-      "title_zh": "LyondellBasell: The 40% YTD Rally Doesn",
-      "link": "https://seekingalpha.com/article/4954894-lyondellbasell-40-percent-ytd-rally-doesnt-fully-account-for-potential-recovery?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954894-lyondellbasell-40-percent-ytd-rally-doesnt-fully-account-for-potential-recovery",
-      "published_at": "2026-10-16T16:26:34-04:00",
-      "category": "股市",
-      "risk_level": "中",
-      "keywords": [
-        "LyondellBasell",
-        "The",
-        "YTD",
-        "Rally",
-        "Doesn"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The relentless downturn of LyondellBasell Industries N.V.；(LYB) stock seems to have come to an end in late last year after the stock bottomed in December and is up by more than 40% year-to-date.；The stock of LYB's major peer, Dow ( Summary - LyondellBasell has rebounded over 40% YTD and this could be the beginning of a long-awaited recovery.",
-      "important_points": [
-        "The relentless downturn of LyondellBasell Industries N.V.",
-        "(LYB) stock seems to have come to an end in late last year after the stock bottomed in December and is up by more than 40% year-to-date.",
-        "The stock of LYB's major peer, Dow ( Summary - LyondellBasell has rebounded over 40% YTD and this could be the beginning of a long-awaited recovery."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Independent Bank: Shrugging Off A Tough Macro Environment, For Now (NASDAQ:INDB)",
-      "title_zh": "Independent Bank: Shrugging Off A Tough Macro Environment, For Now (NASDAQ:INDB)",
-      "link": "https://seekingalpha.com/article/4954893-independent-bank-shrugging-off-a-tough-macro-environment-for-now?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954893-independent-bank-shrugging-off-a-tough-macro-environment-for-now",
-      "published_at": "2026-10-16T16:22:38-04:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "nasdaq",
-        "earnings",
-        "Independent",
-        "Bank",
-        "Shrugging"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：We pick back up our regional bank coverage with the just-reported Q3 earnings from Independent Bank Corp.；(INDB).；As we move through the fall earnings season, readers need to be aware that the broader Summary - Independent Bank Corp.",
-      "important_points": [
-        "We pick back up our regional bank coverage with the just-reported Q3 earnings from Independent Bank Corp.",
-        "(INDB).",
-        "As we move through the fall earnings season, readers need to be aware that the broader Summary - Independent Bank Corp."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "nasdaq",
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Greystone Logistics, Inc. (GLGI) Q1 2027 Earnings Call Transcript",
-      "title_zh": "Greystone Logistics, Inc. (GLGI) Q1 2027 Earnings Call Transcript",
-      "link": "https://seekingalpha.com/article/4954887-greystone-logistics-inc-glgi-q1-2027-earnings-call-transcript?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954887-greystone-logistics-inc-glgi-q1-2027-earnings-call-transcript",
-      "published_at": "2026-10-16T16:14:40-04:00",
-      "category": "公司财报与IPO",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Greystone",
-        "Logistics",
-        "Inc.",
-        "GLGI"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Brendan Hopkins - Investor Relations Officer Warren Kruger - President, CEO, CFO & Chairman Presentation Operator Good day, everyone, and welcome to today's Greystone Reports Q1 conference call.；[Operator Instructions] Please note, this call is being recorded, and I will be standing by if you should need any assistance.；It is now my pleasure to turn the conference over to Brendan Hopkins.",
-      "important_points": [
-        "Company Participants Brendan Hopkins - Investor Relations Officer Warren Kruger - President, CEO, CFO & Chairman Presentation Operator Good day, everyone, and welcome to today's Greystone Reports Q1 conference call.",
-        "[Operator Instructions] Please note, this call is being recorded, and I will be standing by if you should need any assistance.",
-        "It is now my pleasure to turn the conference over to Brendan Hopkins."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "The affordability crisis isn't hitting all voters equally. Here's why",
-      "title_zh": "The affordability crisis isn't hitting all voters equally. Here's why",
-      "link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/affordability-inflation-midterms.html",
-      "published_at": "2026-10-16T16:12:41+0000",
-      "category": "债市",
-      "risk_level": "低",
-      "keywords": [
-        "inflation",
-        "housing",
-        "fed",
-        "federal reserve",
-        "bond"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Affordability is a major theme of the upcoming midterm elections — one that could have implications for how people vote in November.；But not all households are feeling the financial strain equally, according to economists and political experts.；Specifically, older Americans are more insulated from the affordability crunch than younger households such as millennials, the experts said.",
-      "important_points": [
-        "Affordability is a major theme of the upcoming midterm elections — one that could have implications for how people vote in November.",
-        "But not all households are feeling the financial strain equally, according to economists and political experts.",
-        "Specifically, older Americans are more insulated from the affordability crunch than younger households such as millennials, the experts said."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "inflation",
-        "housing",
-        "fed",
-        "federal reserve",
-        "bond"
-      ]
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "title_zh": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
-      "link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/16/us-china-mastercard-citigroup-market-access.html",
-      "published_at": "2026-10-16T16:11:09+0000",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
         "treasury",
-        "U.S.",
-        "presses",
-        "China",
-        "Mastercard"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：BANGKOK – U.S.；officials pressed Beijing on market access issues for Mastercard Inc and Citigroup Inc during at least two bilateral meetings with Chinese counterparts in Bangkok this week, according to a U.S.；Treasury official.",
-      "important_points": [
-        "BANGKOK – U.S.",
-        "officials pressed Beijing on market access issues for Mastercard Inc and Citigroup Inc during at least two bilateral meetings with Chinese counterparts in Bangkok this week, according to a U.S.",
-        "Treasury official."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "treasury"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Seraphim Space Investment Trust Plc 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SSITF) 2026-10-16",
-      "title_zh": "Seraphim Space Investment Trust Plc 2026 Q4 - Results - Earnings Call Presentation (OTCMKTS:SSITF) 2026-10-16",
-      "link": "https://seekingalpha.com/article/4954898-seraphim-space-investment-trust-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954898-seraphim-space-investment-trust-plc-2026-q4-results-earnings-call-presentation",
-      "published_at": "2026-10-16T16:01:02-04:00",
-      "category": "公司财报与IPO",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Seraphim",
-        "Space",
-        "Investment",
-        "Trust"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Seraphim Space Investment Trust Plc in conjunction with their 2026 Q4 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.；We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.",
-      "important_points": [
-        "The following slide deck was published by Seraphim Space Investment Trust Plc in conjunction with their 2026 Q4 earnings call.",
-        "This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.",
-        "We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Devon Energy: Eagle Ford Sale Is A Significant Step To Closing The Valuation Discount",
-      "title_zh": "Devon Energy: Eagle Ford Sale Is A Significant Step To Closing The Valuation Discount",
-      "link": "https://seekingalpha.com/article/4954888-devon-energy-eagle-ford-sale-significant-step-to-closing-valuation-discount-upgrade-to-strong-buy?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4954888-devon-energy-eagle-ford-sale-significant-step-to-closing-valuation-discount-upgrade-to-strong-buy",
-      "published_at": "2026-10-16T15:57:02-04:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "Devon",
-        "Energy",
-        "Eagle",
-        "Ford",
-        "Sale"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：About a month ago, I covered Devon Energy (DVN) in an article titled âDevon Energy: Stronger Permian Focus And Valuation Support (Rating Upgrade),â rating the stock a buy.；In that piece, I outlined a production, cost, and free About a month ago, I covered Devon Energy (DVN) in an article titled âDevon Energy: Stronger Permian Focus And Valuation Support (Rating Upgrade),â rating the stock a buy.；In that piece, I outlined a production, cost, and free This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, but may initiate a beneficial Long position through a purchase of the stock, or the purchase of call options or similar derivatives in DVN over the next 72 hours.",
-      "important_points": [
-        "About a month ago, I covered Devon Energy (DVN) in an article titled âDevon Energy: Stronger Permian Focus And Valuation Support (Rating Upgrade),â rating the stock a buy.",
-        "In that piece, I outlined a production, cost, and free About a month ago, I covered Devon Energy (DVN) in an article titled âDevon Energy: Stronger Permian Focus And Valuation Support (Rating Upgrade),â rating the stock a buy.",
-        "In that piece, I outlined a production, cost, and free This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, but may initiate a beneficial Long position through a purchase of the stock, or the purchase of call options or similar derivatives in DVN over the next 72 hours."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "title_zh": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
-      "link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "canonical_link": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
-      "published_at": "2026-10-15T09:30:06+0000",
-      "category": "债市",
-      "risk_level": "低",
-      "keywords": [
-        "treasury",
-        "fed",
-        "federal reserve",
-        "gdp",
-        "bond"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S.；debt crisis would be like.；A true emergency would hurt much more, and isn't baked in.",
-      "important_points": [
-        "Long-term bond yields above 5% and a $2 trillion deficit are giving Americans a taste of what a U.S.",
-        "debt crisis would be like.",
-        "A true emergency would hurt much more, and isn't baked in."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "treasury",
-        "fed",
-        "federal reserve",
-        "gdp",
         "bond",
-        "housing"
+        "U.S.",
+        "budget",
+        "deficit"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：The U.S.；finished the 2026 fiscal year with a budget deficit of nearly $2 trillion, the latest measurement to underscore the extent of the country's financial stress.；The $1.992 trillion figure was about 12% higher than the $1.775 trillion deficit in the prior fiscal year, the Treasury Department reported Friday.",
+      "important_points": [
+        "The U.S.",
+        "finished the 2026 fiscal year with a budget deficit of nearly $2 trillion, the latest measurement to underscore the extent of the country's financial stress.",
+        "The $1.992 trillion figure was about 12% higher than the $1.775 trillion deficit in the prior fiscal year, the Treasury Department reported Friday."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "treasury",
+        "bond"
       ]
     },
     {
       "source": "第一财经",
-      "title": "加息预期推动美元指数升至近1年半来最高水平，亚洲多国重启“汇率保卫战”",
-      "title_zh": "加息预期推动美元指数升至近1年半来最高水平，亚洲多国重启“汇率保卫战”",
-      "link": "https://www.yicai.com/news/103395173.html",
-      "canonical_link": "https://www.yicai.com/news/103395173.html",
-      "published_at": "2026-10-15",
-      "category": "大宗商品",
-      "risk_level": "中",
+      "title": "1.3万亿“国家长钱”到位！超长期特别国债今年发行收官",
+      "title_zh": "1.3万亿“国家长钱”到位！超长期特别国债今年发行收官",
+      "link": "https://www.yicai.com/news/103396532.html",
+      "canonical_link": "https://www.yicai.com/news/103396532.html",
+      "published_at": "2026-10-16",
+      "category": "债市",
+      "risk_level": "低",
       "keywords": [
-        "美联储",
-        "加息",
-        "cpi",
-        "原油",
-        "央行"
+        "国债",
+        "财政政策",
+        "1.3",
+        "第一财经"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 伴随美联储加息预期再次升温，美元指数周三（10月14日）升至2025年5月以来最高水平。这使得印度、菲律宾、马来西亚等一些亚太货币走低，相关经济体不得不重启货币保卫战。；美元指数升至2025年5月最高水平 根据美国劳工统计局的数据，由于燃料成本上涨，美国消费者价格（CPI）以五个月来最快的速度上涨。Monex股份有限公司外汇交易员哈兹勒特（Andrew Hazlett）称，“高于预期的CPI推高交易员对美联储的进一步加息定价，从而提振了美元。” 即便在周三上涨前，美元的涨势也已延续到第五周，期间上涨了超过3%，录得自2025年初以来最长的连涨纪录。自美联储上个月三年来首次加息以来，交易员的加息押注一直推动着美元反弹。市场目前预计美联储将在明年1月底加息约40个基点，同时押注10月再次加息的概率也攀升。美国银行策略师科恩（Alex Cohen）表示，“市场对10月美联储会议的定价迅速反弹。”美银坚持认为美联储将在10月加息。；花旗集团也根据最新CPI数据增加了对美联储12月加息的押注。交易员们正在等待美联储主席沃什在本周五于泰国曼谷举行的国际货币基金组织（IMF）年会上发表的讲话，以此评估美联储下一步政策走向。",
+      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 根据财政部公开的信息，10月16日上午发行今年最后一只超长期特别国债，金额200亿元。至此，2026年全年总额1.3万亿元超长期特别国债发行收官。；与普通国债不同，超长期特别国债是在特定时期阶段性发行的具有特定用途的期限较长的国债。针对国内需求不足等问题，为了扩大有效投资、提振消费等，2024年以来中国连续三年发行了超长期特别国债，2024年至2026年发行规模分别为1万亿、1.3万亿元和1.3万亿元，资金主要用于支持“两重”（国家重大战略实施和重点领域安全能力建设）建设、“两新”（设备更新和消费品以旧换新）工作等。；那么今年1.3万亿元超长期特别国债资金具体花在了哪儿？",
       "important_points": [
-        "{{aisd}} AI生成 免责声明 伴随美联储加息预期再次升温，美元指数周三（10月14日）升至2025年5月以来最高水平。这使得印度、菲律宾、马来西亚等一些亚太货币走低，相关经济体不得不重启货币保卫战。",
-        "美元指数升至2025年5月最高水平 根据美国劳工统计局的数据，由于燃料成本上涨，美国消费者价格（CPI）以五个月来最快的速度上涨。Monex股份有限公司外汇交易员哈兹勒特（Andrew Hazlett）称，“高于预期的CPI推高交易员对美联储的进一步加息定价，从而提振了美元。” 即便在周三上涨前，美元的涨势也已延续到第五周，期间上涨了超过3%，录得自2025年初以来最长的连涨纪录。自美联储上个月三年来首次加息以来，交易员的加息押注一直推动着美元反弹。市场目前预计美联储将在明年1月底加息约40个基点，同时押注10月再次加息的概率也攀升。美国银行策略师科恩（Alex Cohen）表示，“市场对10月美联储会议的定价迅速反弹。”美银坚持认为美联储将在10月加息。",
-        "花旗集团也根据最新CPI数据增加了对美联储12月加息的押注。交易员们正在等待美联储主席沃什在本周五于泰国曼谷举行的国际货币基金组织（IMF）年会上发表的讲话，以此评估美联储下一步政策走向。"
+        "{{aisd}} AI生成 免责声明 根据财政部公开的信息，10月16日上午发行今年最后一只超长期特别国债，金额200亿元。至此，2026年全年总额1.3万亿元超长期特别国债发行收官。",
+        "与普通国债不同，超长期特别国债是在特定时期阶段性发行的具有特定用途的期限较长的国债。针对国内需求不足等问题，为了扩大有效投资、提振消费等，2024年以来中国连续三年发行了超长期特别国债，2024年至2026年发行规模分别为1万亿、1.3万亿元和1.3万亿元，资金主要用于支持“两重”（国家重大战略实施和重点领域安全能力建设）建设、“两新”（设备更新和消费品以旧换新）工作等。",
+        "那么今年1.3万亿元超长期特别国债资金具体花在了哪儿？"
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "美联储",
-        "加息",
-        "cpi",
-        "原油",
+        "国债",
+        "财政政策"
+      ]
+    },
+    {
+      "source": "第一财经",
+      "title": "央行副行长宣昌能出席全球主权债务圆桌会等会议并会见相关机构负责人",
+      "title_zh": "央行副行长宣昌能出席全球主权债务圆桌会等会议并会见相关机构负责人",
+      "link": "https://www.yicai.com/news/103397829.html",
+      "canonical_link": "https://www.yicai.com/news/103397829.html",
+      "published_at": "2026-09-01",
+      "category": "央行与货币政策",
+      "risk_level": "低",
+      "keywords": [
         "央行",
-        "外汇"
+        "第一财经"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：此次GFSR强调了三个突出的风险，这些风险可能是金融状况急剧收紧和市场动荡的短期催化剂。；双方积极展望了未来合作，认为中欧在新能源、人工智能、服务贸易、数字经济、绿色低碳等领域合作潜力巨大。；商务部美大司负责人就有关经贸磋商成果进行解读。",
+      "important_points": [
+        "此次GFSR强调了三个突出的风险，这些风险可能是金融状况急剧收紧和市场动荡的短期催化剂。",
+        "双方积极展望了未来合作，认为中欧在新能源、人工智能、服务贸易、数字经济、绿色低碳等领域合作潜力巨大。",
+        "商务部美大司负责人就有关经贸磋商成果进行解读。"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "央行"
       ]
     }
   ]
