@@ -1,948 +1,940 @@
-# Daily Financial News | 2026-11-05
+# Daily Financial News | 2026-11-06
 
-- 生成时间: 2026-11-05T14:38:25+08:00
+- 生成时间: 2026-11-06T14:34:09+08:00
 - 文章数量: 50
 - 大模型摘要: 0
 - 回退摘要: 50
 
 ## 分类清单
 
-### 公司财报与IPO / Earnings & IPO（20）
-- Acadia Pharmaceuticals Inc. (ACAD) Q3 2026 Earnings Call Transcript
-- Eaton Corporation plc 2026 Q3 - Results - Earnings Call Presentation
-- Franklin Covey Co. (FC) Q4 2026 Earnings Call Transcript
-- Maravai LifeSciences Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation
-- Stanley Black & Decker, Inc. 2026 Q3 - Results - Earnings Call Presentation
-- Lumen Technologies, Inc. 2026 Q3 - Results - Earnings Call Presentation
-- Lumen Technologies, Inc. (LUMN) Q3 2026 Earnings Call Transcript
-- TaskUs, Inc. (TASK) Q3 2026 Earnings Call Transcript
-- The Timken Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:TKR) 2026-11-05
-- Snap Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:SNAP) 2026-11-05
-- Moderna Earnings Preview: The Melanoma Breakthrough Is Real, But $221 Is Way Too Much
-- STAAR Surgical Company (STAA) Q3 2026 Earnings Call Transcript
-- MercadoLibre, Inc. (MELI) Q3 2026 Earnings Call Transcript
-- Dutch Bros Inc. (BROS) Q3 2026 Earnings Call Transcript
-- Berkshire Hathaway: The Easy Re-Rating Is Gone (NYSE:BRK.A)
-- Shanghai Junshi Biosciences Co., Ltd. 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:SHJBF) 2026-11-05
-- Comstock Inc. (LODE) Q3 2026 Earnings Call Transcript
-- Stella-Jones Inc. (SJ:CA) Q3 2026 Earnings Call Transcript
-- Inseego Corp. (INSG) Q3 2026 Earnings Call Transcript
-- PROCEPT BioRobotics Corporation (PRCT) Q3 2026 Earnings Call Transcript
+### 公司财报与IPO / Earnings & IPO（23）
+- Rigel Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- Amcor plc 2027 Q1 - Results - Earnings Call Presentation
+- Castle Biosciences, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- Ormat Technologies, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- Planet Fitness, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- The world's best airline is updating its business and first-class experience
+- The Carlyle Group Inc. (CG) Q3 2026 Earnings Call Transcript
+- Core Scientific, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- VSE Corporation 2026 Q3 - Results - Earnings Call Presentation
+- Allient Inc. (ALNT) Q3 2026 Earnings Call Transcript
+- Navios Maritime Partners L.P. Common Units 2026 Q3 - Results - Earnings Call Presentation
+- Matador Resources Company 2026 Q3 - Results - Earnings Call Presentation
+- MDA Space Ltd. (MDA:CA) Q3 2026 Earnings Call Transcript
+- DRI Healthcare Trust (DHT.UN:CA) Q3 2026 Earnings Call Transcript
+- JFrog Ltd. (FROG) Q3 2026 Earnings Call Transcript
+- EPAM Systems, Inc. (EPAM) Q3 2026 Earnings Call Transcript
+- Great Elm Group, Inc. (GEG) Q1 2027 Earnings Call Prepared Remarks Transcript
+- Neighborhood Intelligence, Inc. (NXH) Q3 2026 Earnings Call Transcript
+- Arcturus Therapeutics Holdings Inc. (ARCT) Q3 2026 Earnings Call Transcript
+- The Wendy
+- Kodiak AI, Inc. (KDK) Q3 2026 Earnings Call Transcript
+- IREN Limited (IREN) Q1 2027 Earnings Call Transcript
+- Marc Lore's Wonder confidentially files for IPO
 
-### 股市 / Stock Markets（14）
-- Stock Yards Bancorp, Inc. (SYBT) Presents at 2026 Hovde Group Financial Services Conference - Slideshow (NASDAQ:SYBT) 2026-11-05
-- Qualcomm’s stock falls as twin forces pressure sales
-- Reynolds Consumer Products Stock: It
-- This year’s worst-performing S&P 500 stock is finally seeing some major relief
-- Figma’s stock dips as investors worry that AI momentum is coming at a high price
-- The Sound Shore Fund Q3 2026 Letter To Shareholders (SSHFX)
-- Upstart Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:UPST) 2026-11-05
-- Recursion Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:RXRX) 2026-11-05
-- 港股光模块（CPO）指数大跌超10%
-- These stocks soared the most today after the Democrats trounced Trump
-- Figma sinks after earnings beat as company prioritizes long-term growth with AI changes
-- What was really behind Wednesday's monster rally? Trump quickly making peace
-- Snap shares fall over 10% on third-quarter revenue miss
-- Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales
+### 股市 / Stock Markets（9）
+- India as an AI hedge? The country's stocks could see robust inflows as markets globally tank
+- Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years
+- SHLD ETF: Election Results Have Me More Worried About Defense Than AI Centers (SHLD)
+- Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble
+- 港股锂电池板块午后震荡走低
+- 三年来首次加息！英国央行：不会是最后一次
+- Tech stocks log worst day since 2020 as carnage comes to the AI trade
+- Nasdaq drops into correction territory — here’s what typically happens next
+- Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms
 
 ### 综合资讯 / General News（7）
-- Black Stone Minerals: The Market Hated Q3, I'm Buying More
-- Commodities: Oil Plunges Following U.S. Midterm Elections
-- MLPI: Collect Monthly Income While The 2027 LNG Wave Builds
-- Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings
-- Workday: The Market Is Pricing In Too Much Pessimism
-- LIV Golf faces liquidation after BC Partners scraps rescue plan
-- Prediction markets cement their status after forecasting Democratic sweep of Congress
+- Monarch Casino: Printing Cash While Wall Street Waits
+- NV Bekaert SA (BEKAY) Dextra, - M&A Call - Slideshow
+- Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections
+- ‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?
+- ‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?
+- Democrats Take Congress, Putting Trump
+- Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race
 
-### 楼市与房地产 / Real Estate & Housing（4）
-- CNBC's Robert Frank chats live with Brown Harris Stevens CEO Bess Freedman about wealth, real estate, and the 'blue wave'
-- Inside the chip talent war: Trade secrets and rising Chinese rivals
-- White House panel delays hearing on Fed's Lisa Cook to Dec. 14
-- Mortgage rates drop for the third straight week, but homebuyers are still leaving the market
+### 债市 / Bond Markets（4）
+- Carillon Chartwell Short Duration High Yield Fund Q3 2026 Commentary
+- Rates Spark: Treasury Heat From Tech Flight - But For How Long?
+- 一地虚假包装项目骗取千万特别国债资金被中央通报
+- Banks are turning cautious on lending, according to the Fed. What it means for the economy
 
-### 大宗商品 / Commodities（3）
-- Artemis Gold Inc. 2026 Q3 - Results - Earnings Call Presentation
-- 买黄金的年轻人，把日子过明白了
-- Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war
+### 宏观经济 / Macroeconomics（3）
+- Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy
+- The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.
+- Barkin sees interest rate hikes ahead, but at a gradual pace
 
-### 国际财经 / International Finance（1）
-- 美国中期选举结果如何影响特朗普政府的关税和贸易议程？｜全球贸易观察
+### 基金与理财 / Funds & Wealth Management（1）
+- Thrivent Large Cap Value Fund Q3 2026 Commentary
 
-### 宏观经济 / Macroeconomics（1）
-- ADP好于预期，10月非农如何影响美联储加息前景
+### 大宗商品 / Commodities（1）
+- Cenovus Energy: Record Discount To WTI Does Not Matter When Commodity Prices Are Strong
+
+### 楼市与房地产 / Real Estate & Housing（1）
+- IRS announces new federal income tax brackets for 2027
+
+### 监管与合规 / Regulation & Compliance（1）
+- Evommune, Inc. (EVMN) Discusses In Licensing of EVO570 for Autoimmune Diseases Prepared Remarks Transcript
 
 
 ## 详细内容
 
-## 1. Acadia Pharmaceuticals Inc. (ACAD) Q3 2026 Earnings Call Transcript
+## 1. Rigel Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation
 - 分类: 公司财报与IPO / Earnings & IPO
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T06:34:34+00:00
+- 发布时间: 2026-11-06T06:10:58+00:00
 - 风险等级: 低
-- 关键词: earnings, Acadia, Pharmaceuticals, Inc., ACAD
+- 关键词: earnings, Rigel, Pharmaceuticals, Inc., 2026
 - 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962677-acadia-pharmaceuticals-inc-acad-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4963768-rigel-pharmaceuticals-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Acadia Pharmaceuticals Inc.；(ACAD) Q3 2026 Earnings Call Transcript
+未调用大模型，以下为原文关键信息摘录：Rigel Pharmaceuticals, Inc.；2026 Q3 - Results - Earnings Call Presentation
 
 ### 要点
-- Acadia Pharmaceuticals Inc.
-- (ACAD) Q3 2026 Earnings Call Transcript
+- Rigel Pharmaceuticals, Inc.
+- 2026 Q3 - Results - Earnings Call Presentation
 
-## 2. CNBC's Robert Frank chats live with Brown Harris Stevens CEO Bess Freedman about wealth, real estate, and the 'blue wave'
-- 分类: 楼市与房地产 / Real Estate & Housing
-- 来源: CNBC Economy
-- 发布时间: 2026-11-05T06:03:24+0000
-- 风险等级: 低
-- 关键词: real estate, CNBC, Robert, Frank, chats
-- 命中关注词: real estate
-- 原文链接: https://www.cnbc.com/2026/11/05/cnbcs-robert-frank-talks-with-brown-harris-stevens-ceo-bess-freedman.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Join CNBC Wealth Editor Robert Frank on Thursday, Nov.；5, for a live, interactive discussion about how the "blue wave" may affect your life, wealth and real estate.；Democrats' decisive midterm wins are already making an impact on the economy and the markets — especially on real estate.
-
-### 要点
-- Join CNBC Wealth Editor Robert Frank on Thursday, Nov.
-- 5, for a live, interactive discussion about how the "blue wave" may affect your life, wealth and real estate.
-- Democrats' decisive midterm wins are already making an impact on the economy and the markets — especially on real estate.
-
-## 3. Black Stone Minerals: The Market Hated Q3, I'm Buying More
-- 分类: 综合资讯 / General News
+## 2. Amcor plc 2027 Q1 - Results - Earnings Call Presentation
+- 分类: 公司财报与IPO / Earnings & IPO
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T06:03:15+00:00
+- 发布时间: 2026-11-06T06:09:22+00:00
 - 风险等级: 低
-- 关键词: Black, Stone, Minerals, The, Market
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4962720-black-stone-minerals-the-market-hated-q3-im-buying-more?source=feed_all_articles
+- 关键词: earnings, Amcor, plc, 2027, Results
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963767-amcor-plc-2027-q1-results-earnings-call-presentation?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Black Stone Minerals: The Market Hated Q3, I'm Buying More
+未调用大模型，以下为原文关键信息摘录：Amcor plc 2027 Q1 - Results - Earnings Call Presentation
 
 ### 要点
-- Black Stone Minerals: The Market Hated Q3, I'm Buying More
+- Amcor plc 2027 Q1 - Results - Earnings Call Presentation
 
-## 4. Commodities: Oil Plunges Following U.S. Midterm Elections
-- 分类: 综合资讯 / General News
+## 3. Castle Biosciences, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- 分类: 公司财报与IPO / Earnings & IPO
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:45:00+00:00
+- 发布时间: 2026-11-06T06:03:05+00:00
+- 风险等级: 低
+- 关键词: earnings, Castle, Biosciences, Inc., 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963765-castle-biosciences-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Castle Biosciences, Inc.；2026 Q3 - Results - Earnings Call Presentation
+
+### 要点
+- Castle Biosciences, Inc.
+- 2026 Q3 - Results - Earnings Call Presentation
+
+## 4. Ormat Technologies, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T06:01:34+00:00
+- 风险等级: 低
+- 关键词: earnings, Ormat, Technologies, Inc., 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963763-ormat-technologies-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Ormat Technologies, Inc.；2026 Q3 - Results - Earnings Call Presentation
+
+### 要点
+- Ormat Technologies, Inc.
+- 2026 Q3 - Results - Earnings Call Presentation
+
+## 5. India as an AI hedge? The country's stocks could see robust inflows as markets globally tank
+- 分类: 股市 / Stock Markets
+- 来源: CNBC Top News
+- 发布时间: 2026-11-06T05:41:51+0000
 - 风险等级: 高
-- 关键词: Commodities, Oil, Plunges, Following, U.S.
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4962743-commodities-oil-plunges-following-us-midterm-elections?source=feed_all_articles
+- 关键词: stock market, nasdaq, treasury, earnings, India
+- 命中关注词: stock market, nasdaq, treasury, earnings
+- 原文链接: https://www.cnbc.com/2026/11/06/india-ai-tech-hedge-nifty50.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Commodities: Oil Plunges Following U.S.；Midterm Elections
+未调用大模型，以下为原文关键信息摘录：The Indian stock market is emerging as an attractive hedge as investors seek refuge from a brutal sell-off in the artificial intelligence trade, making it a strong contender for global capital.；As sentiment around AI sours, foreign investors, who have been underweight on the Indian market for nearly two years due to high valuations, subdued earnings growth and lack of local AI tech champions, could start returning.；"If these foreign long only investor groups were to neutralize their underweight in Indian equities, this could translate into potential net inflows of around $115 billion," Rajiv Batra, head of Asia and co-head of global emerging markets equity strategy at JPMorgan, told CNBC.
 
 ### 要点
-- Commodities: Oil Plunges Following U.S.
-- Midterm Elections
+- The Indian stock market is emerging as an attractive hedge as investors seek refuge from a brutal sell-off in the artificial intelligence trade, making it a strong contender for global capital.
+- As sentiment around AI sours, foreign investors, who have been underweight on the Indian market for nearly two years due to high valuations, subdued earnings growth and lack of local AI tech champions, could start returning.
+- "If these foreign long only investor groups were to neutralize their underweight in Indian equities, this could translate into potential net inflows of around $115 billion," Rajiv Batra, head of Asia and co-head of global emerging markets equity strategy at JPMorgan, told CNBC.
 
-## 5. Eaton Corporation plc 2026 Q3 - Results - Earnings Call Presentation
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:42:16+00:00
-- 风险等级: 低
-- 关键词: earnings, Eaton, Corporation, plc, 2026
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962746-eaton-corporation-plc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Eaton Corporation plc 2026 Q3 - Results - Earnings Call Presentation
-
-### 要点
-- Eaton Corporation plc 2026 Q3 - Results - Earnings Call Presentation
-
-## 6. MLPI: Collect Monthly Income While The 2027 LNG Wave Builds
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:39:20+00:00
-- 风险等级: 低
-- 关键词: MLPI, Collect, Monthly, Income, While
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4962711-mlpi-etf-collect-monthly-income-while-the-2027-lng-wave-builds?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：MLPI: Collect Monthly Income While The 2027 LNG Wave Builds
-
-### 要点
-- MLPI: Collect Monthly Income While The 2027 LNG Wave Builds
-
-## 7. Franklin Covey Co. (FC) Q4 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:34:33+00:00
-- 风险等级: 低
-- 关键词: earnings, Franklin, Covey, Co., 2026
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962742-franklin-covey-co-fc-q4-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Franklin Covey Co.；(FC) Q4 2026 Earnings Call Transcript
-
-### 要点
-- Franklin Covey Co.
-- (FC) Q4 2026 Earnings Call Transcript
-
-## 8. Maravai LifeSciences Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:32:08+00:00
-- 风险等级: 低
-- 关键词: earnings, Maravai, LifeSciences, Holdings, Inc.
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962741-maravai-lifesciences-holdings-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Maravai LifeSciences Holdings, Inc.；2026 Q3 - Results - Earnings Call Presentation
-
-### 要点
-- Maravai LifeSciences Holdings, Inc.
-- 2026 Q3 - Results - Earnings Call Presentation
-
-## 9. Artemis Gold Inc. 2026 Q3 - Results - Earnings Call Presentation
+## 6. Cenovus Energy: Record Discount To WTI Does Not Matter When Commodity Prices Are Strong
 - 分类: 大宗商品 / Commodities
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:31:48+00:00
+- 发布时间: 2026-11-06T05:41:18+00:00
 - 风险等级: 低
-- 关键词: gold, earnings, Artemis, Gold, Inc.
-- 命中关注词: gold, earnings
-- 原文链接: https://seekingalpha.com/article/4962740-artemis-gold-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
+- 关键词: commodity, Cenovus, Energy, Record, Discount
+- 命中关注词: commodity
+- 原文链接: https://seekingalpha.com/article/4963739-cenovus-energy-record-discount-wti-no-matter-when-commodity-prices-relatively-strong?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Artemis Gold Inc.；2026 Q3 - Results - Earnings Call Presentation
+未调用大模型，以下为原文关键信息摘录：Cenovus Energy: Record Discount To WTI Does Not Matter When Commodity Prices Are Strong
 
 ### 要点
-- Artemis Gold Inc.
+- Cenovus Energy: Record Discount To WTI Does Not Matter When Commodity Prices Are Strong
+
+## 7. Planet Fitness, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:36:51+00:00
+- 风险等级: 低
+- 关键词: earnings, Planet, Fitness, Inc., 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963757-planet-fitness-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Planet Fitness, Inc.；2026 Q3 - Results - Earnings Call Presentation
+
+### 要点
+- Planet Fitness, Inc.
 - 2026 Q3 - Results - Earnings Call Presentation
 
-## 10. Stanley Black & Decker, Inc. 2026 Q3 - Results - Earnings Call Presentation
+## 8. The world's best airline is updating its business and first-class experience
 - 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:30:55+00:00
+- 来源: CNBC Top News
+- 发布时间: 2026-11-06T05:36:10+0000
 - 风险等级: 低
-- 关键词: earnings, Stanley, Black, Decker, Inc.
+- 关键词: earnings, The, world, best, airline
 - 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962739-stanley-black-and-decker-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
+- 原文链接: https://www.cnbc.com/2026/11/06/singapore-airlines-new-first-business-class-a350-starlink.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Stanley Black & Decker, Inc.；2026 Q3 - Results - Earnings Call Presentation
+未调用大模型，以下为原文关键信息摘录：Singapore Airlines is rolling out new onboard seating, dining and entertainment options as part of an over S$2 billion ($1.6 billion) investment to keep up with rivals from around the world.；The cornerstone of this investment: new premium cabin seats for its long-haul flights, which will progressively debut on the Airbus A350 long-haul and ultra-long-range planes in mid-2027.；First-class seats will come with 32-inch 4K high-definition screens, Bang and Olufsen noise-cancelling headphones and options for passengers to book double bed and face-to-face dining configurations.
 
 ### 要点
-- Stanley Black & Decker, Inc.
+- Singapore Airlines is rolling out new onboard seating, dining and entertainment options as part of an over S$2 billion ($1.6 billion) investment to keep up with rivals from around the world.
+- The cornerstone of this investment: new premium cabin seats for its long-haul flights, which will progressively debut on the Airbus A350 long-haul and ultra-long-range planes in mid-2027.
+- First-class seats will come with 32-inch 4K high-definition screens, Bang and Olufsen noise-cancelling headphones and options for passengers to book double bed and face-to-face dining configurations.
+
+## 9. The Carlyle Group Inc. (CG) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:34:34+00:00
+- 风险等级: 低
+- 关键词: earnings, The, Carlyle, Group, Inc.
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963144-the-carlyle-group-inc-cg-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：The Carlyle Group Inc.；(CG) Q3 2026 Earnings Call Transcript
+
+### 要点
+- The Carlyle Group Inc.
+- (CG) Q3 2026 Earnings Call Transcript
+
+## 10. Core Scientific, Inc. 2026 Q3 - Results - Earnings Call Presentation
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:31:32+00:00
+- 风险等级: 低
+- 关键词: earnings, Core, Scientific, Inc., 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963756-core-scientific-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Core Scientific, Inc.；2026 Q3 - Results - Earnings Call Presentation
+
+### 要点
+- Core Scientific, Inc.
 - 2026 Q3 - Results - Earnings Call Presentation
 
-## 11. Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings
-- 分类: 综合资讯 / General News
-- 来源: CNBC Top News
-- 发布时间: 2026-11-05T05:30:27+0000
+## 11. VSE Corporation 2026 Q3 - Results - Earnings Call Presentation
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:31:18+00:00
 - 风险等级: 低
-- 关键词: Russia, China, may, more, aggressive
-- 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html
+- 关键词: earnings, VSE, Corporation, 2026, Results
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963755-vse-corporation-2026-q3-results-earnings-call-presentation?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Russia and China could become more aggressive over the next two years if they conclude that President Donald Trump is politically weakened and on "his way out" after Democrats won control of both chambers of Congress, Brookings Institution senior fellow Robert Kagan told CNBC.；Speaking on "Squawk Box Asia," Kagan said the war with Iran had also exposed how Washington has "proved itself rather incapable militarily" in terms of capacity, which would be critical in Asia.；"Everybody can see how much our stocks are depleted in terms of interceptors and missiles, which are of vital interest in the Asian theater," he said.
+未调用大模型，以下为原文关键信息摘录：VSE Corporation 2026 Q3 - Results - Earnings Call Presentation
 
 ### 要点
-- Russia and China could become more aggressive over the next two years if they conclude that President Donald Trump is politically weakened and on "his way out" after Democrats won control of both chambers of Congress, Brookings Institution senior fellow Robert Kagan told CNBC.
-- Speaking on "Squawk Box Asia," Kagan said the war with Iran had also exposed how Washington has "proved itself rather incapable militarily" in terms of capacity, which would be critical in Asia.
-- "Everybody can see how much our stocks are depleted in terms of interceptors and missiles, which are of vital interest in the Asian theater," he said.
+- VSE Corporation 2026 Q3 - Results - Earnings Call Presentation
 
-## 12. Workday: The Market Is Pricing In Too Much Pessimism
+## 12. Monarch Casino: Printing Cash While Wall Street Waits
 - 分类: 综合资讯 / General News
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:29:24+00:00
+- 发布时间: 2026-11-06T05:30:28+00:00
 - 风险等级: 低
-- 关键词: Workday, The, Market, Pricing, Too
+- 关键词: Monarch, Casino, Printing, Cash, While
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4962707-workday-stock-market-pricing-in-too-much-pessimism?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4963735-monarch-casino-q3-printing-cash-while-wall-street-waits?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Workday: The Market Is Pricing In Too Much Pessimism
+未调用大模型，以下为原文关键信息摘录：Monarch Casino: Printing Cash While Wall Street Waits
 
 ### 要点
-- Workday: The Market Is Pricing In Too Much Pessimism
+- Monarch Casino: Printing Cash While Wall Street Waits
 
-## 13. Lumen Technologies, Inc. 2026 Q3 - Results - Earnings Call Presentation
+## 13. Allient Inc. (ALNT) Q3 2026 Earnings Call Transcript
 - 分类: 公司财报与IPO / Earnings & IPO
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:25:12+00:00
+- 发布时间: 2026-11-06T05:24:33+00:00
 - 风险等级: 低
-- 关键词: earnings, Lumen, Technologies, Inc., 2026
+- 关键词: earnings, Allient, Inc., ALNT, 2026
 - 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962738-lumen-technologies-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4963754-allient-inc-alnt-q3-2026-earnings-call-transcript?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Lumen Technologies, Inc.；2026 Q3 - Results - Earnings Call Presentation
+未调用大模型，以下为原文关键信息摘录：Allient Inc.；(ALNT) Q3 2026 Earnings Call Transcript
 
 ### 要点
-- Lumen Technologies, Inc.
-- 2026 Q3 - Results - Earnings Call Presentation
+- Allient Inc.
+- (ALNT) Q3 2026 Earnings Call Transcript
 
-## 14. Lumen Technologies, Inc. (LUMN) Q3 2026 Earnings Call Transcript
+## 14. Navios Maritime Partners L.P. Common Units 2026 Q3 - Results - Earnings Call Presentation
 - 分类: 公司财报与IPO / Earnings & IPO
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:24:38+00:00
+- 发布时间: 2026-11-06T05:19:52+00:00
 - 风险等级: 低
-- 关键词: earnings, Lumen, Technologies, Inc., LUMN
+- 关键词: earnings, Navios, Maritime, Partners, L.P.
 - 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962737-lumen-technologies-inc-lumn-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4963753-navios-maritime-partners-l-p-common-units-2026-q3-results-earnings-call-presentation?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Lumen Technologies, Inc.；(LUMN) Q3 2026 Earnings Call Transcript
+未调用大模型，以下为原文关键信息摘录：Navios Maritime Partners L.P.；Common Units 2026 Q3 - Results - Earnings Call Presentation
 
 ### 要点
-- Lumen Technologies, Inc.
-- (LUMN) Q3 2026 Earnings Call Transcript
+- Navios Maritime Partners L.P.
+- Common Units 2026 Q3 - Results - Earnings Call Presentation
 
-## 15. TaskUs, Inc. (TASK) Q3 2026 Earnings Call Transcript
+## 15. Matador Resources Company 2026 Q3 - Results - Earnings Call Presentation
 - 分类: 公司财报与IPO / Earnings & IPO
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-05T05:14:34+00:00
+- 发布时间: 2026-11-06T05:18:22+00:00
 - 风险等级: 低
-- 关键词: earnings, TaskUs, Inc., TASK, 2026
+- 关键词: earnings, Matador, Resources, Company, 2026
 - 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962731-taskus-inc-task-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4963752-matador-resources-company-2026-q3-results-earnings-call-presentation?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：TaskUs, Inc.；(TASK) Q3 2026 Earnings Call Transcript
+未调用大模型，以下为原文关键信息摘录：Matador Resources Company 2026 Q3 - Results - Earnings Call Presentation
 
 ### 要点
-- TaskUs, Inc.
-- (TASK) Q3 2026 Earnings Call Transcript
+- Matador Resources Company 2026 Q3 - Results - Earnings Call Presentation
 
-## 16. Inside the chip talent war: Trade secrets and rising Chinese rivals
-- 分类: 楼市与房地产 / Real Estate & Housing
-- 来源: CNBC Top News
-- 发布时间: 2026-11-05T03:44:05+0000
+## 16. MDA Space Ltd. (MDA:CA) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:14:51+00:00
 - 风险等级: 低
-- 关键词: housing, Inside, the, chip, talent
-- 命中关注词: housing
-- 原文链接: https://www.cnbc.com/2026/11/05/semiconductor-china-korea-talents-rivalry.html
+- 关键词: earnings, MDA, Space, Ltd., 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963540-mda-space-ltd-mda-ca-q3-2026-earnings-call-transcript?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：A former Samsung Electronics employee who later joined Chinese memory chipmaker ChangXin Memory Technologies, or CXMT, was reportedly sentenced by the Seoul High Court on Oct.；22 to five years in prison for leaking Samsung's technology.；The sentence was reduced from seven years at his first trial in April.
+未调用大模型，以下为原文关键信息摘录：MDA Space Ltd.；(MDA:CA) Q3 2026 Earnings Call Transcript
 
 ### 要点
-- A former Samsung Electronics employee who later joined Chinese memory chipmaker ChangXin Memory Technologies, or CXMT, was reportedly sentenced by the Seoul High Court on Oct.
-- 22 to five years in prison for leaking Samsung's technology.
-- The sentence was reduced from seven years at his first trial in April.
+- MDA Space Ltd.
+- (MDA:CA) Q3 2026 Earnings Call Transcript
 
-## 17. LIV Golf faces liquidation after BC Partners scraps rescue plan
+## 17. DRI Healthcare Trust (DHT.UN:CA) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:14:40+00:00
+- 风险等级: 低
+- 关键词: earnings, DRI, Healthcare, Trust, DHT.UN
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963064-dri-healthcare-trust-dht-un-ca-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：DRI Healthcare Trust (DHT.UN:CA) Q3 2026 Earnings Call Transcript
+
+### 要点
+- DRI Healthcare Trust (DHT.UN:CA) Q3 2026 Earnings Call Transcript
+
+## 18. JFrog Ltd. (FROG) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:14:38+00:00
+- 风险等级: 低
+- 关键词: earnings, JFrog, Ltd., FROG, 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963745-jfrog-ltd-frog-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：JFrog Ltd.；(FROG) Q3 2026 Earnings Call Transcript
+
+### 要点
+- JFrog Ltd.
+- (FROG) Q3 2026 Earnings Call Transcript
+
+## 19. NV Bekaert SA (BEKAY) Dextra, - M&A Call - Slideshow
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T05:14:11+00:00
+- 风险等级: 低
+- 关键词: Bekaert, BEKAY, Dextra, Call, Slideshow
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4963747-nv-bekaert-sa-bekay-dextra-m-and-a-call-slideshow?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：NV Bekaert SA (BEKAY) Dextra, - M&A Call - Slideshow
+
+### 要点
+- NV Bekaert SA (BEKAY) Dextra, - M&A Call - Slideshow
+
+## 20. Oil prices rise as investors weigh renewed U.S.-Iran conflict risks after midterm elections
 - 分类: 综合资讯 / General News
 - 来源: CNBC Top News
-- 发布时间: 2026-11-05T03:11:58+0000
+- 发布时间: 2026-11-06T05:06:56+0000
 - 风险等级: 低
-- 关键词: LIV, Golf, faces, liquidation, after
+- 关键词: Oil, prices, rise, investors, weigh
 - 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/05/liv-golf-liquidation-bc-partners.html
+- 原文链接: https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：LIV Golf could be headed for liquidation after BC Partners Credit reportedly dropped plans to finance a relaunch of the breakaway league.；The investment firm had pledged up to $300 million for a revamped version of LIV, known as LIV 2.0, but withdrew the plan after LIV Golf failed to secure enough player commitments, according to the Associated Press.；LIV is scheduled to appear in U.S.
+未调用大模型，以下为原文关键信息摘录：Oil prices rose Friday as investors weighed the risk of renewed military escalation between the U.S.；and Iran following the midterm elections, alongside prospects for a diplomatic breakthrough.；Brent crude futures climbed 1.67% to $99.90 per barrel, while U.S.
 
 ### 要点
-- LIV Golf could be headed for liquidation after BC Partners Credit reportedly dropped plans to finance a relaunch of the breakaway league.
-- The investment firm had pledged up to $300 million for a revamped version of LIV, known as LIV 2.0, but withdrew the plan after LIV Golf failed to secure enough player commitments, according to the Associated Press.
-- LIV is scheduled to appear in U.S.
-
-## 18. The Timken Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:TKR) 2026-11-05
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T01:31:56-05:00
-- 风险等级: 低
-- 关键词: earnings, The, Timken, Company, 2026
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962754-the-timken-company-2026-q3-results-earnings-call-presentation?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The following slide deck was published by The Timken Company in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.；We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.
-
-### 要点
-- The following slide deck was published by The Timken Company in conjunction with their 2026 Q3 earnings call.
-- This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-- We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.
-
-## 19. Snap Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:SNAP) 2026-11-05
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T01:31:38-05:00
-- 风险等级: 低
-- 关键词: earnings, Snap, Inc., 2026, Results
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962753-snap-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Snap Inc.；in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-### 要点
-- The following slide deck was published by Snap Inc.
-- in conjunction with their 2026 Q3 earnings call.
-- This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-## 20. Moderna Earnings Preview: The Melanoma Breakthrough Is Real, But $221 Is Way Too Much
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T01:23:59-05:00
-- 风险等级: 低
-- 关键词: earnings, Moderna, Earnings, Preview, The
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962734-moderna-earnings-preview-the-melanoma-breakthrough-is-real-but-221-is-way-too-much?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Moderna (MRNA) has now shown what the cancer field has long sought: encouraging Phase 3 data for a tailored mRNA drug.；Intismeran autogene, made with Merck, resulted in significantly fewer melanomas coming back in patients given Summary - Moderna is rated Strong Sell at $220.83, with a working valuation of ~$60/share, implying 73% downside despite promising melanoma trial results.；MRNA's Phase 3 melanoma data with intismeran and Keytruda shows a 42% relative reduction in relapse or death, but commercial and manufacturing hurdles remain.
-
-### 要点
-- Moderna (MRNA) has now shown what the cancer field has long sought: encouraging Phase 3 data for a tailored mRNA drug.
-- Intismeran autogene, made with Merck, resulted in significantly fewer melanomas coming back in patients given Summary - Moderna is rated Strong Sell at $220.83, with a working valuation of ~$60/share, implying 73% downside despite promising melanoma trial results.
-- MRNA's Phase 3 melanoma data with intismeran and Keytruda shows a 42% relative reduction in relapse or death, but commercial and manufacturing hurdles remain.
-
-## 21. STAAR Surgical Company (STAA) Q3 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T01:14:35-05:00
-- 风险等级: 低
-- 关键词: earnings, STAAR, Surgical, Company, STAA
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962749-staar-surgical-company-staa-q3-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Company Participants Connie Johnson - Director of Investor Relations Warren Foust - CEO, President & Director Deborah Andrews - Executive VP & CFO Conference Call Participants Thomas Stephan - Stifel, Nicolaus & Company, Incorporated, Research Division John Young - Canaccord Genuity Corp., Research Division Anthony Petrone - Mizuho Securities USA LLC, Research Division Young Li - Jefferies LLC, Research Division Ryan Zimmerman - BTIG, LLC, Research Division David Saxon - Needham & Company, LLC, Research Division Harrison Parsons - Stephens Inc., Research Division Presentation Operator Good day, and welcome to the STAAR Surgical Third Quarter 2026 Results Call and Webcast.；[Operator Instructions] Please note this event is being recorded.；I would now like to turn the call over to Connie Johnson, Director of Investor Relations.
-
-### 要点
-- Company Participants Connie Johnson - Director of Investor Relations Warren Foust - CEO, President & Director Deborah Andrews - Executive VP & CFO Conference Call Participants Thomas Stephan - Stifel, Nicolaus & Company, Incorporated, Research Division John Young - Canaccord Genuity Corp., Research Division Anthony Petrone - Mizuho Securities USA LLC, Research Division Young Li - Jefferies LLC, Research Division Ryan Zimmerman - BTIG, LLC, Research Division David Saxon - Needham & Company, LLC, Research Division Harrison Parsons - Stephens Inc., Research Division Presentation Operator Good day, and welcome to the STAAR Surgical Third Quarter 2026 Results Call and Webcast.
-- [Operator Instructions] Please note this event is being recorded.
-- I would now like to turn the call over to Connie Johnson, Director of Investor Relations.
-
-## 22. Stock Yards Bancorp, Inc. (SYBT) Presents at 2026 Hovde Group Financial Services Conference - Slideshow (NASDAQ:SYBT) 2026-11-05
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T01:08:59-05:00
-- 风险等级: 低
-- 关键词: nasdaq, earnings, Stock, Yards, Bancorp
-- 命中关注词: nasdaq, earnings
-- 原文链接: https://seekingalpha.com/article/4962748-stock-yards-bancorp-inc-sybt-presents-at-2026-hovde-group-financial-services-conference?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Stock Yards Bancorp, Inc.；in conjunction with this event.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-### 要点
-- The following slide deck was published by Stock Yards Bancorp, Inc.
-- in conjunction with this event.
-- This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-## 23. Qualcomm’s stock falls as twin forces pressure sales
-- 分类: 股市 / Stock Markets
-- 来源: MarketWatch
-- 发布时间: 2026-11-05T01:06:00+00:00
-- 风险等级: 低
-- 关键词: Qualcomm, stock, falls, twin, forces
-- 命中关注词: 无
-- 原文链接: https://www.marketwatch.com/story/qualcomms-stock-falls-as-twin-forces-pressure-sales-fa161159?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.
-
-### 要点
-- Qualcomm faces the loss of Apple’s business and the negative impact of high memory costs on overall smartphone demand.
-
-## 24. Reynolds Consumer Products Stock: It
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T01:05:19-05:00
-- 风险等级: 低
-- 关键词: Reynolds, Consumer, Products, Stock, Seeking Alpha
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4962723-reynolds-consumer-products-stock-too-soon-wrap-up-bullish-rating?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - Reynolds Consumer Products delivered Q3 revenue and adjusted EPS above analyst expectations, driving a 4.3% stock gain.；REYN's pricing power offset volume declines, but profitability was pressured by rising input costs and segment deleveraging.；Management guides for FY revenue down 1â3%, but raises the adjusted net income midpoint to $338.5M and expects EBITDA of $660â675M.
-
-### 要点
-- Summary - Reynolds Consumer Products delivered Q3 revenue and adjusted EPS above analyst expectations, driving a 4.3% stock gain.
-- REYN's pricing power offset volume declines, but profitability was pressured by rising input costs and segment deleveraging.
-- Management guides for FY revenue down 1â3%, but raises the adjusted net income midpoint to $338.5M and expects EBITDA of $660â675M.
-
-## 25. This year’s worst-performing S&P 500 stock is finally seeing some major relief
-- 分类: 股市 / Stock Markets
-- 来源: MarketWatch
-- 发布时间: 2026-11-05T01:05:00+00:00
-- 风险等级: 低
-- 关键词: s&p 500, earnings, This, year, worst-performing
-- 命中关注词: s&p 500, earnings
-- 原文链接: https://www.marketwatch.com/story/this-years-worst-performing-s-p-500-stock-is-finally-seeing-some-major-relief-fff3fa85?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：AppLovin’s stock is popping after “clearly positive” earnings results.
-
-### 要点
-- AppLovin’s stock is popping after “clearly positive” earnings results.
-
-## 26. Figma’s stock dips as investors worry that AI momentum is coming at a high price
-- 分类: 股市 / Stock Markets
-- 来源: MarketWatch
-- 发布时间: 2026-11-05T01:03:00+00:00
-- 风险等级: 低
-- 关键词: Figma, stock, dips, investors, worry
-- 命中关注词: 无
-- 原文链接: https://www.marketwatch.com/story/figmas-stock-falls-as-investors-worry-that-ai-momentum-is-coming-at-a-high-price-1aa2134d?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive
-
-### 要点
-- Figma’s investments in AI models and agents are driving usage, but the cost of delivering these features is proving to be expensive
-
-## 27. MercadoLibre, Inc. (MELI) Q3 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:54:33-05:00
-- 风险等级: 低
-- 关键词: earnings, MercadoLibre, Inc., MELI, 2026
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962613-mercadolibre-inc-meli-q3-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Company Participants Richard Cathcart - Head of Investor Relations Martin de Los Santos - Executive VP & CFO Ariel Szarfsztejn - CEO & President Osvaldo GimÃ©nez - Fintech President Conference Call Participants Andrew Ruben - Morgan Stanley, Research Division Irma Sgarz - Goldman Sachs Group, Inc., Research Division Robert Ford - BofA Securities, Research Division Marcelo Santos - JPMorgan Chase & Co, Research Division Rodrigo Gastim - ItaÃº Corretora de Valores S.A., Research Division Josh Beck - Raymond James & Associates, Inc., Research Division Deepak Mathivanan - Cantor Fitzgerald & Co., Research Division Neha Agarwala - HSBC Global Investment Research Craig Maurer - Financial Technology Partners LP Kaio Penso Da Prato - UBS Investment Bank, Research Division Lucas Esteves - Santander Investment Securities Inc., Research Division Pedro Caravina - XP Investimentos Corretora de CÃ¢mbio, TÃtulos e Valores MobiliÃ¡rios S.A., Research Division Presentation Richard Cathcart Head of Investor Relations Hello, everyone, and welcome to the MercadoLibre's Earnings Conference Call for the quarter ended September 30, 2026.；Thank you for joining us.；I'm Richard Cathcart, Investor Relations Senior Director at MercadoLibre.
-
-### 要点
-- Company Participants Richard Cathcart - Head of Investor Relations Martin de Los Santos - Executive VP & CFO Ariel Szarfsztejn - CEO & President Osvaldo GimÃ©nez - Fintech President Conference Call Participants Andrew Ruben - Morgan Stanley, Research Division Irma Sgarz - Goldman Sachs Group, Inc., Research Division Robert Ford - BofA Securities, Research Division Marcelo Santos - JPMorgan Chase & Co, Research Division Rodrigo Gastim - ItaÃº Corretora de Valores S.A., Research Division Josh Beck - Raymond James & Associates, Inc., Research Division Deepak Mathivanan - Cantor Fitzgerald & Co., Research Division Neha Agarwala - HSBC Global Investment Research Craig Maurer - Financial Technology Partners LP Kaio Penso Da Prato - UBS Investment Bank, Research Division Lucas Esteves - Santander Investment Securities Inc., Research Division Pedro Caravina - XP Investimentos Corretora de CÃ¢mbio, TÃtulos e Valores MobiliÃ¡rios S.A., Research Division Presentation Richard Cathcart Head of Investor Relations Hello, everyone, and welcome to the MercadoLibre's Earnings Conference Call for the quarter ended September 30, 2026.
-- Thank you for joining us.
-- I'm Richard Cathcart, Investor Relations Senior Director at MercadoLibre.
-
-## 28. The Sound Shore Fund Q3 2026 Letter To Shareholders (SSHFX)
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:45:00-05:00
-- 风险等级: 中
-- 关键词: interest rate, stock market, s&p 500, commodity, treasury
-- 命中关注词: interest rate, stock market, s&p 500, commodity, treasury, earnings
-- 原文链接: https://seekingalpha.com/article/4962745-the-sound-shore-fund-q3-2026-letter-to-shareholders?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The Sound Shore Fund Investor Class (SSHFX) and Institutional Class (SSHVX) declined 1.37% and 1.34%, respectively, in the third quarter of 2026, trailing the Russell 1000 Value Index (Russell Value) which advanced 2.61%, and the Standard & Poorâs 500 Index (S&P 500) which advanced 2.30%.；The three-year annualized gains for SSHFX of 19.67% and for SSHVX of 19.91% were behind of the Russell Valueâs 20.07% and the S&P 500âs 22.89%.；As long-term investors, we highlight that Sound Shoreâs 35-year annualized returns of 10.44% and 10.70%, for SSHFX and SSHVX, respectively, as of September 30, 2026, were ahead of the Russell Value at 10.38% and trailed the S&P 500 at 11.02%.
-
-### 要点
-- The Sound Shore Fund Investor Class (SSHFX) and Institutional Class (SSHVX) declined 1.37% and 1.34%, respectively, in the third quarter of 2026, trailing the Russell 1000 Value Index (Russell Value) which advanced 2.61%, and the Standard & Poorâs 500 Index (S&P 500) which advanced 2.30%.
-- The three-year annualized gains for SSHFX of 19.67% and for SSHVX of 19.91% were behind of the Russell Valueâs 20.07% and the S&P 500âs 22.89%.
-- As long-term investors, we highlight that Sound Shoreâs 35-year annualized returns of 10.44% and 10.70%, for SSHFX and SSHVX, respectively, as of September 30, 2026, were ahead of the Russell Value at 10.38% and trailed the S&P 500 at 11.02%.
-
-## 29. Dutch Bros Inc. (BROS) Q3 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:44:33-05:00
-- 风险等级: 低
-- 关键词: earnings, Dutch, Bros, Inc., BROS
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962619-dutch-bros-inc-bros-q3-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Company Participants Neil Patel - Senior Manager of Investor Relations Christine Barone - CEO, President & Director Joshua Guenser - Chief Financial Officer Conference Call Participants Sara Senatore - BofA Securities, Research Division Jon Tower - Citigroup Inc., Research Division Jeffrey Farmer - Gordon Haskett Research Advisors Andrew Charles - TD Cowen, Research Division Stephen McManus - BNP Paribas, Research Division Dennis Geiger - UBS Investment Bank, Research Division Arian Razai - Guggenheim Securities, LLC, Research Division Andrew Barish - Jefferies LLC, Research Division Rahul Krotthapalli - JPMorgan Chase & Co, Research Division Tania Anderson - William Blair & Company L.L.C., Research Division Christopher O'Cull - Robert W.；Baird & Co.；Incorporated, Research Division Brian Bittner - Oppenheimer & Co.
-
-### 要点
-- Company Participants Neil Patel - Senior Manager of Investor Relations Christine Barone - CEO, President & Director Joshua Guenser - Chief Financial Officer Conference Call Participants Sara Senatore - BofA Securities, Research Division Jon Tower - Citigroup Inc., Research Division Jeffrey Farmer - Gordon Haskett Research Advisors Andrew Charles - TD Cowen, Research Division Stephen McManus - BNP Paribas, Research Division Dennis Geiger - UBS Investment Bank, Research Division Arian Razai - Guggenheim Securities, LLC, Research Division Andrew Barish - Jefferies LLC, Research Division Rahul Krotthapalli - JPMorgan Chase & Co, Research Division Tania Anderson - William Blair & Company L.L.C., Research Division Christopher O'Cull - Robert W.
-- Baird & Co.
-- Incorporated, Research Division Brian Bittner - Oppenheimer & Co.
-
-## 30. Berkshire Hathaway: The Easy Re-Rating Is Gone (NYSE:BRK.A)
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:39:39-05:00
-- 风险等级: 中
-- 关键词: earnings, Berkshire, Hathaway, The, Easy
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962712-berkshire-hathaway-the-easy-re-rating-is-gone?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - Berkshire Hathaway (BRK.A, BRK.B) remains a Buy, with recent buybacks, new investments, and a strengthened governance structure supporting the thesis.；BRK's Q3 operating earnings are expected to exceed conservative consensus, driven by strong insurance, rail, and energy segments amid favorable macro trends.；Valuation now sits at 1.59x book, the high end of its historic range; future upside is likely from compounding rather than further multiple expansion.
-
-### 要点
-- Summary - Berkshire Hathaway (BRK.A, BRK.B) remains a Buy, with recent buybacks, new investments, and a strengthened governance structure supporting the thesis.
-- BRK's Q3 operating earnings are expected to exceed conservative consensus, driven by strong insurance, rail, and energy segments amid favorable macro trends.
-- Valuation now sits at 1.59x book, the high end of its historic range; future upside is likely from compounding rather than further multiple expansion.
-
-## 31. Shanghai Junshi Biosciences Co., Ltd. 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:SHJBF) 2026-11-05
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:37:54-05:00
-- 风险等级: 低
-- 关键词: earnings, Shanghai, Junshi, Biosciences, Co.
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962744-shanghai-junshi-biosciences-co-ltd-2026-q3-results-earnings-call-presentation?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Shanghai Junshi Biosciences Co., Ltd.；in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-### 要点
-- The following slide deck was published by Shanghai Junshi Biosciences Co., Ltd.
-- in conjunction with their 2026 Q3 earnings call.
-- This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-## 32. Comstock Inc. (LODE) Q3 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:24:36-05:00
-- 风险等级: 低
-- 关键词: earnings, Comstock, Inc., LODE, 2026
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962736-comstock-inc-lode-q3-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Company Participants Zach Spencer - Director of External Relations, Treasurer & Secretary Judd Merrill - Chief Financial Officer Corrado De Gasperis - CEO & Director Presentation Zach Spencer Director of External Relations, Treasurer & Secretary Good afternoon, and thank you for joining Comstock Inc.'s Third Quarter 2026 Results and Business Outlook.；I'm Zach Spencer, Comstock's Director of External Relations.；Today is Wednesday, November 4, 2026.
-
-### 要点
-- Company Participants Zach Spencer - Director of External Relations, Treasurer & Secretary Judd Merrill - Chief Financial Officer Corrado De Gasperis - CEO & Director Presentation Zach Spencer Director of External Relations, Treasurer & Secretary Good afternoon, and thank you for joining Comstock Inc.'s Third Quarter 2026 Results and Business Outlook.
-- I'm Zach Spencer, Comstock's Director of External Relations.
-- Today is Wednesday, November 4, 2026.
-
-## 33. Stella-Jones Inc. (SJ:CA) Q3 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:24:34-05:00
-- 风险等级: 低
-- 关键词: earnings, Stella-Jones, Inc., 2026, Earnings
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962735-stella-jones-inc-sj-ca-q3-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Company Participants David Galison - Vice President of Investor Relations Eric Vachon - CEO, President & Director Silvana Travaglini - Senior VP & CFO Conference Call Participants James McGarragle - RBC Capital Markets, Research Division Hamir Patel - CIBC Capital Markets, Research Division Michael Tupholme - TD Cowen, Research Division Benoit Poirier - Desjardins Securities Inc., Research Division Martin Pradier - Veritas Investment Research Corporation Maxim Sytchev - National Bank Financial, Inc., Research Division Christian Reiter - Raymond James Ltd., Research Division Jonathan Goldman - Scotiabank Global Banking and Markets, Research Division Presentation Operator Good morning, and thank you for standing by.；Welcome to Stella-Jones Third Quarter 2026 Earnings Call.；[Operator Instructions] I would like to remind everyone that this conference call is being recorded on Wednesday, November 4, 2026.
-
-### 要点
-- Company Participants David Galison - Vice President of Investor Relations Eric Vachon - CEO, President & Director Silvana Travaglini - Senior VP & CFO Conference Call Participants James McGarragle - RBC Capital Markets, Research Division Hamir Patel - CIBC Capital Markets, Research Division Michael Tupholme - TD Cowen, Research Division Benoit Poirier - Desjardins Securities Inc., Research Division Martin Pradier - Veritas Investment Research Corporation Maxim Sytchev - National Bank Financial, Inc., Research Division Christian Reiter - Raymond James Ltd., Research Division Jonathan Goldman - Scotiabank Global Banking and Markets, Research Division Presentation Operator Good morning, and thank you for standing by.
-- Welcome to Stella-Jones Third Quarter 2026 Earnings Call.
-- [Operator Instructions] I would like to remind everyone that this conference call is being recorded on Wednesday, November 4, 2026.
-
-## 34. Upstart Holdings, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:UPST) 2026-11-05
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:23:09-05:00
-- 风险等级: 低
-- 关键词: earnings, nasdaq, Upstart, Holdings, Inc.
-- 命中关注词: earnings, nasdaq
-- 原文链接: https://seekingalpha.com/article/4962733-upstart-holdings-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Upstart Holdings, Inc.；in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-### 要点
-- The following slide deck was published by Upstart Holdings, Inc.
-- in conjunction with their 2026 Q3 earnings call.
-- This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-## 35. Inseego Corp. (INSG) Q3 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:14:39-05:00
-- 风险等级: 低
-- 关键词: earnings, Inseego, Corp., INSG, 2026
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962732-inseego-corp-insg-q3-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Company Participants Juho Sarvikas - CEO & Director Steven Gatoff - GM of Inseego Subscribe & CFO Conference Call Participants Scott Searle - ROTH Capital Partners, LLC, Research Division Tyler Burmeister - Lake Street Capital Markets, LLC, Research Division Christian Schwab - Craig-Hallum Capital Group LLC, Research Division Presentation Operator Hello, and welcome to Inseego Corp.'s Third Quarter 2026 Financial Results Conference Call.；Please note that today's event is being recorded.；[Operator Instructions] On the call today are Juho Sarvikas, Chief Executive Officer; and Steven Gatoff, Chief Financial Officer.
-
-### 要点
-- Company Participants Juho Sarvikas - CEO & Director Steven Gatoff - GM of Inseego Subscribe & CFO Conference Call Participants Scott Searle - ROTH Capital Partners, LLC, Research Division Tyler Burmeister - Lake Street Capital Markets, LLC, Research Division Christian Schwab - Craig-Hallum Capital Group LLC, Research Division Presentation Operator Hello, and welcome to Inseego Corp.'s Third Quarter 2026 Financial Results Conference Call.
-- Please note that today's event is being recorded.
-- [Operator Instructions] On the call today are Juho Sarvikas, Chief Executive Officer; and Steven Gatoff, Chief Financial Officer.
-
-## 36. PROCEPT BioRobotics Corporation (PRCT) Q3 2026 Earnings Call Transcript
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:14:37-05:00
-- 风险等级: 低
-- 关键词: earnings, PROCEPT, BioRobotics, Corporation, PRCT
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4962582-procept-biorobotics-corporation-prct-q3-2026-earnings-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Company Participants Larry Wood - President, CEO & Director Kevin Waters - Executive VP & CFO Conference Call Participants Webb Campbell - Gilmartin Group LLC Joshua Jennings - TD Cowen, Research Division Samantha Kurtz - Piper Sandler & Co., Research Division Nathan Treybeck - Wells Fargo Securities, LLC, Research Division Brandon Vazquez - William Blair & Company L.L.C., Research Division Michael Sarcone - Jefferies LLC, Research Division Stephanie Piazzola - BofA Securities, Research Division David Rescott - Robert W.；Baird & Co.；Incorporated, Research Division Richard Newitter - Truist Securities, Inc., Research Division Ryan Zimmerman - BTIG, LLC, Research Division Benjamin Mee - Stephens Inc., Research Division Suraj Kalia - Oppenheimer & Co.
-
-### 要点
-- Company Participants Larry Wood - President, CEO & Director Kevin Waters - Executive VP & CFO Conference Call Participants Webb Campbell - Gilmartin Group LLC Joshua Jennings - TD Cowen, Research Division Samantha Kurtz - Piper Sandler & Co., Research Division Nathan Treybeck - Wells Fargo Securities, LLC, Research Division Brandon Vazquez - William Blair & Company L.L.C., Research Division Michael Sarcone - Jefferies LLC, Research Division Stephanie Piazzola - BofA Securities, Research Division David Rescott - Robert W.
-- Baird & Co.
-- Incorporated, Research Division Richard Newitter - Truist Securities, Inc., Research Division Ryan Zimmerman - BTIG, LLC, Research Division Benjamin Mee - Stephens Inc., Research Division Suraj Kalia - Oppenheimer & Co.
-
-## 37. Recursion Pharmaceuticals, Inc. 2026 Q3 - Results - Earnings Call Presentation (NASDAQ:RXRX) 2026-11-05
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-05T00:14:27-05:00
-- 风险等级: 低
-- 关键词: earnings, nasdaq, Recursion, Pharmaceuticals, Inc.
-- 命中关注词: earnings, nasdaq
-- 原文链接: https://seekingalpha.com/article/4962730-recursion-pharmaceuticals-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Recursion Pharmaceuticals, Inc.；in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-### 要点
-- The following slide deck was published by Recursion Pharmaceuticals, Inc.
-- in conjunction with their 2026 Q3 earnings call.
-- This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-
-## 38. 美国中期选举结果如何影响特朗普政府的关税和贸易议程？｜全球贸易观察
-- 分类: 国际财经 / International Finance
-- 来源: 第一财经
-- 发布时间: 2026-11-05
-- 风险等级: 中
-- 关键词: 关税, 第一财经
-- 命中关注词: 关税
-- 原文链接: https://www.yicai.com/news/103426850.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 美国中期选举后，传统红州“翻蓝”，民主党重新夺回国会参议院和众议院的掌控权。；第一财经记者采访的数位专家均表示，中期选举的结果对于特朗普政府的贸易议程影响有限，同时民主党也不会扭转“美国优先”的全球贸易政策。；新加坡尤索夫伊萨东南亚研究院客座资深研究员奥尔森（Stephen Olson）曾在美国总统行政办公室、美国贸易代表办公室和美国商务部工作，他近期接受第一财经记者采访时表示，当前民主党或共和党内都没有任何一位重量级政客在倡导“重回传统自贸协定”的政策。
-
-### 要点
-- {{aisd}} AI生成 免责声明 美国中期选举后，传统红州“翻蓝”，民主党重新夺回国会参议院和众议院的掌控权。
-- 第一财经记者采访的数位专家均表示，中期选举的结果对于特朗普政府的贸易议程影响有限，同时民主党也不会扭转“美国优先”的全球贸易政策。
-- 新加坡尤索夫伊萨东南亚研究院客座资深研究员奥尔森（Stephen Olson）曾在美国总统行政办公室、美国贸易代表办公室和美国商务部工作，他近期接受第一财经记者采访时表示，当前民主党或共和党内都没有任何一位重量级政客在倡导“重回传统自贸协定”的政策。
-
-## 39. 港股光模块（CPO）指数大跌超10%
-- 分类: 股市 / Stock Markets
-- 来源: 第一财经
-- 发布时间: 2026-11-05
-- 风险等级: 低
-- 关键词: 港股, CPO, 第一财经
-- 命中关注词: 港股
-- 原文链接: https://www.yicai.com/news/103427296.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明
-
-### 要点
-- {{aisd}} AI生成 免责声明
-
-## 40. 买黄金的年轻人，把日子过明白了
-- 分类: 大宗商品 / Commodities
-- 来源: 第一财经
-- 发布时间: 2026-11-05
-- 风险等级: 低
-- 关键词: 黄金, 第一财经
-- 命中关注词: 黄金
-- 原文链接: https://www.yicai.com/news/103427275.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 在全民“过日子”的时代，黄金大概是把日子过得最明白的首饰——既可以搭配衣服、点亮造型，也能留在手里保值，成为市场上的硬通货，既有流通价值，也有情绪价值。；这几年，年轻人的“血脉觉醒”，又给黄金消费添了一把火，买金不再只是婚嫁、送礼等重要时刻的专属，也可以是给自己的一份奖励。；当年轻人开始把黄金戴进日常，传统黄金品牌也面临着新的问题：除了黄金本身的价值，品牌还能用什么打动消费者？
-
-### 要点
-- {{aisd}} AI生成 免责声明 在全民“过日子”的时代，黄金大概是把日子过得最明白的首饰——既可以搭配衣服、点亮造型，也能留在手里保值，成为市场上的硬通货，既有流通价值，也有情绪价值。
-- 这几年，年轻人的“血脉觉醒”，又给黄金消费添了一把火，买金不再只是婚嫁、送礼等重要时刻的专属，也可以是给自己的一份奖励。
-- 当年轻人开始把黄金戴进日常，传统黄金品牌也面临着新的问题：除了黄金本身的价值，品牌还能用什么打动消费者？
-
-## 41. ADP好于预期，10月非农如何影响美联储加息前景
+- Oil prices rose Friday as investors weighed the risk of renewed military escalation between the U.S.
+- and Iran following the midterm elections, alongside prospects for a diplomatic breakthrough.
+- Brent crude futures climbed 1.67% to $99.90 per barrel, while U.S.
+
+## 21. Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy
 - 分类: 宏观经济 / Macroeconomics
-- 来源: 第一财经
-- 发布时间: 2026-11-05
-- 风险等级: 中
-- 关键词: 美联储, 加息, ADP, 第一财经
-- 命中关注词: 美联储, 加息
-- 原文链接: https://www.yicai.com/news/103426485.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 周三公布的ADP私营部门就业数据好于预期，招聘范围扩大到了更多行业，这显示出美国疲软劳动力市场出现了一些改善的迹象。市场焦点转向周五的非农就业报告，如果数据显示劳动力市场韧性，或给货币政策前景带来压力。；数据不俗 ADP表示，美国企业在十月份连续第二个月创造了适度的8.6万个新增职位，这一增幅超过了华尔街预计的7.5万个。；分行业看，交通运输行业新增了3.9万个职位，为近两年来的最大增幅。医疗服务提供者再次成为招聘的主力，就像过去几年一样。酒店、餐饮、金融公司和建筑公司也增加了更多职位。
-
-### 要点
-- {{aisd}} AI生成 免责声明 周三公布的ADP私营部门就业数据好于预期，招聘范围扩大到了更多行业，这显示出美国疲软劳动力市场出现了一些改善的迹象。市场焦点转向周五的非农就业报告，如果数据显示劳动力市场韧性，或给货币政策前景带来压力。
-- 数据不俗 ADP表示，美国企业在十月份连续第二个月创造了适度的8.6万个新增职位，这一增幅超过了华尔街预计的7.5万个。
-- 分行业看，交通运输行业新增了3.9万个职位，为近两年来的最大增幅。医疗服务提供者再次成为招聘的主力，就像过去几年一样。酒店、餐饮、金融公司和建筑公司也增加了更多职位。
-
-## 42. White House panel delays hearing on Fed's Lisa Cook to Dec. 14
-- 分类: 楼市与房地产 / Real Estate & Housing
 - 来源: CNBC Top News
-- 发布时间: 2026-11-04T23:59:00+0000
+- 发布时间: 2026-11-06T04:46:15+0000
 - 风险等级: 低
-- 关键词: fed, federal reserve, central bank, monetary policy, White
-- 命中关注词: fed, federal reserve, central bank, monetary policy
-- 原文链接: https://www.cnbc.com/2026/11/04/trump-federal-reserve-lisa-cook-hearing.html
+- 关键词: fed, inflation, Renewed, U.S.-Iran, tension
+- 命中关注词: fed, inflation
+- 原文链接: https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：A White House committee of inquiry postponed from Thursday to Dec.；14 a hearing with Federal Reserve Governor Lisa Cook for an investigation of whether allegations of false statements in mortgage applications warrant her firing by President Donald Trump, a White House official said Wednesday evening.；But it was unclear if Cook, whom Trump unsuccessfully tried to fire in August 2025, would agree to attend.
+未调用大模型，以下为原文关键信息摘录：The U.S.；is likely to resume military action against Iran in the coming days, a move that could send oil prices sharply higher, according to Bob McNally, CEO of geopolitical and energy analysis firm Rapidan Energy Group.；Speaking to CNBC's "Squawk Box Asia," McNally put the odds of "a resumption of military fighting" at 80% as the U.S.
 
 ### 要点
-- A White House committee of inquiry postponed from Thursday to Dec.
-- 14 a hearing with Federal Reserve Governor Lisa Cook for an investigation of whether allegations of false statements in mortgage applications warrant her firing by President Donald Trump, a White House official said Wednesday evening.
-- But it was unclear if Cook, whom Trump unsuccessfully tried to fire in August 2025, would agree to attend.
+- The U.S.
+- is likely to resume military action against Iran in the coming days, a move that could send oil prices sharply higher, according to Bob McNally, CEO of geopolitical and energy analysis firm Rapidan Energy Group.
+- Speaking to CNBC's "Squawk Box Asia," McNally put the odds of "a resumption of military fighting" at 80% as the U.S.
 
-## 43. Prediction markets cement their status after forecasting Democratic sweep of Congress
+## 22. ‘It seems bizarre’: We’re in our 80s with $950,000 in traditional IRAs. Why is our adviser pushing Roth conversions?
 - 分类: 综合资讯 / General News
-- 来源: CNBC Top News
-- 发布时间: 2026-11-04T21:57:39+0000
+- 来源: MarketWatch
+- 发布时间: 2026-11-06T03:15:00+00:00
 - 风险等级: 低
-- 关键词: Prediction, markets, cement, their, status
+- 关键词: seems, bizarre, our, 80s, with
 - 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html
+- 原文链接: https://www.marketwatch.com/story/it-seems-bizarre-were-in-our-80s-with-950-000-in-traditional-iras-why-is-our-adviser-pushing-us-to-do-roth-conversions-a665f990?mod=mw_rss_topstories
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Prediction market platforms cemented their role in election forecasting on Tuesday, when markets accurately predicted a host of races before the polls closed, and projected outcomes before news outlets.；Democrats were seen as favored to flip both the U.S.；House of Representatives and Senate on prediction markets before the first polls closed at 6:00 p.m.
+未调用大模型，以下为原文关键信息摘录：“Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”
 
 ### 要点
-- Prediction market platforms cemented their role in election forecasting on Tuesday, when markets accurately predicted a host of races before the polls closed, and projected outcomes before news outlets.
-- Democrats were seen as favored to flip both the U.S.
-- House of Representatives and Senate on prediction markets before the first polls closed at 6:00 p.m.
+- “Our basic living expenses are covered by $110,000 in annual pensions and Social Security.”
 
-## 44. These stocks soared the most today after the Democrats trounced Trump
+## 23. ‘My life could be cut short’: I’m 55, married and have a brain tumor. Should I splash out on a $210,000 Porsche?
+- 分类: 综合资讯 / General News
+- 来源: MarketWatch
+- 发布时间: 2026-11-06T03:00:00+00:00
+- 风险等级: 低
+- 关键词: life, could, cut, short, married
+- 命中关注词: 无
+- 原文链接: https://www.marketwatch.com/story/my-life-could-be-cut-short-im-55-married-with-4-3-million-and-have-a-brain-tumor-should-i-buy-a-210-000-custom-porsche-ed825ada?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：“I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”
+
+### 要点
+- “I also want to preserve the opportunity to leave a meaningful legacy for my two sons.”
+
+## 24. Carillon Chartwell Short Duration High Yield Fund Q3 2026 Commentary
+- 分类: 债市 / Bond Markets
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:25:00-05:00
+- 风险等级: 低
+- 关键词: fed, federal reserve, interest rate, bond, treasury
+- 命中关注词: fed, federal reserve, interest rate, bond, treasury
+- 原文链接: https://seekingalpha.com/article/4963770-carillon-chartwell-short-duration-high-yield-fund-q3-2026-commentary?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Market overview Rates reset higher The US Federal Reserve (Fed) raised its policy rate by 25 basis points (BPS) during the quarter, partially reversing the cuts made in late 2025.；By quarter-end, markets were pricing in nearly three additional interest rate hikes
+
+### 要点
+- Market overview Rates reset higher The US Federal Reserve (Fed) raised its policy rate by 25 basis points (BPS) during the quarter, partially reversing the cuts made in late 2025.
+- By quarter-end, markets were pricing in nearly three additional interest rate hikes
+
+## 25. Democrats Take Congress, Putting Trump
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:15:00-05:00
+- 风险等级: 低
+- 关键词: Democrats, Take, Congress, Putting, Trump
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4963761-democrats-take-congress-putting-trumps-fiscal-agenda-to-test?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：By Åukasz Zembik The midterm result makes further fiscal expansion harder to pass and gives Democrats more leverage over spending and appointments.；For markets, the conflict with Iran could still matter more than the shift in Congress.；By Åukasz Zembik The midterm result makes further fiscal expansion harder to pass and gives Democrats more leverage over spending and appointments.
+
+### 要点
+- By Åukasz Zembik The midterm result makes further fiscal expansion harder to pass and gives Democrats more leverage over spending and appointments.
+- For markets, the conflict with Iran could still matter more than the shift in Congress.
+
+## 26. EPAM Systems, Inc. (EPAM) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:14:42-05:00
+- 风险等级: 低
+- 关键词: earnings, EPAM, Systems, Inc., 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963139-epam-systems-inc-epam-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Company Participants Mike Rowshandel - Head of Investor Relations Balazs Fejes - President, CEO & Director Jason Peterson - Senior VP, CFO & Treasurer Conference Call Participants Bryan Bergin - TD Cowen, Research Division Margaret Nolan - William Blair & Company L.L.C., Research Division Jonathan Lee James Friedman - Susquehanna Financial Group, LLLP, Research Division David Grossman - Stifel, Nicolaus & Company, Incorporated, Research Division Tyler DuPont - Wells Fargo Securities, LLC, Research Division Puneet Jain - JPMorgan Chase & Co, Research Division Paul Obrecht - Wolfe Research, LLC Sean Kennedy - Mizuho Securities USA LLC, Research Division Presentation Operator Good day, everyone.；My name is Ryan, and I will be your conference operator today.；[Operator Instructions] At this time, I would like to welcome you to EPAM's Third Quarter Earnings Release Conference Call.
+
+### 要点
+- Company Participants Mike Rowshandel - Head of Investor Relations Balazs Fejes - President, CEO & Director Jason Peterson - Senior VP, CFO & Treasurer Conference Call Participants Bryan Bergin - TD Cowen, Research Division Margaret Nolan - William Blair & Company L.L.C., Research Division Jonathan Lee James Friedman - Susquehanna Financial Group, LLLP, Research Division David Grossman - Stifel, Nicolaus & Company, Incorporated, Research Division Tyler DuPont - Wells Fargo Securities, LLC, Research Division Puneet Jain - JPMorgan Chase & Co, Research Division Paul Obrecht - Wolfe Research, LLC Sean Kennedy - Mizuho Securities USA LLC, Research Division Presentation Operator Good day, everyone.
+- My name is Ryan, and I will be your conference operator today.
+- [Operator Instructions] At this time, I would like to welcome you to EPAM's Third Quarter Earnings Release Conference Call.
+
+## 27. Great Elm Group, Inc. (GEG) Q1 2027 Earnings Call Prepared Remarks Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:14:40-05:00
+- 风险等级: 低
+- 关键词: earnings, Great, Elm, Group, Inc.
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963044-great-elm-group-inc-geg-q1-2027-earnings-call-prepared-remarks-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Company Participants Adam Yates Jason Reese - CEO & Executive Chairman Keri Davis - CFO & Chief Accounting Officer Presentation Operator Greetings.；Welcome to the Great Elm Group Fiscal 2027 First Quarter Conference Call.；[Operator Instructions] Please note this conference is being recorded.
+
+### 要点
+- Company Participants Adam Yates Jason Reese - CEO & Executive Chairman Keri Davis - CFO & Chief Accounting Officer Presentation Operator Greetings.
+- Welcome to the Great Elm Group Fiscal 2027 First Quarter Conference Call.
+- [Operator Instructions] Please note this conference is being recorded.
+
+## 28. Evommune, Inc. (EVMN) Discusses In Licensing of EVO570 for Autoimmune Diseases Prepared Remarks Transcript
+- 分类: 监管与合规 / Regulation & Compliance
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:14:37-05:00
+- 风险等级: 低
+- 关键词: Evommune, Inc., EVMN, Discusses, Licensing
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4963749-evommune-inc-evmn-discusses-in-licensing-of-evo570-for-autoimmune-diseases-prepared-remarks?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Evommune, Inc.；(EVMN) Discusses In Licensing of EVO570 for Autoimmune Diseases November 5, 2026 8:30 AM EST Company Participants Luis PeÃ±a - Founder, President, CEO & Director Gregory Moss - Chief Business & Legal Officer, Corporate Secretary and Chief Compliance Officer Jeegar Patel - Chief Scientific Officer J.；Jackson - Senior Vice President of Clinical Development Presentation Luis PeÃ±a Founder, President, CEO & Director Good morning, and thank you for joining us.
+
+### 要点
+- Evommune, Inc.
+- (EVMN) Discusses In Licensing of EVO570 for Autoimmune Diseases November 5, 2026 8:30 AM EST Company Participants Luis PeÃ±a - Founder, President, CEO & Director Gregory Moss - Chief Business & Legal Officer, Corporate Secretary and Chief Compliance Officer Jeegar Patel - Chief Scientific Officer J.
+- Jackson - Senior Vice President of Clinical Development Presentation Luis PeÃ±a Founder, President, CEO & Director Good morning, and thank you for joining us.
+
+## 29. Cloudflare’s stock mounts a big comeback after fastest sales surge in nearly 4 years
 - 分类: 股市 / Stock Markets
 - 来源: MarketWatch
-- 发布时间: 2026-11-04T21:55:00+00:00
+- 发布时间: 2026-11-06T01:06:00+00:00
 - 风险等级: 低
-- 关键词: s&p 500, These, stocks, soared, the
+- 关键词: earnings, Cloudflare, stock, mounts, big
+- 命中关注词: earnings
+- 原文链接: https://www.marketwatch.com/story/cloudflares-stock-mounts-a-big-comeback-after-fastest-sales-surge-in-nearly-4-years-d80d994d?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.
+
+### 要点
+- Demand for automated AI protection is on the rise — and manifesting in Cloudflare’s earnings results.
+
+## 30. Neighborhood Intelligence, Inc. (NXH) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:04:36-05:00
+- 风险等级: 低
+- 关键词: earnings, Neighborhood, Intelligence, Inc., NXH
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963571-neighborhood-intelligence-inc-nxh-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Company Participants Mehgan Peetz - Chief Administrative & Legal Officer Marcus Lemonis - CEO & Executive Chairman Paul Kosturos - Interim Chief Financial Officer Amy A.；Sullivan - President Conference Call Participants Steven Forbes - Guggenheim Securities, LLC, Research Division Presentation Operator Good day, and thank you for standing by.；Welcome to the Third Quarter 2026 Neighborhood Intelligence Earnings Conference Call.
+
+### 要点
+- Company Participants Mehgan Peetz - Chief Administrative & Legal Officer Marcus Lemonis - CEO & Executive Chairman Paul Kosturos - Interim Chief Financial Officer Amy A.
+- Sullivan - President Conference Call Participants Steven Forbes - Guggenheim Securities, LLC, Research Division Presentation Operator Good day, and thank you for standing by.
+- Welcome to the Third Quarter 2026 Neighborhood Intelligence Earnings Conference Call.
+
+## 31. Arcturus Therapeutics Holdings Inc. (ARCT) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:04:34-05:00
+- 风险等级: 低
+- 关键词: earnings, Arcturus, Therapeutics, Holdings, Inc.
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963593-arcturus-therapeutics-holdings-inc-arct-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Company Participants Neda Safarzadeh - Vice President and Head of IR/PR & Marketing Joseph Payne - Founder, President, CEO & Director Dennis Mulroy - Chief Financial Officer Alan Cohen - Chief Medical Officer Padmanabh Chivukula - Founder, Chief Scientific Officer, COO & Secretary Conference Call Participants Lili Nsongo - Leerink Partners LLC, Research Division Boran Wang - Guggenheim Securities, LLC, Research Division Kuan-Hung Lin - Wells Fargo Securities, LLC, Research Division Myles Minter - William Blair & Company L.L.C., Research Division Whitney Ijem - Canaccord Genuity Corp., Research Division Adam Walsh - ROTH Capital Partners, LLC, Research Division Mayank Mamtani - B.；Riley Securities, Inc., Research Division Thomas Shrader - BTIG, LLC, Research Division Yale Jen - Laidlaw & Company (UK) Ltd., Research Division Presentation Operator Hello, and welcome, everyone joining today's Arcturus Therapeutics Third Quarter 2026 Earnings Call.；[Operator Instructions] Please note this call is being recorded.
+
+### 要点
+- Company Participants Neda Safarzadeh - Vice President and Head of IR/PR & Marketing Joseph Payne - Founder, President, CEO & Director Dennis Mulroy - Chief Financial Officer Alan Cohen - Chief Medical Officer Padmanabh Chivukula - Founder, Chief Scientific Officer, COO & Secretary Conference Call Participants Lili Nsongo - Leerink Partners LLC, Research Division Boran Wang - Guggenheim Securities, LLC, Research Division Kuan-Hung Lin - Wells Fargo Securities, LLC, Research Division Myles Minter - William Blair & Company L.L.C., Research Division Whitney Ijem - Canaccord Genuity Corp., Research Division Adam Walsh - ROTH Capital Partners, LLC, Research Division Mayank Mamtani - B.
+- Riley Securities, Inc., Research Division Thomas Shrader - BTIG, LLC, Research Division Yale Jen - Laidlaw & Company (UK) Ltd., Research Division Presentation Operator Hello, and welcome, everyone joining today's Arcturus Therapeutics Third Quarter 2026 Earnings Call.
+- [Operator Instructions] Please note this call is being recorded.
+
+## 32. SHLD ETF: Election Results Have Me More Worried About Defense Than AI Centers (SHLD)
+- 分类: 股市 / Stock Markets
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:00:27-05:00
+- 风险等级: 低
+- 关键词: nasdaq, SHLD, ETF, Election, Results
+- 命中关注词: nasdaq
+- 原文链接: https://seekingalpha.com/article/4963743-shld-election-results-have-me-more-worried-about-defense-than-ai-centers-downgrade?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：The NASDAQ has retreated sharply since the election results rolled in.；Quite a number of people expected a blue wave, but what we got was arguably more of a blue tsunami.；AI data centers were a major topic Summary - I downgrade the Global X Defense Tech ETF to a soft sell due to mounting fiscal and geopolitical headwinds.
+
+### 要点
+- The NASDAQ has retreated sharply since the election results rolled in.
+- Quite a number of people expected a blue wave, but what we got was arguably more of a blue tsunami.
+- AI data centers were a major topic Summary - I downgrade the Global X Defense Tech ETF to a soft sell due to mounting fiscal and geopolitical headwinds.
+
+## 33. Thrivent Large Cap Value Fund Q3 2026 Commentary
+- 分类: 基金与理财 / Funds & Wealth Management
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T01:00:00-05:00
+- 风险等级: 低
+- 关键词: Thrivent, Large, Cap, Value, Fund
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4963762-thrivent-large-cap-value-fund-q3-2026-commentary?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Performance factors Contributors - Marathon Petroleum Corporations (MPC) was a large positive contributor of overall performance in the quarter.；Marathon Petroleum benefited from less competing refining products getting through the strait of Hormuz and Ukraine strikes
+
+### 要点
+- Performance factors Contributors - Marathon Petroleum Corporations (MPC) was a large positive contributor of overall performance in the quarter.
+- Marathon Petroleum benefited from less competing refining products getting through the strait of Hormuz and Ukraine strikes
+
+## 34. Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble
+- 分类: 股市 / Stock Markets
+- 来源: CNBC Top News
+- 发布时间: 2026-11-06T00:59:14+0000
+- 风险等级: 高
+- 关键词: nasdaq, Nasdaq, sell-off, batters, Asian
+- 命中关注词: nasdaq
+- 原文链接: https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory as renewed concerns over artificial intelligence spending rattled investor sentiment.；South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7%.；LG Innotek and LG Display fell 10% and 7.7%, respectively, as selling pressure spread across the country's technology sector.
+
+### 要点
+- Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory as renewed concerns over artificial intelligence spending rattled investor sentiment.
+- South Korean chipmaker SK Hynix plunged over 8%, while Samsung Electronics shed 7%.
+- LG Innotek and LG Display fell 10% and 7.7%, respectively, as selling pressure spread across the country's technology sector.
+
+## 35. Rates Spark: Treasury Heat From Tech Flight - But For How Long?
+- 分类: 债市 / Bond Markets
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T00:20:00-05:00
+- 风险等级: 低
+- 关键词: treasury, inflation, bond, Rates, Spark
+- 命中关注词: treasury, inflation, bond
+- 原文链接: https://seekingalpha.com/article/4963751-rates-spark-treasury-heat-from-tech-flight-but-for-how-long?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：By Padhraic Garvey, CFA, Regional Head of Research, Americas; Benjamin Schroeder, Senior Rates Strategist; and Michiel Tukker, Senior UK & Eurozone Rates Strategist Summary - The US 10yr yield is now down some 50bp from its recent highs.；The drivers have been real money value hunters, some fast money longs in Treasuries versus payers in SOFR in a short swap spread trade, and finally, a risk-off tone in the AI space that's been counteracted by safety flows into Treasuries.；BoE hiked as expected, but revised inflation forecasts add additional upside risk to rates.
+
+### 要点
+- By Padhraic Garvey, CFA, Regional Head of Research, Americas; Benjamin Schroeder, Senior Rates Strategist; and Michiel Tukker, Senior UK & Eurozone Rates Strategist Summary - The US 10yr yield is now down some 50bp from its recent highs.
+- The drivers have been real money value hunters, some fast money longs in Treasuries versus payers in SOFR in a short swap spread trade, and finally, a risk-off tone in the AI space that's been counteracted by safety flows into Treasuries.
+- BoE hiked as expected, but revised inflation forecasts add additional upside risk to rates.
+
+## 36. The Wendy
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T00:14:57-05:00
+- 风险等级: 低
+- 关键词: earnings, The, Wendy, Seeking Alpha
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963534-the-wendys-company-wen-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Company Participants Aaron Broholm - Head of Investor Relations Robert Wright - President, CEO & Director Steven Cirulis - Chief Financial Officer & Chief Strategy Officer Conference Call Participants David Palmer - Evercore ISI Institutional Equities, Research Division Rahul Krotthapalli - JPMorgan Chase & Co, Research Division Danilo Gargiulo - Bernstein Institutional Services LLC, Research Division Margaret-May Binshtok - Wolfe Research, LLC Brian Bittner - Oppenheimer & Co.；Inc., Research Division Christopher Carril - KeyBanc Capital Markets Inc., Research Division James Salera - Stephens Inc., Research Division Arian Razai - Guggenheim Securities, LLC, Research Division James Sanderson - Northcoast Research Partners, LLC Presentation Operator Good morning.；Welcome to The Wendy's Company Earnings Results Conference Call.
+
+### 要点
+- Company Participants Aaron Broholm - Head of Investor Relations Robert Wright - President, CEO & Director Steven Cirulis - Chief Financial Officer & Chief Strategy Officer Conference Call Participants David Palmer - Evercore ISI Institutional Equities, Research Division Rahul Krotthapalli - JPMorgan Chase & Co, Research Division Danilo Gargiulo - Bernstein Institutional Services LLC, Research Division Margaret-May Binshtok - Wolfe Research, LLC Brian Bittner - Oppenheimer & Co.
+- Inc., Research Division Christopher Carril - KeyBanc Capital Markets Inc., Research Division James Salera - Stephens Inc., Research Division Arian Razai - Guggenheim Securities, LLC, Research Division James Sanderson - Northcoast Research Partners, LLC Presentation Operator Good morning.
+- Welcome to The Wendy's Company Earnings Results Conference Call.
+
+## 37. Kodiak AI, Inc. (KDK) Q3 2026 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T00:14:36-05:00
+- 风险等级: 低
+- 关键词: earnings, Kodiak, Inc., KDK, 2026
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963748-kodiak-ai-inc-kdk-q3-2026-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Company Participants Steve Philistin Don Burnette - Founder, CEO & Director Surajit Datta - Chief Financial Officer Conference Call Participants Andres Sheppard-Slinger - Cantor Fitzgerald & Co., Research Division Nancy Hipp - Morgan Stanley, Research Division Ryan Sigdahl - Craig-Hallum Capital Group LLC, Research Division Colin Rusch - Oppenheimer & Co.；Inc., Research Division Christopher Pierce - Needham & Company, LLC, Research Division Itay Michaeli - TD Cowen, Research Division James McIlree - Chardan Capital Markets, LLC, Research Division Walter Piecyk - LightShed Partners, LLC Presentation Steve Philistin Good afternoon, and thanks for joining Kodiak's Third Quarter 2026 Earnings Call.；I am Steve Philistin, Senior Manager, Investor Relations.
+
+### 要点
+- Company Participants Steve Philistin Don Burnette - Founder, CEO & Director Surajit Datta - Chief Financial Officer Conference Call Participants Andres Sheppard-Slinger - Cantor Fitzgerald & Co., Research Division Nancy Hipp - Morgan Stanley, Research Division Ryan Sigdahl - Craig-Hallum Capital Group LLC, Research Division Colin Rusch - Oppenheimer & Co.
+- Inc., Research Division Christopher Pierce - Needham & Company, LLC, Research Division Itay Michaeli - TD Cowen, Research Division James McIlree - Chardan Capital Markets, LLC, Research Division Walter Piecyk - LightShed Partners, LLC Presentation Steve Philistin Good afternoon, and thanks for joining Kodiak's Third Quarter 2026 Earnings Call.
+- I am Steve Philistin, Senior Manager, Investor Relations.
+
+## 38. IREN Limited (IREN) Q1 2027 Earnings Call Transcript
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-06T00:14:34-05:00
+- 风险等级: 低
+- 关键词: earnings, IREN, Limited, 2027, Earnings
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4963685-iren-limited-iren-q1-2027-earnings-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Company Participants Mike Power - Vice President of Investor Relations Daniel Roberts - Co-Founder, Co-CEO & Executive Director Anthony Lewis - Chief Financial Officer Kent Draper - Chief Commercial Officer Conference Call Participants Paul Golding - Macquarie Research Brett Knoblauch - Cantor Fitzgerald & Co., Research Division Joseph Vafi - Canaccord Genuity Corp., Research Division Gregory Lewis - BTIG, LLC, Research Division Michael Donovan - Compass Point Research & Trading, LLC, Research Division Michael Colonnese - H.C.；Wainwright & Co, LLC, Research Division Michael Ng - Goldman Sachs Group, Inc., Research Division Jonathan Petersen - Jefferies LLC, Research Division Presentation Operator Hello, and welcome to IREN's First Quarter Fiscal Year 2027 Results Conference Call.；[Operator Instructions] I would now like to turn the call over to Mike Power, Vice President of Investor Relations.
+
+### 要点
+- Company Participants Mike Power - Vice President of Investor Relations Daniel Roberts - Co-Founder, Co-CEO & Executive Director Anthony Lewis - Chief Financial Officer Kent Draper - Chief Commercial Officer Conference Call Participants Paul Golding - Macquarie Research Brett Knoblauch - Cantor Fitzgerald & Co., Research Division Joseph Vafi - Canaccord Genuity Corp., Research Division Gregory Lewis - BTIG, LLC, Research Division Michael Donovan - Compass Point Research & Trading, LLC, Research Division Michael Colonnese - H.C.
+- Wainwright & Co, LLC, Research Division Michael Ng - Goldman Sachs Group, Inc., Research Division Jonathan Petersen - Jefferies LLC, Research Division Presentation Operator Hello, and welcome to IREN's First Quarter Fiscal Year 2027 Results Conference Call.
+- [Operator Instructions] I would now like to turn the call over to Mike Power, Vice President of Investor Relations.
+
+## 39. 港股锂电池板块午后震荡走低
+- 分类: 股市 / Stock Markets
+- 来源: 第一财经
+- 发布时间: 2026-11-06
+- 风险等级: 低
+- 关键词: 港股, 第一财经
+- 命中关注词: 港股
+- 原文链接: https://www.yicai.com/news/103429185.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 宁德时代跌超5%，天齐锂业跌超4%，赣锋锂业、中创新航跟跌。
+
+### 要点
+- {{aisd}} AI生成 免责声明 宁德时代跌超5%，天齐锂业跌超4%，赣锋锂业、中创新航跟跌。
+
+## 40. 三年来首次加息！英国央行：不会是最后一次
+- 分类: 股市 / Stock Markets
+- 来源: 第一财经
+- 发布时间: 2026-11-06
+- 风险等级: 中
+- 关键词: 加息, 央行, cpi, 国债, 第一财经
+- 命中关注词: 加息, 央行, cpi, 国债
+- 原文链接: https://www.yicai.com/news/103428437.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 当地时间周四（5日），英国央行宣布将基准利率上调25个基点至4%，这是该行自2023年以来首次加息。尽管本次加息符合市场预期，但投票结果比外界预想的更为“鹰派”。；英国央行货币政策委员会（MPC）以8:1的投票结果通过加息决议。与经济学家预期相反，唯一的反对票并非来自主张按兵不动的委员——外部委员凯瑟琳·曼恩（Catherine Mann）主张一次性加息50个基点至4.25%。；决议公布后，交易员加大了对进一步加息的押注，英国国债遭到抛售。截至伦敦尾盘，对利率形势敏感的英国两年期国债收益率上涨4个基点至4.790%，十年期国债收益率上涨3个基点至5.170%；英镑兑美元基本持平，报1.347附近。股市方面，英国富时100指数收跌0.43%，银行股和国防股走弱。
+
+### 要点
+- {{aisd}} AI生成 免责声明 当地时间周四（5日），英国央行宣布将基准利率上调25个基点至4%，这是该行自2023年以来首次加息。尽管本次加息符合市场预期，但投票结果比外界预想的更为“鹰派”。
+- 英国央行货币政策委员会（MPC）以8:1的投票结果通过加息决议。与经济学家预期相反，唯一的反对票并非来自主张按兵不动的委员——外部委员凯瑟琳·曼恩（Catherine Mann）主张一次性加息50个基点至4.25%。
+- 决议公布后，交易员加大了对进一步加息的押注，英国国债遭到抛售。截至伦敦尾盘，对利率形势敏感的英国两年期国债收益率上涨4个基点至4.790%，十年期国债收益率上涨3个基点至5.170%；英镑兑美元基本持平，报1.347附近。股市方面，英国富时100指数收跌0.43%，银行股和国防股走弱。
+
+## 41. 一地虚假包装项目骗取千万特别国债资金被中央通报
+- 分类: 债市 / Bond Markets
+- 来源: 第一财经
+- 发布时间: 2026-11-06
+- 风险等级: 低
+- 关键词: 国债, 房地产, 第一财经
+- 命中关注词: 国债, 房地产
+- 原文链接: https://www.yicai.com/news/103429157.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 中央财政超长期特别国债资金不是“唐僧肉”，个别地方骗取资金遭到严打。；11月6日，中央层面整治形式主义为基层减负专项工作机制办公室会同中央纪委办公厅，通报了3起整治形式主义为基层减负典型问题。其中之一是内蒙古自治区包头市昆都仑区虚假包装项目申报超长期特别国债项目，有关部门审批监管流于形式。；根据上述通报，2024年5月，包头市昆都仑区在明知15个小区燃气管网已完成改造并验收的情况下，默许有关企业伪造可行性研究、初步设计、安全风险评估等材料，将上述已完工项目包装成新建项目申报2024年城市地下管网建设改造超长期特别国债项目，违反已完工项目不得申报“两重”建设资金有关要求。
+
+### 要点
+- {{aisd}} AI生成 免责声明 中央财政超长期特别国债资金不是“唐僧肉”，个别地方骗取资金遭到严打。
+- 11月6日，中央层面整治形式主义为基层减负专项工作机制办公室会同中央纪委办公厅，通报了3起整治形式主义为基层减负典型问题。其中之一是内蒙古自治区包头市昆都仑区虚假包装项目申报超长期特别国债项目，有关部门审批监管流于形式。
+- 根据上述通报，2024年5月，包头市昆都仑区在明知15个小区燃气管网已完成改造并验收的情况下，默许有关企业伪造可行性研究、初步设计、安全风险评估等材料，将上述已完工项目包装成新建项目申报2024年城市地下管网建设改造超长期特别国债项目，违反已完工项目不得申报“两重”建设资金有关要求。
+
+## 42. Tech stocks log worst day since 2020 as carnage comes to the AI trade
+- 分类: 股市 / Stock Markets
+- 来源: MarketWatch
+- 发布时间: 2026-11-05T22:48:00+00:00
+- 风险等级: 低
+- 关键词: s&p 500, Tech, stocks, log, worst
 - 命中关注词: s&p 500
-- 原文链接: https://www.marketwatch.com/story/these-stocks-have-soared-the-most-today-after-the-democrats-trounced-trump-9d785314?mod=mw_rss_topstories
+- 原文链接: https://www.marketwatch.com/story/tech-stocks-log-worst-day-since-2020-as-carnage-comes-to-the-ai-trade-56109845?mod=mw_rss_topstories
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Chemical company Mosaic’s stock is the strongest performer among the S&P 500, while several tech players and associated power providers show sharp declines
+未调用大模型，以下为原文关键信息摘录：The S&P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.
 
 ### 要点
-- Chemical company Mosaic’s stock is the strongest performer among the S&P 500, while several tech players and associated power providers show sharp declines
+- The S&P 500 lost an estimated $2.9 trillion in market capitalization, the largest one-day loss of market value on record.
 
-## 45. Figma sinks after earnings beat as company prioritizes long-term growth with AI changes
+## 43. The 2027 tax brackets are out. See what the standard deduction and SALT tax breaks will be.
+- 分类: 宏观经济 / Macroeconomics
+- 来源: MarketWatch
+- 发布时间: 2026-11-05T22:40:00+00:00
+- 风险等级: 低
+- 关键词: inflation, The, 2027, tax, brackets
+- 命中关注词: inflation
+- 原文链接: https://www.marketwatch.com/story/the-2027-tax-brackets-are-out-see-what-the-standard-deduction-and-salt-tax-breaks-will-be-5dd1d293?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.
+
+### 要点
+- The tax brackets at the heart of Americans’ income-tax bills will be adjusting at a steeper level in 2027 compared to this year, underscoring inflation’s rekindled presence.
+
+## 44. Mississippi Senate: Colom, Hyde-Smith gird for ballot legal fight in razor-thin race
+- 分类: 综合资讯 / General News
+- 来源: CNBC Top News
+- 发布时间: 2026-11-05T22:20:19+0000
+- 风险等级: 低
+- 关键词: Mississippi, Senate, Colom, Hyde-Smith, gird
+- 命中关注词: 无
+- 原文链接: https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：An ultra-tight Mississippi Senate race between Republican incumbent Sen.；Cindy Hyde-Smith and Democratic challenger Scott Colom could end with one of the biggest shocks in a midterm election cycle already chock full of stunning defeats of GOP candidates.；With Colom in the lead by just 1,813 votes on Thursday, Hyde-Smith's campaign set the stage for a potential legal battle over ballots by demanding in a letter to county commissioners and circuit clerks in all 82 Mississippi counties that they immediately separate all provisional ballots cast in the election from regular and absentee ballots.
+
+### 要点
+- An ultra-tight Mississippi Senate race between Republican incumbent Sen.
+- Cindy Hyde-Smith and Democratic challenger Scott Colom could end with one of the biggest shocks in a midterm election cycle already chock full of stunning defeats of GOP candidates.
+- With Colom in the lead by just 1,813 votes on Thursday, Hyde-Smith's campaign set the stage for a potential legal battle over ballots by demanding in a letter to county commissioners and circuit clerks in all 82 Mississippi counties that they immediately separate all provisional ballots cast in the election from regular and absentee ballots.
+
+## 45. Nasdaq drops into correction territory — here’s what typically happens next
+- 分类: 股市 / Stock Markets
+- 来源: CNBC Finance
+- 发布时间: 2026-11-05T21:57:33+0000
+- 风险等级: 高
+- 关键词: nasdaq, Nasdaq, drops, into, correction
+- 命中关注词: nasdaq
+- 原文链接: https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：The Nasdaq Composite plunged into correction territory on Thursday.；History shows more selling can follow in the near term, but a recovery eventually takes hold three months later.；The tech-heavy index slid more than 5% on Thursday, closing more than 11% below its record reached last month.
+
+### 要点
+- The Nasdaq Composite plunged into correction territory on Thursday.
+- History shows more selling can follow in the near term, but a recovery eventually takes hold three months later.
+- The tech-heavy index slid more than 5% on Thursday, closing more than 11% below its record reached last month.
+
+## 46. Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms
 - 分类: 股市 / Stock Markets
 - 来源: CNBC Top News
-- 发布时间: 2026-11-04T21:38:33+0000
+- 发布时间: 2026-11-05T21:42:17+0000
 - 风险等级: 低
-- 关键词: earnings, s&p 500, Figma, sinks, after
-- 命中关注词: earnings, s&p 500
-- 原文链接: https://www.cnbc.com/2026/11/04/figma-fig-q3-earnings-report-2026.html
+- 关键词: Elon, Musk, Tesla, and, SpaceX
+- 命中关注词: 无
+- 原文链接: https://www.cnbc.com/2026/11/05/tesla-spacex-stocks-fall-after-2026-midterms.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Figma shares tumbled 7% in extended trading after the company reported third-quarter results and guidance that surpassed Wall Street's predictions.；Here's how the company performed relative to LSEG consensus: - Earnings per share: 10 cents adjusted vs.；5 cents expected - Revenue: $391.4 million vs.
+未调用大模型，以下为原文关键信息摘录：SpaceX and Tesla shares declined by about 9% and 11%, respectively, on Thursday afternoon with investors concerned that Elon Musk could face new congressional probes — and his companies stricter regulation — following the U.S.；midterm elections.；The declines, which correlated with a broader tech sell-off, brought aggregate market cap losses for SpaceX and Tesla to over $420 billion since Tuesday's close.
 
 ### 要点
-- Figma shares tumbled 7% in extended trading after the company reported third-quarter results and guidance that surpassed Wall Street's predictions.
-- Here's how the company performed relative to LSEG consensus: - Earnings per share: 10 cents adjusted vs.
-- 5 cents expected - Revenue: $391.4 million vs.
+- SpaceX and Tesla shares declined by about 9% and 11%, respectively, on Thursday afternoon with investors concerned that Elon Musk could face new congressional probes — and his companies stricter regulation — following the U.S.
+- midterm elections.
+- The declines, which correlated with a broader tech sell-off, brought aggregate market cap losses for SpaceX and Tesla to over $420 billion since Tuesday's close.
 
-## 46. What was really behind Wednesday's monster rally? Trump quickly making peace
-- 分类: 股市 / Stock Markets
-- 来源: CNBC Top News
-- 发布时间: 2026-11-04T21:32:01+0000
-- 风险等级: 中
-- 关键词: stock market, fed, s&p 500, What, was
-- 命中关注词: stock market, fed, s&p 500
-- 原文链接: https://www.cnbc.com/2026/11/04/stock-market-rally-trump-midterms.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The stock market skyrocketed on Wednesday on the heels of a decisive sweep for Democrats in the 2026 midterm elections.；But that was not necessarily the only driver of the climb.；"President Trump's acknowledgement of the Democrats' victory in the midterms and his expressed openness to collaborating with the opposition have helped markets to rally on hopes that contestation of the results and more adverse polarization can be avoided," said Thomas Hempell, Generali Investments senior economist.
-
-### 要点
-- The stock market skyrocketed on Wednesday on the heels of a decisive sweep for Democrats in the 2026 midterm elections.
-- But that was not necessarily the only driver of the climb.
-- "President Trump's acknowledgement of the Democrats' victory in the midterms and his expressed openness to collaborating with the opposition have helped markets to rally on hopes that contestation of the results and more adverse polarization can be avoided," said Thomas Hempell, Generali Investments senior economist.
-
-## 47. Snap shares fall over 10% on third-quarter revenue miss
-- 分类: 股市 / Stock Markets
-- 来源: CNBC Top News
-- 发布时间: 2026-11-04T21:29:10+0000
-- 风险等级: 低
-- 关键词: earnings, Snap, shares, fall, over
-- 命中关注词: earnings
-- 原文链接: https://www.cnbc.com/2026/11/04/snap-q3-earnings-report-2026.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Snap shares sank over 10% when the Snapchat parent missed on revenue and daily active users in its third-quarter earnings report Wednesday.；Here's how the company did compared with analysts' expectations: - Earnings per share: $0.19 adj.；vs.
-
-### 要点
-- Snap shares sank over 10% when the Snapchat parent missed on revenue and daily active users in its third-quarter earnings report Wednesday.
-- Here's how the company did compared with analysts' expectations: - Earnings per share: $0.19 adj.
-- vs.
-
-## 48. Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales
-- 分类: 股市 / Stock Markets
-- 来源: CNBC Top News
-- 发布时间: 2026-11-04T21:06:06+0000
-- 风险等级: 低
-- 关键词: earnings, Qualcomm, stock, drops, weak
-- 命中关注词: earnings
-- 原文链接: https://www.cnbc.com/2026/11/04/qualcomm-qcom-earnings-report-q4-2026.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Qualcomm reported quarterly results on Wednesday that topped Wall Street estimates, but the chipmaker's earnings forecast came in lighter than expected.；The stock slid 7% in extended trading.；Here's how the chipmaker did versus LSEG consensus estimates: - EPS: $2.17 adjusted, versus $2.16 expected - Revenue: $10.44 billion, adjusted For the current quarter, Qualcomm said it sees earnings per share of between $2.15 and $2.35 on revenue of $10.4 billion to $11.2 billion.
-
-### 要点
-- Qualcomm reported quarterly results on Wednesday that topped Wall Street estimates, but the chipmaker's earnings forecast came in lighter than expected.
-- The stock slid 7% in extended trading.
-- Here's how the chipmaker did versus LSEG consensus estimates: - EPS: $2.17 adjusted, versus $2.16 expected - Revenue: $10.44 billion, adjusted For the current quarter, Qualcomm said it sees earnings per share of between $2.15 and $2.35 on revenue of $10.4 billion to $11.2 billion.
-
-## 49. Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war
-- 分类: 大宗商品 / Commodities
-- 来源: CNBC Top News
-- 发布时间: 2026-11-04T16:43:16+0000
-- 风险等级: 低
-- 关键词: crude oil, Crude, oil, prices, fall
-- 命中关注词: crude oil
-- 原文链接: https://www.cnbc.com/2026/11/04/oil-price-iran-war-us-election-strait-hormuz.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Crude oil prices tumbled Wednesday after Vice President JD Vance blamed the war against Iran for Republican midterm election reversals.；U.S.；West Texas Intermediate lost 8.3% to close at $88.12 a barrel.
-
-### 要点
-- Crude oil prices tumbled Wednesday after Vice President JD Vance blamed the war against Iran for Republican midterm election reversals.
-- U.S.
-- West Texas Intermediate lost 8.3% to close at $88.12 a barrel.
-
-## 50. Mortgage rates drop for the third straight week, but homebuyers are still leaving the market
+## 47. IRS announces new federal income tax brackets for 2027
 - 分类: 楼市与房地产 / Real Estate & Housing
-- 来源: CNBC Economy
-- 发布时间: 2026-11-04T12:00:01+0000
-- 风险等级: 中
-- 关键词: inflation, federal reserve, interest rate, housing, Mortgage
-- 命中关注词: inflation, federal reserve, interest rate, housing
-- 原文链接: https://www.cnbc.com/2026/11/04/mortgage-rates-dropped-homebuyers-still-leaving.html
+- 来源: CNBC Top News
+- 发布时间: 2026-11-05T19:23:32+0000
+- 风险等级: 低
+- 关键词: housing, earnings, IRS, announces, new
+- 命中关注词: housing, earnings
+- 原文链接: https://www.cnbc.com/2026/11/05/2027-federal-tax-brackets.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：After a brief bounce the week before, mortgage demand continued its slide last week, despite falling mortgage rates.；Total application volume dropped 1.2% week to week, according to the Mortgage Bankers Association's seasonally adjusted index.；The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased last week to 7.3% from 7.37%, with points declining to 0.75 from 0.76, including the origination fee, for loans with a 20% down payment.
+未调用大模型，以下为原文关键信息摘录：The IRS has announced new federal income tax brackets and standard deductions for 2027.；In its announcement Thursday, the agency raised the income thresholds for each bracket, which apply to tax year 2027 for returns filed in 2028.；The IRS also increased figures for other key provisions, including long-term capital gains brackets, the estate and gift tax exemption, and eligibility for the earned income tax credit, among others.
 
 ### 要点
-- After a brief bounce the week before, mortgage demand continued its slide last week, despite falling mortgage rates.
-- Total application volume dropped 1.2% week to week, according to the Mortgage Bankers Association's seasonally adjusted index.
-- The average contract interest rate for 30-year fixed-rate mortgages with conforming loan balances, $832,750 or less, decreased last week to 7.3% from 7.37%, with points declining to 0.75 from 0.76, including the origination fee, for loans with a 20% down payment.
+- The IRS has announced new federal income tax brackets and standard deductions for 2027.
+- In its announcement Thursday, the agency raised the income thresholds for each bracket, which apply to tax year 2027 for returns filed in 2028.
+- The IRS also increased figures for other key provisions, including long-term capital gains brackets, the estate and gift tax exemption, and eligibility for the earned income tax credit, among others.
+
+## 48. Marc Lore's Wonder confidentially files for IPO
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: CNBC Top News
+- 发布时间: 2026-11-05T15:57:32+0000
+- 风险等级: 中
+- 关键词: ipo, Marc, Lore, Wonder, confidentially
+- 命中关注词: ipo
+- 原文链接: https://www.cnbc.com/2026/11/05/wonder-confidential-ipo-filing.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Food startup Wonder has confidentially filed for an initial public offering, the company said Thursday.；Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place," available for delivery and takeout on its vertically integrated app.；Originally envisioned as a new take on food delivery through sprinter vans outfitted with mobile kitchens, Wonder has grown to roughly 170 brick-and-mortar locations throughout the U.S.
+
+### 要点
+- Food startup Wonder has confidentially filed for an initial public offering, the company said Thursday.
+- Created by serial entrepreneur Marc Lore in 2018, Wonder advertises itself as "the best restaurants from across the country, all in one place," available for delivery and takeout on its vertically integrated app.
+- Originally envisioned as a new take on food delivery through sprinter vans outfitted with mobile kitchens, Wonder has grown to roughly 170 brick-and-mortar locations throughout the U.S.
+
+## 49. Barkin sees interest rate hikes ahead, but at a gradual pace
+- 分类: 宏观经济 / Macroeconomics
+- 来源: CNBC Finance
+- 发布时间: 2026-11-05T14:29:28+0000
+- 风险等级: 低
+- 关键词: interest rate, inflation, monetary policy, fed, federal reserve
+- 命中关注词: interest rate, inflation, monetary policy, fed, federal reserve, central bank
+- 原文链接: https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Richmond Federal Reserve President Thomas Barkin said Thursday that he expects the central bank will have to raise interest rates further, though he's not sure by how much or at what pace.；In a CNBC interview that was part of the Richmond Fed's 2026 CFO Summit, the policymaker expressed concern over inflation and said monetary policy will need to adjust.；"Unemployment's near record lows, and inflation is too high.
+
+### 要点
+- Richmond Federal Reserve President Thomas Barkin said Thursday that he expects the central bank will have to raise interest rates further, though he's not sure by how much or at what pace.
+- In a CNBC interview that was part of the Richmond Fed's 2026 CFO Summit, the policymaker expressed concern over inflation and said monetary policy will need to adjust.
+- "Unemployment's near record lows, and inflation is too high.
+
+## 50. Banks are turning cautious on lending, according to the Fed. What it means for the economy
+- 分类: 债市 / Bond Markets
+- 来源: CNBC Economy
+- 发布时间: 2026-11-05T13:52:38+0000
+- 风险等级: 中
+- 关键词: fed, real estate, federal reserve, bond, treasury
+- 命中关注词: fed, real estate, federal reserve, bond, treasury, housing
+- 原文链接: https://www.cnbc.com/2026/11/05/fed-bank-lending-standards-small-business.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：U.S.；banks are starting to tighten their lending standards amid growing concern over the underlying health of the economy, according to a new Federal Reserve survey.；The Fed's latest Senior Loan Officer Opinion Survey on Bank Lending Practices for October, published Nov.
+
+### 要点
+- U.S.
+- banks are starting to tighten their lending standards amid growing concern over the underlying health of the economy, according to a new Federal Reserve survey.
+- The Fed's latest Senior Loan Officer Opinion Survey on Bank Lending Practices for October, published Nov.
