@@ -1,363 +1,54 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T15:05:02+08:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T14:35:43+08:00",
   "count": 50,
   "items": [
     {
       "source": "Seeking Alpha",
-      "title": "Wasatch Long/Short Alpha Fund Q3 2026 Commentary",
-      "title_zh": "Wasatch Long/Short Alpha Fund Q3 2026 Commentary",
-      "link": "https://seekingalpha.com/article/4966830-wasatch-longshort-alpha-fund-q3-2026-commentary?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966830-wasatch-longshort-alpha-fund-q3-2026-commentary",
-      "published_at": "2026-11-12T07:00:00.000Z",
-      "category": "宏观经济",
-      "risk_level": "低",
-      "keywords": [
-        "inflation",
-        "Wasatch",
-        "Long",
-        "Short",
-        "Alpha"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Overview Small- and smid-cap stocks traded lower in the third quarter as rising interest rates, inflation concerns and geopolitical tensions weighed on markets.；Adding to the pressure, stocks tied to the artificial intelligence (AI) build-outâpreviously a source of market strengthâsold",
-      "important_points": [
-        "Overview Small- and smid-cap stocks traded lower in the third quarter as rising interest rates, inflation concerns and geopolitical tensions weighed on markets.",
-        "Adding to the pressure, stocks tied to the artificial intelligence (AI) build-outâpreviously a source of market strengthâsold"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "inflation"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Only Buybacks May Unlock Value For Starwood Property Trust Now (NYSE:STWD)",
-      "title_zh": "Only Buybacks May Unlock Value For Starwood Property Trust Now (NYSE:STWD)",
-      "link": "https://seekingalpha.com/article/4966808-only-buybacks-may-unlock-value-for-starwood-property-trust-now?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966808-only-buybacks-may-unlock-value-for-starwood-property-trust-now",
-      "published_at": "2026-11-12T06:59:20.000Z",
-      "category": "楼市与房地产",
-      "risk_level": "低",
-      "keywords": [
-        "federal reserve",
-        "Only",
-        "Buybacks",
-        "May",
-        "Unlock"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Starwood Property Trust beat Q3 distributable income expectations but still under-earned its dividend, maintaining a fragile payout situation.；STWD's diversified revenue base, including infrastructure lending and servicing, supports a higher valuation versus peers, however.；Dividend coverage improved to 85% in Q3 '26, yet the REIT under-earned its dividend by $0.07 per share over the quarter amid high non-accruals.",
-      "important_points": [
-        "Summary - Starwood Property Trust beat Q3 distributable income expectations but still under-earned its dividend, maintaining a fragile payout situation.",
-        "STWD's diversified revenue base, including infrastructure lending and servicing, supports a higher valuation versus peers, however.",
-        "Dividend coverage improved to 85% in Q3 '26, yet the REIT under-earned its dividend by $0.07 per share over the quarter amid high non-accruals."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "federal reserve"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Par Pacific: More Than Just A Strong Q3 (NYSE:PARR)",
-      "title_zh": "Par Pacific: More Than Just A Strong Q3 (NYSE:PARR)",
-      "link": "https://seekingalpha.com/article/4966806-par-pacific-stock-more-than-just-strong-q3?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966806-par-pacific-stock-more-than-just-strong-q3",
-      "published_at": "2026-11-12T06:50:16.000Z",
-      "category": "公司财报与IPO",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Par",
-        "Pacific",
-        "More",
-        "Than"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Par Pacific Holdings (PARR) is an energy company focused on refining, logistics, retail fuel distribution, and renewable fuels.；The company operates approximately 219,000 barrels per day of refining capacity across four refineries in Hawaii, Washington, Wyoming, and Montana.；Its primary source of Summary - Par Pacific Holdings is rated a buy after a strong Q3, with robust refining margins, improved financials, and a significant pullback presenting value.",
-      "important_points": [
-        "Par Pacific Holdings (PARR) is an energy company focused on refining, logistics, retail fuel distribution, and renewable fuels.",
-        "The company operates approximately 219,000 barrels per day of refining capacity across four refineries in Hawaii, Washington, Wyoming, and Montana.",
-        "Its primary source of Summary - Par Pacific Holdings is rated a buy after a strong Q3, with robust refining margins, improved financials, and a significant pullback presenting value."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Lord Abbett Dividend Growth Fund Q3 2026 Commentary",
-      "title_zh": "Lord Abbett Dividend Growth Fund Q3 2026 Commentary",
-      "link": "https://seekingalpha.com/article/4966826-lord-abbett-dividend-growth-fund-q3-2026-commentary?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966826-lord-abbett-dividend-growth-fund-q3-2026-commentary",
-      "published_at": "2026-11-12T06:50:00.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "s&p 500",
-        "Lord",
-        "Abbett",
-        "Dividend",
-        "Growth"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Market Review: U.S.；equities were mixed during the third quarter, with large-cap growth-oriented indexes holding up better than the broader market as market breadth weakened.；The AI trade cooled following a strong prior run, although software remained resilient, while",
-      "important_points": [
-        "Market Review: U.S.",
-        "equities were mixed during the third quarter, with large-cap growth-oriented indexes holding up better than the broader market as market breadth weakened.",
-        "The AI trade cooled following a strong prior run, although software remained resilient, while"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "s&p 500"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "PROG Holdings: $100 Million Accelerated Share Repurchase Program (NYSE:PRG)",
-      "title_zh": "PROG Holdings: $100 Million Accelerated Share Repurchase Program (NYSE:PRG)",
-      "link": "https://seekingalpha.com/article/4966803-prog-holdings-100-million-accelerated-share-repurchase-program?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966803-prog-holdings-100-million-accelerated-share-repurchase-program",
-      "published_at": "2026-11-12T06:43:23.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "PROG",
-        "Holdings",
-        "100",
-        "Million",
-        "Accelerated"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Investment Thesis PROG Holdings' (PRG) CEO, Steve Micheals, is putting his money where his mouth is.；PROG announced a $100 million accelerated share repurchase (ASR) program that will begin in Q4 2026 and conclude PROG Holdings' (PRG) CEO, Steve Micheals, is putting his money where his mouth is.；PROG announced a $100 million accelerated share repurchase (ASR) program that will begin in Q4 2026 and conclude This article was written by Analystâs Disclosure: I/we have a beneficial long position in the shares of PRG either through stock ownership, options, or other derivatives.",
-      "important_points": [
-        "Investment Thesis PROG Holdings' (PRG) CEO, Steve Micheals, is putting his money where his mouth is.",
-        "PROG announced a $100 million accelerated share repurchase (ASR) program that will begin in Q4 2026 and conclude PROG Holdings' (PRG) CEO, Steve Micheals, is putting his money where his mouth is.",
-        "PROG announced a $100 million accelerated share repurchase (ASR) program that will begin in Q4 2026 and conclude This article was written by Analystâs Disclosure: I/we have a beneficial long position in the shares of PRG either through stock ownership, options, or other derivatives."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Tradeweb Exchange-Traded Funds Update â October 2026",
-      "title_zh": "Tradeweb Exchange-Traded Funds Update â October 2026",
-      "link": "https://seekingalpha.com/article/4966819-tradeweb-exchange-traded-funds-update-october-2026?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966819-tradeweb-exchange-traded-funds-update-october-2026",
-      "published_at": "2026-11-12T06:40:00.000Z",
-      "category": "基金与理财",
-      "risk_level": "低",
-      "keywords": [
-        "Tradeweb",
-        "Exchange-Traded",
-        "Funds",
-        "Update",
-        "October"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The following data is derived from trading activity on the Tradeweb Markets institutional European- and U.S.-listed ETF platforms.；European-Listed ETFs Total traded volume Trading activity on the Tradeweb European ETF marketplace reached EUR 74.9 billion",
-      "important_points": [
-        "The following data is derived from trading activity on the Tradeweb Markets institutional European- and U.S.-listed ETF platforms.",
-        "European-Listed ETFs Total traded volume Trading activity on the Tradeweb European ETF marketplace reached EUR 74.9 billion"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary",
-      "title_zh": "Guggenheim Floating Rate Strategies Fund Q3 2026 Commentary",
-      "link": "https://seekingalpha.com/article/4966824-guggenheim-floating-rate-strategies-fund-q3-2026-commentary?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966824-guggenheim-floating-rate-strategies-fund-q3-2026-commentary",
-      "published_at": "2026-11-12T06:40:00.000Z",
-      "category": "基金与理财",
-      "risk_level": "低",
-      "keywords": [
-        "Guggenheim",
-        "Floating",
-        "Rate",
-        "Strategies",
-        "Fund"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Performance Review - The Fund (institutional class) returned 0.90 percent in the third quarter in a solid quarter for loans, behind the benchmark, the S&P UBS Leveraged Loan Index, which returned 2.03 percent.；Absolute performance This article was written by",
-      "important_points": [
-        "Performance Review - The Fund (institutional class) returned 0.90 percent in the third quarter in a solid quarter for loans, behind the benchmark, the S&P UBS Leveraged Loan Index, which returned 2.03 percent.",
-        "Absolute performance This article was written by"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Ensurge Micropower ASA 2026 Q3 - Results - Earnings Call Presentation",
-      "title_zh": "Ensurge Micropower ASA 2026 Q3 - Results - Earnings Call Presentation",
-      "link": "https://seekingalpha.com/article/4966823-ensurge-micropower-asa-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966823-ensurge-micropower-asa-2026-q3-results-earnings-call-presentation",
-      "published_at": "2026-11-12T06:34:01+00:00",
-      "category": "公司财报与IPO",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Ensurge",
-        "Micropower",
-        "ASA",
-        "2026"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Ensurge Micropower ASA 2026 Q3 - Results - Earnings Call Presentation",
-      "important_points": [
-        "Ensurge Micropower ASA 2026 Q3 - Results - Earnings Call Presentation"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "KBC Group NV 2026 Q3 - Results - Earnings Call Presentation",
-      "title_zh": "KBC Group NV 2026 Q3 - Results - Earnings Call Presentation",
-      "link": "https://seekingalpha.com/article/4966822-kbc-group-nv-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966822-kbc-group-nv-2026-q3-results-earnings-call-presentation",
-      "published_at": "2026-11-12T06:31:58+00:00",
-      "category": "公司财报与IPO",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "KBC",
-        "Group",
-        "2026",
-        "Results"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：KBC Group NV 2026 Q3 - Results - Earnings Call Presentation",
-      "important_points": [
-        "KBC Group NV 2026 Q3 - Results - Earnings Call Presentation"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Jackson Financial Stock: Capital Return Momentum Continues (NYSE:JXN)",
-      "title_zh": "Jackson Financial Stock: Capital Return Momentum Continues (NYSE:JXN)",
-      "link": "https://seekingalpha.com/article/4966798-jackson-financial-capital-return-momentum-continues?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966798-jackson-financial-capital-return-momentum-continues",
-      "published_at": "2026-11-12T06:28:14.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Jackson",
-        "Financial",
-        "Stock",
-        "Capital"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Shares of Jackson Financial (JXN) have been an excellent performer over the past year, rallying nearly 50%.；The variable annuity provider continues to deliver exceptional results as it grows its lower-risk business, and its substantial excess capital enables substantial capital returns.；Its comparatively Summary - Jackson Financial remains a \"Strong Buy,\" supported by robust earnings, a pristine balance sheet, and exceptional capital returns.",
-      "important_points": [
-        "Shares of Jackson Financial (JXN) have been an excellent performer over the past year, rallying nearly 50%.",
-        "The variable annuity provider continues to deliver exceptional results as it grows its lower-risk business, and its substantial excess capital enables substantial capital returns.",
-        "Its comparatively Summary - Jackson Financial remains a \"Strong Buy,\" supported by robust earnings, a pristine balance sheet, and exceptional capital returns."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Impax Small Cap Fund Q3 2026 Portfolio Review",
-      "title_zh": "Impax Small Cap Fund Q3 2026 Portfolio Review",
-      "link": "https://seekingalpha.com/article/4966814-impax-small-cap-fund-q3-2026-portfolio-review?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966814-impax-small-cap-fund-q3-2026-portfolio-review",
-      "published_at": "2026-11-12T06:25:00.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "Impax",
-        "Small",
-        "Cap",
-        "Fund",
-        "2026"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The following segment was excerpted from the Impax Small Cap Fund Q3 2026 Commentary.；Sector Attribution - Financials was the largest contributing sector, almost entirely due to stock selection.；Two asset managers held in the portfolio, Victory Capital (",
-      "important_points": [
-        "The following segment was excerpted from the Impax Small Cap Fund Q3 2026 Commentary.",
-        "Sector Attribution - Financials was the largest contributing sector, almost entirely due to stock selection.",
-        "Two asset managers held in the portfolio, Victory Capital ("
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Impax Small Cap Fund Q3 2026 Commentary",
-      "title_zh": "Impax Small Cap Fund Q3 2026 Commentary",
-      "link": "https://seekingalpha.com/article/4966813-impax-small-cap-fund-q3-2026-commentary?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966813-impax-small-cap-fund-q3-2026-commentary",
-      "published_at": "2026-11-12T06:20:00.000Z",
-      "category": "央行与货币政策",
-      "risk_level": "低",
-      "keywords": [
-        "fed",
-        "federal reserve",
-        "interest rate",
-        "rate hike",
-        "Impax"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Performance - The portfolio outperformed the Russell 2000 Index in what was a difficult period for the small cap asset class.；The Federal Reserve announced its first interest rate hike since 2023, with Fed Chair Kevin Warsh This article was written by",
-      "important_points": [
-        "Performance - The portfolio outperformed the Russell 2000 Index in what was a difficult period for the small cap asset class.",
-        "The Federal Reserve announced its first interest rate hike since 2023, with Fed Chair Kevin Warsh This article was written by"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "fed",
-        "federal reserve",
-        "interest rate",
-        "rate hike"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Walmart: Q3 Preview, Expecting Bounce Back Following Weak Q2",
-      "title_zh": "Walmart: Q3 Preview, Expecting Bounce Back Following Weak Q2",
-      "link": "https://seekingalpha.com/article/4966795-walmart-q3-preview-expecting-bounce-back-following-weak-q2?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966795-walmart-q3-preview-expecting-bounce-back-following-weak-q2",
-      "published_at": "2026-11-12T06:18:17+00:00",
+      "title": "The Free Money Bubble",
+      "title_zh": "The Free Money Bubble",
+      "link": "https://seekingalpha.com/article/4967635-free-money-bubble?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967635-free-money-bubble",
+      "published_at": "2026-11-13T06:30:00.000Z",
       "category": "综合资讯",
       "risk_level": "低",
       "keywords": [
-        "Walmart",
-        "Preview",
-        "Expecting",
-        "Bounce",
-        "Back"
+        "The",
+        "Free",
+        "Money",
+        "Bubble",
+        "Seeking Alpha"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Walmart: Q3 Preview, Expecting Bounce Back Following Weak Q2",
+      "summary": "未调用大模型，以下为原文关键信息摘录：We have been just going like a house afire, and we couldnât see any reason why we shouldnât keep right on burning.；Our tastes were acquired on credit, and we wanted to keep on enjoying âem on credit.；Everything was Summary - The greatest investment risk at the moment is the inclination to confuse the length of time a bubble has persisted with proof that a bubble does not exist.",
       "important_points": [
-        "Walmart: Q3 Preview, Expecting Bounce Back Following Weak Q2"
+        "We have been just going like a house afire, and we couldnât see any reason why we shouldnât keep right on burning.",
+        "Our tastes were acquired on credit, and we wanted to keep on enjoying âem on credit.",
+        "Everything was Summary - The greatest investment risk at the moment is the inclination to confuse the length of time a bubble has persisted with proof that a bubble does not exist."
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
       "source": "Seeking Alpha",
-      "title": "Cameco Stock: Underwhelming Q3 Earnings, But Patient Investors Can Gain (NYSE:CCJ)",
-      "title_zh": "Cameco Stock: Underwhelming Q3 Earnings, But Patient Investors Can Gain (NYSE:CCJ)",
-      "link": "https://seekingalpha.com/article/4966794-cameco-corporation-stock-underwhelming-q3-earnings-but-patient-investors-can-gain?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966794-cameco-corporation-stock-underwhelming-q3-earnings-but-patient-investors-can-gain",
-      "published_at": "2026-11-12T06:14:10.000Z",
-      "category": "股市",
+      "title": "Lineage Cell Therapeutics, Inc. (LCTX) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Lineage Cell Therapeutics, Inc. (LCTX) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967638-lineage-cell-therapeutics-inc-lctx-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967638-lineage-cell-therapeutics-inc-lctx-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T06:28:56.000Z",
+      "category": "公司财报与IPO",
       "risk_level": "低",
       "keywords": [
         "earnings",
-        "Cameco",
-        "Stock",
-        "Underwhelming",
-        "Earnings"
+        "Lineage",
+        "Cell",
+        "Therapeutics",
+        "Inc."
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Canadian uranium miner Cameco Corporation's (CCJ) recently released results for Q3 2026 didn't go down well with investors.；In the five following sessions, the stock was down by 15%.；It has recovered somewhat in the last Summary - Cameco Corporation faces near-term headwinds after weak Q3 2026 results, with revenues flat and costs rising.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Ioana Hone - Director of Investor Relations Brian Culley - CEO, President & Director Priyantha Herath - Senior VP & Head of Clinical Operations Jill Howe - Chief Financial Officer Conference Call Participants Mayank Mamtani - B.；Riley Securities, Inc., Research Division Joseph Pantginis - H.C.；Wainwright & Co, LLC, Research Division Jack Allen - Robert W.",
       "important_points": [
-        "Canadian uranium miner Cameco Corporation's (CCJ) recently released results for Q3 2026 didn't go down well with investors.",
-        "In the five following sessions, the stock was down by 15%.",
-        "It has recovered somewhat in the last Summary - Cameco Corporation faces near-term headwinds after weak Q3 2026 results, with revenues flat and costs rising."
+        "Company Participants Ioana Hone - Director of Investor Relations Brian Culley - CEO, President & Director Priyantha Herath - Senior VP & Head of Clinical Operations Jill Howe - Chief Financial Officer Conference Call Participants Mayank Mamtani - B.",
+        "Riley Securities, Inc., Research Division Joseph Pantginis - H.C.",
+        "Wainwright & Co, LLC, Research Division Jack Allen - Robert W."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
@@ -366,23 +57,703 @@
     },
     {
       "source": "Seeking Alpha",
-      "title": "OTP Bank Nyrt. 2026 Q3 - Results - Earnings Call Presentation",
-      "title_zh": "OTP Bank Nyrt. 2026 Q3 - Results - Earnings Call Presentation",
-      "link": "https://seekingalpha.com/article/4966810-otp-bank-nyrt-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966810-otp-bank-nyrt-2026-q3-results-earnings-call-presentation",
-      "published_at": "2026-11-12T06:02:14+00:00",
+      "title": "Vinci Compass Investments Ltd. (VINP) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Vinci Compass Investments Ltd. (VINP) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967637-vinci-compass-investments-ltd-vinp-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967637-vinci-compass-investments-ltd-vinp-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T06:28:52.000Z",
       "category": "公司财报与IPO",
       "risk_level": "低",
       "keywords": [
         "earnings",
-        "OTP",
-        "Bank",
-        "Nyrt.",
+        "Vinci",
+        "Compass",
+        "Investments",
+        "Ltd."
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Bruno Sacchi Zaremba - President of Finance & Operations Alessandro Morgado Horta - CEO, Head of Real Assets & Director Sergio Passos Ribeiro - COO & CFO Presentation Operator Good afternoon, and welcome to Vinci Compass Third Quarter 2026 Earnings Conference Call.；[Operator Instructions] As a reminder, this call will be recorded.；I would now like to turn the conference over to Bruno Zaremba, President of Finance and Operations.",
+      "important_points": [
+        "Company Participants Bruno Sacchi Zaremba - President of Finance & Operations Alessandro Morgado Horta - CEO, Head of Real Assets & Director Sergio Passos Ribeiro - COO & CFO Presentation Operator Good afternoon, and welcome to Vinci Compass Third Quarter 2026 Earnings Conference Call.",
+        "[Operator Instructions] As a reminder, this call will be recorded.",
+        "I would now like to turn the conference over to Bruno Zaremba, President of Finance and Operations."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Energy Transfer Preferred: Similar Return As The Common, Fewer Ways To Lose",
+      "title_zh": "Energy Transfer Preferred: Similar Return As The Common, Fewer Ways To Lose",
+      "link": "https://seekingalpha.com/article/4967622-energy-transfer-preferred-similar-return-as-the-common-fewer-ways-to-lose?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967622-energy-transfer-preferred-similar-return-as-the-common-fewer-ways-to-lose",
+      "published_at": "2026-11-13T06:28:35.000Z",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "treasury",
+        "earnings",
+        "Energy",
+        "Transfer",
+        "Preferred"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Energy Transfer 9.25% Series I Preferred is rated Buy for its fixed, well-covered ~8% yield and lower risk profile vs.；the common units.；ET.PR.I avoids exposure to 2027 earnings uncertainty and capital appreciation risks present in ET common units, offering a more predictable return path.",
+      "important_points": [
+        "Summary - Energy Transfer 9.25% Series I Preferred is rated Buy for its fixed, well-covered ~8% yield and lower risk profile vs.",
+        "the common units.",
+        "ET.PR.I avoids exposure to 2027 earnings uncertainty and capital appreciation risks present in ET common units, offering a more predictable return path."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "treasury",
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Proficient Auto Logistics, Inc. (PAL) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Proficient Auto Logistics, Inc. (PAL) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967486-proficient-auto-logistics-inc-pal-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967486-proficient-auto-logistics-inc-pal-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T06:18:52.000Z",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Proficient",
+        "Auto",
+        "Logistics",
+        "Inc."
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Bradley Wright - CFO & Secretary Richard O'Dell - Chairman & CEO Amy Rice - President & COO Conference Call Participants Patrick Brown - Raymond James & Associates, Inc., Research Division J.；Bruce Chan - Stifel, Nicolaus & Company, Incorporated, Research Division Presentation Operator Good day, and thank you for standing by.；Welcome to the Proficient Auto Logistics' Third Quarter Financial Information Conference Call.",
+      "important_points": [
+        "Company Participants Bradley Wright - CFO & Secretary Richard O'Dell - Chairman & CEO Amy Rice - President & COO Conference Call Participants Patrick Brown - Raymond James & Associates, Inc., Research Division J.",
+        "Bruce Chan - Stifel, Nicolaus & Company, Incorporated, Research Division Presentation Operator Good day, and thank you for standing by.",
+        "Welcome to the Proficient Auto Logistics' Third Quarter Financial Information Conference Call."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+      "title_zh": "Why Singapore keeps turning up in the fight over Nvidia chips and China",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-alice-spy-megaspeed-.html",
+      "published_at": "2026-11-13T06:16:37+0000",
+      "category": "科技与创新",
+      "risk_level": "低",
+      "keywords": [
+        "Why",
+        "Singapore",
+        "keeps",
+        "turning",
+        "the"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Singapore, a hub for billions of dollars' worth of Nvidia sales each year, finds itself increasingly in the crosshairs of Washington's push to stop advanced AI chips from reaching China, as the chipmaker CEO's scandal once again thrusts the city-state into the spotlight.；The Southeast Asian nation said Thursday that it had barred Alice Huang, the businesswoman at the center of a scandal that catalyzed the end of Jensen Huang's run as Nvidia CEO, from re-entering the country.；A fifth person was handed 41 charges on Friday in a Singapore fraud case involving computer servers that might have contained Nvidia chips and were exported to Malaysia.",
+      "important_points": [
+        "Singapore, a hub for billions of dollars' worth of Nvidia sales each year, finds itself increasingly in the crosshairs of Washington's push to stop advanced AI chips from reaching China, as the chipmaker CEO's scandal once again thrusts the city-state into the spotlight.",
+        "The Southeast Asian nation said Thursday that it had barred Alice Huang, the businesswoman at the center of a scandal that catalyzed the end of Jensen Huang's run as Nvidia CEO, from re-entering the country.",
+        "A fifth person was handed 41 charges on Friday in a Singapore fraud case involving computer servers that might have contained Nvidia chips and were exported to Malaysia."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Boeing: Why Disappointing Wall Street Is The Right Move",
+      "title_zh": "Boeing: Why Disappointing Wall Street Is The Right Move",
+      "link": "https://seekingalpha.com/article/4967620-boeing-why-disappointing-wall-street-is-the-right-move?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967620-boeing-why-disappointing-wall-street-is-the-right-move",
+      "published_at": "2026-11-13T06:14:08.000Z",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Boeing",
+        "Why",
+        "Disappointing",
+        "Wall"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Shares of Boeing (BA) have gained 3.7% since my last report but remain down from the pre-earnings prices.；The decline is driven by a slower ramp-up on the Boeing 737 MAX program, and we note that Boeing will Summary - Boeing maintains strong order inflow, with 165 orders in October valued at $10.2 billion, but faces delivery challenges.；BA's delivery ramp-up remains difficult, especially for the 737 MAX and 777 programs, impacting year-on-year delivery growth.",
+      "important_points": [
+        "Shares of Boeing (BA) have gained 3.7% since my last report but remain down from the pre-earnings prices.",
+        "The decline is driven by a slower ramp-up on the Boeing 737 MAX program, and we note that Boeing will Summary - Boeing maintains strong order inflow, with 165 orders in October valued at $10.2 billion, but faces delivery challenges.",
+        "BA's delivery ramp-up remains difficult, especially for the 737 MAX and 777 programs, impacting year-on-year delivery growth."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Martinrea International Inc. (MRE:CA) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Martinrea International Inc. (MRE:CA) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967634-martinrea-international-inc-mre-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967634-martinrea-international-inc-mre-ca-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T06:08:53+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Martinrea",
+        "International",
+        "Inc.",
+        "MRE"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Martinrea International Inc.；(MRE:CA) Q3 2026 Earnings Call Transcript",
+      "important_points": [
+        "Martinrea International Inc.",
+        "(MRE:CA) Q3 2026 Earnings Call Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "First Phosphate: Continued Solid Positioning As Milestone Feasibility Study Approaches",
+      "title_zh": "First Phosphate: Continued Solid Positioning As Milestone Feasibility Study Approaches",
+      "link": "https://seekingalpha.com/article/4967618-first-phosphate-continued-solid-positioning-as-milestone-feasibility-study-approaches?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967618-first-phosphate-continued-solid-positioning-as-milestone-feasibility-study-approaches",
+      "published_at": "2026-11-13T06:08:25.000Z",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "First",
+        "Phosphate",
+        "Continued",
+        "Solid",
+        "Positioning"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Since I first covered First Phosphate Corp.；(FRSPF) in early August of this year, the company has released what is likely to be one of, possibly the, final quarterly reports it released prior to the much-anticipated feasibility Summary - First Phosphate is reaffirmed as a speculative Buy, with asymmetric upside potential ahead of its CYQ1 2027 feasibility study.；FRSPF maintains a strong balance sheet, with assets over 5x liabilities and cash covering liabilities 4x, despite increased cash burn.",
+      "important_points": [
+        "Since I first covered First Phosphate Corp.",
+        "(FRSPF) in early August of this year, the company has released what is likely to be one of, possibly the, final quarterly reports it released prior to the much-anticipated feasibility Summary - First Phosphate is reaffirmed as a speculative Buy, with asymmetric upside potential ahead of its CYQ1 2027 feasibility study.",
+        "FRSPF maintains a strong balance sheet, with assets over 5x liabilities and cash covering liabilities 4x, despite increased cash burn."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Semperit Aktiengesellschaft Holding 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "Semperit Aktiengesellschaft Holding 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967633-semperit-aktiengesellschaft-holding-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967633-semperit-aktiengesellschaft-holding-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T06:04:04.000Z",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Semperit",
+        "Aktiengesellschaft",
+        "Holding",
         "2026"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：OTP Bank Nyrt.；2026 Q3 - Results - Earnings Call Presentation",
+      "summary": "未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Semperit Aktiengesellschaft Holding in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.；We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.",
       "important_points": [
-        "OTP Bank Nyrt.",
+        "The following slide deck was published by Semperit Aktiengesellschaft Holding in conjunction with their 2026 Q3 earnings call.",
+        "This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.",
+        "We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Caledonia Mining Corporation Plc 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "Caledonia Mining Corporation Plc 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967632-caledonia-mining-corporation-plc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967632-caledonia-mining-corporation-plc-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T06:03:11+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Caledonia",
+        "Mining",
+        "Corporation",
+        "Plc"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Caledonia Mining Corporation Plc 2026 Q3 - Results - Earnings Call Presentation",
+      "important_points": [
+        "Caledonia Mining Corporation Plc 2026 Q3 - Results - Earnings Call Presentation"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Surgical Science Sweden AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "Surgical Science Sweden AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967631-surgical-science-sweden-ab-publ-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967631-surgical-science-sweden-ab-publ-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T06:02:05+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Surgical",
+        "Science",
+        "Sweden",
+        "publ"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Surgical Science Sweden AB (publ) 2026 Q3 - Results - Earnings Call Presentation",
+      "important_points": [
+        "Surgical Science Sweden AB (publ) 2026 Q3 - Results - Earnings Call Presentation"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "EnerSys 2027 Q2 - Results - Earnings Call Presentation",
+      "title_zh": "EnerSys 2027 Q2 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967630-enersys-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967630-enersys-2027-q2-results-earnings-call-presentation",
+      "published_at": "2026-11-13T06:01:37+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "EnerSys",
+        "2027",
+        "Results",
+        "Earnings"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：EnerSys 2027 Q2 - Results - Earnings Call Presentation",
+      "important_points": [
+        "EnerSys 2027 Q2 - Results - Earnings Call Presentation"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "SKYX Platforms Corp. (SKYX) Q3 2026 Earnings Call Transcript",
+      "title_zh": "SKYX Platforms Corp. (SKYX) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967412-skyx-platforms-corp-skyx-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967412-skyx-platforms-corp-skyx-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T05:59:02.000Z",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "SKYX",
+        "Platforms",
+        "Corp.",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Ran Kohen - Founder & Executive Chairman Steven Schmidt - President Leonard Sokolow - CEO & Director Derek Richardson - Founder & CEO of Deako Conference Call Participants Jacob Stephan - Lake Street Capital Markets, LLC, Research Division Joseph Gomes - NOBLE Capital Markets, Inc., Research Division Presentation Operator Good afternoon, and welcome to the SKYX Platforms Corp.；Third Quarter Earnings Conference Call.；Before we begin, I would like to remind everyone that during today's call, management may make forward-looking statements within the meaning of the federal securities laws.",
+      "important_points": [
+        "Company Participants Ran Kohen - Founder & Executive Chairman Steven Schmidt - President Leonard Sokolow - CEO & Director Derek Richardson - Founder & CEO of Deako Conference Call Participants Jacob Stephan - Lake Street Capital Markets, LLC, Research Division Joseph Gomes - NOBLE Capital Markets, Inc., Research Division Presentation Operator Good afternoon, and welcome to the SKYX Platforms Corp.",
+        "Third Quarter Earnings Conference Call.",
+        "Before we begin, I would like to remind everyone that during today's call, management may make forward-looking statements within the meaning of the federal securities laws."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Knightscope, Inc. (KSCP) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Knightscope, Inc. (KSCP) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967628-knightscope-inc-kscp-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967628-knightscope-inc-kscp-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T05:58:54.000Z",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Knightscope",
+        "Inc.",
+        "KSCP",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Apoorv Dwivedi - Executive VP, Secretary & CFO William Li - President, CEO & Chairman Conference Call Participants Maxwell Michaelis - Lake Street Capital Markets, LLC, Research Division Edward Woo - Ascendiant Capital Markets LLC, Research Division Presentation Operator Good day, everyone.；Welcome to the Knightscope Third Quarter 2026 Financial Results Conference Call.；[Operator Instructions] As a reminder, this conference is being recorded.",
+      "important_points": [
+        "Company Participants Apoorv Dwivedi - Executive VP, Secretary & CFO William Li - President, CEO & Chairman Conference Call Participants Maxwell Michaelis - Lake Street Capital Markets, LLC, Research Division Edward Woo - Ascendiant Capital Markets LLC, Research Division Presentation Operator Good day, everyone.",
+        "Welcome to the Knightscope Third Quarter 2026 Financial Results Conference Call.",
+        "[Operator Instructions] As a reminder, this conference is being recorded."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+      "title_zh": "Nvidia on track for longest weekly losing streak since 2012 as market value sinks by $1.6 trillion",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+      "published_at": "2026-11-13T05:51:34+0000",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Nvidia",
+        "track",
+        "for",
+        "longest"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Nvidia investors turned bearish before this week's Jensen Huang saga.；But the selling on Wall Street accelerated in the past few days, sending the stock toward its sixth straight weekly drop, the longest losing streak since 2012.；The chip giant, which spent most of the year as the world's most valuable company, has lost 29% of its value over that stretch as of Thursday's close.",
+      "important_points": [
+        "Nvidia investors turned bearish before this week's Jensen Huang saga.",
+        "But the selling on Wall Street accelerated in the past few days, sending the stock toward its sixth straight weekly drop, the longest losing streak since 2012.",
+        "The chip giant, which spent most of the year as the world's most valuable company, has lost 29% of its value over that stretch as of Thursday's close."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Motorsport Games Inc. (MSGM) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Motorsport Games Inc. (MSGM) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967466-motorsport-games-inc-msgm-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967466-motorsport-games-inc-msgm-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T05:38:53+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Motorsport",
+        "Games",
+        "Inc.",
+        "MSGM"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Motorsport Games Inc.；(MSGM) Q3 2026 Earnings Call Transcript",
+      "important_points": [
+        "Motorsport Games Inc.",
+        "(MSGM) Q3 2026 Earnings Call Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Aumann AG 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "Aumann AG 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967624-aumann-ag-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967624-aumann-ag-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T05:31:11+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Aumann",
+        "2026",
+        "Results",
+        "Earnings"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Aumann AG 2026 Q3 - Results - Earnings Call Presentation",
+      "important_points": [
+        "Aumann AG 2026 Q3 - Results - Earnings Call Presentation"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Dürr Aktiengesellschaft 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "Dürr Aktiengesellschaft 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967623-durr-aktiengesellschaft-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967623-durr-aktiengesellschaft-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T05:30:52+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Aktiengesellschaft",
+        "2026",
+        "Results",
+        "Earnings"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Dürr Aktiengesellschaft 2026 Q3 - Results - Earnings Call Presentation",
+      "important_points": [
+        "Dürr Aktiengesellschaft 2026 Q3 - Results - Earnings Call Presentation"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Nvidia Earnings Preview: Q3 2027",
+      "title_zh": "Nvidia Earnings Preview: Q3 2027",
+      "link": "https://seekingalpha.com/article/4967621-nvidia-earnings-preview-q3-2027?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967621-nvidia-earnings-preview-q3-2027",
+      "published_at": "2026-11-13T05:30:00.000Z",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Nvidia",
+        "Earnings",
+        "Preview",
+        "2027"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Nvidia Corp.'s data center segment is set to power the company's revenue in the third fiscal quarter of 2027, which the Visible Alpha consensus expects to come in at $109.3 billion.；Based on the Visible Alpha consensus, Nvidia's data center revenue estimates range from $99.7 billion to $110.8 billion for the quarter.；Based on Visible Alpha consensus, Blackwell revenue is expected to climb from around $98.0 billion last year to $148.9 billion this year, but to drop next fiscal year as Rubin increases.",
+      "important_points": [
+        "Summary - Nvidia Corp.'s data center segment is set to power the company's revenue in the third fiscal quarter of 2027, which the Visible Alpha consensus expects to come in at $109.3 billion.",
+        "Based on the Visible Alpha consensus, Nvidia's data center revenue estimates range from $99.7 billion to $110.8 billion for the quarter.",
+        "Based on Visible Alpha consensus, Blackwell revenue is expected to climb from around $98.0 billion last year to $148.9 billion this year, but to drop next fiscal year as Rubin increases."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Health In Tech, Inc. (HIT) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Health In Tech, Inc. (HIT) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967528-health-in-tech-inc-hit-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967528-health-in-tech-inc-hit-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T05:29:00+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Health",
+        "Tech",
+        "Inc.",
+        "HIT"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Health In Tech, Inc.；(HIT) Q3 2026 Earnings Call Transcript",
+      "important_points": [
+        "Health In Tech, Inc.",
+        "(HIT) Q3 2026 Earnings Call Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Solesence, Inc. (SLSN) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Solesence, Inc. (SLSN) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967451-solesence-inc-slsn-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967451-solesence-inc-slsn-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T05:28:56+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Solesence",
+        "Inc.",
+        "SLSN",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Solesence, Inc.；(SLSN) Q3 2026 Earnings Call Transcript",
+      "important_points": [
+        "Solesence, Inc.",
+        "(SLSN) Q3 2026 Earnings Call Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Clearfield: 2026 Was A Tough Year, But 2027 Looks Much Better",
+      "title_zh": "Clearfield: 2026 Was A Tough Year, But 2027 Looks Much Better",
+      "link": "https://seekingalpha.com/article/4967608-clearfield-q4-2026-was-a-tough-year-but-2027-looks-much-better?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967608-clearfield-q4-2026-was-a-tough-year-but-2027-looks-much-better",
+      "published_at": "2026-11-13T05:13:35+00:00",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Clearfield",
+        "2026",
+        "Was",
+        "Tough",
+        "Year"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Clearfield: 2026 Was A Tough Year, But 2027 Looks Much Better",
+      "important_points": [
+        "Clearfield: 2026 Was A Tough Year, But 2027 Looks Much Better"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Avax One Technology Ltd. (AVX) Q3 2026 Earnings Call Prepared Remarks Transcript",
+      "title_zh": "Avax One Technology Ltd. (AVX) Q3 2026 Earnings Call Prepared Remarks Transcript",
+      "link": "https://seekingalpha.com/article/4967426-avax-one-technology-ltd-avx-q3-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967426-avax-one-technology-ltd-avx-q3-2026-earnings-call-prepared-remarks-transcript",
+      "published_at": "2026-11-13T05:09:28+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Avax",
+        "One",
+        "Technology",
+        "Ltd."
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Avax One Technology Ltd.；(AVX) Q3 2026 Earnings Call Prepared Remarks Transcript",
+      "important_points": [
+        "Avax One Technology Ltd.",
+        "(AVX) Q3 2026 Earnings Call Prepared Remarks Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "DLocal Limited (DLO) Q3 2026 Earnings Call Transcript",
+      "title_zh": "DLocal Limited (DLO) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967549-dlocal-limited-dlo-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967549-dlocal-limited-dlo-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T05:09:22+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "DLocal",
+        "Limited",
+        "DLO",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：DLocal Limited (DLO) Q3 2026 Earnings Call Transcript",
+      "important_points": [
+        "DLocal Limited (DLO) Q3 2026 Earnings Call Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Liftoff Mobile, Inc. (LFTO) Q3 2026 Earnings Call Transcript",
+      "title_zh": "Liftoff Mobile, Inc. (LFTO) Q3 2026 Earnings Call Transcript",
+      "link": "https://seekingalpha.com/article/4967619-liftoff-mobile-inc-lfto-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967619-liftoff-mobile-inc-lfto-q3-2026-earnings-call-transcript",
+      "published_at": "2026-11-13T05:09:13+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Liftoff",
+        "Mobile",
+        "Inc.",
+        "LFTO"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Liftoff Mobile, Inc.；(LFTO) Q3 2026 Earnings Call Transcript",
+      "important_points": [
+        "Liftoff Mobile, Inc.",
+        "(LFTO) Q3 2026 Earnings Call Transcript"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Grenke AG 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "Grenke AG 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967617-grenke-ag-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967617-grenke-ag-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T05:06:11+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Grenke",
+        "2026",
+        "Results",
+        "Earnings"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Grenke AG 2026 Q3 - Results - Earnings Call Presentation",
+      "important_points": [
+        "Grenke AG 2026 Q3 - Results - Earnings Call Presentation"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Have Bond Yields Reached A Point Of No Return?",
+      "title_zh": "Have Bond Yields Reached A Point Of No Return?",
+      "link": "https://seekingalpha.com/article/4967611-have-bond-yields-reached-point-of-no-return?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967611-have-bond-yields-reached-point-of-no-return",
+      "published_at": "2026-11-13T05:05:00.000Z",
+      "category": "债市",
+      "risk_level": "高",
+      "keywords": [
+        "bond",
+        "fed",
+        "federal reserve",
+        "inflation",
+        "gdp"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：By Ivan Castano âYou shouldnât see volatility in the bond market.；When you see it, it commands attention.â So warned Joe Brusuelas, chief economist at RSM, when asked about whatâs behind the bond market rout and how bad it could get.；Treasury volatility jumped in October, according to the CME Group Volatility Index (CVOL), which measures market expectations for 30-day forward implied volatility.",
+      "important_points": [
+        "By Ivan Castano âYou shouldnât see volatility in the bond market.",
+        "When you see it, it commands attention.â So warned Joe Brusuelas, chief economist at RSM, when asked about whatâs behind the bond market rout and how bad it could get.",
+        "Treasury volatility jumped in October, according to the CME Group Volatility Index (CVOL), which measures market expectations for 30-day forward implied volatility."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "bond",
+        "fed",
+        "federal reserve",
+        "inflation",
+        "gdp",
+        "treasury"
+      ]
+    },
+    {
+      "source": "Seeking Alpha",
+      "title": "Martinrea International Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "Martinrea International Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967616-martinrea-international-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967616-martinrea-international-inc-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T05:04:26+00:00",
+      "category": "公司财报与IPO",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "Martinrea",
+        "International",
+        "Inc.",
+        "2026"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Martinrea International Inc.；2026 Q3 - Results - Earnings Call Presentation",
+      "important_points": [
+        "Martinrea International Inc.",
         "2026 Q3 - Results - Earnings Call Presentation"
       ],
       "used_fallback": true,
@@ -392,258 +763,24 @@
     },
     {
       "source": "Seeking Alpha",
-      "title": "Vestas Wind Systems A/S 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:VWDRY) 2026-11-12",
-      "title_zh": "Vestas Wind Systems A/S 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:VWDRY) 2026-11-12",
-      "link": "https://seekingalpha.com/article/4966809-vestas-wind-systems-a-s-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966809-vestas-wind-systems-a-s-2026-q3-results-earnings-call-presentation",
-      "published_at": "2026-11-12T06:01:33.000Z",
+      "title": "CaliberCos Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "CaliberCos Inc. 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967615-calibercos-inc-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967615-calibercos-inc-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T05:03:26+00:00",
       "category": "公司财报与IPO",
       "risk_level": "低",
       "keywords": [
         "earnings",
-        "Vestas",
-        "Wind",
-        "Systems",
-        "2026"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Vestas Wind Systems A/S in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.；We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.",
-      "important_points": [
-        "The following slide deck was published by Vestas Wind Systems A/S in conjunction with their 2026 Q3 earnings call.",
-        "This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.",
-        "We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "The Equity Cushion: Why U.S. Debt Hasn",
-      "title_zh": "The Equity Cushion: Why U.S. Debt Hasn",
-      "link": "https://seekingalpha.com/article/4966804-equity-cushion-why-us-debt-hasnt-shaken-markets?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966804-equity-cushion-why-us-debt-hasnt-shaken-markets",
-      "published_at": "2026-11-12T06:00:00.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "The",
-        "Equity",
-        "Cushion",
-        "Why",
-        "U.S."
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：By Robert Bush, Director, Global Investment Research | Carter Johnson, Manager, Global Investment Research The rapid expansion of the US equity market may help explain why rising government debt has not caused greater financial stress.；With US public",
-      "important_points": [
-        "By Robert Bush, Director, Global Investment Research | Carter Johnson, Manager, Global Investment Research The rapid expansion of the US equity market may help explain why rising government debt has not caused greater financial stress.",
-        "With US public"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Lazard Developing Markets Equity Portfolio Q3 2026 Commentary",
-      "title_zh": "Lazard Developing Markets Equity Portfolio Q3 2026 Commentary",
-      "link": "https://seekingalpha.com/article/4966807-lazard-developing-markets-equity-portfolio-q3-2026-commentary?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966807-lazard-developing-markets-equity-portfolio-q3-2026-commentary",
-      "published_at": "2026-11-12T06:00:00.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "Lazard",
-        "Developing",
-        "Markets",
-        "Equity",
-        "Portfolio"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Market Review Equity markets in the developing world, as measured by the MSCI Emerging Markets Index, slipped 0.4% in the third quarter.；Riskier assets came under pressure due to a jump in the yields of medium- and long-dated government Equity markets in the developing world, as measured by the MSCI Emerging Markets Index, slipped 0.4% in the third quarter.；Riskier assets came under pressure due to a jump in the yields of medium- and long-dated government This article was written by",
-      "important_points": [
-        "Market Review Equity markets in the developing world, as measured by the MSCI Emerging Markets Index, slipped 0.4% in the third quarter.",
-        "Riskier assets came under pressure due to a jump in the yields of medium- and long-dated government Equity markets in the developing world, as measured by the MSCI Emerging Markets Index, slipped 0.4% in the third quarter.",
-        "Riskier assets came under pressure due to a jump in the yields of medium- and long-dated government This article was written by"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Hyliion Stock: Sell On KARNO Delays, Competitive Pressures And Dilution Risk (NYSE:HYLN)",
-      "title_zh": "Hyliion Stock: Sell On KARNO Delays, Competitive Pressures And Dilution Risk (NYSE:HYLN)",
-      "link": "https://seekingalpha.com/article/4966791-hyliion-sell-on-karno-delays-competitive-pressures-and-elevated-dilution-risk?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966791-hyliion-sell-on-karno-delays-competitive-pressures-and-elevated-dilution-risk",
-      "published_at": "2026-11-12T05:51:54.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "Hyliion",
-        "Stock",
-        "Sell",
-        "KARNO",
-        "Delays"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：I have discussed Hyliion Holdings Corp.；(HYLN) previously, so investors should view this as an update to my earlier coverage of the company.；Investment Thesis Hyliion Holdings is working on the commercialization of its fuel-agnostic KARNO linear power",
-      "important_points": [
-        "I have discussed Hyliion Holdings Corp.",
-        "(HYLN) previously, so investors should view this as an update to my earlier coverage of the company.",
-        "Investment Thesis Hyliion Holdings is working on the commercialization of its fuel-agnostic KARNO linear power"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Morningstar: Still Slightly Undervalued (NASDAQ:MORN)",
-      "title_zh": "Morningstar: Still Slightly Undervalued (NASDAQ:MORN)",
-      "link": "https://seekingalpha.com/article/4966790-morningstar-q3-still-slightly-undervalued?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966790-morningstar-q3-still-slightly-undervalued",
-      "published_at": "2026-11-12T05:51:16.000Z",
-      "category": "股市",
-      "risk_level": "高",
-      "keywords": [
-        "nasdaq",
-        "recession",
-        "Morningstar",
-        "Still",
-        "Slightly"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：In March 2026, I published my last article about Morningstar, Inc.；(MORN)âat a time when several financial services companies as well as software companies declined steeply.；Back then, the fear was extremely high that Summary - Morningstar, Inc.",
-      "important_points": [
-        "In March 2026, I published my last article about Morningstar, Inc.",
-        "(MORN)âat a time when several financial services companies as well as software companies declined steeply.",
-        "Back then, the fear was extremely high that Summary - Morningstar, Inc."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "nasdaq",
-        "recession"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Harbor Capital Appreciation Fund Q3 2026 Commentary (HCAIX)",
-      "title_zh": "Harbor Capital Appreciation Fund Q3 2026 Commentary (HCAIX)",
-      "link": "https://seekingalpha.com/article/4966805-harbor-capital-appreciation-fund-q3-2026-commentary?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966805-harbor-capital-appreciation-fund-q3-2026-commentary",
-      "published_at": "2026-11-12T05:50:00.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "Harbor",
-        "Capital",
-        "Appreciation",
-        "Fund",
-        "2026"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The companies in the Fund are selected for their ability to capitalize on multiyear opportunities founded on unique products and innovation, supported by durable competitive moats and positions of market leadership.；Jennison Associates, LLC Summary - During the third quarter, the Harbor Capital Appreciation Fund returned 5.01%.；The Fund's outperformance versus the Russell 1000Â® Growth Index was driven primarily by strong stock selection in Information Technology and Consumer Discretionary.",
-      "important_points": [
-        "The companies in the Fund are selected for their ability to capitalize on multiyear opportunities founded on unique products and innovation, supported by durable competitive moats and positions of market leadership.",
-        "Jennison Associates, LLC Summary - During the third quarter, the Harbor Capital Appreciation Fund returned 5.01%.",
-        "The Fund's outperformance versus the Russell 1000Â® Growth Index was driven primarily by strong stock selection in Information Technology and Consumer Discretionary."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Orica Limited (OCLDY) Q4 2026 Earnings Call Transcript",
-      "title_zh": "Orica Limited (OCLDY) Q4 2026 Earnings Call Transcript",
-      "link": "https://seekingalpha.com/article/4966752-orica-limited-ocldy-q4-2026-earnings-call-transcript?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966752-orica-limited-ocldy-q4-2026-earnings-call-transcript",
-      "published_at": "2026-11-12T05:49:00.000Z",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Orica",
-        "Limited",
-        "OCLDY",
-        "2026"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Company Participants Natalie Worley - Vice President of Investor Relations Sanjeev Kumar Gandhi - MD, CEO & Executive Director James Crough - Chief Financial Officer Conference Call Participants Niraj-Samip Shah - Goldman Sachs Group, Inc., Research Division Jakob Cakarnis - Jarden Australia Pty Limited, Research Division Lee Power - JPMorgan Chase & Co, Research Division Samuel Seow - Citigroup Inc., Research Division John Purtell - Macquarie Research Mark Wilson - RBC Capital Markets, Research Division Ramoun Lazar - Jefferies LLC, Research Division Brook Campbell-Crawford - Barrenjoey Markets Pty Limited, Research Division Nathan Reilly - UBS Investment Bank, Research Division Harry Saunders - E&P, Research Division Scott Ryall - Rimor Equity Research Pty Ltd Presentation Natalie Worley Vice President of Investor Relations Good morning, everyone, and thank you for joining us for Orica's 2026 full-year results presentation.；I'm Natalie Worley, Vice President, Investor Relations.；Joining me here in Melbourne today are Sanjeev Gandhi, our Managing Director and CEO, and James Crough, our CFO.",
-      "important_points": [
-        "Company Participants Natalie Worley - Vice President of Investor Relations Sanjeev Kumar Gandhi - MD, CEO & Executive Director James Crough - Chief Financial Officer Conference Call Participants Niraj-Samip Shah - Goldman Sachs Group, Inc., Research Division Jakob Cakarnis - Jarden Australia Pty Limited, Research Division Lee Power - JPMorgan Chase & Co, Research Division Samuel Seow - Citigroup Inc., Research Division John Purtell - Macquarie Research Mark Wilson - RBC Capital Markets, Research Division Ramoun Lazar - Jefferies LLC, Research Division Brook Campbell-Crawford - Barrenjoey Markets Pty Limited, Research Division Nathan Reilly - UBS Investment Bank, Research Division Harry Saunders - E&P, Research Division Scott Ryall - Rimor Equity Research Pty Ltd Presentation Natalie Worley Vice President of Investor Relations Good morning, everyone, and thank you for joining us for Orica's 2026 full-year results presentation.",
-        "I'm Natalie Worley, Vice President, Investor Relations.",
-        "Joining me here in Melbourne today are Sanjeev Gandhi, our Managing Director and CEO, and James Crough, our CFO."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Bread Financial: Newly Issued Series C Enhances Yields Across All Preferred",
-      "title_zh": "Bread Financial: Newly Issued Series C Enhances Yields Across All Preferred",
-      "link": "https://seekingalpha.com/article/4966787-bread-financial-newly-issued-series-c-enhances-yields-across-all-preferred-shares?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966787-bread-financial-newly-issued-series-c-enhances-yields-across-all-preferred-shares",
-      "published_at": "2026-11-12T05:43:40.000Z",
-      "category": "监管与合规",
-      "risk_level": "中",
-      "keywords": [
-        "Bread",
-        "Financial",
-        "Newly",
-        "Issued",
-        "Series"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - Bread Financial Holdings preferreds, Series A and B, have both experienced significant price declines recently, now trading near $22.50.；The price drop is attributed to increased credit premiums demanded by the market, not rising interest rates.；Recent sell-off factors might include post-election volatility and regulatory concerns, but the primary driver is company-specific risk and higher demand for a credit risk premium.",
-      "important_points": [
-        "Summary - Bread Financial Holdings preferreds, Series A and B, have both experienced significant price declines recently, now trading near $22.50.",
-        "The price drop is attributed to increased credit premiums demanded by the market, not rising interest rates.",
-        "Recent sell-off factors might include post-election volatility and regulatory concerns, but the primary driver is company-specific risk and higher demand for a credit risk premium."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "VTEB: Good Income, With A Tax Test (NYSEARCA:VTEB)",
-      "title_zh": "VTEB: Good Income, With A Tax Test (NYSEARCA:VTEB)",
-      "link": "https://seekingalpha.com/article/4966785-vteb-etf-good-income-with-tax-test?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966785-vteb-etf-good-income-with-tax-test",
-      "published_at": "2026-11-12T05:34:15.000Z",
-      "category": "债市",
-      "risk_level": "低",
-      "keywords": [
-        "bond",
-        "VTEB",
-        "Good",
-        "Income",
-        "With"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - I rate Vanguard Tax-Exempt Bond ETF a Hold at $49.09, citing a modest after-tax return advantage over my hurdle rate.；VTEB offers efficient, low-cost national municipal bond exposure, but its incremental benefit is limited by rate and call uncertainties.；The fund's 3.88% estimated net annual return after tax barely exceeds my 3.60% hurdle, making a stronger Buy call unjustified.",
-      "important_points": [
-        "Summary - I rate Vanguard Tax-Exempt Bond ETF a Hold at $49.09, citing a modest after-tax return advantage over my hurdle rate.",
-        "VTEB offers efficient, low-cost national municipal bond exposure, but its incremental benefit is limited by rate and call uncertainties.",
-        "The fund's 3.88% estimated net annual return after tax barely exceeds my 3.60% hurdle, making a stronger Buy call unjustified."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "bond"
-      ]
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Xero Limited 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:XROLF) 2026-11-12",
-      "title_zh": "Xero Limited 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:XROLF) 2026-11-12",
-      "link": "https://seekingalpha.com/article/4966801-xero-limited-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966801-xero-limited-2027-q2-results-earnings-call-presentation",
-      "published_at": "2026-11-12T05:33:57.000Z",
-      "category": "公司财报与IPO",
-      "risk_level": "低",
-      "keywords": [
-        "earnings",
-        "Xero",
-        "Limited",
-        "2027",
+        "CaliberCos",
+        "Inc.",
+        "2026",
         "Results"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Xero Limited in conjunction with their 2027 Q2 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.；We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：CaliberCos Inc.；2026 Q3 - Results - Earnings Call Presentation",
       "important_points": [
-        "The following slide deck was published by Xero Limited in conjunction with their 2027 Q2 earnings call.",
-        "This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.",
-        "We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage."
+        "CaliberCos Inc.",
+        "2026 Q3 - Results - Earnings Call Presentation"
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
@@ -652,25 +789,23 @@
     },
     {
       "source": "Seeking Alpha",
-      "title": "Recordati Industria Chimica e Farmaceutica S.p.A. 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:RICFY) 2026-11-12",
-      "title_zh": "Recordati Industria Chimica e Farmaceutica S.p.A. 2026 Q3 - Results - Earnings Call Presentation (OTCMKTS:RICFY) 2026-11-12",
-      "link": "https://seekingalpha.com/article/4966800-recordati-industria-chimica-e-farmaceutica-s-p-a-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966800-recordati-industria-chimica-e-farmaceutica-s-p-a-2026-q3-results-earnings-call-presentation",
-      "published_at": "2026-11-12T05:30:39.000Z",
+      "title": "ProCredit Holding AG 2026 Q3 - Results - Earnings Call Presentation",
+      "title_zh": "ProCredit Holding AG 2026 Q3 - Results - Earnings Call Presentation",
+      "link": "https://seekingalpha.com/article/4967613-procredit-holding-ag-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4967613-procredit-holding-ag-2026-q3-results-earnings-call-presentation",
+      "published_at": "2026-11-13T05:01:44+00:00",
       "category": "公司财报与IPO",
       "risk_level": "低",
       "keywords": [
         "earnings",
-        "Recordati",
-        "Industria",
-        "Chimica",
-        "Farmaceutica"
+        "ProCredit",
+        "Holding",
+        "2026",
+        "Results"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Recordati Industria Chimica e Farmaceutica S.p.A.；in conjunction with their 2026 Q3 earnings call.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：ProCredit Holding AG 2026 Q3 - Results - Earnings Call Presentation",
       "important_points": [
-        "The following slide deck was published by Recordati Industria Chimica e Farmaceutica S.p.A.",
-        "in conjunction with their 2026 Q3 earnings call.",
-        "This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects."
+        "ProCredit Holding AG 2026 Q3 - Results - Earnings Call Presentation"
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
@@ -679,650 +814,508 @@
     },
     {
       "source": "Seeking Alpha",
-      "title": "DoorDash",
-      "title_zh": "DoorDash",
-      "link": "https://seekingalpha.com/article/4966765-doordash-fba-moment?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966765-doordash-fba-moment",
-      "published_at": "2026-11-12T05:30:00.000Z",
+      "title": "Politics And The Markets 11/13/26",
+      "title_zh": "Politics And The Markets 11/13/26",
+      "link": "https://seekingalpha.com/article/4960820-politics-and-the-markets-111326?source=feed_all_articles",
+      "canonical_link": "https://seekingalpha.com/article/4960820-politics-and-the-markets-111326",
+      "published_at": "2026-11-13T05:00:00+00:00",
       "category": "综合资讯",
       "risk_level": "低",
       "keywords": [
-        "DoorDash",
+        "Politics",
+        "And",
+        "The",
+        "Markets",
         "Seeking Alpha"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Summary - I don't think DashMart is the main reason DoorDash is paying ~$17 billion for Instacart.；Orders fulfilled from DashMarts are 99%+ accurate, while orders shopped from third-party stores are only in the 'low 90s,' and DashMart orders arrive more than 10 minutes faster on average.；Instacart could bring the orders and the grocers that DashMart has been missing.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Politics And The Markets 11/13/26",
       "important_points": [
-        "Summary - I don't think DashMart is the main reason DoorDash is paying ~$17 billion for Instacart.",
-        "Orders fulfilled from DashMarts are 99%+ accurate, while orders shopped from third-party stores are only in the 'low 90s,' and DashMart orders arrive more than 10 minutes faster on average.",
-        "Instacart could bring the orders and the grocers that DashMart has been missing."
+        "Politics And The Markets 11/13/26"
       ],
       "used_fallback": true,
       "matched_focus_keywords": []
     },
     {
-      "source": "Seeking Alpha",
-      "title": "A Wild Week: Post-Election Sector Rankings",
-      "title_zh": "A Wild Week: Post-Election Sector Rankings",
-      "link": "https://seekingalpha.com/article/4966762-wild-week-post-election-sector-rankings?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966762-wild-week-post-election-sector-rankings",
-      "published_at": "2026-11-12T05:30:00.000Z",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "Wild",
-        "Week",
-        "Post-Election",
-        "Sector",
-        "Rankings"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Itâs been a wild week since Election Day last Tuesday, and weâve seen some major swings across different sectors.；In the aftermath of major market events, investors instinctively look at initial reactions as a guide to what Summary - Itâs been a wild week since Election Day last Tuesday, and weâve seen some major swings across different sectors.；Given the massive victories for Democrats across the country last week, itâs only natural to look at how various sectors have responded and view them as what the market expects going forward.",
-      "important_points": [
-        "Itâs been a wild week since Election Day last Tuesday, and weâve seen some major swings across different sectors.",
-        "In the aftermath of major market events, investors instinctively look at initial reactions as a guide to what Summary - Itâs been a wild week since Election Day last Tuesday, and weâve seen some major swings across different sectors.",
-        "Given the massive victories for Democrats across the country last week, itâs only natural to look at how various sectors have responded and view them as what the market expects going forward."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Goldman Sachs Large Cap Growth Insights Fund Q3 2026 Commentary (GCGIX)",
-      "title_zh": "Goldman Sachs Large Cap Growth Insights Fund Q3 2026 Commentary (GCGIX)",
-      "link": "https://seekingalpha.com/article/4966797-goldman-sachs-large-cap-growth-insights-fund-q3-2026-commentary?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966797-goldman-sachs-large-cap-growth-insights-fund-q3-2026-commentary",
-      "published_at": "2026-11-12T05:25:00.000Z",
-      "category": "外汇市场",
-      "risk_level": "低",
-      "keywords": [
-        "Goldman",
-        "Sachs",
-        "Large",
-        "Cap",
-        "Growth"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Market Review The Russell 1000 Growth (USD, TR) remained flat with 0.92% in the third quarter of 2026.；During the period, at a monthly level, the index moved -4.76% in the month of July, followed by 3.73% in the month of August, and finally closing with 2.16% in",
-      "important_points": [
-        "Market Review The Russell 1000 Growth (USD, TR) remained flat with 0.92% in the third quarter of 2026.",
-        "During the period, at a monthly level, the index moved -4.76% in the month of July, followed by 3.73% in the month of August, and finally closing with 2.16% in"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "Seeking Alpha",
-      "title": "Tutor Perini: Use The Post-Earnings Rally To Cash In Your Chips (NYSE:TPC)",
-      "title_zh": "Tutor Perini: Use The Post-Earnings Rally To Cash In Your Chips (NYSE:TPC)",
-      "link": "https://seekingalpha.com/article/4966778-tutor-perini-use-the-post-q3-earnings-rally-to-cash-in-your-chips-downgrade-hold?source=feed_all_articles",
-      "canonical_link": "https://seekingalpha.com/article/4966778-tutor-perini-use-the-post-q3-earnings-rally-to-cash-in-your-chips-downgrade-hold",
-      "published_at": "2026-11-12T05:23:28.000Z",
+      "source": "CNBC Top News",
+      "title": "As Nvidia reels from Huang's affairs, who stands to gain?",
+      "title_zh": "As Nvidia reels from Huang's affairs, who stands to gain?",
+      "link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-affairs-amd-broadcom-tsmc.html",
+      "published_at": "2026-11-13T03:58:29+0000",
       "category": "公司财报与IPO",
-      "risk_level": "低",
+      "risk_level": "高",
       "keywords": [
         "earnings",
-        "Tutor",
-        "Perini",
-        "Use",
-        "The"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Background Tutor Perini Corporation (TPC) is a vertically integrated American construction company whose expertise (built up over 130 years) mainly lies in civil (mainly mass transportation) and building infrastructure projects.；For the uninitiated, this isn",
-      "important_points": [
-        "Background Tutor Perini Corporation (TPC) is a vertically integrated American construction company whose expertise (built up over 130 years) mainly lies in civil (mainly mass transportation) and building infrastructure projects.",
-        "For the uninitiated, this isn"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "earnings"
-      ]
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "title_zh": "Nasdaq futures fall as Nvidia sinks 8% after hours on report board may oust Huang",
-      "link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/nasdaq-futures-fall-as-nvidia-sinks-8-after-hours-on-report-board-may-oust-huang-e99b898d?mod=mw_rss_topstories",
-      "published_at": "2026-11-12T04:41:00+00:00",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "nasdaq",
-        "Nasdaq",
-        "futures",
-        "fall",
-        "Nvidia"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers.",
-      "important_points": [
-        "Stock futures were sliding Wednesday evening as a selloff in shares of Nvidia after the closing bell weighed on the Nasdaq-100 and dragged down shares of other chip makers."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "nasdaq"
-      ]
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "The world's super-rich are piling into alternative investments. Here's why",
-      "title_zh": "The world's super-rich are piling into alternative investments. Here's why",
-      "link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/12/rich-wealth-alternative-assets-.html",
-      "published_at": "2026-11-12T03:36:44+0000",
-      "category": "股市",
-      "risk_level": "中",
-      "keywords": [
-        "inflation",
-        "real estate",
-        "The",
-        "world",
-        "super-rich"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The world's wealthiest investors are increasingly looking beyond stocks and bonds, pouring money into hedge funds, private equity and infrastructure assets, as market volatility and fears about stubborn inflation spur diversification.；From Asian billionaires to global family offices, alternative investments are becoming a bigger part of portfolios once dominated by traditional assets, said industry watchers JPMorgan Asset Management's private wealth alternative assets in Asia-Pacific surged 40% over the past 12 months, according to Dan Watkins, the firm's regional chief executive officer, underscoring the growing appetite among high-net-worth and ultra-high-net-worth clients.；\"So you really have this huge appetite for alternative exposure happening in that ultra-high-net-worth, high-net-worth category,\" Watkins said recently at a media summit in Singapore.",
-      "important_points": [
-        "The world's wealthiest investors are increasingly looking beyond stocks and bonds, pouring money into hedge funds, private equity and infrastructure assets, as market volatility and fears about stubborn inflation spur diversification.",
-        "From Asian billionaires to global family offices, alternative investments are becoming a bigger part of portfolios once dominated by traditional assets, said industry watchers JPMorgan Asset Management's private wealth alternative assets in Asia-Pacific surged 40% over the past 12 months, according to Dan Watkins, the firm's regional chief executive officer, underscoring the growing appetite among high-net-worth and ultra-high-net-worth clients.",
-        "\"So you really have this huge appetite for alternative exposure happening in that ultra-high-net-worth, high-net-worth category,\" Watkins said recently at a media summit in Singapore."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "inflation",
-        "real estate"
-      ]
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
-      "title_zh": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
-      "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
-      "published_at": "2026-11-12T03:25:05+0000",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "Elon",
-        "Musk",
-        "says",
-        "would",
-        "honor"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：SpaceX founder and Tesla CEO Elon Musk said it would be \"an honor\" to hire embattled Nvidia CEO Jensen Huang, after reports emerged that Nvidia's board could be preparing to oust Huang from the company.；Late Wednesday stateside, financial blog Zerohedge wrote on X, \"Elon please hire Jensen,\" to which Musk replied, \"That would be an honor.\" The post comes as the Wall Street Journal reported that Nvidia's board is preparing to meet as soon as Wednesday to discuss Huang's future at the company.；The report also followed a New York Times story that Huang had an extramarital relationship with another Nvidia executive.",
-      "important_points": [
-        "SpaceX founder and Tesla CEO Elon Musk said it would be \"an honor\" to hire embattled Nvidia CEO Jensen Huang, after reports emerged that Nvidia's board could be preparing to oust Huang from the company.",
-        "Late Wednesday stateside, financial blog Zerohedge wrote on X, \"Elon please hire Jensen,\" to which Musk replied, \"That would be an honor.\" The post comes as the Wall Street Journal reported that Nvidia's board is preparing to meet as soon as Wednesday to discuss Huang's future at the company.",
-        "The report also followed a New York Times story that Huang had an extramarital relationship with another Nvidia executive."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "MarketWatch",
-      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "title_zh": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "published_at": "2026-11-12T03:15:00+00:00",
-      "category": "综合资讯",
-      "risk_level": "低",
-      "keywords": [
-        "The",
-        "thought",
-        "living",
-        "100",
-        "terrifies"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：There is already a demographic ‘run’ on Social Security.",
-      "important_points": [
-        "There is already a demographic ‘run’ on Social Security."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "第一财经",
-      "title": "阿里巴巴港股跌超7%",
-      "title_zh": "阿里巴巴港股跌超7%",
-      "link": "https://www.yicai.com/news/103438099.html",
-      "canonical_link": "https://www.yicai.com/news/103438099.html",
-      "published_at": "2026-11-12",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
-        "港股",
-        "ipo",
-        "第一财经"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 资本市场对相关模型厂商的考核也将愈发严格。；配售800亿港元后，蔡崇信、吴泳铭增持1.2亿港元阿里股票 这股上市热潮背后与追赶政策红利以及对人形机器人未来竞争的焦虑有关。；中际旭创启动H股招股，成近年港股最大IPO \"924 行情\" 以来，鼎泰高科股价从最低13.85元一路飙升至本月最高666元，总市值从50亿左右上涨至2500亿级别，成为本轮AI硬件行情中最耀眼的标的之一。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 资本市场对相关模型厂商的考核也将愈发严格。",
-        "配售800亿港元后，蔡崇信、吴泳铭增持1.2亿港元阿里股票 这股上市热潮背后与追赶政策红利以及对人形机器人未来竞争的焦虑有关。",
-        "中际旭创启动H股招股，成近年港股最大IPO \"924 行情\" 以来，鼎泰高科股价从最低13.85元一路飙升至本月最高666元，总市值从50亿左右上涨至2500亿级别，成为本轮AI硬件行情中最耀眼的标的之一。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "港股",
-        "ipo"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "赵伟：黄金不再避险？",
-      "title_zh": "赵伟：黄金不再避险？",
-      "link": "https://www.yicai.com/news/103437805.html",
-      "canonical_link": "https://www.yicai.com/news/103437805.html",
-      "published_at": "2026-11-12",
-      "category": "大宗商品",
-      "risk_level": "中",
-      "keywords": [
-        "黄金",
-        "美联储",
-        "加息",
-        "央行",
-        "衰退"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 10月以来，在ETF未明显减持、美债利率快速回落、美元震荡的情形下，黄金依然快速走弱，与传统规律明显相悖。金价“反常”走弱的背后推手是什么，后续会怎么演绎？；8月25日以来，黄金价格快速下跌，10月30日跌破3900美元/盎司，创年内新低。本轮下跌大致可分为三个阶段：8月25日至9月29日，黄金在美联储鹰派转向、地缘风险再度升温背景下下跌，欧美时间段跌幅明显更深；9月30日至10月21日，黄金横盘震荡；10月22日以来，亚盘与美盘共振走弱，黄金加速下跌，快速走弱6.2%。；本轮黄金急跌有两大“异象”： 第一，10月以来的金价大跌发生在10年期美债实际利率快速回落的背景下。历史回溯来看，仅2013年10月、2022年7月出现过美债实际利率快速回落超过25bp的同时黄金跌超5%。2013年10月，10年期美债实际利率回落41bp、美元跌2.5%，均利多金价；但彼时市场交易的核心是9月QE并未缩量的“利多兑现”，这也引发了ETF的快速赎回，金价也随之下跌。2022年7月，衰退担忧一度引发美债利率回落，但欧洲更弱的预期下美元大幅走强近3%，美债实际利率下行的利多被美元对冲。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 10月以来，在ETF未明显减持、美债利率快速回落、美元震荡的情形下，黄金依然快速走弱，与传统规律明显相悖。金价“反常”走弱的背后推手是什么，后续会怎么演绎？",
-        "8月25日以来，黄金价格快速下跌，10月30日跌破3900美元/盎司，创年内新低。本轮下跌大致可分为三个阶段：8月25日至9月29日，黄金在美联储鹰派转向、地缘风险再度升温背景下下跌，欧美时间段跌幅明显更深；9月30日至10月21日，黄金横盘震荡；10月22日以来，亚盘与美盘共振走弱，黄金加速下跌，快速走弱6.2%。",
-        "本轮黄金急跌有两大“异象”： 第一，10月以来的金价大跌发生在10年期美债实际利率快速回落的背景下。历史回溯来看，仅2013年10月、2022年7月出现过美债实际利率快速回落超过25bp的同时黄金跌超5%。2013年10月，10年期美债实际利率回落41bp、美元跌2.5%，均利多金价；但彼时市场交易的核心是9月QE并未缩量的“利多兑现”，这也引发了ETF的快速赎回，金价也随之下跌。2022年7月，衰退担忧一度引发美债利率回落，但欧洲更弱的预期下美元大幅走强近3%，美债实际利率下行的利多被美元对冲。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "黄金",
-        "美联储",
-        "加息",
-        "央行",
-        "衰退"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "盘前必读丨信息量巨大！央行发布重要报告；中国船舶子公司签下超170亿元大单",
-      "title_zh": "盘前必读丨信息量巨大！央行发布重要报告；中国船舶子公司签下超170亿元大单",
-      "link": "https://www.yicai.com/news/103437273.html",
-      "canonical_link": "https://www.yicai.com/news/103437273.html",
-      "published_at": "2026-11-12",
-      "category": "股市",
-      "risk_level": "中",
-      "keywords": [
-        "央行",
-        "上证",
-        "原油",
-        "ipo",
-        "外汇"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 【财经日历】 国内成品油将开启新一轮调价窗口 百度世界2026 中国国际半导体博览会(11/12-11/14) ►►央行发布2026年第三季度中国货币政策执行报告： -坚持实施好适度宽松的货币政策，增强政策前瞻性灵活性针对性； -推动贷款利率定价基准从比较单一地参考贷款市场报价利率（LPR）定价向更加多元的定价基准转型； -用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行； -继续用好各类结构性货币政策工具 推动加强科技创新全链条全生命周期金融服务； ►►据新华社，从国家税务总局获悉，目前，离岸信托收益征税政策过渡期已平稳结束，绝大多数纳税人积极配合，累计申报离岸信托个人所得税超1600亿元，其中10月当月入库超1200亿元，带动了全国10月份个人所得税收入增长近90%。2026年7月24日，财政部、税务总局发布《关于离岸信托个人所得税有关事项的公告》，规定取得离岸信托收益的纳税人在90天过渡期内完成申报缴税，不加收滞纳金。；►►据央视新闻，11月11日19时41分，我国在酒泉卫星发射中心使用长征二号丁运载火箭，成功将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。这次任务是长征系列运载火箭的第677次飞行。；►►据报道，Anthropic首次公开募股（IPO）认购需求已达到可供发行股份数量的数倍，主要受到大型基石投资者认购意向推动。公司及其联合创始人计划通过IPO和私募合计融资最高904亿美元，若完成，将超过SpaceX IPO，成为史上规模最大的上市交易。Anthropic目标完全稀释估值约为1.4万亿美元，低于部分投资者此前预期。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 【财经日历】 国内成品油将开启新一轮调价窗口 百度世界2026 中国国际半导体博览会(11/12-11/14) ►►央行发布2026年第三季度中国货币政策执行报告： -坚持实施好适度宽松的货币政策，增强政策前瞻性灵活性针对性； -推动贷款利率定价基准从比较单一地参考贷款市场报价利率（LPR）定价向更加多元的定价基准转型； -用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行； -继续用好各类结构性货币政策工具 推动加强科技创新全链条全生命周期金融服务； ►►据新华社，从国家税务总局获悉，目前，离岸信托收益征税政策过渡期已平稳结束，绝大多数纳税人积极配合，累计申报离岸信托个人所得税超1600亿元，其中10月当月入库超1200亿元，带动了全国10月份个人所得税收入增长近90%。2026年7月24日，财政部、税务总局发布《关于离岸信托个人所得税有关事项的公告》，规定取得离岸信托收益的纳税人在90天过渡期内完成申报缴税，不加收滞纳金。",
-        "►►据央视新闻，11月11日19时41分，我国在酒泉卫星发射中心使用长征二号丁运载火箭，成功将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。这次任务是长征系列运载火箭的第677次飞行。",
-        "►►据报道，Anthropic首次公开募股（IPO）认购需求已达到可供发行股份数量的数倍，主要受到大型基石投资者认购意向推动。公司及其联合创始人计划通过IPO和私募合计融资最高904亿美元，若完成，将超过SpaceX IPO，成为史上规模最大的上市交易。Anthropic目标完全稀释估值约为1.4万亿美元，低于部分投资者此前预期。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "央行",
-        "上证",
-        "原油",
-        "ipo",
-        "外汇"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "华尔街紧急上调利率预期！美股最大风险变成美联储？",
-      "title_zh": "华尔街紧急上调利率预期！美股最大风险变成美联储？",
-      "link": "https://www.yicai.com/news/103437262.html",
-      "canonical_link": "https://www.yicai.com/news/103437262.html",
-      "published_at": "2026-11-12",
-      "category": "股市",
-      "risk_level": "中",
-      "keywords": [
-        "美联储",
-        "加息",
-        "降息",
-        "cpi",
-        "国债"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 随着最新通胀报告超预期，市场正迅速重估美联储的政策路径。；另一方面，美联储\"用力过猛\"的风险，正日益成为2027年股市面临的严重威胁。；机构密集上调 美国银行、花旗和渣打银行均在最新研报中警告，美联储理事沃勒的言论为12月加息打开了50个基点的加息大门。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 随着最新通胀报告超预期，市场正迅速重估美联储的政策路径。",
-        "另一方面，美联储\"用力过猛\"的风险，正日益成为2027年股市面临的严重威胁。",
-        "机构密集上调 美国银行、花旗和渣打银行均在最新研报中警告，美联储理事沃勒的言论为12月加息打开了50个基点的加息大门。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "美联储",
-        "加息",
-        "降息",
-        "cpi",
-        "国债"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "CoreWeave飙升近25%点燃AI硬件股，半导体爆发闪迪美光科技拉升超10%，黄金失守4000美元",
-      "title_zh": "CoreWeave飙升近25%点燃AI硬件股，半导体爆发闪迪美光科技拉升超10%，黄金失守4000美元",
-      "link": "https://www.yicai.com/news/103437203.html",
-      "canonical_link": "https://www.yicai.com/news/103437203.html",
-      "published_at": "2026-11-12",
-      "category": "股市",
-      "risk_level": "中",
-      "keywords": [
-        "黄金",
-        "美联储",
-        "加息",
-        "cpi",
-        "原油"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 *三大股指收高，标普500指数收复7600点； *美国30年期抵押贷款利率连续第四周回落； *美联储下月加息概率升至90%。；周三美股全线走高，CoreWeave强劲的财报缓解了投资者对膨胀人工智能支出的担忧。；截至收盘，道琼斯工业平均指数上涨254.60点，涨幅0.49%，报52486.49点；纳斯达克综合指数上涨1.60%，报25466.19点；标普500指数上涨1.31%，报7619.41点。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 *三大股指收高，标普500指数收复7600点； *美国30年期抵押贷款利率连续第四周回落； *美联储下月加息概率升至90%。",
-        "周三美股全线走高，CoreWeave强劲的财报缓解了投资者对膨胀人工智能支出的担忧。",
-        "截至收盘，道琼斯工业平均指数上涨254.60点，涨幅0.49%，报52486.49点；纳斯达克综合指数上涨1.60%，报25466.19点；标普500指数上涨1.31%，报7619.41点。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "黄金",
-        "美联储",
-        "加息",
-        "cpi",
-        "原油",
-        "国债",
-        "ipo",
-        "财报"
-      ]
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-      "title_zh": "Your holiday credit-card bills are going up. What you can do to ease the pain.",
-      "link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/your-holiday-credit-card-bills-are-going-up-what-you-can-do-to-ease-the-pain-5ddeb446?mod=mw_rss_topstories",
-      "published_at": "2026-11-11T23:30:00+00:00",
-      "category": "宏观经济",
-      "risk_level": "低",
-      "keywords": [
-        "inflation",
-        "Your",
-        "holiday",
-        "credit-card",
-        "bills"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it.",
-      "important_points": [
-        "The government may have lost a month of inflation data, but don’t expect your credit card’s annual percentage rate to decline because of it."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "inflation"
-      ]
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-      "title_zh": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening",
-      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html",
-      "published_at": "2026-11-11T22:06:48+0000",
-      "category": "股市",
-      "risk_level": "低",
-      "keywords": [
         "Nvidia",
-        "board",
-        "meeting",
-        "decide",
-        "CEO"
+        "reels",
+        "from",
+        "Huang"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Nvidia's board is meeting to decide whether to oust CEO Jensen Huang, CNBC confirmed late Wednesday, following reports of two extramarital affairs — one with an employee and another with an alleged Chinese spy.；Shares of Nvidia fell more than 9% in post-market trading after The Wall Street Journal first reported that the board was preparing to force out Huang.；That news landed minutes after The New York Times reported that Huang had a romantic relationship with Nvidia's vice president of health care.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：Nvidia's leadership crisis is creating an opening for its biggest rivals as well as partners, as investors bet that Jensen Huang's departure could loosen the AI chip giant's grip on an industry it has long dominated.；From AMD to Broadcom and even partner TSMC, chipmakers are emerging as potential beneficiaries of the upheaval, with market watchers pointing to a possible redistribution of manufacturing capacity and a narrowing of Nvidia's technological lead.；\"What you're seeing in markets now is a bit of a rotation into other advanced chip design companies, on the assumption that this will enable other companies effectively to catch up,\" said Mark Franklin, head of multi-asset solutions for Asia at Manulife Investment Management.",
       "important_points": [
-        "Nvidia's board is meeting to decide whether to oust CEO Jensen Huang, CNBC confirmed late Wednesday, following reports of two extramarital affairs — one with an employee and another with an alleged Chinese spy.",
-        "Shares of Nvidia fell more than 9% in post-market trading after The Wall Street Journal first reported that the board was preparing to force out Huang.",
-        "That news landed minutes after The New York Times reported that Huang had a romantic relationship with Nvidia's vice president of health care."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": []
-    },
-    {
-      "source": "MarketWatch",
-      "title": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-      "title_zh": "Falling oil prices are no longer enough to bring down borrowing costs in the world’s most important bond market",
-      "link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-      "canonical_link": "https://www.marketwatch.com/story/falling-oil-prices-are-no-longer-enough-to-bring-down-borrowing-costs-in-the-worlds-most-important-bond-market-3176d25a?mod=mw_rss_topstories",
-      "published_at": "2026-11-11T21:42:00+00:00",
-      "category": "债市",
-      "risk_level": "低",
-      "keywords": [
-        "inflation",
-        "bond",
-        "treasury",
-        "Falling",
-        "oil"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：The tight trading relationship between oil prices and Treasury yields has broken down.；It’s a sign that inflation concerns are extending beyond the energy shock.",
-      "important_points": [
-        "The tight trading relationship between oil prices and Treasury yields has broken down.",
-        "It’s a sign that inflation concerns are extending beyond the energy shock."
+        "Nvidia's leadership crisis is creating an opening for its biggest rivals as well as partners, as investors bet that Jensen Huang's departure could loosen the AI chip giant's grip on an industry it has long dominated.",
+        "From AMD to Broadcom and even partner TSMC, chipmakers are emerging as potential beneficiaries of the upheaval, with market watchers pointing to a possible redistribution of manufacturing capacity and a narrowing of Nvidia's technological lead.",
+        "\"What you're seeing in markets now is a bit of a rotation into other advanced chip design companies, on the assumption that this will enable other companies effectively to catch up,\" said Mark Franklin, head of multi-asset solutions for Asia at Manulife Investment Management."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "inflation",
-        "bond",
-        "treasury"
-      ]
-    },
-    {
-      "source": "CNBC Top News",
-      "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-      "title_zh": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-      "link": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-      "published_at": "2026-11-11T19:54:27+0000",
-      "category": "宏观经济",
-      "risk_level": "低",
-      "keywords": [
-        "gdp",
-        "inflation",
-        "earnings",
-        "Social",
-        "Security"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Social Security's taxable payroll, which provides most of the revenue for the program that pays monthly benefits to millions of Americans, has fallen as a share of gross domestic product over the past four decades, according to a new report from the AARP Public Policy Institute.；Had payroll tax revenue kept up with GDP, the program could pay full benefits until 2059, according to the research — an additional 25 years beyond the latest projected depletion date of 2034 for the program's combined funds.；The AARP Public Policy Institute provides policy research, analysis and development at AARP, a nonprofit, nonpartisan organization that represents Americans ages 50 and over.",
-      "important_points": [
-        "Social Security's taxable payroll, which provides most of the revenue for the program that pays monthly benefits to millions of Americans, has fallen as a share of gross domestic product over the past four decades, according to a new report from the AARP Public Policy Institute.",
-        "Had payroll tax revenue kept up with GDP, the program could pay full benefits until 2059, according to the research — an additional 25 years beyond the latest projected depletion date of 2034 for the program's combined funds.",
-        "The AARP Public Policy Institute provides policy research, analysis and development at AARP, a nonprofit, nonpartisan organization that represents Americans ages 50 and over."
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "gdp",
-        "inflation",
         "earnings"
       ]
     },
     {
       "source": "CNBC Finance",
-      "title": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "title_zh": "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes",
-      "link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html",
-      "published_at": "2026-11-11T13:16:31+0000",
-      "category": "宏观经济",
+      "title": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "title_zh": "How the Jensen Huang affair changes the outlook for U.S.-China relations",
+      "link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/13/jensen-huang-nvidia-us-china-relations.html",
+      "published_at": "2026-11-13T01:48:50+0000",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "How",
+        "the",
+        "Jensen",
+        "Huang",
+        "affair"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：BEIJING — Prolonged U.S.；Congressional scrutiny of former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy raises the stakes for already tense relations between the world's two largest economies.；Nvidia's Huang resigned Thursday, and agreed to testify before Congress sometime before Thanksgiving on Nov.",
+      "important_points": [
+        "BEIJING — Prolonged U.S.",
+        "Congressional scrutiny of former Nvidia CEO Jensen Huang's affair with an alleged Chinese spy raises the stakes for already tense relations between the world's two largest economies.",
+        "Nvidia's Huang resigned Thursday, and agreed to testify before Congress sometime before Thanksgiving on Nov."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+      "title_zh": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces",
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-exit-cramer.html",
+      "published_at": "2026-11-12T23:14:56+0000",
+      "category": "公司财报与IPO",
       "risk_level": "中",
       "keywords": [
-        "fed",
-        "federal reserve",
-        "inflation",
-        "central bank",
-        "interest rate"
+        "earnings",
+        "Cramer",
+        "says",
+        "Jensen",
+        "Huang"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Chicago Federal Reserve President Austan Goolsbee called the latest inflation data \"borderline disturbing.\" \"It's another distressing report — borderline disturbing,\" Goolsbee said in an interview with \"PBS NewsHour\" on Tuesday.；\"We've got a real inflation issue on our hands that has been developing,\" Goolsbee said.；\"We're going to have to deal with that.\" The consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday morning release.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：CNBC's Jim Cramer criticized former Nvidia CEO Jensen Huang on Thursday for putting the chipmaker's future at risk.；\"Did he betray you, the shareholders?\" Cramer asked.；\"Yes.",
       "important_points": [
-        "Chicago Federal Reserve President Austan Goolsbee called the latest inflation data \"borderline disturbing.\" \"It's another distressing report — borderline disturbing,\" Goolsbee said in an interview with \"PBS NewsHour\" on Tuesday.",
-        "\"We've got a real inflation issue on our hands that has been developing,\" Goolsbee said.",
-        "\"We're going to have to deal with that.\" The consumer price index rose 0.4% on a seasonally adjusted basis in October, according to the Bureau of Labor Statistics' Tuesday morning release."
+        "CNBC's Jim Cramer criticized former Nvidia CEO Jensen Huang on Thursday for putting the chipmaker's future at risk.",
+        "\"Did he betray you, the shareholders?\" Cramer asked.",
+        "\"Yes."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "fed",
-        "federal reserve",
-        "inflation",
-        "central bank",
-        "interest rate",
-        "rate hike",
-        "cpi"
+        "earnings"
       ]
     },
     {
-      "source": "CNBC Economy",
-      "title": "Mortgage rates jump sharply higher, after easing for four straight weeks. Here's why",
-      "title_zh": "Mortgage rates jump sharply higher, after easing for four straight weeks. Here's why",
-      "link": "https://www.cnbc.com/2026/11/11/mortgage-rates-jump-sharply-higher-after-easing-for-4-straight-weeks.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/11/mortgage-rates-jump-sharply-higher-after-easing-for-4-straight-weeks.html",
-      "published_at": "2026-11-11T12:38:32+0000",
-      "category": "楼市与房地产",
+      "source": "MarketWatch",
+      "title": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+      "title_zh": "Who can replace Jensen Huang as Nvidia CEO? These four names are buzzing in AI circles.",
+      "link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/who-can-replace-jensen-huang-as-nvidia-ceo-these-four-names-are-buzzing-in-ai-circles-66c31ec2?mod=mw_rss_topstories",
+      "published_at": "2026-11-12T22:57:00+00:00",
+      "category": "科技与创新",
       "risk_level": "低",
       "keywords": [
-        "inflation",
-        "fed",
-        "Mortgage",
-        "rates",
-        "jump"
+        "Who",
+        "can",
+        "replace",
+        "Jensen",
+        "Huang"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Mortgage rates fell for four straight weeks, but that ended Tuesday, after a monthly inflation report came in hotter than expected.；The average rate on the 30-year fixed mortgage rose 12 basis points from Monday to 7.30%, according to Mortgage News Daily.；It was the largest one-day jump in more than a month.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy",
       "important_points": [
-        "Mortgage rates fell for four straight weeks, but that ended Tuesday, after a monthly inflation report came in hotter than expected.",
-        "The average rate on the 30-year fixed mortgage rose 12 basis points from Monday to 7.30%, according to Mortgage News Daily.",
-        "It was the largest one-day jump in more than a month."
+        "As Nvidia’s board seeks a new CEO, experts say that person will need a rare balance of tech vision and business savvy"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "MarketWatch",
+      "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "title_zh": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+      "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+      "published_at": "2026-11-12T22:16:00+00:00",
+      "category": "债市",
+      "risk_level": "低",
+      "keywords": [
+        "fed",
+        "bond",
+        "Bond",
+        "yields",
+        "just"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets.",
+      "important_points": [
+        "Fed Chair Warsh’s quiet style of communicating interest-rate policy has led to more volatile markets."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "inflation",
-        "fed"
+        "fed",
+        "bond"
       ]
     },
     {
       "source": "CNBC Top News",
-      "title": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-      "title_zh": "Zelenskyy warns Ukraine is 'not real estate' as experts say a Russia peace deal remains elusive",
-      "link": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
-      "canonical_link": "https://www.cnbc.com/2026/11/11/ukraine-russia-peace-talks-zelenskyy-putin.html",
-      "published_at": "2026-11-11T12:12:48+0000",
-      "category": "楼市与房地产",
+      "title": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "title_zh": "Cisco beats on earnings, says AI infrastructure revenue will double this fiscal year",
+      "link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/cisco-csco-q1-2027-earnings.html",
+      "published_at": "2026-11-12T21:11:15+0000",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "earnings",
+        "nasdaq",
+        "Cisco",
+        "beats",
+        "says"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Cisco shares rose in extended trading on Thursday after the maker of networking gear reported better-than-expected fiscal first-quarter results.；Here's how the company did compared to LSEG consensus estimates: - EPS: $1.40 adjusted vs.；$1.33 expected - Revenue: $18.5 billion vs.",
+      "important_points": [
+        "Cisco shares rose in extended trading on Thursday after the maker of networking gear reported better-than-expected fiscal first-quarter results.",
+        "Here's how the company did compared to LSEG consensus estimates: - EPS: $1.40 adjusted vs.",
+        "$1.33 expected - Revenue: $18.5 billion vs."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings",
+        "nasdaq"
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+      "title_zh": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
+      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
+      "published_at": "2026-11-12T21:08:00+00:00",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "s&p 500",
+        "The",
+        "500",
+        "shrugging",
+        "off"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
+      "important_points": [
+        "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "s&p 500"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "title_zh": "Cerebras surges 17% after beating on quarterly revenue and announcing Microsoft deal",
+      "link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
+      "published_at": "2026-11-12T21:07:22+0000",
+      "category": "股市",
+      "risk_level": "低",
+      "keywords": [
+        "nasdaq",
+        "earnings",
+        "Cerebras",
+        "surges",
+        "after"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Cerebras Systems reported better-than-expected results and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft.；The stock soared 17% in extended trading.；Here's how the company performed relative to LSEG consensus: - Earnings per share: 12 cents adjusted vs.",
+      "important_points": [
+        "Cerebras Systems reported better-than-expected results and quarterly guidance in its earnings report on Thursday, and touted a new deal with Microsoft.",
+        "The stock soared 17% in extended trading.",
+        "Here's how the company performed relative to LSEG consensus: - Earnings per share: 12 cents adjusted vs."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "nasdaq",
+        "earnings"
+      ]
+    },
+    {
+      "source": "MarketWatch",
+      "title": "The bond market now has an even bigger fear than AI fallout",
+      "title_zh": "The bond market now has an even bigger fear than AI fallout",
+      "link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "canonical_link": "https://www.marketwatch.com/story/the-bond-market-now-has-an-even-bigger-fear-than-the-ai-fallout-b6401b54?mod=mw_rss_topstories",
+      "published_at": "2026-11-12T20:44:00+00:00",
+      "category": "债市",
+      "risk_level": "低",
+      "keywords": [
+        "fed",
+        "bond",
+        "The",
+        "market",
+        "now"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher",
+      "important_points": [
+        "Carnage in tech stocks made Treasurys look more attractive in recent weeks, but fears of more Fed rate hikes are now driving yields higher"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "fed",
+        "bond"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+      "title_zh": "Alice Huang tied to Nvidia’s biggest Chinese competitor",
+      "link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/alice-huang-jensen-huang-nvidia-huawei.html",
+      "published_at": "2026-11-12T20:10:49+0000",
+      "category": "综合资讯",
+      "risk_level": "低",
+      "keywords": [
+        "Alice",
+        "Huang",
+        "tied",
+        "Nvidia",
+        "biggest"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Alleged Chinese spy Alice Huang may have owned stakes in businesses in China that benefited Nvidia's biggest competitor in China, Huawei, at the same time that she was in business with Nvidia and also reportedly having a romantic affair with its ousted CEO Jensen Huang.；The connection between Alice Huang and Huawei was first discovered by analysts at private intelligence firm Tesari.；The firm exclusively shared its findings with CNBC.",
+      "important_points": [
+        "Alleged Chinese spy Alice Huang may have owned stakes in businesses in China that benefited Nvidia's biggest competitor in China, Huawei, at the same time that she was in business with Nvidia and also reportedly having a romantic affair with its ousted CEO Jensen Huang.",
+        "The connection between Alice Huang and Huawei was first discovered by analysts at private intelligence firm Tesari.",
+        "The firm exclusively shared its findings with CNBC."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "title_zh": "Nvidia: Ex-prosecutor Joon Kim and Wachtell, Lipton bring big track record to investigation",
+      "link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-joon-kim-wachtell-china-spy.html",
+      "published_at": "2026-11-12T19:58:11+0000",
+      "category": "科技与创新",
+      "risk_level": "中",
+      "keywords": [
+        "Nvidia",
+        "Ex-prosecutor",
+        "Joon",
+        "Kim",
+        "and"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Joon Kim, the lawyer tapped by artificial intelligence chip giant Nvidia to investigate former CEO Jensen Huang, and the Big Law firm he works for have a long history of investigating high-profile cases.；Kim, in his career as a top federal prosecutor and as an attorney in private practice, has had in his sights mobster John \"The Teflon Don\" Gotti's son, former New York Gov.；Andrew Cuomo, the Federal Deposit Insurance Corp.",
+      "important_points": [
+        "Joon Kim, the lawyer tapped by artificial intelligence chip giant Nvidia to investigate former CEO Jensen Huang, and the Big Law firm he works for have a long history of investigating high-profile cases.",
+        "Kim, in his career as a top federal prosecutor and as an attorney in private practice, has had in his sights mobster John \"The Teflon Don\" Gotti's son, former New York Gov.",
+        "Andrew Cuomo, the Federal Deposit Insurance Corp."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "title_zh": "In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates",
+      "link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
+      "published_at": "2026-11-12T17:48:43+0000",
+      "category": "央行与货币政策",
+      "risk_level": "中",
+      "keywords": [
+        "fed",
+        "federal reserve",
+        "central bank",
+        "monetary policy",
+        "policy"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.；According to an announcement Thursday, the rate-setting Federal Open Market Committee will set aside its Oct.；26-27 session for \"the discussion of broad monetary policy strategy issues.\" Warsh announced the move at his news conference after the FOMC met in October, though he did not specify which meeting would be affected.",
+      "important_points": [
+        "The Federal Reserve won't vote on a potential interest-rate change at its October 2027 meeting, a departure that is part of a broader initiative from Chairman Kevin Warsh aimed at reducing the central bank's market footprint.",
+        "According to an announcement Thursday, the rate-setting Federal Open Market Committee will set aside its Oct.",
+        "26-27 session for \"the discussion of broad monetary policy strategy issues.\" Warsh announced the move at his news conference after the FOMC met in October, though he did not specify which meeting would be affected."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "fed",
+        "federal reserve",
+        "central bank",
+        "monetary policy"
+      ]
+    },
+    {
+      "source": "CNBC Economy",
+      "title": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+      "title_zh": "Bain Capital’s head of real estate uses this strategy to counter the economy’s ‘cocktail of disruption'",
+      "link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/bain-capitals-head-of-real-estate-on-the-cocktail-of-disruption.html",
+      "published_at": "2026-11-12T15:00:48+0000",
+      "category": "股市",
       "risk_level": "中",
       "keywords": [
         "real estate",
-        "Zelenskyy",
-        "warns",
-        "Ukraine",
-        "not"
+        "stock market",
+        "housing",
+        "Bain",
+        "Capital"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：Ukrainian President Volodymyr Zelenskyy warned that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks wrapped up.；Speaking to reporters in Denmark late Tuesday, Zelenskyy said he was \"happy\" with what he was hearing from the peace talks in Abu Dhabi between Russian and Ukrainian representatives, but said he had been clear with U.S.；envoys Steve Witkoff and Jared Kushner that \"this is a country of our nation, it is not real estate.\" His comments come amid discussions on the future borders of Ukraine and post-war security guarantees, issues where the countries remain far apart.",
+      "summary": "未调用大模型，以下为原文关键信息摘录：A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick.；Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies.；Sign up to receive future editions, straight to your inbox.",
       "important_points": [
-        "Ukrainian President Volodymyr Zelenskyy warned that his country \"was not real estate,\" as a second and final day of U.S.-brokered peace talks wrapped up.",
-        "Speaking to reporters in Denmark late Tuesday, Zelenskyy said he was \"happy\" with what he was hearing from the peace talks in Abu Dhabi between Russian and Ukrainian representatives, but said he had been clear with U.S.",
-        "envoys Steve Witkoff and Jared Kushner that \"this is a country of our nation, it is not real estate.\" His comments come amid discussions on the future borders of Ukraine and post-war security guarantees, issues where the countries remain far apart."
+        "A version of this article first appeared in the CNBC Property Play newsletter with Diana Olick.",
+        "Property Play covers new and evolving opportunities for the real estate investor, from individuals to venture capitalists, private equity funds, family offices, institutional investors and large public companies.",
+        "Sign up to receive future editions, straight to your inbox."
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "real estate"
+        "real estate",
+        "stock market",
+        "housing"
+      ]
+    },
+    {
+      "source": "CNBC Finance",
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "title_zh": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "published_at": "2026-11-12T13:24:25+0000",
+      "category": "综合资讯",
+      "risk_level": "中",
+      "keywords": [
+        "Oil",
+        "prices",
+        "rise",
+        "after",
+        "Trump"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：U.S.；oil prices rose Thursday, as comments from President Donald Trump stoked worries that an end to the U.S.-Iran war was not in sight.；Brent crude settled 3.3% higher at $95.82 per barrel.",
+      "important_points": [
+        "U.S.",
+        "oil prices rose Thursday, as comments from President Donald Trump stoked worries that an end to the U.S.-Iran war was not in sight.",
+        "Brent crude settled 3.3% higher at $95.82 per barrel."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": []
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+      "title_zh": "Nebius falls 16% as company expects increased 2026 capex spend, issues weak outlook",
+      "link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html",
+      "published_at": "2026-11-12T12:30:14+0000",
+      "category": "股市",
+      "risk_level": "中",
+      "keywords": [
+        "earnings",
+        "bond",
+        "Nebius",
+        "falls",
+        "company"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Nebius shares sank 16% on Thursday as one of the biggest publicly traded neoclouds issued disappointing full-year revenue guidance.；Here's how the company performed relative to LSEG consensus: - Earnings per share: 31 cents adjusted vs.；loss of 69 cents per share expected - Revenue: $980.8 million vs.",
+      "important_points": [
+        "Nebius shares sank 16% on Thursday as one of the biggest publicly traded neoclouds issued disappointing full-year revenue guidance.",
+        "Here's how the company performed relative to LSEG consensus: - Earnings per share: 31 cents adjusted vs.",
+        "loss of 69 cents per share expected - Revenue: $980.8 million vs."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "earnings",
+        "bond"
+      ]
+    },
+    {
+      "source": "CNBC Top News",
+      "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "title_zh": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+      "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "canonical_link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+      "published_at": "2026-11-11T18:09:50+0000",
+      "category": "债市",
+      "risk_level": "高",
+      "keywords": [
+        "central bank",
+        "fed",
+        "federal reserve",
+        "bond",
+        "earnings"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：Nvidia CEO Jensen Huang's shock resignation is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?；Serious problems with Nvidia could do far-reaching economic and financial damage.；The company has made hundreds of billions of dollars in financial commitments to other firms to help the industry grow, earning it the nickname the \"central bank of AI.\" The Federal Reserve and other financial institutions are closely watching the AI buildout to monitor for the possibility that an unexpected event could destabilize the global financial system.",
+      "important_points": [
+        "Nvidia CEO Jensen Huang's shock resignation is raising a worrying question: Could trouble at the chipmaker spread through the tightly connected financial network Nvidia has built to support the artificial intelligence boom?",
+        "Serious problems with Nvidia could do far-reaching economic and financial damage.",
+        "The company has made hundreds of billions of dollars in financial commitments to other firms to help the industry grow, earning it the nickname the \"central bank of AI.\" The Federal Reserve and other financial institutions are closely watching the AI buildout to monitor for the possibility that an unexpected event could destabilize the global financial system."
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "central bank",
+        "fed",
+        "federal reserve",
+        "bond",
+        "earnings"
       ]
     },
     {
       "source": "第一财经",
-      "title": "钱去哪了？央行拆解存款结构：非银存款抬升，居民企业资金偏好定期",
-      "title_zh": "钱去哪了？央行拆解存款结构：非银存款抬升，居民企业资金偏好定期",
-      "link": "https://www.yicai.com/news/103437090.html",
-      "canonical_link": "https://www.yicai.com/news/103437090.html",
+      "title": "聚焦“双11”｜迪士尼门票0.1元、大平层降价逾300万：噱头还是以价换量",
+      "title_zh": "聚焦“双11”｜迪士尼门票0.1元、大平层降价逾300万：噱头还是以价换量",
+      "link": "https://www.yicai.com/news/103436985.html",
+      "canonical_link": "https://www.yicai.com/news/103436985.html",
       "published_at": "2026-11-11",
-      "category": "央行与货币政策",
+      "category": "楼市与房地产",
+      "risk_level": "中",
+      "keywords": [
+        "房地产",
+        "0.1",
+        "300",
+        "第一财经"
+      ],
+      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 又到一年“双11”，各大消费领域开始各类促销，航旅企业通过高频次、碎片化促销推出低价票以吸引客流；白酒行业则相对低调，告别“全网最低”的无序竞争，回归常态；房地产市场则在年底冲业绩压力下出现大平层房源超过300万元降价的“以价换量”现象。；国际航班票价低至70元、迪士尼门票0.1元 “双11”促销季到来，结合即将到来的元旦和春节等旺季商机，各大航空和旅游企业启动营销，部分国际航线裸票价低至百元以内，第一财经记者梳理发现，叠加优惠券后，最低70元即可搭乘国际航班。；部分OTA平台显示，今年“双11”春秋航空推出多条国际往返航线特惠机票，裸票价100元起，预订时间为即日起至11月12日，适用出行日期覆盖即日起至2027年3月31日。其中，11月24日曼谷飞上海的航班，特价裸票价为100元，叠加“双11”期间发放的30元出境机票优惠券后，实际裸票价仅需70元。需要注意的是，上述价格不含税费，实际支付金额还需加上相应税费及其他费用。",
+      "important_points": [
+        "{{aisd}} AI生成 免责声明 又到一年“双11”，各大消费领域开始各类促销，航旅企业通过高频次、碎片化促销推出低价票以吸引客流；白酒行业则相对低调，告别“全网最低”的无序竞争，回归常态；房地产市场则在年底冲业绩压力下出现大平层房源超过300万元降价的“以价换量”现象。",
+        "国际航班票价低至70元、迪士尼门票0.1元 “双11”促销季到来，结合即将到来的元旦和春节等旺季商机，各大航空和旅游企业启动营销，部分国际航线裸票价低至百元以内，第一财经记者梳理发现，叠加优惠券后，最低70元即可搭乘国际航班。",
+        "部分OTA平台显示，今年“双11”春秋航空推出多条国际往返航线特惠机票，裸票价100元起，预订时间为即日起至11月12日，适用出行日期覆盖即日起至2027年3月31日。其中，11月24日曼谷飞上海的航班，特价裸票价为100元，叠加“双11”期间发放的30元出境机票优惠券后，实际裸票价仅需70元。需要注意的是，上述价格不含税费，实际支付金额还需加上相应税费及其他费用。"
+      ],
+      "used_fallback": true,
+      "matched_focus_keywords": [
+        "房地产"
+      ]
+    },
+    {
+      "source": "第一财经",
+      "title": "英伟达跌超4%，AMD、博通上涨；美股三大指数收跌，油价反弹、黄金跌破3900美元",
+      "title_zh": "英伟达跌超4%，AMD、博通上涨；美股三大指数收跌，油价反弹、黄金跌破3900美元",
+      "link": "https://www.yicai.com/news/103439035.html",
+      "canonical_link": "https://www.yicai.com/news/103439035.html",
+      "published_at": "2026-11-01",
+      "category": "股市",
       "risk_level": "低",
       "keywords": [
-        "央行",
-        "第一财经"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 存款结构的变化，是观察国民经济循环、资金去向的重要窗口。市场非常关注“钱去哪了”。；11月11日，中国人民银行发布三季度货币政策执行报告，以专栏剖析存款结构变化。；报告指出，存款结构受经济结构、金融结构、经济周期等多重因素影响，近年主要呈现三大特点：一是包含企业存款、机关团体存款、非银行业金融机构存款、财政存款在内的对公存款占比相对较高；二是非银行业金融机构存款增长较快、占比明显抬升；三是居民和企业存款呈现一定程度定期化的特征。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 存款结构的变化，是观察国民经济循环、资金去向的重要窗口。市场非常关注“钱去哪了”。",
-        "11月11日，中国人民银行发布三季度货币政策执行报告，以专栏剖析存款结构变化。",
-        "报告指出，存款结构受经济结构、金融结构、经济周期等多重因素影响，近年主要呈现三大特点：一是包含企业存款、机关团体存款、非银行业金融机构存款、财政存款在内的对公存款占比相对较高；二是非银行业金融机构存款增长较快、占比明显抬升；三是居民和企业存款呈现一定程度定期化的特征。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "央行"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "英伟达市值两日蒸发掉一个甲骨文，财报发布前机构态度分化",
-      "title_zh": "英伟达市值两日蒸发掉一个甲骨文，财报发布前机构态度分化",
-      "link": "https://www.yicai.com/news/103436600.html",
-      "canonical_link": "https://www.yicai.com/news/103436600.html",
-      "published_at": "2026-11-11",
-      "category": "公司财报与IPO",
-      "risk_level": "中",
-      "keywords": [
+        "黄金",
+        "原油",
         "财报",
-        "衰退",
-        "第一财经"
+        "AMD",
+        "3900"
       ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 11月11日盘前，英伟达（NVDA.O）涨超5%，但其市值已在此前两日跌去超4200亿美元，蒸发的市值超过甲骨文（ORCL.N）市值3669亿美元。11月10日英伟达收盘4.07万亿美元市值，逼近4万亿美元关口，与全球市值第一苹果（AAPL.O）拉开差距。；作为AI基础设施领域的领头人，近期英伟达的光环有所黯淡。对创始人兼CEO黄仁勋私人关系相关的指控是扰动市场的关键因素，而随着当地时间11月17日英伟达最新季度财报披露日的临近，业绩表现与公司管理层面可能的变更，同时成为市场考量英伟达的重要层面。；综合目前机构的预测和目标价调整，机构对英伟达的态度颇为割裂。一方面是已经变便宜的股价，一方面是公司经营的潜在不确定性，市场情绪在英伟达财报发布前似乎陷入了纠结。",
+      "summary": "未调用大模型，以下为原文关键信息摘录：当地时间周四（12日），美股三大股指震荡收低。英伟达宣布创始人黄仁勋离任，引发市场对公司领导层交接及人工智能（AI）业务前景的担忧。公司股价早盘急挫后明显回升，但油价反弹、美债收益率上行，继续制约市场风险偏好。；截至收盘，道指跌189.40点，跌幅0.36%，报52297.09点；纳指跌100.10点，跌幅0.39%，报25366.09点；标普500指数跌26.98点，跌幅0.35%，报7592.40点。小盘股表现相对疲弱，罗素2000指数跌1.66%。；【热门股表现】 英伟达收跌4.34%，其管理层变动成为焦点。公司周四宣布，黄仁勋（Jensen Huang）辞去总裁、首席执行官及董事职务。根据提交的8-K文件，董事会已于11日接受辞呈，即时生效。",
       "important_points": [
-        "{{aisd}} AI生成 免责声明 11月11日盘前，英伟达（NVDA.O）涨超5%，但其市值已在此前两日跌去超4200亿美元，蒸发的市值超过甲骨文（ORCL.N）市值3669亿美元。11月10日英伟达收盘4.07万亿美元市值，逼近4万亿美元关口，与全球市值第一苹果（AAPL.O）拉开差距。",
-        "作为AI基础设施领域的领头人，近期英伟达的光环有所黯淡。对创始人兼CEO黄仁勋私人关系相关的指控是扰动市场的关键因素，而随着当地时间11月17日英伟达最新季度财报披露日的临近，业绩表现与公司管理层面可能的变更，同时成为市场考量英伟达的重要层面。",
-        "综合目前机构的预测和目标价调整，机构对英伟达的态度颇为割裂。一方面是已经变便宜的股价，一方面是公司经营的潜在不确定性，市场情绪在英伟达财报发布前似乎陷入了纠结。"
+        "当地时间周四（12日），美股三大股指震荡收低。英伟达宣布创始人黄仁勋离任，引发市场对公司领导层交接及人工智能（AI）业务前景的担忧。公司股价早盘急挫后明显回升，但油价反弹、美债收益率上行，继续制约市场风险偏好。",
+        "截至收盘，道指跌189.40点，跌幅0.36%，报52297.09点；纳指跌100.10点，跌幅0.39%，报25366.09点；标普500指数跌26.98点，跌幅0.35%，报7592.40点。小盘股表现相对疲弱，罗素2000指数跌1.66%。",
+        "【热门股表现】 英伟达收跌4.34%，其管理层变动成为焦点。公司周四宣布，黄仁勋（Jensen Huang）辞去总裁、首席执行官及董事职务。根据提交的8-K文件，董事会已于11日接受辞呈，即时生效。"
       ],
       "used_fallback": true,
       "matched_focus_keywords": [
-        "财报",
-        "衰退"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "央行系统性比较近十年国际利率水平，中国贷款利率已相对较低",
-      "title_zh": "央行系统性比较近十年国际利率水平，中国贷款利率已相对较低",
-      "link": "https://www.yicai.com/news/103437112.html",
-      "canonical_link": "https://www.yicai.com/news/103437112.html",
-      "published_at": "2026-11-11",
-      "category": "债市",
-      "risk_level": "中",
-      "keywords": [
-        "央行",
-        "国债",
-        "第一财经"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 经济生活中有多种不同的利率，共同构成有机的利率体系。国际间利率水平的概念相对复杂和模糊，比较口径不一，容易引起混淆。；11月11日，央行发布2026年第三季度货币政策执行报告，以专栏形式介绍了不同利率品种的基本情况和总体利率水平，并对国际利率水平进行了系统性比较。；专栏对我国和主要发达经济体近十年的利率基本情况进行了系统性比较，包括政策、隔夜、存款、贷款、房贷、国债和企业信用债等利率情况。总体上存款利率低一些，贷款利率、信用债收益率高一些，货币市场利率、国债收益率居中。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 经济生活中有多种不同的利率，共同构成有机的利率体系。国际间利率水平的概念相对复杂和模糊，比较口径不一，容易引起混淆。",
-        "11月11日，央行发布2026年第三季度货币政策执行报告，以专栏形式介绍了不同利率品种的基本情况和总体利率水平，并对国际利率水平进行了系统性比较。",
-        "专栏对我国和主要发达经济体近十年的利率基本情况进行了系统性比较，包括政策、隔夜、存款、贷款、房贷、国债和企业信用债等利率情况。总体上存款利率低一些，贷款利率、信用债收益率高一些，货币市场利率、国债收益率居中。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "央行",
-        "国债"
-      ]
-    },
-    {
-      "source": "第一财经",
-      "title": "不等2万亿了，Anthropic估值缩水冲刺IPO",
-      "title_zh": "不等2万亿了，Anthropic估值缩水冲刺IPO",
-      "link": "https://www.yicai.com/news/103436282.html",
-      "canonical_link": "https://www.yicai.com/news/103436282.html",
-      "published_at": "2026-11-11",
-      "category": "公司财报与IPO",
-      "risk_level": "中",
-      "keywords": [
-        "ipo",
-        "Anthropic",
-        "IPO",
-        "第一财经"
-      ],
-      "summary": "未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 Anthropic正在把过去几年AI产业最核心的一场资本竞赛，带进公开市场。；当地时间11月10日，Anthropic启动IPO路演，拟发行8.25亿股，价格区间为每股70至78美元，最高募资约644亿美元。；同时，公司还计划通过向包括谷歌、英伟达、AMD在内的基石投资者进行私募配售，融资约260亿美元。",
-      "important_points": [
-        "{{aisd}} AI生成 免责声明 Anthropic正在把过去几年AI产业最核心的一场资本竞赛，带进公开市场。",
-        "当地时间11月10日，Anthropic启动IPO路演，拟发行8.25亿股，价格区间为每股70至78美元，最高募资约644亿美元。",
-        "同时，公司还计划通过向包括谷歌、英伟达、AMD在内的基石投资者进行私募配售，融资约260亿美元。"
-      ],
-      "used_fallback": true,
-      "matched_focus_keywords": [
-        "ipo"
+        "黄金",
+        "原油",
+        "财报"
       ]
     }
   ]
