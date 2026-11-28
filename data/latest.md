@@ -1,937 +1,935 @@
-# Daily Financial News | 2026-11-27
+# Daily Financial News | 2026-11-28
 
-- 生成时间: 2026-11-27T16:19:19+08:00
+- 生成时间: 2026-11-28T15:40:42+08:00
 - 文章数量: 50
 - 大模型摘要: 0
 - 回退摘要: 50
 
 ## 分类清单
 
-### 综合资讯 / General News（18）
-- Ascendis Pharma: Priced For Yorvipath
-- The Warehouse Group Limited (WHGPF) Shareholder/Analyst Call Transcript
-- Fenix Resources Limited (FEXRF) Shareholder/Analyst Call Transcript
-- Diamond Hill Long-Short Strategy Q3 2026 Commentary
-- NC Commission Issues Orders Authorizing Duke $1B Rate Increase Over 2 Years
-- Lazard Global Listed Infrastructure Portfolio Q3 2026 Commentary
-- Schneider Electric: The Grid Side Of Power Is Strong - Buy
-- John Hancock 2065 Lifetime Blend Portfolio Q3 2026 Commentary
-- Deckers: Solid Fundamentals, Single-Digit Growth Still Offers An Opportunity
-- From Cuts To Hikes: How 2026 Rewrote Bitcoin's Macro Outlook
-- Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%
-- Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’
-- I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?
-- I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?
-- We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance
-- I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?
-- A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?
-- Microdrama apps chase profits as Hollywood moves into short-form, vertical video
+### 综合资讯 / General News（17）
+- SGA Global Growth Portfolio Q3 2026 Commentary
+- Silvercrest Asset Management: 8% Yield Provides Share Price Support
+- The State Of REITs: November 2026 Edition
+- WeRide: Q3 Proves The International Robotaxi Inflection While The Market Prices It For Distress (Strong Buy)
+- ClearBridge International Growth ADR Portfolios Q3 2026 Commentary
+- Politics And The Markets 11/28/26
+- Meta Platforms: Looking Beyond Capex, At Efficiency Gains For 2027 (Upgrade)
+- BCV: Good For Diversification, But Still Impacted By Tech Worries
+- Quadrise Plc (QDRSF) Shareholder/Analyst Call Transcript
+- Julius Baer: Out Of The Penalty Box And Flush With Capital (Upgrade)
+- I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?
+- Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?
+- Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest
+- 12 days of sardines and Croc charms: Are Advent calendars getting out of control?
+- 'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it
+- My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?
+- Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding
 
-### 股市 / Stock Markets（10）
-- REalloys: A $270 Million Rare Earth Opportunity With Significant Execution Risks
-- Upbound Group: Still Cheap, But With Less Room For Error
-- Allspring Special Mid Cap Value Fund Q3 2026 Performance And Attribution
-- PG&E Remains An Exciting Utility Opportunity
-- BlackRock Strategic Global Bond Fund Q3 2026 Commentary
-- AI Stock Swings: Has The Investment Story Changed?
-- Buy Ares Capital: A Long History Of Superior Performance And History Likely To Repeat
-- Is the stock market open on Black Friday?
-- SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations
-- Sovereign wealth funds are acting more like private equity giants — and inheriting their risks
+### 股市 / Stock Markets（13）
+- Janus Henderson Global Life Sciences Fund Q3 2026 Commentary
+- Columbia Dividend Income Fund Q3 2026 Commentary
+- BlackRock Advantage Large Cap Value Fund Q3 2026 Commentary
+- Rollins: AI Disruption And Margin Pressure Haven
+- MKS: An AI Manufacturing Winner At A Price That Still Makes Sense
+- Fairfax Financial: Strong Insurance Earnings, But $7.9 Billion In Potential Acquisitions Adds Risk
+- Africa’s richest man is taking his mega-refinery public in a blockbuster IPO
+- The Roadmap Ahead
+- These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia
+- Jensen Huang's return did little to ease AI jitters. We used the weakness to buy
+- The warnings behind this week’s stock-market rally
+- The S&P 500 is in a correction. Bear markets and recessions don't always follow
+- 全球股市情绪改善金银大涨 市场认为黄金进入超卖区域
 
-### 公司财报与IPO / Earnings & IPO（5）
-- Amkor Technology: Compute Mix Shift Could Drive The Next Leg Higher
-- ASE Technology: Back In The Buy Zone (Rating Upgrade)
-- Silicon Motion: Terrific Metrics, Uncertain Price Action
-- Bachem Holding AG (BCHMY) Analyst/Investor Day - Slideshow
-- Gaotu Techedu: Unfavorable Revenue Prospects Offset Q3 Profitability Turnaround
+### 宏观经济 / Macroeconomics（6）
+- Saudi Arabia shifts Vision 2030 spending amid economic and security pressure
+- U.S. Government Interest Payments On Debt, Interest Rates, Tax Receipts, Deficits, Debt-To-GDP In Q3 2026
+- Energy Prices Cooled But Core Inflation Stayed Hot
+- EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts
+- It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs
+- Inflation has shoppers hunting for value. That bodes well for Black Friday
 
 ### 基金与理财 / Funds & Wealth Management（4）
-- Private markets are more accessible than ever for investors. Getting out is another matter
-- Allspring Special Mid Cap Value Fund Q3 2026 Commentary
-- Franklin Small Cap Value Fund Q3 2026 Commentary
-- Franklin Utilities Fund Q3 2026 Commentary
-
-### 宏观经济 / Macroeconomics（4）
-- Franklin Mutual Global Discovery Fund Q3 2026 Commentary
-- 美国三季度GDP上修遭特朗普炮轰：是人为失误，还是统计局限？
-- Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher
-- Spain’s Pablo Hernández de Cos set to lead European Central Bank
+- The Gabelli Global Mini Mites Fund Q3 2026 Commentary
+- Invesco Discovery Mid Cap Growth Fund Q3 2026 Commentary
+- Hartford Municipal Opportunities ETF Q3 2026 Commentary
+- TIP: Simple, Effective TIPs ETF, But Better Choices Out There
 
 ### 大宗商品 / Commodities（3）
-- China’s factories are growing profits again, but the AI boom is picking the winners
-- 现货黄金大涨3%
-- Semiconductor chips are the new oil. Here's why
-
-### 债市 / Bond Markets（2）
-- TCW MetWest Ultra Short Bond Fund Q3 2026 Commentary
-- Invesco Core Plus Bond Fund Q3 2026 Commentary
+- Vital Farms: A Premium Brand Priced As A Commodity
+- Latin America has the copper and energy the AI build-out needs. Infrastructure is the test
+- 利率重估下，黄金的呈现叙事改变了吗？ | 一财号每周思想荟(第31期）
 
 ### 科技与创新 / Technology & Innovation（2）
-- Virtus Emerging Markets Opportunities Fund Q3 2026 Commentary
-- Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push
+- SKYY: Sell-Off Overlooks AI
+- Why Canadian Stocks Could Benefit As Investors Look Beyond AI
+
+### 能源与资源 / Energy & Resources（2）
+- Gran Tierra: The Risks Of A New Business
+- Short-Term Energy Outlook, November 2026
+
+### 债市 / Bond Markets（1）
+- Fidelity Limited Term Bond ETF Q3 2026 Commentary
+
+### 公司财报与IPO / Earnings & IPO（1）
+- Adobe: The AI Threat Is Real, But So Is The Bargain
 
 ### 国际财经 / International Finance（1）
-- 特朗普政府再挥舞301关税大棒，欧盟高官驳斥“荒谬”，亚洲贸易伙伴纷纷反驳回击
-
-### 央行与货币政策 / Central Bank & Monetary Policy（1）
-- Rates Spark: Rates Resist Bearish Pressure As France Faces Rating Risk
+- 加拿大首份林业战略将美国关税列为关键挑战
 
 
 ## 详细内容
 
-## 1. Amkor Technology: Compute Mix Shift Could Drive The Next Leg Higher
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T08:15:08.000Z
-- 风险等级: 低
-- 关键词: Amkor, Technology, Compute, Mix, Shift
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972455-amkor-technology-compute-mix-shift-could-drive-the-next-leg-higher?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - Amkor Technology is re-rated Buy, with a $41 FY 2027 target implying roughly 11% upside; the pullback offers an attractive entry point.；AMKRâs Computing revenue grew 37% year over year to 26% of Q3 sales, supporting gross margin expansion to 18%.；Computing exceeding 30% of sales and gross margin holding at 18%â19% could support further upside as AI-driven advanced packaging demand grows.
-
-### 要点
-- Summary - Amkor Technology is re-rated Buy, with a $41 FY 2027 target implying roughly 11% upside; the pullback offers an attractive entry point.
-- AMKRâs Computing revenue grew 37% year over year to 26% of Q3 sales, supporting gross margin expansion to 18%.
-- Computing exceeding 30% of sales and gross margin holding at 18%â19% could support further upside as AI-driven advanced packaging demand grows.
-
-## 2. REalloys: A $270 Million Rare Earth Opportunity With Significant Execution Risks
+## 1. Janus Henderson Global Life Sciences Fund Q3 2026 Commentary
 - 分类: 股市 / Stock Markets
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T08:07:02.000Z
+- 发布时间: 2026-11-28T07:30:00.000Z
 - 风险等级: 低
-- 关键词: REalloys, 270, Million, Rare, Earth
+- 关键词: Janus, Henderson, Global, Life, Sciences
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972453-realloys-a-270-million-rare-earth-opportunity-with-significant-execution-risks?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4972719-janus-henderson-global-life-sciences-fund-q3-2026-commentary?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - REalloys is a hold: North American rare-earth processing offers substantial potential, but production, funding, and equity returns remain uncertain.；SRC projects target commercial NdPr metal and dysprosium and terbium oxides around Q3 2027; further delays could increase funding needs.；ALOY had $116.2 million in cash but owed about $56 million under SRC development agreements, with further spending ahead.
+未调用大模型，以下为原文关键信息摘录：At a glance Performance The Fund returned -0.86% and the MSCI World Health Care IndexSM returned 3.33%.；Contributors/detractors Stock selection within biotechnology detracted as investors favored speculative companies with higher valuations, although an overweight in
 
 ### 要点
-- Summary - REalloys is a hold: North American rare-earth processing offers substantial potential, but production, funding, and equity returns remain uncertain.
-- SRC projects target commercial NdPr metal and dysprosium and terbium oxides around Q3 2027; further delays could increase funding needs.
-- ALOY had $116.2 million in cash but owed about $56 million under SRC development agreements, with further spending ahead.
+- At a glance Performance The Fund returned -0.86% and the MSCI World Health Care IndexSM returned 3.33%.
+- Contributors/detractors Stock selection within biotechnology detracted as investors favored speculative companies with higher valuations, although an overweight in
 
-## 3. Private markets are more accessible than ever for investors. Getting out is another matter
-- 分类: 基金与理财 / Funds & Wealth Management
-- 来源: CNBC Top News
-- 发布时间: 2026-11-27T08:05:09+0000
-- 风险等级: 低
-- 关键词: Private, markets, are, more, accessible
-- 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/27/private-markets-retail-investors-liquidity.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Retail investors are lining up to back private funds.；But education on how restrictive these funds can be, particularly on when and how much money they can get back, may not be keeping pace with the influx of new capital.；PwC research has found that 77% of fund distributors surveyed said access to private markets is becoming important or very important to what they plan to offer clients, but just 15% of asset managers said they provide comprehensive education for retail investors.
-
-### 要点
-- Retail investors are lining up to back private funds.
-- But education on how restrictive these funds can be, particularly on when and how much money they can get back, may not be keeping pace with the influx of new capital.
-- PwC research has found that 77% of fund distributors surveyed said access to private markets is becoming important or very important to what they plan to offer clients, but just 15% of asset managers said they provide comprehensive education for retail investors.
-
-## 4. Upbound Group: Still Cheap, But With Less Room For Error
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T08:02:05.000Z
-- 风险等级: 低
-- 关键词: earnings, Upbound, Group, Still, Cheap
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4972452-upbound-group-still-cheap-but-with-less-room-for-error?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - I retain a cautious Buy on Upbound Group (UPBD): shares remain cheap at 6.4 times forward non-GAAP earnings, but the rally leaves less room for error.；Acimaâs margins improved as charge-offs fell, but GMV declined 11%; management now expects roughly flat Q4 GMV rather than the previously projected growth.；Brigitâs revenue grew 36.6%, but its advance loss rate rose to 4.4%; unresolved Acima legal matters add risk.
-
-### 要点
-- Summary - I retain a cautious Buy on Upbound Group (UPBD): shares remain cheap at 6.4 times forward non-GAAP earnings, but the rally leaves less room for error.
-- Acimaâs margins improved as charge-offs fell, but GMV declined 11%; management now expects roughly flat Q4 GMV rather than the previously projected growth.
-- Brigitâs revenue grew 36.6%, but its advance loss rate rose to 4.4%; unresolved Acima legal matters add risk.
-
-## 5. Rates Spark: Rates Resist Bearish Pressure As France Faces Rating Risk
-- 分类: 央行与货币政策 / Central Bank & Monetary Policy
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T08:00:00.000Z
-- 风险等级: 低
-- 关键词: central bank, Rates, Spark, Resist, Bearish
-- 命中关注词: central bank
-- 原文链接: https://seekingalpha.com/article/4972472-rates-spark-rates-resist-bearish-pressure-as-france-faces-rating-risk?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：By Benjamin Schroeder & Michiel Tukker Bearish dynamics remain contained Left on their own with the US out on holiday, European rates briefly tested the upside.；While the European Central Bank accounts clearly pointed to the ECBâs By Benjamin Schroeder & Michiel Tukker Left on their own with the US out on holiday, European rates briefly tested the upside.；While the European Central Bank accounts clearly pointed to the ECBâs This article was written by
-
-### 要点
-- By Benjamin Schroeder & Michiel Tukker Bearish dynamics remain contained Left on their own with the US out on holiday, European rates briefly tested the upside.
-- While the European Central Bank accounts clearly pointed to the ECBâs By Benjamin Schroeder & Michiel Tukker Left on their own with the US out on holiday, European rates briefly tested the upside.
-- While the European Central Bank accounts clearly pointed to the ECBâs This article was written by
-
-## 6. Allspring Special Mid Cap Value Fund Q3 2026 Performance And Attribution
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T08:00:00.000Z
-- 风险等级: 低
-- 关键词: earnings, Allspring, Special, Mid, Cap
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4972467-allspring-special-mid-cap-value-fund-q3-2026-performance-attribution?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - Contributors include Valero Energy, Charles River Laboratories International, Okta, Revvity and Labcorp Holdings.；Detractors include StandardAero, Qnity Electronics, American Electric Power Company, Aptiv plc and Somnigroup International.；Stock selection in industrials and utilities contributed the most to relative performance versus the Russell Midcap Value Index.
-
-### 要点
-- Summary - Contributors include Valero Energy, Charles River Laboratories International, Okta, Revvity and Labcorp Holdings.
-- Detractors include StandardAero, Qnity Electronics, American Electric Power Company, Aptiv plc and Somnigroup International.
-- Stock selection in industrials and utilities contributed the most to relative performance versus the Russell Midcap Value Index.
-
-## 7. ASE Technology: Back In The Buy Zone (Rating Upgrade)
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:57:40.000Z
-- 风险等级: 中
-- 关键词: ASE, Technology, Back, The, Buy
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972451-ase-technology-back-in-buy-zone?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - Iâm upgrading ASE Technology to buy after its price correction and substantial margin improvement.；ASX trades at a 40% discount to my $42â$43 fair value estimate, despite near-term AI sentiment and macro volatility.；LEAP revenue guidance exceeds $4 billion in 2026 and calls for doubling in 2027; new capacity is critical to meeting demand.
-
-### 要点
-- Summary - Iâm upgrading ASE Technology to buy after its price correction and substantial margin improvement.
-- ASX trades at a 40% discount to my $42â$43 fair value estimate, despite near-term AI sentiment and macro volatility.
-- LEAP revenue guidance exceeds $4 billion in 2026 and calls for doubling in 2027; new capacity is critical to meeting demand.
-
-## 8. Allspring Special Mid Cap Value Fund Q3 2026 Commentary
-- 分类: 基金与理财 / Funds & Wealth Management
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:55:00.000Z
-- 风险等级: 低
-- 关键词: Allspring, Special, Mid, Cap, Value
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972465-allspring-special-mid-cap-value-fund-q3-2026-commentary?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Market review Mid-cap value stocks delivered negative absolute returns in the third quarter, but the first half of the quarter saw the Russell Midcap Value Index rally more than 5% in six weeks as the artificial Mid-cap value stocks delivered negative absolute returns in the third quarter, but the first half of the quarter saw the Russell Midcap Value Index rally more than 5% in six weeks as the artificial This article was written by
-
-### 要点
-- Market review Mid-cap value stocks delivered negative absolute returns in the third quarter, but the first half of the quarter saw the Russell Midcap Value Index rally more than 5% in six weeks as the artificial Mid-cap value stocks delivered negative absolute returns in the third quarter, but the first half of the quarter saw the Russell Midcap Value Index rally more than 5% in six weeks as the artificial This article was written by
-
-## 9. Ascendis Pharma: Priced For Yorvipath
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:46:14.000Z
-- 风险等级: 低
-- 关键词: Ascendis, Pharma, Priced, For, Yorvipath
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972446-ascendis-pharma-priced-for-yorvipaths-pace-not-the-2030-goal?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Summary - Ascendis Pharma A/S is a Hold: my $283.83 fair value is only 3% above the $274.59 share price.；ASNDâs price implies Yorvipath adds roughly $42 million in quarterly sales through Q3 2027 before slowing; sustained growth and 60%-plus margins could support a buy.；Iâll watch Q4 results and 2027 guidance for Yorvipathâs pace, alongside Yuviwelâs Q4 EU decision and a rival pillâs February FDA decision.
-
-### 要点
-- Summary - Ascendis Pharma A/S is a Hold: my $283.83 fair value is only 3% above the $274.59 share price.
-- ASNDâs price implies Yorvipath adds roughly $42 million in quarterly sales through Q3 2027 before slowing; sustained growth and 60%-plus margins could support a buy.
-- Iâll watch Q4 results and 2027 guidance for Yorvipathâs pace, alongside Yuviwelâs Q4 EU decision and a rival pillâs February FDA decision.
-
-## 10. The Warehouse Group Limited (WHGPF) Shareholder/Analyst Call Transcript
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:41:17+00:00
-- 风险等级: 低
-- 关键词: The, Warehouse, Group, Limited, WHGPF
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972389-the-warehouse-group-limited-whgpf-shareholder-analyst-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The Warehouse Group Limited (WHGPF) Shareholder/Analyst Call Transcript
-
-### 要点
-- The Warehouse Group Limited (WHGPF) Shareholder/Analyst Call Transcript
-
-## 11. Silicon Motion: Terrific Metrics, Uncertain Price Action
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:40:11.000Z
-- 风险等级: 低
-- 关键词: earnings, Silicon, Motion, Terrific, Metrics
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4972443-silicon-motion-terrific-metrics-uncertain-price-action?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Among other things, Silicon Motion Technology Corporation (SIMO) is a globally recognized frontrunner in "developing high-performance NAND flash controllers for SSDs and other solid-state storage devices that power the AI ecosystem".；This Hong Kong-based $4.8 billion enterprise has Summary - Silicon Motion Technology Corporation is a buy: 10x forward adjusted earnings undervalues its shift toward higher-margin enterprise and edge AI markets.；Q3 revenue rose 131% year over year, while GAAP gross margin expanded to 53.6%; sequential net income fell by more than half.
-
-### 要点
-- Among other things, Silicon Motion Technology Corporation (SIMO) is a globally recognized frontrunner in "developing high-performance NAND flash controllers for SSDs and other solid-state storage devices that power the AI ecosystem".
-- This Hong Kong-based $4.8 billion enterprise has Summary - Silicon Motion Technology Corporation is a buy: 10x forward adjusted earnings undervalues its shift toward higher-margin enterprise and edge AI markets.
-- Q3 revenue rose 131% year over year, while GAAP gross margin expanded to 53.6%; sequential net income fell by more than half.
-
-## 12. Virtus Emerging Markets Opportunities Fund Q3 2026 Commentary
+## 2. SKYY: Sell-Off Overlooks AI
 - 分类: 科技与创新 / Technology & Innovation
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:35:00.000Z
-- 风险等级: 低
-- 关键词: Virtus, Emerging, Markets, Opportunities, Fund
+- 发布时间: 2026-11-28T07:20:38.000Z
+- 风险等级: 中
+- 关键词: SKYY, Sell-Off, Overlooks, Seeking Alpha
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972462-virtus-emerging-markets-opportunities-fund-q3-2026-commentary?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4972707-skyy-sell-off-overlooks-ais-broadening-into-cloud-and-cybersecurity?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Market Review Emerging markets equities were roughly flat during the quarter, with the MSCI Emerging Markets Index declining 0.37%.；A sharp semiconductor selloff in late July, driven by concerns that AI-related capital spending was peaking, weighed on information technology (-4.63%), and
+未调用大模型，以下为原文关键信息摘录：The First Trust Cloud Computing ETF (SKYY) is a passively managed exchange-traded fund designed to provide exposure to the broader cloud infrastructure and cloud-hosted software market.；With the recent market sell-off, I believe that the Summary - The First Trust Cloud Computing ETF earns a Buy: the tech sell-off looks unjustified against broadening AI infrastructure, and cloud and cybersecurity demand.；Enterprise multi-agent deployment reached 25% of organizations in Q3 2026, up from 6% in the first half, potentially supporting sustained inference infrastructure growth.
 
 ### 要点
-- Market Review Emerging markets equities were roughly flat during the quarter, with the MSCI Emerging Markets Index declining 0.37%.
-- A sharp semiconductor selloff in late July, driven by concerns that AI-related capital spending was peaking, weighed on information technology (-4.63%), and
+- The First Trust Cloud Computing ETF (SKYY) is a passively managed exchange-traded fund designed to provide exposure to the broader cloud infrastructure and cloud-hosted software market.
+- With the recent market sell-off, I believe that the Summary - The First Trust Cloud Computing ETF earns a Buy: the tech sell-off looks unjustified against broadening AI infrastructure, and cloud and cybersecurity demand.
+- Enterprise multi-agent deployment reached 25% of organizations in Q3 2026, up from 6% in the first half, potentially supporting sustained inference infrastructure growth.
 
-## 13. Fenix Resources Limited (FEXRF) Shareholder/Analyst Call Transcript
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:31:20+00:00
-- 风险等级: 低
-- 关键词: Fenix, Resources, Limited, FEXRF, Shareholder
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972429-fenix-resources-limited-fexrf-shareholder-analyst-call-transcript?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Fenix Resources Limited (FEXRF) Shareholder/Analyst Call Transcript
-
-### 要点
-- Fenix Resources Limited (FEXRF) Shareholder/Analyst Call Transcript
-
-## 14. Bachem Holding AG (BCHMY) Analyst/Investor Day - Slideshow
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:31:17.000Z
-- 风险等级: 低
-- 关键词: earnings, Bachem, Holding, BCHMY, Analyst
-- 命中关注词: earnings
-- 原文链接: https://seekingalpha.com/article/4972460-bachem-holding-ag-bchmy-analyst-investor-day-slideshow?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The following slide deck was published by Bachem Holding AG in conjunction with this event.；This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.；We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.
-
-### 要点
-- The following slide deck was published by Bachem Holding AG in conjunction with this event.
-- This article was written by Seeking Alpha's transcripts team is responsible for the development of all of our transcript-related projects.
-- We currently publish thousands of quarterly earnings calls per quarter on our site and are continuing to grow and expand our coverage.
-
-## 15. Diamond Hill Long-Short Strategy Q3 2026 Commentary
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:25:00+00:00
-- 风险等级: 低
-- 关键词: Diamond, Hill, Long-Short, Strategy, 2026
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972458-diamond-hill-long-short-strategy-q3-2026-commentary?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Diamond Hill Long-Short Strategy Q3 2026 Commentary
-
-### 要点
-- Diamond Hill Long-Short Strategy Q3 2026 Commentary
-
-## 16. NC Commission Issues Orders Authorizing Duke $1B Rate Increase Over 2 Years
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:20:00+00:00
-- 风险等级: 低
-- 关键词: Commission, Issues, Orders, Authorizing, Duke
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972454-nc-commission-issues-orders-authorizing-duke-1b-rate-increase-over-2-years?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：NC Commission Issues Orders Authorizing Duke $1B Rate Increase Over 2 Years
-
-### 要点
-- NC Commission Issues Orders Authorizing Duke $1B Rate Increase Over 2 Years
-
-## 17. Lazard Global Listed Infrastructure Portfolio Q3 2026 Commentary
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:20:00+00:00
-- 风险等级: 低
-- 关键词: Lazard, Global, Listed, Infrastructure, Portfolio
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972456-lazard-global-listed-infrastructure-portfolio-q3-2026-commentary?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Lazard Global Listed Infrastructure Portfolio Q3 2026 Commentary
-
-### 要点
-- Lazard Global Listed Infrastructure Portfolio Q3 2026 Commentary
-
-## 18. Schneider Electric: The Grid Side Of Power Is Strong - Buy
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:12:54+00:00
-- 风险等级: 低
-- 关键词: Schneider, Electric, The, Grid, Side
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972441-schneider-electric-the-grid-side-of-power-is-strong-buy?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Schneider Electric: The Grid Side Of Power Is Strong - Buy
-
-### 要点
-- Schneider Electric: The Grid Side Of Power Is Strong - Buy
-
-## 19. John Hancock 2065 Lifetime Blend Portfolio Q3 2026 Commentary
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:07:00+00:00
-- 风险等级: 低
-- 关键词: John, Hancock, 2065, Lifetime, Blend
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972440-john-hancock-2065-lifetime-blend-portfolio-q3-2026-commentary?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：John Hancock 2065 Lifetime Blend Portfolio Q3 2026 Commentary
-
-### 要点
-- John Hancock 2065 Lifetime Blend Portfolio Q3 2026 Commentary
-
-## 20. Deckers: Solid Fundamentals, Single-Digit Growth Still Offers An Opportunity
-- 分类: 综合资讯 / General News
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:05:55+00:00
-- 风险等级: 低
-- 关键词: Deckers, Solid, Fundamentals, Single-Digit, Growth
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972439-deckers-solid-fundamentals-single-digit-growth-still-offers-an-opportunity?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Deckers: Solid Fundamentals, Single-Digit Growth Still Offers An Opportunity
-
-### 要点
-- Deckers: Solid Fundamentals, Single-Digit Growth Still Offers An Opportunity
-
-## 21. PG&E Remains An Exciting Utility Opportunity
+## 3. Columbia Dividend Income Fund Q3 2026 Commentary
 - 分类: 股市 / Stock Markets
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:03:51.000Z
+- 发布时间: 2026-11-28T07:20:00.000Z
 - 风险等级: 低
-- 关键词: Remains, Exciting, Utility, Opportunity, Seeking Alpha
+- 关键词: Columbia, Dividend, Income, Fund, 2026
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972438-pg-and-e-remains-exciting-utility-opportunity?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4972717-columbia-dividend-income-fund-q3-2026-commentary?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：PG&E (NYSE: PCG) has outperformed the market's performance by double-digits since we recommended investing with manageable wildfire risk.；The firm has an impressive portfolio of stable utility based assets that it continues to Summary - PG&E offers stable utility assets, trading at a single-digit P/E and targeting double-digit EPS growth through 2026.；PCG expects no equity issuances through 2030, supporting consistent dividend growth and a 20% payout ratio target by 2028.
+未调用大模型，以下为原文关键信息摘录：Fund performance â Columbia Dividend Income Fund Institutional Class Shares returned -0.64% for the quarter ending September 30, 2026.；â The fund's benchmark, the Russell 1000 Index, returned 1.80% for the same period.；â The fund's â Columbia Dividend Income Fund Institutional Class Shares returned -0.64% for the quarter ending September 30, 2026.
 
 ### 要点
-- PG&E (NYSE: PCG) has outperformed the market's performance by double-digits since we recommended investing with manageable wildfire risk.
-- The firm has an impressive portfolio of stable utility based assets that it continues to Summary - PG&E offers stable utility assets, trading at a single-digit P/E and targeting double-digit EPS growth through 2026.
-- PCG expects no equity issuances through 2030, supporting consistent dividend growth and a 20% payout ratio target by 2028.
+- Fund performance â Columbia Dividend Income Fund Institutional Class Shares returned -0.64% for the quarter ending September 30, 2026.
+- â The fund's benchmark, the Russell 1000 Index, returned 1.80% for the same period.
+- â The fund's â Columbia Dividend Income Fund Institutional Class Shares returned -0.64% for the quarter ending September 30, 2026.
 
-## 22. Franklin Small Cap Value Fund Q3 2026 Commentary
+## 4. SGA Global Growth Portfolio Q3 2026 Commentary
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T07:10:00.000Z
+- 风险等级: 低
+- 关键词: SGA, Global, Growth, Portfolio, 2026
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972714-sga-global-growth-portfolio-q3-2026-commentary?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Highlights âª The SGA Global Growth Portfolio returned 3.7% (Gross) and 2.9% (net) compared to the MSCI ACWI return of 1.6% and the MSCI ACWI Growth return of -0.5%.；âª Market leadership changed direction twice âª The SGA Global Growth Portfolio returned 3.7% (Gross) and 2.9% (net) compared to the MSCI ACWI return of 1.6% and the MSCI ACWI Growth return of -0.5%.；âª Market leadership changed direction twice This article was written by
+
+### 要点
+- Highlights âª The SGA Global Growth Portfolio returned 3.7% (Gross) and 2.9% (net) compared to the MSCI ACWI return of 1.6% and the MSCI ACWI Growth return of -0.5%.
+- âª Market leadership changed direction twice âª The SGA Global Growth Portfolio returned 3.7% (Gross) and 2.9% (net) compared to the MSCI ACWI return of 1.6% and the MSCI ACWI Growth return of -0.5%.
+- âª Market leadership changed direction twice This article was written by
+
+## 5. BlackRock Advantage Large Cap Value Fund Q3 2026 Commentary
+- 分类: 股市 / Stock Markets
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T07:00:00.000Z
+- 风险等级: 低
+- 关键词: BlackRock, Advantage, Large, Cap, Value
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972712-blackrock-advantage-large-cap-value-fund-q3-2026-commentary?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：â¢ The fund posted returns of 3.06% (Institutional shares) and 2.99% (Investor A shares, without sales charge) for the third quarter of 2026.；â¢ The fund's outperformance of its benchmark was driven by sentiment insights, particularly trend-following
+
+### 要点
+- â¢ The fund posted returns of 3.06% (Institutional shares) and 2.99% (Investor A shares, without sales charge) for the third quarter of 2026.
+- â¢ The fund's outperformance of its benchmark was driven by sentiment insights, particularly trend-following
+
+## 6. Rollins: AI Disruption And Margin Pressure Haven
+- 分类: 股市 / Stock Markets
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:59:06.000Z
+- 风险等级: 低
+- 关键词: Rollins, Disruption, And, Margin, Pressure
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972705-rollins-ai-disruption-and-margin-pressure-havent-broken-the-long-term-thesis?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Introduction My previous analysis of Rollins (ROL) came with a reiterated Buy rating, as the valuation offered an improving margin of safety despite near-term consumer weakness and margin pressure.；With the company still in very My previous analysis of Rollins (ROL) came with a reiterated Buy rating, as the valuation offered an improving margin of safety despite near-term consumer weakness and margin pressure.；With the company still in very This article was written by Analystâs Disclosure: I/we have a beneficial long position in the shares of ROL either through stock ownership, options, or other derivatives.
+
+### 要点
+- Introduction My previous analysis of Rollins (ROL) came with a reiterated Buy rating, as the valuation offered an improving margin of safety despite near-term consumer weakness and margin pressure.
+- With the company still in very My previous analysis of Rollins (ROL) came with a reiterated Buy rating, as the valuation offered an improving margin of safety despite near-term consumer weakness and margin pressure.
+- With the company still in very This article was written by Analystâs Disclosure: I/we have a beneficial long position in the shares of ROL either through stock ownership, options, or other derivatives.
+
+## 7. MKS: An AI Manufacturing Winner At A Price That Still Makes Sense
+- 分类: 股市 / Stock Markets
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:56:25.000Z
+- 风险等级: 低
+- 关键词: MKS, Manufacturing, Winner, Price, That
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972703-mks-an-ai-manufacturing-winner-at-a-price-that-still-makes-sense?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：The Profit Opportunity Is Already Taking Shape MKS (MKSI) trades at quite a large penalty for cyclical exposure and significant levels of debt.；Given the number of favorable manufacturing trends currently impacting profits, I believe this MKS (MKSI) trades at quite a large penalty for cyclical exposure and significant levels of debt.；Given the number of favorable manufacturing trends currently impacting profits, I believe this This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.
+
+### 要点
+- The Profit Opportunity Is Already Taking Shape MKS (MKSI) trades at quite a large penalty for cyclical exposure and significant levels of debt.
+- Given the number of favorable manufacturing trends currently impacting profits, I believe this MKS (MKSI) trades at quite a large penalty for cyclical exposure and significant levels of debt.
+- Given the number of favorable manufacturing trends currently impacting profits, I believe this This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.
+
+## 8. Gran Tierra: The Risks Of A New Business
+- 分类: 能源与资源 / Energy & Resources
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:55:07.000Z
+- 风险等级: 低
+- 关键词: Gran, Tierra, The, Risks, New
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972702-gran-tierra-risks-of-new-business?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Gran Tierra (GTE) is getting closer to closing the deal mentioned in my last article on the company.；The company will net a fair amount of cash after repaying all the debt.；However, the company is proposing Summary - Gran Tierra Energy is nearing a South American asset sale that should leave substantial cash after all debt is repaid.
+
+### 要点
+- Gran Tierra (GTE) is getting closer to closing the deal mentioned in my last article on the company.
+- The company will net a fair amount of cash after repaying all the debt.
+- However, the company is proposing Summary - Gran Tierra Energy is nearing a South American asset sale that should leave substantial cash after all debt is repaid.
+
+## 9. The Gabelli Global Mini Mites Fund Q3 2026 Commentary
 - 分类: 基金与理财 / Funds & Wealth Management
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T07:00:00.000Z
+- 发布时间: 2026-11-28T06:50:00.000Z
 - 风险等级: 低
-- 关键词: Franklin, Small, Cap, Value, Fund
+- 关键词: The, Gabelli, Global, Mini, Mites
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972450-franklin-small-cap-value-fund-q3-2026-commentary?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4972710-the-gabelli-global-mini-mites-fund-q3-2026-commentary?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Key Takeaways - Markets: US small-cap stocks, as measured by the Russell 2000 Index, posted a net loss for the quarter, although the Russell 2000 Value Index gained in July and August when value stocks soundly outperformed their This article was written by
+未调用大模型，以下为原文关键信息摘录：Investment Scorecard During the third quarter, the Gabelli Global Mini Mites Fund depreciated 4.0%, compared to a decline of 4.8% for the S&P Developed SmallCap Index.；The top contributors to performance in the quarter During the third quarter, the Gabelli Global Mini Mites Fund depreciated 4.0%, compared to a decline of 4.8% for the S&P Developed SmallCap Index.；The top contributors to performance in the quarter This article was written by
 
 ### 要点
-- Key Takeaways - Markets: US small-cap stocks, as measured by the Russell 2000 Index, posted a net loss for the quarter, although the Russell 2000 Value Index gained in July and August when value stocks soundly outperformed their This article was written by
+- Investment Scorecard During the third quarter, the Gabelli Global Mini Mites Fund depreciated 4.0%, compared to a decline of 4.8% for the S&P Developed SmallCap Index.
+- The top contributors to performance in the quarter During the third quarter, the Gabelli Global Mini Mites Fund depreciated 4.0%, compared to a decline of 4.8% for the S&P Developed SmallCap Index.
+- The top contributors to performance in the quarter This article was written by
 
-## 23. BlackRock Strategic Global Bond Fund Q3 2026 Commentary
+## 10. Silvercrest Asset Management: 8% Yield Provides Share Price Support
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:41:38+00:00
+- 风险等级: 低
+- 关键词: Silvercrest, Asset, Management, Yield, Provides
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972701-silvercrest-asset-management-8-percent-yield-provides-share-price-support?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Silvercrest Asset Management: 8% Yield Provides Share Price Support
+
+### 要点
+- Silvercrest Asset Management: 8% Yield Provides Share Price Support
+
+## 11. The State Of REITs: November 2026 Edition
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:41:08+00:00
+- 风险等级: 低
+- 关键词: The, State, REITs, November, 2026
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972700-the-state-of-reits-november-2026-edition?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：The State Of REITs: November 2026 Edition
+
+### 要点
+- The State Of REITs: November 2026 Edition
+
+## 12. WeRide: Q3 Proves The International Robotaxi Inflection While The Market Prices It For Distress (Strong Buy)
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:40:33+00:00
+- 风险等级: 低
+- 关键词: WeRide, Proves, The, International, Robotaxi
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972699-weride-q3-proves-the-international-robotaxi-inflection-while-the-market-prices-it-for-distress-strong-buy?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：WeRide: Q3 Proves The International Robotaxi Inflection While The Market Prices It For Distress (Strong Buy)
+
+### 要点
+- WeRide: Q3 Proves The International Robotaxi Inflection While The Market Prices It For Distress (Strong Buy)
+
+## 13. Vital Farms: A Premium Brand Priced As A Commodity
+- 分类: 大宗商品 / Commodities
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:34:27+00:00
+- 风险等级: 低
+- 关键词: commodity, Vital, Farms, Premium, Brand
+- 命中关注词: commodity
+- 原文链接: https://seekingalpha.com/article/4972698-vital-farms-a-premium-brand-priced-as-a-commodity?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Vital Farms: A Premium Brand Priced As A Commodity
+
+### 要点
+- Vital Farms: A Premium Brand Priced As A Commodity
+
+## 14. Invesco Discovery Mid Cap Growth Fund Q3 2026 Commentary
+- 分类: 基金与理财 / Funds & Wealth Management
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:20:00+00:00
+- 风险等级: 低
+- 关键词: Invesco, Discovery, Mid, Cap, Growth
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972706-invesco-discovery-mid-cap-growth-fund-q3-2026-commentary?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Invesco Discovery Mid Cap Growth Fund Q3 2026 Commentary
+
+### 要点
+- Invesco Discovery Mid Cap Growth Fund Q3 2026 Commentary
+
+## 15. Adobe: The AI Threat Is Real, But So Is The Bargain
+- 分类: 公司财报与IPO / Earnings & IPO
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:12:03.000Z
+- 风险等级: 低
+- 关键词: earnings, Adobe, The, Threat, Real
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4972696-adobe-the-ai-threat-is-real-but-so-is-the-bargain?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：In the first half of 2026, the SaaSpocalypse sent countless software and financial services stocks tumbling, and at least on paper it seemed like a lot of buying opportunities were generated.；Among the many different companies that Summary - Adobe Inc.；remains a good long-term investment: its depressed valuation already reflects substantial AI-related uncertainty.
+
+### 要点
+- In the first half of 2026, the SaaSpocalypse sent countless software and financial services stocks tumbling, and at least on paper it seemed like a lot of buying opportunities were generated.
+- Among the many different companies that Summary - Adobe Inc.
+- remains a good long-term investment: its depressed valuation already reflects substantial AI-related uncertainty.
+
+## 16. Fairfax Financial: Strong Insurance Earnings, But $7.9 Billion In Potential Acquisitions Adds Risk
 - 分类: 股市 / Stock Markets
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:55:00.000Z
+- 发布时间: 2026-11-28T06:06:44.000Z
 - 风险等级: 低
-- 关键词: bond, BlackRock, Strategic, Global, Bond
+- 关键词: earnings, Fairfax, Financial, Strong, Insurance
+- 命中关注词: earnings
+- 原文链接: https://seekingalpha.com/article/4972694-fairfax-financial-strong-insurance-earnings-but-7-9-billion-in-potential-acquisitions-adds-risk?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Introduction Fairfax Financial Holdings (FRFHF) has a long history of good underwriting profits in both insurance and reinsurance and good long-term returns on a wide range of investments.；It has progressively built up a range of international Fairfax Financial Holdings (FRFHF) has a long history of good underwriting profits in both insurance and reinsurance and good long-term returns on a wide range of investments.；It has progressively built up a range of international This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.
+
+### 要点
+- Introduction Fairfax Financial Holdings (FRFHF) has a long history of good underwriting profits in both insurance and reinsurance and good long-term returns on a wide range of investments.
+- It has progressively built up a range of international Fairfax Financial Holdings (FRFHF) has a long history of good underwriting profits in both insurance and reinsurance and good long-term returns on a wide range of investments.
+- It has progressively built up a range of international This article was written by Analystâs Disclosure: I/we have no stock, option or similar derivative position in any of the companies mentioned, and no plans to initiate any such positions within the next 72 hours.
+
+## 17. Fidelity Limited Term Bond ETF Q3 2026 Commentary
+- 分类: 债市 / Bond Markets
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T06:05:00.000Z
+- 风险等级: 低
+- 关键词: bond, Fidelity, Limited, Term, Bond
 - 命中关注词: bond
-- 原文链接: https://seekingalpha.com/article/4972449-blackrock-strategic-global-bond-fund-q3-2026-commentary?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4972704-fidelity-limited-term-bond-etf-q3-2026-commentary?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：â¢ The fund posted returns of -3.07% (Institutional shares) and -2.95% (Investor A shares, without sales charge) for the third quarter of 2026.；â¢ U.S.；rates, securitized assets, and emerging market spreads contributed to the fund's performance, while emerging market
+未调用大模型，以下为原文关键信息摘录：Investment Approach - FidelityÂ® Limited Term Bond ETF is a shorter-duration investment-grade bond strategy, which is focused primarily on U.S.；corporate credit.；The fund's primary benchmark is the Bloomberg U.S.
 
 ### 要点
-- â¢ The fund posted returns of -3.07% (Institutional shares) and -2.95% (Investor A shares, without sales charge) for the third quarter of 2026.
-- â¢ U.S.
-- rates, securitized assets, and emerging market spreads contributed to the fund's performance, while emerging market
+- Investment Approach - FidelityÂ® Limited Term Bond ETF is a shorter-duration investment-grade bond strategy, which is focused primarily on U.S.
+- corporate credit.
+- The fund's primary benchmark is the Bloomberg U.S.
 
-## 24. AI Stock Swings: Has The Investment Story Changed?
-- 分类: 股市 / Stock Markets
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:55:00+00:00
+## 18. Saudi Arabia shifts Vision 2030 spending amid economic and security pressure
+- 分类: 宏观经济 / Macroeconomics
+- 来源: CNBC Top News
+- 发布时间: 2026-11-28T06:00:01+0000
 - 风险等级: 低
-- 关键词: Stock, Swings, Has, The, Investment
-- 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972436-ai-stock-swings-has-investment-story-changed?source=feed_all_articles
+- 关键词: gdp, Saudi, Arabia, shifts, Vision
+- 命中关注词: gdp
+- 原文链接: https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：AI Stock Swings: Has The Investment Story Changed?
+未调用大模型，以下为原文关键信息摘录：Saudi Arabia's economic diversification strategy has moved from "spending and delivery at any cost" to "spending and delivery at the right cost," Economy Minister Faisal Alibrahim told CNBC on Friday.；It comes after the Kingdom scaled back or cut several flagship projects as it endures a sharp economic contraction.；Alibrahim also said Saudi Arabia would "stop at nothing from realizing long-term sustainable stability in the region" amid ongoing Houthi strikes on civilian and energy infrastructure that have killed and injured dozens and repeatedly rocked oil markets.
 
 ### 要点
-- AI Stock Swings: Has The Investment Story Changed?
+- Saudi Arabia's economic diversification strategy has moved from "spending and delivery at any cost" to "spending and delivery at the right cost," Economy Minister Faisal Alibrahim told CNBC on Friday.
+- It comes after the Kingdom scaled back or cut several flagship projects as it endures a sharp economic contraction.
+- Alibrahim also said Saudi Arabia would "stop at nothing from realizing long-term sustainable stability in the region" amid ongoing Houthi strikes on civilian and energy infrastructure that have killed and injured dozens and repeatedly rocked oil markets.
 
-## 25. Franklin Mutual Global Discovery Fund Q3 2026 Commentary
+## 19. Africa’s richest man is taking his mega-refinery public in a blockbuster IPO
+- 分类: 股市 / Stock Markets
+- 来源: CNBC Top News
+- 发布时间: 2026-11-28T06:00:01+0000
+- 风险等级: 低
+- 关键词: stock market, ipo, crude oil, Africa, richest
+- 命中关注词: stock market, ipo, crude oil
+- 原文链接: https://www.cnbc.com/2026/11/28/dangote-refinery-oil-ipo-nigeria-africa-energy.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：One of the world's largest oil refineries is set to become Africa's biggest public firm in a highly anticipated offering that the continent's richest man has marketed as an "IPO for the people." Dangote Petroleum Refinery and Petrochemicals FZE, founded by Nigerian billionaire Aliko Dangote, is expected to begin trading in Lagos on Dec.；1, according to multiple media reports, following regulatory approval.；A Dangote Refinery spokesperson did not respond to a CNBC request for comment.
+
+### 要点
+- One of the world's largest oil refineries is set to become Africa's biggest public firm in a highly anticipated offering that the continent's richest man has marketed as an "IPO for the people." Dangote Petroleum Refinery and Petrochemicals FZE, founded by Nigerian billionaire Aliko Dangote, is expected to begin trading in Lagos on Dec.
+- 1, according to multiple media reports, following regulatory approval.
+- A Dangote Refinery spokesperson did not respond to a CNBC request for comment.
+
+## 20. Why Canadian Stocks Could Benefit As Investors Look Beyond AI
+- 分类: 科技与创新 / Technology & Innovation
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T05:30:00+00:00
+- 风险等级: 低
+- 关键词: Why, Canadian, Stocks, Could, Benefit
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972690-why-canadian-stocks-could-benefit-as-investors-look-beyond-ai?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Why Canadian Stocks Could Benefit As Investors Look Beyond AI
+
+### 要点
+- Why Canadian Stocks Could Benefit As Investors Look Beyond AI
+
+## 21. U.S. Government Interest Payments On Debt, Interest Rates, Tax Receipts, Deficits, Debt-To-GDP In Q3 2026
 - 分类: 宏观经济 / Macroeconomics
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:50:00.000Z
+- 发布时间: 2026-11-28T05:15:00+00:00
 - 风险等级: 低
-- 关键词: inflation, earnings, monetary policy, Franklin, Mutual
-- 命中关注词: inflation, earnings, monetary policy
-- 原文链接: https://seekingalpha.com/article/4972447-franklin-mutual-global-discovery-fund-q3-2026-commentary?source=feed_all_articles
+- 关键词: gdp, U.S., Government, Interest, Payments
+- 命中关注词: gdp
+- 原文链接: https://seekingalpha.com/article/4972695-us-government-interest-payments-on-debt-interest-rates-tax-receipts-deficits-debt-to-gdp-in-q3-2026?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Key Takeaways - Markets: Global equities, as measured by MSCI World Index, delivered solid gains during the third quarter of 2026, supported by resilient economic growth and robust corporate earnings, even as elevated inflation, geopolitical tensions and tighter monetary policy weighed
+未调用大模型，以下为原文关键信息摘录：U.S.；Government Interest Payments On Debt, Interest Rates, Tax Receipts, Deficits, Debt-To-GDP In Q3 2026
 
 ### 要点
-- Key Takeaways - Markets: Global equities, as measured by MSCI World Index, delivered solid gains during the third quarter of 2026, supported by resilient economic growth and robust corporate earnings, even as elevated inflation, geopolitical tensions and tighter monetary policy weighed
+- U.S.
+- Government Interest Payments On Debt, Interest Rates, Tax Receipts, Deficits, Debt-To-GDP In Q3 2026
 
-## 26. Buy Ares Capital: A Long History Of Superior Performance And History Likely To Repeat
+## 22. ClearBridge International Growth ADR Portfolios Q3 2026 Commentary
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T05:10:00+00:00
+- 风险等级: 低
+- 关键词: ClearBridge, International, Growth, ADR, Portfolios
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972693-clearbridge-international-growth-adr-portfolios-q3-2026-commentary?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：ClearBridge International Growth ADR Portfolios Q3 2026 Commentary
+
+### 要点
+- ClearBridge International Growth ADR Portfolios Q3 2026 Commentary
+
+## 23. The Roadmap Ahead
 - 分类: 股市 / Stock Markets
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:48:45.000Z
+- 发布时间: 2026-11-28T05:05:00.000Z
 - 风险等级: 高
-- 关键词: inflation, real estate, Buy, Ares, Capital
-- 命中关注词: inflation, real estate
-- 原文链接: https://seekingalpha.com/article/4972433-buy-ares-capital-a-long-history-of-superior-performance-and-history-likely-to-repeat?source=feed_all_articles
+- 关键词: fed, gdp, stock market, s&p 500, nasdaq
+- 命中关注词: fed, gdp, stock market, s&p 500, nasdaq, dow jones, gold
+- 原文链接: https://seekingalpha.com/article/4972692-roadmap-ahead?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Ares Capital (ARCC) has a long history of dividend maintenance and stock price appreciation, and I expect that they will continue to perform favorably.；I am initiating coverage with a buy recommendation.；Summary - Initiate Ares Capital at Buy, with a modest position supported by its long dividend history and favorable recent trends.
+未调用大模型，以下为原文关键信息摘录：The S&P 500 Index is topping.；Gold and silver are bottoming.；It's a process.
 
 ### 要点
-- Ares Capital (ARCC) has a long history of dividend maintenance and stock price appreciation, and I expect that they will continue to perform favorably.
-- I am initiating coverage with a buy recommendation.
-- Summary - Initiate Ares Capital at Buy, with a modest position supported by its long dividend history and favorable recent trends.
+- The S&P 500 Index is topping.
+- Gold and silver are bottoming.
+- It's a process.
 
-## 27. TCW MetWest Ultra Short Bond Fund Q3 2026 Commentary
-- 分类: 债市 / Bond Markets
+## 24. Politics And The Markets 11/28/26
+- 分类: 综合资讯 / General News
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:45:00.000Z
+- 发布时间: 2026-11-28T05:00:00.000Z
 - 风险等级: 低
-- 关键词: bond, treasury, TCW, MetWest, Ultra
-- 命中关注词: bond, treasury
-- 原文链接: https://seekingalpha.com/article/4972445-tcw-metwest-ultra-short-bond-fund-q3-2026-commentary?source=feed_all_articles
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Market Review Many of the themes that shaped markets in the second quarter carried into the third, though the underlying economic picture became increasingly nuanced as the period progressed.；Middle East tensions continued to reverberate through Many of the themes that shaped markets in the second quarter carried into the third, though the underlying economic picture became increasingly nuanced as the period progressed.；Middle East tensions continued to reverberate through This article was written by
-
-### 要点
-- Market Review Many of the themes that shaped markets in the second quarter carried into the third, though the underlying economic picture became increasingly nuanced as the period progressed.
-- Middle East tensions continued to reverberate through Many of the themes that shaped markets in the second quarter carried into the third, though the underlying economic picture became increasingly nuanced as the period progressed.
-- Middle East tensions continued to reverberate through This article was written by
-
-## 28. Gaotu Techedu: Unfavorable Revenue Prospects Offset Q3 Profitability Turnaround
-- 分类: 公司财报与IPO / Earnings & IPO
-- 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:38:38+00:00
-- 风险等级: 低
-- 关键词: Gaotu, Techedu, Unfavorable, Revenue, Prospects
+- 关键词: Politics, And, The, Markets, Seeking Alpha
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972432-gaotu-techedu-unfavorable-revenue-prospects-offset-q3-profitability-turnaround?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4960837-politics-and-the-markets-112826?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Gaotu Techedu: Unfavorable Revenue Prospects Offset Q3 Profitability Turnaround
+未调用大模型，以下为原文关键信息摘录：This is the forum for daily political discussion on Seeking Alpha.；A new version is published every market day.；Please don't leave political comments on other articles or posts on the site.
 
 ### 要点
-- Gaotu Techedu: Unfavorable Revenue Prospects Offset Q3 Profitability Turnaround
+- This is the forum for daily political discussion on Seeking Alpha.
+- A new version is published every market day.
+- Please don't leave political comments on other articles or posts on the site.
 
-## 29. Tech German software major SAP is reportedly weighing cutting at least 10,000 jobs in AI push
-- 分类: 科技与创新 / Technology & Innovation
-- 来源: CNBC Top News
-- 发布时间: 2026-11-27T06:36:30+0000
-- 风险等级: 低
-- 关键词: Tech, German, software, major, SAP
-- 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/27/sap-job-cuts-ai-restructuring.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：SAP is preparing a plan to eliminate at least 10,000 positions as the German firm reshapes its software business for the artificial intelligence era, Bloomberg reported on Thursday, citing people familiar with the matter.；The report came as the company flagged a cybersecurity attack, but said it had found "no evidence of unauthorized access to customer business data." "SAP has identified suspicious activity and promptly implemented the necessary measures to protect its customers and preserve the security of its services," a company spokesperson said.；"Our customers trust us to protect their data, and that remains our highest priority.
-
-### 要点
-- SAP is preparing a plan to eliminate at least 10,000 positions as the German firm reshapes its software business for the artificial intelligence era, Bloomberg reported on Thursday, citing people familiar with the matter.
-- The report came as the company flagged a cybersecurity attack, but said it had found "no evidence of unauthorized access to customer business data." "SAP has identified suspicious activity and promptly implemented the necessary measures to protect its customers and preserve the security of its services," a company spokesperson said.
-- "Our customers trust us to protect their data, and that remains our highest priority.
-
-## 30. Invesco Core Plus Bond Fund Q3 2026 Commentary
-- 分类: 债市 / Bond Markets
+## 25. Meta Platforms: Looking Beyond Capex, At Efficiency Gains For 2027 (Upgrade)
+- 分类: 综合资讯 / General News
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:35:00+00:00
+- 发布时间: 2026-11-28T04:50:26+00:00
 - 风险等级: 低
-- 关键词: bond, Invesco, Core, Plus, Bond
-- 命中关注词: bond
-- 原文链接: https://seekingalpha.com/article/4972442-invesco-core-plus-bond-fund-q3-2026-commentary?source=feed_all_articles
+- 关键词: Meta, Platforms, Looking, Beyond, Capex
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972688-meta-platforms-looking-beyond-capex-at-efficiency-gains-for-2027-rating-upgrade?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Invesco Core Plus Bond Fund Q3 2026 Commentary
+未调用大模型，以下为原文关键信息摘录：Meta Platforms: Looking Beyond Capex, At Efficiency Gains For 2027 (Upgrade)
 
 ### 要点
-- Invesco Core Plus Bond Fund Q3 2026 Commentary
+- Meta Platforms: Looking Beyond Capex, At Efficiency Gains For 2027 (Upgrade)
 
-## 31. Franklin Utilities Fund Q3 2026 Commentary
+## 26. Hartford Municipal Opportunities ETF Q3 2026 Commentary
 - 分类: 基金与理财 / Funds & Wealth Management
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:05:00+00:00
+- 发布时间: 2026-11-28T04:40:00+00:00
 - 风险等级: 低
-- 关键词: Franklin, Utilities, Fund, 2026, Commentary
+- 关键词: Hartford, Municipal, Opportunities, ETF, 2026
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972437-franklin-utilities-fund-q3-2026-commentary?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4972691-hartford-municipal-opportunities-etf-q3-2026-commentary?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：Franklin Utilities Fund Q3 2026 Commentary
+未调用大模型，以下为原文关键信息摘录：Hartford Municipal Opportunities ETF Q3 2026 Commentary
 
 ### 要点
-- Franklin Utilities Fund Q3 2026 Commentary
+- Hartford Municipal Opportunities ETF Q3 2026 Commentary
 
-## 32. From Cuts To Hikes: How 2026 Rewrote Bitcoin's Macro Outlook
+## 27. BCV: Good For Diversification, But Still Impacted By Tech Worries
 - 分类: 综合资讯 / General News
 - 来源: Seeking Alpha
-- 发布时间: 2026-11-27T06:00:00+00:00
+- 发布时间: 2026-11-28T04:25:39+00:00
 - 风险等级: 低
-- 关键词: From, Cuts, Hikes, How, 2026
+- 关键词: BCV, Good, For, Diversification, But
 - 命中关注词: 无
-- 原文链接: https://seekingalpha.com/article/4972434-from-cuts-to-hikes-how-2026-rewrote-bitcoin-macro-outlook?source=feed_all_articles
+- 原文链接: https://seekingalpha.com/article/4972686-bcv-good-for-diversification-but-still-impacted-by-tech-worries?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：From Cuts To Hikes: How 2026 Rewrote Bitcoin's Macro Outlook
+未调用大模型，以下为原文关键信息摘录：BCV: Good For Diversification, But Still Impacted By Tech Worries
 
 ### 要点
-- From Cuts To Hikes: How 2026 Rewrote Bitcoin's Macro Outlook
+- BCV: Good For Diversification, But Still Impacted By Tech Worries
 
-## 33. Fast cars, big money: Why sportswear races into Formula 1 as sponsorship spending soars 75%
-- 分类: 综合资讯 / General News
-- 来源: CNBC Top News
-- 发布时间: 2026-11-27T05:38:24+0000
-- 风险等级: 低
-- 关键词: Fast, cars, big, money, Why
-- 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/27/nike-formula-1-sportswear-brands-sponsorship-adidas-puma.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The race for dominance in Formula 1 is no longer confined to the racetrack, with some of the world's biggest sportswear brands, including Nike, Adidas and Puma, vying for a piece of the action.；Sportswear sponsorship spending in F1 has surged 75% over two years and topped $200 million in 2026, according to Adam Lewis, a senior analyst at research firm Ampere Analysis.；Brands are competing for access to the sport's increasingly young and affluent fan base, while looking to capitalize on its growing influence in fashion and popular culture.
-
-### 要点
-- The race for dominance in Formula 1 is no longer confined to the racetrack, with some of the world's biggest sportswear brands, including Nike, Adidas and Puma, vying for a piece of the action.
-- Sportswear sponsorship spending in F1 has surged 75% over two years and topped $200 million in 2026, according to Adam Lewis, a senior analyst at research firm Ampere Analysis.
-- Brands are competing for access to the sport's increasingly young and affluent fan base, while looking to capitalize on its growing influence in fashion and popular culture.
-
-## 34. Is the stock market open on Black Friday?
-- 分类: 股市 / Stock Markets
-- 来源: MarketWatch
-- 发布时间: 2026-11-27T05:01:00+00:00
-- 风险等级: 低
-- 关键词: stock market, the, stock, market, open
-- 命中关注词: stock market
-- 原文链接: https://www.marketwatch.com/story/is-the-stock-market-open-on-black-friday-0a735c45?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Here’s how the day after Thanksgiving will affect trading on Wall Street
-
-### 要点
-- Here’s how the day after Thanksgiving will affect trading on Wall Street
-
-## 35. SpaceX shares jump on alternative trading platform after Musk says he will expand on Trump Account share donations
-- 分类: 股市 / Stock Markets
-- 来源: CNBC Top News
-- 发布时间: 2026-11-27T04:20:55+0000
-- 风险等级: 低
-- 关键词: stock market, SpaceX, shares, jump, alternative
-- 命中关注词: stock market
-- 原文链接: https://www.cnbc.com/2026/11/27/spacex-shares-musk-donations.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Shares of SpaceX jumped 7.47% in overnight trading on Blue Ocean ATS after CEO Elon Musk expanded his SpaceX share-donation plan for U.S.；children.；"I will be donating another share of SpaceX to all kids in America every year," Musk said in a post on X.
-
-### 要点
-- Shares of SpaceX jumped 7.47% in overnight trading on Blue Ocean ATS after CEO Elon Musk expanded his SpaceX share-donation plan for U.S.
-- children.
-- "I will be donating another share of SpaceX to all kids in America every year," Musk said in a post on X.
-
-## 36. Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’
-- 分类: 综合资讯 / General News
-- 来源: CNBC Top News
-- 发布时间: 2026-11-27T03:30:23+0000
-- 风险等级: 低
-- 关键词: Two, Italians, killed, Kuwait, drone
-- 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Two Italians have been killed after an alleged Iranian attack on Kuwait, Kuwaiti forces said Thursday.；In a post on X, Kuwait's army said the deaths followed Iranian attacks on the country, with the two Italians killed by falling missile debris.；Two others were also injured.
-
-### 要点
-- Two Italians have been killed after an alleged Iranian attack on Kuwait, Kuwaiti forces said Thursday.
-- In a post on X, Kuwait's army said the deaths followed Iranian attacks on the country, with the two Italians killed by falling missile debris.
-- Two others were also injured.
-
-## 37. China’s factories are growing profits again, but the AI boom is picking the winners
-- 分类: 大宗商品 / Commodities
-- 来源: CNBC Top News
-- 发布时间: 2026-11-27T01:38:00+0000
-- 风险等级: 中
-- 关键词: real estate, gdp, commodity, tariff, earnings
-- 命中关注词: real estate, gdp, commodity, tariff, earnings, fiscal policy
-- 原文链接: https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：China's industrial profits in October grew at their fastest pace since May, supported by an AI-driven electronics boom and higher energy prices, while consumer-facing industries squeezed by weak demand continued to be a drag.；Profits at sizeable industrial firms surged 20.1% in October from a year earlier, according to data released Friday by the National Bureau of Statistics.；For the first 10 months this year, the earnings grew 16% year on year, having risen 15.5% through September.
-
-### 要点
-- China's industrial profits in October grew at their fastest pace since May, supported by an AI-driven electronics boom and higher energy prices, while consumer-facing industries squeezed by weak demand continued to be a drag.
-- Profits at sizeable industrial firms surged 20.1% in October from a year earlier, according to data released Friday by the National Bureau of Statistics.
-- For the first 10 months this year, the earnings grew 16% year on year, having risen 15.5% through September.
-
-## 38. I hate that Jensen Huang is back at Nvidia, but I love what it’s done for my 401(k). Am I a hypocrite?
-- 分类: 综合资讯 / General News
-- 来源: MarketWatch
-- 发布时间: 2026-11-27T01:15:00+00:00
-- 风险等级: 低
-- 关键词: hate, that, Jensen, Huang, back
-- 命中关注词: 无
-- 原文链接: https://www.marketwatch.com/story/i-hate-that-jensen-huang-is-back-at-nvidia-but-i-love-what-its-done-for-my-401-k-am-i-a-hypocrite-f63c0303?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Doing nothing and maintaining an even temperament is often the work of gods.
-
-### 要点
-- Doing nothing and maintaining an even temperament is often the work of gods.
-
-## 39. I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?
-- 分类: 综合资讯 / General News
-- 来源: MarketWatch
-- 发布时间: 2026-11-27T01:00:00+00:00
-- 风险等级: 低
-- 关键词: been, married, for, years., our
-- 命中关注词: 无
-- 原文链接: https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：“My wife stopped working outside the home in 1970.”
-
-### 要点
-- “My wife stopped working outside the home in 1970.”
-
-## 40. We are living in perilous times if Nvidia CEO Jensen Huang dictates your 401(k) balance
-- 分类: 综合资讯 / General News
-- 来源: MarketWatch
-- 发布时间: 2026-11-27T00:31:00+00:00
-- 风险等级: 低
-- 关键词: are, living, perilous, times, Nvidia
-- 命中关注词: 无
-- 原文链接: https://www.marketwatch.com/story/we-are-living-in-perilous-times-if-nvidias-jensen-huang-dictates-your-401-k-balance-e0942d1e?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?
-
-### 要点
-- Why did a futurist with Huang’s prescient vision build a company where all roads lead to him?
-
-## 41. Sovereign wealth funds are acting more like private equity giants — and inheriting their risks
-- 分类: 股市 / Stock Markets
-- 来源: CNBC Top News
-- 发布时间: 2026-11-27T00:22:29+0000
-- 风险等级: 中
-- 关键词: Sovereign, wealth, funds, are, acting
-- 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/27/swf-private-equity-risks.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：For decades, sovereign wealth funds were among private equity's most deep-pocketed backers, entrusting billions of dollars to buyout firms to invest on their behalf.；Increasingly, they are doing the dealmaking themselves.；From originating transactions and taking controlling stakes in companies to building their own investment platforms, some of the world's largest state investors are adopting the playbook of traditional private equity giants, according to industry veterans.
-
-### 要点
-- For decades, sovereign wealth funds were among private equity's most deep-pocketed backers, entrusting billions of dollars to buyout firms to invest on their behalf.
-- Increasingly, they are doing the dealmaking themselves.
-- From originating transactions and taking controlling stakes in companies to building their own investment platforms, some of the world's largest state investors are adopting the playbook of traditional private equity giants, according to industry veterans.
-
-## 42. 美国三季度GDP上修遭特朗普炮轰：是人为失误，还是统计局限？
+## 28. Energy Prices Cooled But Core Inflation Stayed Hot
 - 分类: 宏观经济 / Macroeconomics
-- 来源: 第一财经
-- 发布时间: 2026-11-27
-- 风险等级: 中
-- 关键词: gdp, cpi, GDP, 第一财经
-- 命中关注词: gdp, cpi
-- 原文链接: https://www.yicai.com/news/103457765.html
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T04:25:00+00:00
+- 风险等级: 低
+- 关键词: inflation, Energy, Prices, Cooled, But
+- 命中关注词: inflation
+- 原文链接: https://seekingalpha.com/article/4972689-energy-prices-cooled-core-inflation-stayed-hot?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 当地时间11月26日，美国总统特朗普在社交平台真实社交上连续发文，批评美国商务部下属的经济分析局（BEA）前一日发布的第三季度实际GDP修正数据为“创纪录的巨大失误”。；按照美国官方统计惯例，单季GDP数据通常会依次发布初值、二次估计和终值三次估算。此次第三季度GDP初值于10月29日发布，年化增速为3.4%；二次估计于11月25日公布，上修至4.3%，前两次估值之间相差0.9个百分点。；特朗普对这一差值表达了强烈不满，并将其与此前的美国中期选举结果直接挂钩。他在帖文中称，要向那些在选举前夕发布虚假经济数据的人致以感恩节问候，随后进一步质问“为什么正确的数字没有在选举前发布”“这不是一个小失误，而是一个巨大的、蓄意的错误”。特朗普要求立即对此展开调查。
+未调用大模型，以下为原文关键信息摘录：Energy Prices Cooled But Core Inflation Stayed Hot
 
 ### 要点
-- {{aisd}} AI生成 免责声明 当地时间11月26日，美国总统特朗普在社交平台真实社交上连续发文，批评美国商务部下属的经济分析局（BEA）前一日发布的第三季度实际GDP修正数据为“创纪录的巨大失误”。
-- 按照美国官方统计惯例，单季GDP数据通常会依次发布初值、二次估计和终值三次估算。此次第三季度GDP初值于10月29日发布，年化增速为3.4%；二次估计于11月25日公布，上修至4.3%，前两次估值之间相差0.9个百分点。
-- 特朗普对这一差值表达了强烈不满，并将其与此前的美国中期选举结果直接挂钩。他在帖文中称，要向那些在选举前夕发布虚假经济数据的人致以感恩节问候，随后进一步质问“为什么正确的数字没有在选举前发布”“这不是一个小失误，而是一个巨大的、蓄意的错误”。特朗普要求立即对此展开调查。
+- Energy Prices Cooled But Core Inflation Stayed Hot
 
-## 43. 现货黄金大涨3%
-- 分类: 大宗商品 / Commodities
-- 来源: 第一财经
-- 发布时间: 2026-11-27
-- 风险等级: 中
-- 关键词: 黄金, cpi, 第一财经
-- 命中关注词: 黄金, cpi
-- 原文链接: https://www.yicai.com/news/103457885.html
+## 29. TIP: Simple, Effective TIPs ETF, But Better Choices Out There
+- 分类: 基金与理财 / Funds & Wealth Management
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T04:20:49+00:00
+- 风险等级: 低
+- 关键词: TIP, Simple, Effective, TIPs, ETF
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972685-tip-simple-effective-tips-etf-but-better-choices-out-there?source=feed_all_articles
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 四季度存储价格涨幅收窄，资本市场对AI投资前景存在分歧，加上业绩预期提前消化，因此令三星电子的股价出现波动。；今年第三季度，全球存储芯片价格涨幅、三星电子业绩涨幅均比第二季度收窄。；5月十大牛股中涨幅最大的为长盈通。
+未调用大模型，以下为原文关键信息摘录：TIP: Simple, Effective TIPs ETF, But Better Choices Out There
 
 ### 要点
-- {{aisd}} AI生成 免责声明 四季度存储价格涨幅收窄，资本市场对AI投资前景存在分歧，加上业绩预期提前消化，因此令三星电子的股价出现波动。
-- 今年第三季度，全球存储芯片价格涨幅、三星电子业绩涨幅均比第二季度收窄。
-- 5月十大牛股中涨幅最大的为长盈通。
+- TIP: Simple, Effective TIPs ETF, But Better Choices Out There
 
-## 44. I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?
+## 30. Quadrise Plc (QDRSF) Shareholder/Analyst Call Transcript
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T03:41:16+00:00
+- 风险等级: 低
+- 关键词: Quadrise, Plc, QDRSF, Shareholder, Analyst
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972666-quadrise-plc-qdrsf-shareholder-analyst-call-transcript?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Quadrise Plc (QDRSF) Shareholder/Analyst Call Transcript
+
+### 要点
+- Quadrise Plc (QDRSF) Shareholder/Analyst Call Transcript
+
+## 31. Short-Term Energy Outlook, November 2026
+- 分类: 能源与资源 / Energy & Resources
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T03:40:00+00:00
+- 风险等级: 低
+- 关键词: Short-Term, Energy, Outlook, November, 2026
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972687-short-term-energy-outlook-november-2026?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Short-Term Energy Outlook, November 2026
+
+### 要点
+- Short-Term Energy Outlook, November 2026
+
+## 32. Julius Baer: Out Of The Penalty Box And Flush With Capital (Upgrade)
+- 分类: 综合资讯 / General News
+- 来源: Seeking Alpha
+- 发布时间: 2026-11-28T03:22:03+00:00
+- 风险等级: 低
+- 关键词: Julius, Baer, Out, The, Penalty
+- 命中关注词: 无
+- 原文链接: https://seekingalpha.com/article/4972681-julius-baer-out-of-the-penalty-box-and-flush-with-capital-upgrade?source=feed_all_articles
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Julius Baer: Out Of The Penalty Box And Flush With Capital (Upgrade)
+
+### 要点
+- Julius Baer: Out Of The Penalty Box And Flush With Capital (Upgrade)
+
+## 33. I’m in my 70s and buying a new BMW X1. Should I put my only son on the title?
 - 分类: 综合资讯 / General News
 - 来源: MarketWatch
-- 发布时间: 2026-11-26T21:45:00+00:00
+- 发布时间: 2026-11-28T00:00:00+00:00
 - 风险等级: 低
-- 关键词: terrified, market, crash., Should, put
+- 关键词: 70s, and, buying, new, BMW
 - 命中关注词: 无
-- 原文链接: https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories
+- 原文链接: https://www.marketwatch.com/story/im-in-my-70s-and-buying-a-new-bmw-x1-should-i-put-my-only-son-on-the-title-25731040?mod=mw_rss_topstories
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：“We have a house worth $450,000.；Our combined annual income is $125,000.”
+未调用大模型，以下为原文关键信息摘录：“Given my age, I never make a major new purchase without thinking about the future.”
 
 ### 要点
-- “We have a house worth $450,000.
-- Our combined annual income is $125,000.”
+- “Given my age, I never make a major new purchase without thinking about the future.”
 
-## 45. A 66-year-old nurse is facing down retirement with just $500 saved. Who’s to blame?
-- 分类: 综合资讯 / General News
-- 来源: MarketWatch
-- 发布时间: 2026-11-26T19:00:00+00:00
-- 风险等级: 低
-- 关键词: 66-year-old, nurse, facing, down, retirement
-- 命中关注词: 无
-- 原文链接: https://www.marketwatch.com/story/a-66-year-old-nurse-faces-retirement-with-just-500-saved-whos-to-blame-4249a0fd?mod=mw_rss_topstories
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：“Retirement is a financial status, not an age.”
-
-### 要点
-- “Retirement is a financial status, not an age.”
-
-## 46. Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher
-- 分类: 宏观经济 / Macroeconomics
-- 来源: CNBC Top News
-- 发布时间: 2026-11-26T17:57:32+0000
-- 风险等级: 低
-- 关键词: gdp, fed, monetary policy, Trump, demands
-- 命中关注词: gdp, fed, monetary policy
-- 原文链接: https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：President Donald Trump on Thursday falsely deemed the latest gross domestic product revision a mistake, claiming that it should be "immediately investigated." Data released Wednesday from the Commerce Department revealed that the U.S.；economy exhibited much stronger growth for the third quarter than initially estimated, showing that real GDP grew at a 4.3% annualized rate.；That was revised upward from the department's advance estimate of 3.4%.
-
-### 要点
-- President Donald Trump on Thursday falsely deemed the latest gross domestic product revision a mistake, claiming that it should be "immediately investigated." Data released Wednesday from the Commerce Department revealed that the U.S.
-- economy exhibited much stronger growth for the third quarter than initially estimated, showing that real GDP grew at a 4.3% annualized rate.
-- That was revised upward from the department's advance estimate of 3.4%.
-
-## 47. Spain’s Pablo Hernández de Cos set to lead European Central Bank
-- 分类: 宏观经济 / Macroeconomics
-- 来源: CNBC Top News
-- 发布时间: 2026-11-26T14:20:44+0000
-- 风险等级: 中
-- 关键词: central bank, inflation, gdp, monetary policy, Spain
-- 命中关注词: central bank, inflation, gdp, monetary policy
-- 原文链接: https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Pablo Hernández de Cos is set to succeed Christine Lagarde as president of the European Central Bank next year.；He received backing from euro zone leaders at the European Council Summit on Thursday.；The role still requires formal appointment after consultation with the European Parliament and the ECB's Governing Council, but neither has veto power and the decision follows intense political wrangling to reach a consensus on who should serve the eight-year term.
-
-### 要点
-- Pablo Hernández de Cos is set to succeed Christine Lagarde as president of the European Central Bank next year.
-- He received backing from euro zone leaders at the European Council Summit on Thursday.
-- The role still requires formal appointment after consultation with the European Parliament and the ECB's Governing Council, but neither has veto power and the decision follows intense political wrangling to reach a consensus on who should serve the eight-year term.
-
-## 48. Semiconductor chips are the new oil. Here's why
-- 分类: 大宗商品 / Commodities
-- 来源: CNBC Top News
-- 发布时间: 2026-11-26T13:19:25+0000
-- 风险等级: 中
-- 关键词: commodity, earnings, Semiconductor, chips, are
-- 命中关注词: commodity, earnings
-- 原文链接: https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：The artificial intelligence boom has pushed semiconductors past oil and gas in global export value for the first time, according to a Deutsche Bank analysis of International Trade Centre data.；Yet the milestone arrives at an awkward moment, just as investors reassess the outlook for artificial intelligence spending and drive down the price of semiconductor stocks.；Last week, before Monday's breathtaking reversal, semiconductor stocks suffered their worst weekly loss in a quarter century, with the PHLX Semiconductor Index (SOX) plunging nearly 11% last Friday alone, capping a more than 17% weekly decline.
-
-### 要点
-- The artificial intelligence boom has pushed semiconductors past oil and gas in global export value for the first time, according to a Deutsche Bank analysis of International Trade Centre data.
-- Yet the milestone arrives at an awkward moment, just as investors reassess the outlook for artificial intelligence spending and drive down the price of semiconductor stocks.
-- Last week, before Monday's breathtaking reversal, semiconductor stocks suffered their worst weekly loss in a quarter century, with the PHLX Semiconductor Index (SOX) plunging nearly 11% last Friday alone, capping a more than 17% weekly decline.
-
-## 49. Microdrama apps chase profits as Hollywood moves into short-form, vertical video
-- 分类: 综合资讯 / General News
-- 来源: CNBC Top News
-- 发布时间: 2026-11-26T12:00:01+0000
-- 风险等级: 中
-- 关键词: Microdrama, apps, chase, profits, Hollywood
-- 命中关注词: 无
-- 原文链接: https://www.cnbc.com/2026/11/26/micro-drama-apps-hollywood-vertical-video.html
-- 摘要来源: 回退逻辑
-
-### 摘要
-未调用大模型，以下为原文关键信息摘录：Bogdan Nesvit says his mission is simple: "We are essentially building Disney for the 21st century." Nesvit is the co-founder of microseries app My Drama, built around the latest, bite-sized form of storytelling.；Short, serialized "microdrama" videos are created specifically for mobile devices and have generated billions of views this year.；They often feature romantic tropes and typically end in cliffhangers to keep viewers hooked.
-
-### 要点
-- Bogdan Nesvit says his mission is simple: "We are essentially building Disney for the 21st century." Nesvit is the co-founder of microseries app My Drama, built around the latest, bite-sized form of storytelling.
-- Short, serialized "microdrama" videos are created specifically for mobile devices and have generated billions of views this year.
-- They often feature romantic tropes and typically end in cliffhangers to keep viewers hooked.
-
-## 50. 特朗普政府再挥舞301关税大棒，欧盟高官驳斥“荒谬”，亚洲贸易伙伴纷纷反驳回击
+## 34. 加拿大首份林业战略将美国关税列为关键挑战
 - 分类: 国际财经 / International Finance
 - 来源: 第一财经
-- 发布时间: 2026-11-26
+- 发布时间: 2026-11-28
 - 风险等级: 中
-- 关键词: 关税, 301, 第一财经
+- 关键词: 关税, 第一财经
 - 命中关注词: 关税
-- 原文链接: https://www.yicai.com/news/103455916.html
+- 原文链接: https://www.yicai.com/news/103458559.html
 - 摘要来源: 回退逻辑
 
 ### 摘要
-未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 美东时间11月25日，美国贸易代表办公室（USTR）宣布“产能过剩”301调查结果，发布拟议措施，提出对14个经济体加征301关税。；中国商务部新闻发言人何亚东在26日的例行发布会上表示，美方301调查是典型的单边主义行为，严重破坏国际经济秩序，严重违反世贸组织规则，中方对此坚决反对。；26日，欧盟委员会副首席发言人吉尔（Olof Gill）在一份声明中表示：“我们将研究这些调查结果。与此同时，我们坚决反对‘欧洲是结构性产能过剩根源’这一前提。” 欧洲议会贸易委员会主席朗格（Bernd Lange）则称特朗普政府的调查结果“荒谬”，并指责特朗普此举是在规避美国最高法院今年早些时候做出的裁决，该推翻了特朗普此前实施的广泛关税措施。
+未调用大模型，以下为原文关键信息摘录：{{aisd}} AI生成 免责声明 据央视新闻，加拿大能源与自然资源部长蒂姆·霍奇森27日宣布，该国发布首份联邦林业战略。该战略将美国关税列为关键挑战。据加能源与自然资源部发布的公报，该战略旨在通过投资、合作与创新推动林业转型。具体举措包括：联邦政府承诺在6年内投入20亿加元（约合14亿美元），帮助林业企业实现现代化、提高生产率并拓展新产品生产；在6年内拨款40亿加元设立“林业加速器”项目，用于投资新建大型设施及现有设施的重大改造，以加快发展先进林产品与技术。公报指出，当前加拿大林业面临的一大关键挑战是美国不合理的关税措施。美方关税持续给行业带来不确定性，推高加拿大生产商成本，并削弱加方产品在美国市场的竞争力。；一图看懂>> 张家栋表示，主要信号是，加拿大正在改变以往过度依赖单一美国市场的格局，试图通过多元化配置来提升外交互动与经济抵御风险的能力。；高负荷的数据中心必须自行承担其所需系统升级的全部成本，而不应由普通家庭或小企业来买单。
 
 ### 要点
-- {{aisd}} AI生成 免责声明 美东时间11月25日，美国贸易代表办公室（USTR）宣布“产能过剩”301调查结果，发布拟议措施，提出对14个经济体加征301关税。
-- 中国商务部新闻发言人何亚东在26日的例行发布会上表示，美方301调查是典型的单边主义行为，严重破坏国际经济秩序，严重违反世贸组织规则，中方对此坚决反对。
-- 26日，欧盟委员会副首席发言人吉尔（Olof Gill）在一份声明中表示：“我们将研究这些调查结果。与此同时，我们坚决反对‘欧洲是结构性产能过剩根源’这一前提。” 欧洲议会贸易委员会主席朗格（Bernd Lange）则称特朗普政府的调查结果“荒谬”，并指责特朗普此举是在规避美国最高法院今年早些时候做出的裁决，该推翻了特朗普此前实施的广泛关税措施。
+- {{aisd}} AI生成 免责声明 据央视新闻，加拿大能源与自然资源部长蒂姆·霍奇森27日宣布，该国发布首份联邦林业战略。该战略将美国关税列为关键挑战。据加能源与自然资源部发布的公报，该战略旨在通过投资、合作与创新推动林业转型。具体举措包括：联邦政府承诺在6年内投入20亿加元（约合14亿美元），帮助林业企业实现现代化、提高生产率并拓展新产品生产；在6年内拨款40亿加元设立“林业加速器”项目，用于投资新建大型设施及现有设施的重大改造，以加快发展先进林产品与技术。公报指出，当前加拿大林业面临的一大关键挑战是美国不合理的关税措施。美方关税持续给行业带来不确定性，推高加拿大生产商成本，并削弱加方产品在美国市场的竞争力。
+- 一图看懂>> 张家栋表示，主要信号是，加拿大正在改变以往过度依赖单一美国市场的格局，试图通过多元化配置来提升外交互动与经济抵御风险的能力。
+- 高负荷的数据中心必须自行承担其所需系统升级的全部成本，而不应由普通家庭或小企业来买单。
+
+## 35. Clearing out my parents’ house was a legal nightmare. How can I downsize without putting my kids through the same ordeal?
+- 分类: 综合资讯 / General News
+- 来源: MarketWatch
+- 发布时间: 2026-11-27T23:15:00+00:00
+- 风险等级: 低
+- 关键词: Clearing, out, parents, house, was
+- 命中关注词: 无
+- 原文链接: https://www.marketwatch.com/story/clearing-out-my-parents-house-was-a-legal-nightmare-how-can-i-downsize-without-putting-my-children-through-the-same-ordeal-6537d804?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.
+
+### 要点
+- Some countercultural advice this Black Friday: stop buying stuff, plus other rules for downsizing.
+
+## 36. These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia
+- 分类: 股市 / Stock Markets
+- 来源: MarketWatch
+- 发布时间: 2026-11-27T20:16:00+00:00
+- 风险等级: 低
+- 关键词: These, stocks, soared, the, most
+- 命中关注词: 无
+- 原文链接: https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.
+
+### 要点
+- Nvidia’s stock soared this week, but was still down nearly 28% for November and 21% for 2026.
+
+## 37. Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest
+- 分类: 综合资讯 / General News
+- 来源: MarketWatch
+- 发布时间: 2026-11-27T19:55:00.000Z
+- 风险等级: 低
+- 关键词: Coming, next, year, Medicare, Advantage
+- 命中关注词: 无
+- 原文链接: https://www.marketwatch.com/story/coming-next-year-medicare-advantage-plans-without-drug-coverage-for-almost-640-000-people-and-fewer-choices-for-the-rest-25242d69?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Fix My Portfolio Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest Medicare Advantage is starting to lose its all-in-one benefit Prescription drugs have always been a standard offering of Medicare Advantage plans, but not anymore.；During this open enrollment season for 2027, when 70 million Medicare enrollees should be shopping for next year’s coverage, many will find out that their plans are dropping Part D drug coverage as part of their bundled services.；For 2027, beneficiaries in 193 counties will have no Medicare Advantage plans with Part D coverage available, KFF found.
+
+### 要点
+- Fix My Portfolio Coming next year: Medicare Advantage plans without drug coverage for almost 640,000 people and fewer choices for the rest Medicare Advantage is starting to lose its all-in-one benefit Prescription drugs have always been a standard offering of Medicare Advantage plans, but not anymore.
+- During this open enrollment season for 2027, when 70 million Medicare enrollees should be shopping for next year’s coverage, many will find out that their plans are dropping Part D drug coverage as part of their bundled services.
+- For 2027, beneficiaries in 193 counties will have no Medicare Advantage plans with Part D coverage available, KFF found.
+
+## 38. Jensen Huang's return did little to ease AI jitters. We used the weakness to buy
+- 分类: 股市 / Stock Markets
+- 来源: CNBC Top News
+- 发布时间: 2026-11-27T18:46:20+0000
+- 风险等级: 中
+- 关键词: fed, federal reserve, inflation, nasdaq, dow jones
+- 命中关注词: fed, federal reserve, inflation, nasdaq, dow jones, ipo, earnings
+- 原文链接: https://www.cnbc.com/investingclub/2026/11/27/jensen-huangs-return-did-little-to-ease-ai-jitters-we-bought-on-weakness.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Stocks advanced over the holiday-shortened trading week, but it was far from smooth sailing.；The tech-heavy Nasdaq Composite advanced 6.6% for the week, while the S & P 500 gained 5.6% and the Dow Jones Industrial Average rose 5.5%.；The gains were driven by Monday's surge, when the Nasdaq and S & P 500 posted their best sessions since April 2025 — up 6.35% and 4.73% , respectively — after Jensen Huang's return as Nvidia CEO.
+
+### 要点
+- Stocks advanced over the holiday-shortened trading week, but it was far from smooth sailing.
+- The tech-heavy Nasdaq Composite advanced 6.6% for the week, while the S & P 500 gained 5.6% and the Dow Jones Industrial Average rose 5.5%.
+- The gains were driven by Monday's surge, when the Nasdaq and S & P 500 posted their best sessions since April 2025 — up 6.35% and 4.73% , respectively — after Jensen Huang's return as Nvidia CEO.
+
+## 39. The warnings behind this week’s stock-market rally
+- 分类: 股市 / Stock Markets
+- 来源: MarketWatch
+- 发布时间: 2026-11-27T18:40:00+00:00
+- 风险等级: 低
+- 关键词: The, warnings, behind, this, week
+- 命中关注词: 无
+- 原文链接: https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.
+
+### 要点
+- Also in Weekend Reads: Important tips for Medicare enrollment, how to spot online shopping scams and marital advice from The Moneyist.
+
+## 40. 12 days of sardines and Croc charms: Are Advent calendars getting out of control?
+- 分类: 综合资讯 / General News
+- 来源: MarketWatch
+- 发布时间: 2026-11-27T17:04:00+00:00
+- 风险等级: 低
+- 关键词: days, sardines, and, Croc, charms
+- 命中关注词: 无
+- 原文链接: https://www.marketwatch.com/story/12-days-of-sardines-and-croc-charms-are-advent-calendars-getting-out-of-control-81f24548?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales.；Here’s why.
+
+### 要点
+- Luxury Advent calendars in particular — which can run hundreds of dollars — have seen a spike in sales.
+- Here’s why.
+
+## 41. 'The Traitors' ended with a $246,300 prize—here's who won and what they told us about spending it
+- 分类: 综合资讯 / General News
+- 来源: CNBC Top News
+- 发布时间: 2026-11-27T15:49:29+0000
+- 风险等级: 低
+- 关键词: The, Traitors, ended, with, 246
+- 命中关注词: 无
+- 原文链接: https://www.cnbc.com/make-it/2026/11/27/the-traitors-ends-with-246300-prize-heres-how-much-goes-to-taxes.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：When Shane Beatty, a contestant on NBC's "The Traitors: New Blood," deceived his fellow finalists, he walked away with the entire $246,300 prize.；But the emotional toll of winning caught him by surprise.；"The second I had to reveal that I was a Traitor, everything hit me at once," Beatty, a 32-year-old ironworker from Staten Island, New York, tells CNBC Make It.
+
+### 要点
+- When Shane Beatty, a contestant on NBC's "The Traitors: New Blood," deceived his fellow finalists, he walked away with the entire $246,300 prize.
+- But the emotional toll of winning caught him by surprise.
+- "The second I had to reveal that I was a Traitor, everything hit me at once," Beatty, a 32-year-old ironworker from Staten Island, New York, tells CNBC Make It.
+
+## 42. My husband secretly sends his ex-wife $1,500 a month after she lost her job. We have $2.4 million saved. Has he lied by omission?
+- 分类: 综合资讯 / General News
+- 来源: MarketWatch
+- 发布时间: 2026-11-27T15:30:00+00:00
+- 风险等级: 低
+- 关键词: husband, secretly, sends, his, ex-wife
+- 命中关注词: 无
+- 原文链接: https://www.marketwatch.com/story/my-husband-secretly-sends-his-ex-wife-1-500-a-month-after-she-lost-her-job-we-have-2-4-million-saved-has-he-lied-by-omission-ede1972a?mod=mw_rss_topstories
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：“He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”
+
+### 要点
+- “He explained that he wasn’t trying to hide the payment, but his former wife lost her job in a medical billing company.”
+
+## 43. EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts
+- 分类: 宏观经济 / Macroeconomics
+- 来源: CNBC Top News
+- 发布时间: 2026-11-27T14:12:55+0000
+- 风险等级: 低
+- 关键词: inflation, leaders, fail, break, 1.7
+- 命中关注词: inflation
+- 原文链接: https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：European leaders failed to break a deadlock over the EU's next long-term budget on Thursday, leaving negotiators under pressure to meet their year-end target before a busy 2027 election cycle adds further complications.；National leaders are divided over the European Union's next long-term budget, which sets spending priorities and limits from 2028 to 2034.；It requires unanimous approval from all 27 member states to pass, as well as a majority vote in favor from members of the European Parliament.
+
+### 要点
+- European leaders failed to break a deadlock over the EU's next long-term budget on Thursday, leaving negotiators under pressure to meet their year-end target before a busy 2027 election cycle adds further complications.
+- National leaders are divided over the European Union's next long-term budget, which sets spending priorities and limits from 2028 to 2034.
+- It requires unanimous approval from all 27 member states to pass, as well as a majority vote in favor from members of the European Parliament.
+
+## 44. Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding
+- 分类: 综合资讯 / General News
+- 来源: CNBC Top News
+- 发布时间: 2026-11-27T13:27:40+0000
+- 风险等级: 低
+- 关键词: Budget, airline, Norse, Atlantic, files
+- 命中关注词: 无
+- 原文链接: https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations throughout the year.；Its parent company, Norse Atlantic ASA, concluded that the Norwegian carrier no longer has a basis to continue operations.；"Despite extensive efforts, the Company has so far not been able to secure sufficient funding to meet its short-term liquidity needs," the firm said in a statement Friday.
+
+### 要点
+- Budget carrier Norse Atlantic filed for bankruptcy Friday, saying it failed to secure funding after soaring fuel costs strained the company's operations throughout the year.
+- Its parent company, Norse Atlantic ASA, concluded that the Norwegian carrier no longer has a basis to continue operations.
+- "Despite extensive efforts, the Company has so far not been able to secure sufficient funding to meet its short-term liquidity needs," the firm said in a statement Friday.
+
+## 45. It’s not just you: Durable goods are getting less reliable, from sputtering cars to glitching smart TVs
+- 分类: 宏观经济 / Macroeconomics
+- 来源: CNBC Top News
+- 发布时间: 2026-11-27T13:05:02+0000
+- 风险等级: 中
+- 关键词: inflation, not, just, you, Durable
+- 命中关注词: inflation
+- 原文链接: https://www.cnbc.com/make-it/2026/11/27/durable-goods-reliability-cars-appliances-tvs.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录："They just don't make things like they used to." The phrase, formerly exclusive to grandparents, is now used by consumers of all ages.；Across the United States, durable goods like cars, appliances and electronics are becoming less reliable.；In the automobile industry, owners of 3-year-old models reported an average of 204 problems per 100 vehicles as of Feb.
+
+### 要点
+- "They just don't make things like they used to." The phrase, formerly exclusive to grandparents, is now used by consumers of all ages.
+- Across the United States, durable goods like cars, appliances and electronics are becoming less reliable.
+- In the automobile industry, owners of 3-year-old models reported an average of 204 problems per 100 vehicles as of Feb.
+
+## 46. The S&P 500 is in a correction. Bear markets and recessions don't always follow
+- 分类: 股市 / Stock Markets
+- 来源: CNBC Top News
+- 发布时间: 2026-11-27T12:06:17+0000
+- 风险等级: 高
+- 关键词: s&p 500, recession, fed, federal reserve, interest rate
+- 命中关注词: s&p 500, recession, fed, federal reserve, interest rate, tariff, central bank
+- 原文链接: https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：The S&P 500 fell into a correction on Nov.；20 for the first time since April 2025 as stocks pulled back sharply from October's record highs.；The market correction, defined as a 10% decline from a recent high, came as investor concern mounted over a potential slowdown in AI spending, mega-cap tech valuations and the path of Federal Reserve interest rate policy.
+
+### 要点
+- The S&P 500 fell into a correction on Nov.
+- 20 for the first time since April 2025 as stocks pulled back sharply from October's record highs.
+- The market correction, defined as a 10% decline from a recent high, came as investor concern mounted over a potential slowdown in AI spending, mega-cap tech valuations and the path of Federal Reserve interest rate policy.
+
+## 47. Inflation has shoppers hunting for value. That bodes well for Black Friday
+- 分类: 宏观经济 / Macroeconomics
+- 来源: CNBC Top News
+- 发布时间: 2026-11-27T11:00:01+0000
+- 风险等级: 中
+- 关键词: inflation, earnings, Inflation, has, shoppers
+- 命中关注词: inflation, earnings
+- 原文链接: https://www.cnbc.com/2026/11/27/black-friday-2026-inflation-value-deals.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Economic headwinds have made consumers more cautious — but new data and reports from retailers are painting a picture of robust holiday spending through Black Friday and beyond.；The macroeconomic environment has squeezed wallets.；High inflation, fluctuating gas prices and labor uncertainty have dampened consumer sentiment and contributed to a pullback in spending.
+
+### 要点
+- Economic headwinds have made consumers more cautious — but new data and reports from retailers are painting a picture of robust holiday spending through Black Friday and beyond.
+- The macroeconomic environment has squeezed wallets.
+- High inflation, fluctuating gas prices and labor uncertainty have dampened consumer sentiment and contributed to a pullback in spending.
+
+## 48. Latin America has the copper and energy the AI build-out needs. Infrastructure is the test
+- 分类: 大宗商品 / Commodities
+- 来源: CNBC Top News
+- 发布时间: 2026-11-26T08:59:11+0000
+- 风险等级: 低
+- 关键词: fiscal policy, inflation, crude oil, central bank, Latin
+- 命中关注词: fiscal policy, inflation, crude oil, central bank
+- 原文链接: https://www.cnbc.com/2026/11/26/latin-america-copper-energy-ai-investment.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：Latin America’s copper, energy and mineral resources could play a growing role in supplying the global artificial-intelligence build-out, as data centers and electrification drive demand for power and raw materials.；But for investors, it's less about whether Latin America has the resources than whether governments can turn them into viable projects.；"We are going through an acceleration in energy demand growth.
+
+### 要点
+- Latin America’s copper, energy and mineral resources could play a growing role in supplying the global artificial-intelligence build-out, as data centers and electrification drive demand for power and raw materials.
+- But for investors, it's less about whether Latin America has the resources than whether governments can turn them into viable projects.
+- "We are going through an acceleration in energy demand growth.
+
+## 49. 利率重估下，黄金的呈现叙事改变了吗？ | 一财号每周思想荟(第31期）
+- 分类: 大宗商品 / Commodities
+- 来源: 第一财经
+- 发布时间: 2026-11-06
+- 风险等级: 中
+- 关键词: 黄金, 美联储, 加息, 央行, 第一财经
+- 命中关注词: 黄金, 美联储, 加息, 央行
+- 原文链接: https://www.yicai.com/news/103456885.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：市场点金 这一轮金银走弱，本质不是避险逻辑失效，而是利率定价占据绝对主导。黄金不产生利息，当美债长端收益率持续维持在5%上方，持有黄金的机会成本会持续抬升，资金自然会从贵金属流向无风险美债。；简单来说，只要市场持续定价美联储还有加息动作、高利率延续，金银的反弹，更适合定义为反弹，而不是趋势反转。；现阶段贵金属的格局很清晰：地缘只是次要变量，利率才是行情主引擎。短期美联储鹰派基调不变、美债收益率高位运行，金银弱势很难扭转。投行给出的远期高价，建立在利率拐点、债务风险发酵的远期假设之上，不能直接当作当下抄底的依据。
+
+### 要点
+- 市场点金 这一轮金银走弱，本质不是避险逻辑失效，而是利率定价占据绝对主导。黄金不产生利息，当美债长端收益率持续维持在5%上方，持有黄金的机会成本会持续抬升，资金自然会从贵金属流向无风险美债。
+- 简单来说，只要市场持续定价美联储还有加息动作、高利率延续，金银的反弹，更适合定义为反弹，而不是趋势反转。
+- 现阶段贵金属的格局很清晰：地缘只是次要变量，利率才是行情主引擎。短期美联储鹰派基调不变、美债收益率高位运行，金银弱势很难扭转。投行给出的远期高价，建立在利率拐点、债务风险发酵的远期假设之上，不能直接当作当下抄底的依据。
+
+## 50. 全球股市情绪改善金银大涨 市场认为黄金进入超卖区域
+- 分类: 股市 / Stock Markets
+- 来源: 第一财经
+- 发布时间: 2026-08-01
+- 风险等级: 低
+- 关键词: 黄金, 第一财经
+- 命中关注词: 黄金
+- 原文链接: https://www.yicai.com/news/103458589.html
+- 摘要来源: 回退逻辑
+
+### 摘要
+未调用大模型，以下为原文关键信息摘录：粤开证券首席经济学家罗志恒：产业趋势未发生明显变化，A股有望重拾涨势｜首席看市 “牛市并不意味着股价单边上涨，市场全力奔跑后需要休整，并为下一轮上涨积蓄能量。”
+
+### 要点
+- 粤开证券首席经济学家罗志恒：产业趋势未发生明显变化，A股有望重拾涨势｜首席看市 “牛市并不意味着股价单边上涨，市场全力奔跑后需要休整，并为下一轮上涨积蓄能量。”
